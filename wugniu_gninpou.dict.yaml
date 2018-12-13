@@ -4972,6 +4972,7 @@ k	khe1
 擅	zoe6
 鄯	zoe6
 嬗	zoe6
+旋	zoe6	5%
 鏇	zoe6
 舟	cieu1
 侜	cieu1
@@ -11954,7 +11955,7 @@ k	khe1
 爛泥菩薩	na gni bu saq
 天裏菩薩
 瘟孫
-瘟生
+瘟生	uen sen
 曲死
 阿曲死	aq chiuq shi
 牛坯
@@ -12046,9 +12047,9 @@ k	khe1
 跟屁屙蟲
 隨伯嚭	zei paq phi
 跟吃屁
-萬寶全書	vae pau dzOE syu
+萬寶全書
 燥地鴨	sau di ae
-輪轉太婆	len tsOE tha bou
+輪轉太婆	len tsoe tha bou
 橋頭三叔公
 橋頭老三
 在行三叔婆	dze ghaon sae soq bou
@@ -12580,7 +12581,7 @@ k	khe1
 大嘴巴
 大嘴脯	dou tsyu bu
 大頭頸
-癧串	liq tshOE
+癧串
 風手	fon shieu
 蛇手
 蛇手	dzo shi
@@ -12666,7 +12667,7 @@ k	khe1
 陽帽篷
 大帽	da mau
 開普帽
-鴨舌頭帽
+鴨舌頭帽	aq zhiq deu mau
 羅鬆帽
 活猻帽
 老頭帽
@@ -12707,7 +12708,7 @@ k	khe1
 絨線衫
 毛線衫
 背單	pei tae
-衛生衫
+衛生衫	wei sen sae
 司衛鐵
 領頭
 假領頭	ko lin deu
@@ -12745,7 +12746,7 @@ k	khe1
 籠褲
 短褲
 西裝短褲
-衛生褲
+衛生褲	wei sen khu
 𤖼腳褲
 㒼襠褲
 瞞襠褲
@@ -12961,8 +12962,8 @@ k	khe1
 鰨鰻
 借手箬鰨	cia shieu gnioq thaq
 順手箬鰨	zyun shieu gnioq thaq
-川烏	tshOE u
-青鱄魚	chin tsOE ng
+川烏
+青鱄魚
 叉魚
 叉扁魚
 長鱗	jian lin
@@ -13034,7 +13035,7 @@ k	khe1
 烏浪魚鯗
 鬼魚鯗
 黃鱔	waon yi
-鱔魚	zOE ng
+鱔魚
 老黃泥鰍
 豁水	huaq syu
 鰭槍
@@ -13295,7 +13296,7 @@ k	khe1
 方糕
 灰汁團
 油貼黃	yeu thaq waon
-箸夾管
+箸夾管	ji kaq kun
 麻餅
 千層餅
 和尚餅	ghou zaon pin
@@ -13469,13 +13470,13 @@ k	khe1
 木屑板
 鋸屑板
 篾牑
-磚牑	tsOE bi
+磚牑
 瓦片
 瓦爿
 瓦爿灘
 洋瓦
 龍骨
-開磚	khe tsOE
+開磚
 二五十
 斷橛
 亂石
@@ -13781,7 +13782,7 @@ k	khe1
 飯籃
 飯籃筲箕
 冷飯筲箕
-筷箸籠
+筷箸籠	khuae ji lon
 食罩
 箲帚
 天蘿箲
@@ -13879,11 +13880,11 @@ k	khe1
 竹筱絲
 橛頭
 滴子
-繃栓	pan sOE
+繃栓	pan soe
 秤花
 裏紐
 外紐
-旋鑿	zOE zoq
+旋鑿
 扳頭
 壓勿殺
 火表
@@ -13964,7 +13965,7 @@ k	khe1
 牛鼻桊	ngeu biq ciun
 牛鼻銷	ngeu biq shiau
 牛控篰
-鴨泥
+鴨泥	aq gni
 豬泥
 煝焦泥
 缸沙	kaon so
@@ -14320,7 +14321,7 @@ k	khe1
 大字	da zy
 屙蛋分	ou dae fen
 零蛋分	lin dae fen
-鴨蛋
+鴨蛋	aq dae
 向天河
 向天泅
 鄉方
@@ -14500,7 +14501,7 @@ k	khe1
 響動
 響米花
 自造廠	zhi zau chian
-轉色	tsOE saq
+轉色	tsoe saq
 丫臉犯落
 丫臉黑落
 丫臉捋落
@@ -14520,7 +14521,7 @@ k	khe1
 聽明	thiq min
 嗅嘴
 煞煞口
-噦氣勿轉	iuq chi vaq tsOE
+噦氣勿轉	iuq chi vaq tsoe
 咽酸	i soe
 打䬵
 打冷呃
@@ -14584,8 +14585,8 @@ k	khe1
 蹁倒	bi tau
 能能	nhen nhen
 大套
-彎轉	uae tsOE
-串陣	tshOE jin
+彎轉	uae tsoe
+串陣
 奔東落西
 奔來落去
 奔來倒去	pen le tau chi
@@ -14615,7 +14616,7 @@ k	khe1
 磕煞
 磕開
 翻落
-轉側	tsOE tsaq
+轉側	tsoe tsaq
 扠活
 軋開
 鬨鬧熱
@@ -14643,7 +14644,7 @@ k	khe1
 打中覺	tan tson kau
 睏熟
 調覺	diau kau
-醒覺轉	shin kau tsOE
+醒覺轉	shin kau tsoe
 睏失覺	khuen syuq kau
 做亂夢	tsou loe maon
 講夜話
@@ -14678,7 +14679,7 @@ k	khe1
 開皸
 脫力
 落肉
-還轉	wae tsOE
+還轉	wae tsoe
 勞發
 肌身熱
 發寒熱
@@ -14886,7 +14887,7 @@ k	khe1
 𤖼一字跌
 滾龍燈
 滾龍
-串馬燈	tshOE mo ten
+串馬燈
 唱書
 鬧場	nau jian
 做戲文
@@ -14980,7 +14981,7 @@ k	khe1
 翻癟
 隨鑊落
 芡漿
-轉漿	tsOE cian
+轉漿	tsoe cian
 放湯
 泡湯
 暴鹽	bau yi
@@ -15221,7 +15222,7 @@ k	khe1
 翻向
 翻大向
 倒翻	tau fae
-傾轉	chin tsOE
+傾轉	chin tsoe
 翻肚	fae tu
 翻肚肚	fae tu tu
 滯底	dzyu ti
@@ -15246,9 +15247,9 @@ k	khe1
 做大水
 做風水	tsou fon syu
 做風潮	tsou fon jiau
-魚轉側	ng tsOE tsaq
-鯉魚轉側	li ng tsOE tsaq
-鰲魚轉側	ngau ng tsOE tsaq
+魚轉側	ng tsoe tsaq
+鯉魚轉側	li ng tsoe tsaq
+鰲魚轉側	ngau ng tsoe tsaq
 燙開
 火着	hou jiaq
 有告
@@ -15355,7 +15356,7 @@ k	khe1
 怏勃勃	aon baq baq
 怏躁躁	aon tshau tshau
 怏勃幾糟	aon baq ci tsau
-心煩幾糟
+心煩幾糟	shin vae ci tsau
 惡氣倒出	oq chi tau tshyuq
 𢖺𢖺動
 𢝉𢝉動
@@ -15928,7 +15929,7 @@ k	khe1
 循規蹈矩
 循規蹈矩	jin kuei dau ciu
 循規蹈矩	zhin kuei dau ciu
-敲釘轉腳	khau tin tsOE ciaq
+敲釘轉腳	khau tin tsoe ciaq
 一釘一眼	iq tin iq ngae
 安板一樣
 安板子
@@ -15975,7 +15976,7 @@ k	khe1
 混滾帶側棱	wen kuen ta tsaq len
 混滾加側棱	wen kuen ko tsaq len
 含胡桃
-哈答糊塗
+哈答糊塗	haq taq wu du
 斷頭爛腳
 斷頭落環	doe deu loq guae
 斷頭爛腳	deu deu lae ciaq
@@ -16595,7 +16596,7 @@ k	khe1
 兜底
 和個	ghou kou
 整個	cin kou
-全個	dzOE kou
+全個	dzoe kou
 大筆頭
 篤長	toq jian
 多少	tou shiau
@@ -16630,7 +16631,7 @@ k	khe1
 本生	pen san
 否則
 否格
-勿然	vaq zOE
+勿然
 勿然	vaq gni
 藍扮
 藍扮頭
@@ -16790,7 +16791,7 @@ k	khe1
 同同
 直落
 煞扣
-生三
+生三	sen sae
 生死	san shi
 恨性命
 要煞性命
@@ -16906,7 +16907,7 @@ k	khe1
 刮刮
 結夾
 刮氣
-幾糟
+幾糟	ci tsau
 格楞敦
 的剝落
 刮斯
@@ -17100,7 +17101,7 @@ k	khe1
 䀣眼火	piq ngae hou
 䀣眼火	biq ngae hou
 鴨尿臭	aq syu chieu
-鴨屎臭
+鴨屎臭	aq sy chieu
 䟕洪洞
 乘風涼	zhin fon lian
 借肩背	cia ci pei
@@ -17175,7 +17176,7 @@ k	khe1
 一包一𢷒
 一包一折
 一直鼻頭
-一轉一回	iq tsOE iq wei
+一轉一回	iq tsoe iq wei
 一進一出
 一來一去
 一定不易	iq din paq yi
@@ -17409,7 +17410,7 @@ k	khe1
 調頭𧝴角	diau deu toq koq
 調來換去	diau le wun chi
 調來回去	diau le wei chi
-剝出鴨蛋
+剝出鴨蛋	poq tshyuq aq dae
 屙𤿏屁鬆
 孃死孃倒	gnian shi gnian tau
 孃戲孃倒	gnian shi gnian tau
