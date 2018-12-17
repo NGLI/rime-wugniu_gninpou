@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "2018.12.12"
+  version: "2018.12.17"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
@@ -84,7 +84,7 @@ speller:
     # 新派
 
     # io韻消失
-    - xform/(^|c|j|gn|kn|[csz]h)(y|i)u?o$//
+    - erase/(^|c|j|gn|kn|[csz]h)(y|i)u?o$/
     # 且采不分
     - derive/c(h)?ie$/ts$1e/
     - derive/jie$/dze/
