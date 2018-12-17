@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninyu_tsonkonmiau
   name: 吳語（鄞縣鍾公廟）
-  version: "2018.12.13"
+  version: "2018.12.17"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
@@ -74,6 +74,7 @@ speller:
     - xform/dzOE/jieu/
     - xform/^([sz])OE/$1hieu/
     - xform/\d//      # 去掉聲調
+    - erase/(^|c|j|gn|[csz]h)(y|i)u?o(\d|\b)/
 
     # 轉爲吳語協會式拼音
     #- xform/q/h/
@@ -97,8 +98,6 @@ speller:
 
     # 新派
 
-    # io韻消失
-    - xform/(^|c|j|gn|[csz]h)(y|i)u?o$//
     # 且采不分
     - derive/c(h)?ie$/ts$1e/
     - derive/jie$/dze/
@@ -175,6 +174,7 @@ translator:
     - xform/dzOE/jieu/
     - xform/^([sz])OE/$1hieu/
     - xform/4/6/
+    - erase/(^|c|j|gn|[csz]h)(y|i)u?o(\d|\b)/
 
     # 顯示吳語協會式拼音
     #- xform/q/h/
@@ -238,6 +238,7 @@ reverse_lookup:
     - xform/dzOE/jieu/
     - xform/^([sz])OE/$1hieu/
     - xform/4/6/
+    - erase/(^|c|j|gn|[csz]h)(y|i)u?o(\d|\b)/
 
     # 顯示吳語協會式拼音
     #- xform/q/h/
