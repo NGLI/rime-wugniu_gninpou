@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2018.12.13"
+version: "2018.12.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -809,7 +809,7 @@ use_preset_vocabulary: true
 帝	ti5
 締	ti5
 渧	ti5
-滴	ti5	0%
+#滴	ti5	0%
 諦	ti5
 碲	ti5
 偙	ti5
@@ -2909,7 +2909,7 @@ use_preset_vocabulary: true
 㗎	cia5
 笡	chia3
 趄	chia3
-且	chia5	5%
+且	chia5
 𢲶	chia5
 伽	jia2
 笳	jia2
@@ -5669,7 +5669,7 @@ k	khe1
 𩏣	khuei1
 傀	khuei3
 魁	khuei3
-塊	khuei3
+塊	khuei3	5%
 磈	khuei3
 塊	khuei5
 愧	khuei5
@@ -12462,8 +12462,8 @@ k	khe1
 後影
 奶酣	na he
 個子頭	kou tsy deu
-塊頭	khuei deu
-塊碼	khuei mo
+塊頭
+塊碼
 樸屍
 塑子	su tsy
 賣相	ma shian
@@ -12605,7 +12605,7 @@ k	khe1
 纏身龍	ji shin lon
 紅斑老瘡
 瘢疤
-冷飯塊	lan vae khuei
+冷飯塊
 冷飯得
 圈癬	chiu shi
 蛇皮癬
@@ -13480,7 +13480,7 @@ k	khe1
 二五十
 斷橛
 亂石
-塊石	khuei zaq
+塊石
 條石
 沙灰	so huei
 富陽灰
@@ -16087,8 +16087,8 @@ k	khe1
 燥迫廿三
 乾剝剝	kI poq poq
 溼漬漬	shiq tsaq tsaq
-溚溚滴	taq taq ti
-涾涾滴	daq daq ti
+#溚溚滴	taq taq ti
+#涾涾滴	daq daq ti
 水出爛糟
 餲𦤣幾糟	aq boq ci tsau
 餲𦤣𦤣	aq boq boq
@@ -17419,7 +17419,7 @@ k	khe1
 捼肩搭背	ou ci taq pei
 掏豆腐湯
 眼開眼閉
-眼到三塊	ngae tau sae khuei
+眼到三塊
 眼睛閉仔
 眼睛清盯
 眼睛碧綠
