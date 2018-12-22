@@ -8,7 +8,7 @@
 
 ## 文檔
 
-[rime-wugniu_gninpou wiki](https://github.com/shinzoqchiuq/rime-wugniu_gninpou/wiki)
+[rime-wugniu_gninpou Wiki](https://github.com/shinzoqchiuq/rime-wugniu_gninpou/wiki)
 
 ## 參考資料
 
