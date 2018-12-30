@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2018.12.22"
+version: "2018.12.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2722,6 +2722,7 @@ use_preset_vocabulary: true
 祂	tha1
 牠	tha1
 它	tha1
+鉈	tha1
 舑	tha3
 討	tha3	5%
 太	tha5
@@ -2733,7 +2734,6 @@ use_preset_vocabulary: true
 泰	tha5
 他	tha5
 她	tha5
-鉈	tha5
 埭	da2
 大	da6	5%
 𢪂	da6
@@ -5892,7 +5892,7 @@ k	khe1
 妥	thou3
 橢	thou3
 忒	thou5
-太	thou5
+#太	thou5
 墮	dou2
 馱	dou2
 駄	dou2
@@ -8927,8 +8927,6 @@ k	khe1
 炯	cion3
 烱	cion3
 褧	cion3
-穹	chion1
-芎	chion1
 窮	jion2
 穹	jion2
 瓊	jion2
