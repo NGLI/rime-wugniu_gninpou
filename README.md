@@ -6,7 +6,7 @@
 
 提供寧波城區及鄞縣鍾公廟（鄞縣中區，今鄞州區鍾公廟街道）兩種口音的輸入法。
 
-## 文檔
+## 幫助文檔
 
 [rime-wugniu_gninpou Wiki](https://github.com/shinzoqchiuq/rime-wugniu_gninpou/wiki)
 
