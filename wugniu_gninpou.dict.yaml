@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.01.05"
+version: "2019.01.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14648,7 +14648,7 @@ k	khe1
 做亂夢
 講夜話
 爬起
-揹夜
+背夜	pei ya
 落夜
 宿夜
 曬日頭菩	sa gniq deu bu
@@ -14957,7 +14957,7 @@ k	khe1
 打烊	tan yan
 進賬
 積落
-揹債
+背债	pei tsa
 放生	faon san
 蕩光
 貴上	ciu zaon
@@ -14989,6 +14989,7 @@ k	khe1
 出白
 做事體
 做生活	tsou san waq
+做生活	tsou san wo
 做對手
 把作
 拆短
@@ -15108,9 +15109,9 @@ k	khe1
 招怪
 做惡	tsou oq
 做惡人	tsou oq gnin
-揹耙
-揹老耙
-揹木梢
+背耙	pei bo
+背老耙	pei lau bo
+背木梢	pei moq sau
 上狗當	zaon keu taon
 上老當	zaon lau taon
 穿繃	tshOE pan
@@ -17369,7 +17370,7 @@ k	khe1
 椏賣豆腐
 挖爛腳疤
 挖壁打洞
-揹桌凳腳
+背桌凳腳	pei tsoq ten ciaq
 骨頭屁輕
 骨頭輕煞
 篤腿篤腿
