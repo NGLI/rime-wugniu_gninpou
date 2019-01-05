@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2018.12.30"
+version: "2019.01.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -109,7 +109,7 @@ use_preset_vocabulary: true
 至	tsy5
 致	tsy5
 緻	tsy5
-識	tsy5
+識	tsy5	0%
 熾	tsy5
 志	tsy5
 誌	tsy5
@@ -334,6 +334,7 @@ use_preset_vocabulary: true
 蛆	tsyu1
 趄	tsyu1
 置	tsyu1
+致	tsyu1	0%
 滋	tsyu1	0%
 猪	tsyu3
 豬	tsyu3
@@ -344,7 +345,6 @@ use_preset_vocabulary: true
 嘴	tsyu3
 丶	tsyu3
 咀	tsyu3
-詛	tsyu3
 子	tsyu3	0%
 注	tsyu5
 註	tsyu5
@@ -360,7 +360,6 @@ use_preset_vocabulary: true
 鑄	tsyu5
 制	tsyu5
 製	tsyu5
-致	tsyu5
 𦥐	tsyu5
 㨖	tsyu5
 𡟹	tsyu5
@@ -374,6 +373,7 @@ use_preset_vocabulary: true
 黐	tshyu1
 蚩	tshyu1
 嗤	tshyu1
+𠷣	tshyu1
 𡟎	tshyu1
 吹	tshyu1
 蛆	tshyu1
@@ -413,7 +413,6 @@ use_preset_vocabulary: true
 捶	dzyu2
 搥	dzyu2
 𩣷	dzyu2
-箸	dzyu2
 炷	dzyu2
 杼	dzyu4
 柱	dzyu4
@@ -427,7 +426,6 @@ use_preset_vocabulary: true
 縋	dzyu6
 槌	dzyu6
 滯	dzyu6	5%
-苧	dzyu6
 樹	dzyu6	0%
 書	syu1
 輸	syu1
@@ -684,7 +682,7 @@ use_preset_vocabulary: true
 蝒	mi2
 明	mi2	0%
 米	mi4
-咪	mi4
+咪	mi4	0%
 脒	mi4
 敉	mi4
 尾	mi4
@@ -698,7 +696,7 @@ use_preset_vocabulary: true
 勉	mi4
 鮸	mi4
 俛	mi4
-浼	mi4
+浼	mi4	0%
 絻	mi4
 眄	mi4
 湎	mi4
@@ -906,6 +904,7 @@ use_preset_vocabulary: true
 悌	di6
 䑯	di6
 踶	di6
+禘	di6
 甸	di6
 蜔	di6
 墊	di6
@@ -939,7 +938,7 @@ use_preset_vocabulary: true
 瓈	li2
 褵	li2
 罹	li2
-麗	li2
+麗	li2	1%
 驪	li2
 鸝	li2
 鱺	li2
@@ -1094,13 +1093,12 @@ use_preset_vocabulary: true
 姬	ci1
 䇫	ci1
 其	ci1	0%
-朞	ci1
-期	ci1
+朞	ci1	0%
+期	ci1	0%
 箕	ci1
 基	ci1
 𠼻	ci1
 笄	ci1
-奇	ci1
 犄	ci1
 嵇	ci1
 稽	ci1
@@ -1141,7 +1139,7 @@ use_preset_vocabulary: true
 緘	ci1	0%
 䥛	ci1
 擠	ci3
-濟	ci3
+濟	ci3	1%
 癠	ci3
 姊	ci3
 姉	ci3
@@ -1373,7 +1371,7 @@ use_preset_vocabulary: true
 頎	ji2
 圻	ji2
 蘄	ji2
-俟	ji2
+俟	ji2	1%
 潜	ji2
 潛	ji2
 𤏖	ji2
@@ -1429,7 +1427,6 @@ use_preset_vocabulary: true
 𠲹	ji6
 跽	ji6
 𢺵	ji6
-騎	ji6
 健	ji6
 泥	gni2
 尼	gni2
@@ -1596,7 +1593,7 @@ use_preset_vocabulary: true
 跣	shi3
 銑	shi3
 冼	shi3
-鮮	shi3
+鮮	shi3	5%
 尠	shi3
 尟	shi3
 蘚	shi3
@@ -1711,7 +1708,7 @@ use_preset_vocabulary: true
 迤	yi2
 蛇	yi2	0%
 匜	yi2
-兮	yi2
+兮	yi2	5%
 夷	yi2
 姨	yi2
 痍	yi2
@@ -1816,6 +1813,7 @@ use_preset_vocabulary: true
 挔	i1
 醫	i1
 瞖	i1
+翳	i1
 鷖	i1
 繄	i1
 依	i1
@@ -1867,8 +1865,6 @@ use_preset_vocabulary: true
 鐿	i5
 饐	i5
 挔	i5
-翳	i5
-瞖	i5
 裔	i5
 㵝	i5
 瘞	i5
@@ -1973,7 +1969,6 @@ use_preset_vocabulary: true
 腑	fu3
 俯	fu3
 頫	fu3
-俛	fu3
 捬	fu3
 弣	fu3
 斧	fu3
@@ -1995,7 +1990,6 @@ use_preset_vocabulary: true
 傅	fu5
 付	fu5
 咐	fu5
-仆	fu5
 戽	fu5
 𣶉	fu5
 夫	vu2	0%
@@ -2012,7 +2006,6 @@ use_preset_vocabulary: true
 亡	vu2	0%
 侮	vu2
 巫	vu2
-誣	vu2
 浮	vu2	5%
 父	vu4
 撫	vu4
@@ -2383,7 +2376,7 @@ use_preset_vocabulary: true
 鬼	ciu3
 踽	ciu3
 齲	ciu3
-枸	ciu3
+枸	ciu3	5%
 筥	ciu3
 捲	ciu3
 卷	ciu3
@@ -2422,8 +2415,6 @@ use_preset_vocabulary: true
 埍	chiu3
 圈	chiu3
 去	chiu5	5%
-桊	chiu5
-棬	chiu5
 蕖	jiu2
 磲	jiu2
 巨	jiu2
@@ -2465,7 +2456,7 @@ use_preset_vocabulary: true
 詎	jiu4
 秬	jiu4
 蚷	jiu4
-圈	jiu4
+圈	jiu4	5%
 裙	jiu4	0%
 櫃	jiu6
 倦	jiu6
@@ -2515,7 +2506,7 @@ use_preset_vocabulary: true
 軟	gniu4
 輭	gniu4
 語	gniu6
-馭	gniu6
+馭	gniu6	1%
 芋 	gniu6	5%
 靴	shiu1
 鞾	shiu1
@@ -2529,8 +2520,6 @@ use_preset_vocabulary: true
 盱	shiu1
 姁	shiu1
 𦰰	shiu1
-喧	shiu1
-諠	shiu1
 楦	shiu1
 楥	shiu1
 萱	shiu1
@@ -2907,7 +2896,7 @@ use_preset_vocabulary: true
 架	cia5	5%
 㗎	cia5
 笡	chia3
-趄	chia3
+趄	chia3	0%
 且	chia5
 𢲶	chia5
 伽	jia2
@@ -2960,8 +2949,8 @@ use_preset_vocabulary: true
 迓	ia1
 䃁	ia1
 錏	ia1
-耶	ia1
-椰	ia1
+耶	ia1	5%
+椰	ia1	5%
 雅	ia3
 亞	ia5
 婭	ia5
@@ -3115,7 +3104,7 @@ use_preset_vocabulary: true
 縚	thau1
 絛	thau1
 饕	thau1
-叨	thau1
+叨	thau1	5%
 洮	thau1
 討	thau3
 套	thau5
@@ -3160,7 +3149,7 @@ use_preset_vocabulary: true
 ⿰閙	nau6
 ⿰鬧	nau6
 踔	nau6
-淖	nau6
+淖	nau6	5%
 橈	nau6
 勞	lau2
 澇	lau2
@@ -3369,7 +3358,7 @@ use_preset_vocabulary: true
 皓	ghau4
 暠	ghau4
 悎	ghau4
-鎬	ghau4
+鎬	ghau4	0%
 鄗	ghau4
 昊	ghau4
 顥	ghau4
@@ -3537,12 +3526,6 @@ use_preset_vocabulary: true
 差	tsho5	0%
 詫	tsho5
 咤	tsho5
-茶	dzo2
-𨃓	dzo2
-遮	dzo2	0%
-搽	dzo2
-蛇	dzo2
-虵	dzo2
 查	dzo2
 査	dzo2
 碴	dzo2
@@ -3551,6 +3534,13 @@ use_preset_vocabulary: true
 𤵾	dzo2
 垞	dzo2
 茬	dzo2
+茶	dzo2
+𨃓	dzo2
+搽	dzo2
+𡨀	dzo2
+蛇	dzo2
+虵	dzo2
+遮	dzo2	0%
 社	dzo4
 槎	dzo4
 痄	dzo4
@@ -3837,10 +3827,13 @@ use_preset_vocabulary: true
 徼	ciau5
 噭	ciau5
 超	chiau1
+怊	chiau1
 悄	chiau1
 繰	chiau1
 𣖄	chiau1
 鍬	chiau1
+鍫	chiau1
+帩	chiau1
 鞘	chiau1	5%
 敲	chiau1	5%
 橇	chiau1
@@ -3890,7 +3883,7 @@ use_preset_vocabulary: true
 嬝	gniau4
 褭	gniau4
 嬲	gniau4
-尿	gniau6
+尿	gniau6	5%
 脲	gniau6
 簫	shiau1
 蕭	shiau1
@@ -3999,7 +3992,6 @@ use_preset_vocabulary: true
 窅	iau3
 窈	iau3
 鷕	iau3
-杳	iau3
 要	iau5
 瓜	kuo1
 胍	kuo1
@@ -4049,7 +4041,7 @@ use_preset_vocabulary: true
 蛙	uo1
 鼃	uo1
 蝸	uo1
-搲	uo5
+搲	uo5	5%
 家	cio1	0%
 傢	cio1	0%
 稼	cio1	0%
@@ -4132,8 +4124,7 @@ use_preset_vocabulary: true
 殆	de4
 紿	de4
 迨	de4
-逮	de6
-隶	de6
+隶	de6	0%
 㻖	de6
 靆	de6
 代	de6
@@ -4212,7 +4203,7 @@ use_preset_vocabulary: true
 衰	se1
 帥	se5
 賽	se5
-塞	se5
+塞	se5	5%
 裁	ze2
 材	ze2
 該	ke1
@@ -4309,7 +4300,6 @@ k	khe1
 瞹	e5
 僾	e5
 鑀	e5
-餲	e5
 案	e5	0%
 皆	cie1	5%
 階	cie1	5%
@@ -4490,7 +4480,7 @@ k	khe1
 賧	thae5
 痰	dae2
 談	dae2
-覃	dae2
+惔	dae2
 潭	dae2
 譚	dae2
 罈	dae2
@@ -4667,14 +4657,14 @@ k	khe1
 鑱	zae2
 𡓦	zae2
 涎	zae2
-𩻣	zae2
 僝	zae4
 劖	zae4
+𩻣	zae6
 奸	kae1
 姦	kae1
 監	kae1
 間	kae1
-鑑	kae1
+鑑	kae1	1%
 階	kae1	0%
 堦	kae1	0%
 减	kae3
@@ -4752,6 +4742,8 @@ k	khe1
 陷	ghae6
 揞	ghae6	5%
 鴨	ae3
+𩿼	ae3
+𪀌	ae3
 晏	ae5
 揞	ae5	5%
 關	kuae1
@@ -5024,7 +5016,7 @@ k	khe1
 蝵	chieu1
 䐐	chieu1
 瘳	chieu1
-龜	chieu1
+龜	chieu1	0%
 丘	chieu1
 坵	chieu1
 邱	chieu1
@@ -5306,6 +5298,7 @@ k	khe1
 苝	bei6
 佩	bei2
 焙	bei6
+𤊷	bei6
 珮	bei6
 邶	bei6
 薜	bei6
@@ -5587,7 +5580,6 @@ k	khe1
 焊	ghEI4
 銲	ghEI4
 釬	ghEI4
-撼	ghEI4
 頷	ghEI4
 汗	ghEI6
 悍	ghEI6
@@ -5602,6 +5594,7 @@ k	khe1
 氨	EI1
 諳	EI1
 堷	EI1
+盫	EI1
 銨	EI3
 黯	EI3
 闇	EI5
@@ -5822,9 +5815,7 @@ k	khe1
 餵	uei5	0%
 喂	uei5	0%
 餧	uei5	0%
-穢	uei5
 恚	uei5
-慰	uei5
 螱	uei5
 薈	uei5
 波	pou1
@@ -5922,7 +5913,7 @@ k	khe1
 捼	nou2
 挼	nou2
 儺	nou2
-挪	nou2
+挪	nou2	5%
 㑚	nou2
 娜	nou4
 儂	nou6
@@ -6047,6 +6038,8 @@ k	khe1
 娥	ngou2
 鵝	ngou2
 鵞	ngou2
+䳘	ngou2
+䳗	ngou2
 峨	ngou2
 峩	ngou2
 鋨	ngou2
@@ -6087,7 +6080,7 @@ k	khe1
 紅	ghou2	0%
 禍	ghou4
 旤	ghou4
-荷	ghou4
+荷	ghou4	0%
 賀	ghou6
 和	ghou6
 阿	ou1	5%
@@ -6194,6 +6187,7 @@ k	khe1
 痘	deu6
 脰	deu6
 郖	deu6
+㛒	deu6
 䛠	deu6
 𩊪	deu6
 竇	deu6
@@ -6364,7 +6358,6 @@ k	khe1
 浜	pan1
 繃	pan1
 綳	pan1
-崩	pan1
 伻	pan1
 𢆸	pan1
 伯	pan1
@@ -6383,6 +6376,7 @@ k	khe1
 膨	ban2
 𦗭	ban2
 彭	ban2
+𥕱	ban2
 朋	ban2
 鵬	ban2
 硼	ban2
@@ -6395,6 +6389,7 @@ k	khe1
 踫	ban6
 掽	ban6
 𦝤	ban6
+湴	ban6
 蜢	man4
 艋	man4
 猛	man4
@@ -6537,9 +6532,9 @@ k	khe1
 𪰻	chian3
 昶	chian3
 羥	chian3
-强	chian3
-強	chian3
-彊	chian3
+强	chian3	5%
+強	chian3	5%
+彊	chian3	5%
 襁	chian3
 繦	chian3
 鏹	chian3
@@ -6552,7 +6547,6 @@ k	khe1
 腸	jian2
 祥	jian2
 詳	jian2
-庠	jian2
 翔	jian2
 長	jian2
 䗅	jian2
@@ -6715,9 +6709,11 @@ k	khe1
 螃	baon2
 滂	baon2
 膀	baon2
+磅	baon2	5%
 蒡	baon2
 䅭	baon2
 鰟	baon2
+䠙	baon2
 龐	baon2
 防	baon2
 彷	baon2
@@ -6726,7 +6722,6 @@ k	khe1
 蟛	baon2
 棒	baon4
 傍	baon6
-磅	baon6
 𢄎	baon6
 徬	baon6
 忙	maon2
@@ -6914,7 +6909,7 @@ k	khe1
 菖	tshaon1
 倡	tshaon1
 猖	tshaon1
-鯧	tshaon1
+鯧	tshaon1	5%
 閶	tshaon1
 淐	tshaon1
 窗	tshaon1
@@ -6930,7 +6925,7 @@ k	khe1
 䅮	tshaon5
 娼	tshaon5
 唱	tshaon5
-暢	tshaon5
+暢	tshaon5	5%
 鬯	tshaon5
 摐	tshaon5
 藏	dzaon2
@@ -6940,7 +6935,7 @@ k	khe1
 嘗	dzaon2	5%
 甞	dzaon2	5%
 鱨	dzaon2
-償	dzaon2
+償	dzaon2	5%
 幢	dzaon4
 藏	dzaon6
 臟	dzaon6
@@ -7209,7 +7204,7 @@ k	khe1
 䩪	kun3
 錧	kun3
 脘	kun3
-莞	kun3
+莞	kun3	5%
 盥	kun5
 雚	kun5
 爟	kun5
@@ -7355,7 +7350,7 @@ k	khe1
 脗	ven4
 刎	ven4
 鱝	ven4
-分	ven6
+分	ven6	10%
 份	ven6
 憤	ven6
 汶	ven6
@@ -7565,11 +7560,11 @@ k	khe1
 賡	ken1
 鶊	ken1
 根	ken3
-耿	ken3
-鯁	ken3
+耿	ken3	5%
+鯁	ken3	5%
 綆	ken3
 㾘	ken3
-更	ken5
+更	ken5	5%
 鏗	khen1
 硜	khen1
 㰢	khen1
@@ -7874,7 +7869,6 @@ k	khe1
 筋	cin1
 巾	cin1
 禁	cin1
-噤	cin1
 襟	cin1
 兢	cin1
 謹	cin1
@@ -8210,8 +8204,6 @@ k	khe1
 飪	zhin4
 餁	zhin4
 恁	zhin4
-妊	zhin4
-姙	zhin4
 衽	zhin6
 袵	zhin6
 贏	yin2
@@ -8313,7 +8305,7 @@ k	khe1
 縈	in3
 隱	in3
 䌥	in3
-癮	in3
+癮	in3	5%
 櫽	in3
 𢷍	in5
 應	in5
@@ -8388,7 +8380,6 @@ k	khe1
 麕	chiun1
 輑	chiun1
 𠲰	chiun1
-窘	chiun3
 菌	chiun5
 攟	chiun5
 𧱝	chiun5
@@ -8449,7 +8440,7 @@ k	khe1
 愠	iun5
 縕	iun5
 緼	iun5
-屯	tsyun1
+屯	tsyun1	1%
 肫	tsyun1
 迍	tsyun1
 諄	tsyun1
@@ -8556,7 +8547,6 @@ k	khe1
 㞞	zyun6
 蜃	zyun6
 崩	pon1
-崩	pon5
 蹦	pon5
 捧	phon3
 菶	phon3
@@ -8585,7 +8575,7 @@ k	khe1
 瞢	mon2
 懵	mon2
 曚	mon4
-夢	mon6
+夢	mon6	5%
 風	fon1
 楓	fon1
 瘋	fon1
@@ -8605,7 +8595,7 @@ k	khe1
 紛	fon1	0%
 諷	fon1
 唪	fon3
-俸	fon5
+俸	fon5	5%
 賵	fon5
 風	fon5
 馮	von2
@@ -8774,6 +8764,7 @@ k	khe1
 衝	tshon1
 沖	tshon1
 冲	tshon1
+翀	tshon1
 忡	tshon1
 憧	tshon1
 罿	tshon1
@@ -8904,7 +8895,7 @@ k	khe1
 螉	on1
 𤌏	on1
 䩺	on1
-齆	on1
+齆	on1	1%
 紅	on1	0%
 屋	on1	0%
 蓊	on3
@@ -9051,7 +9042,7 @@ k	khe1
 潑	phaq7
 鏺	phaq7
 白	baq8
-鮊	baq8
+鮊	baq8	0%
 拔	baq8
 鈸	baq8
 坺	baq8
@@ -9248,7 +9239,7 @@ k	khe1
 抐	naq8
 㨥	naq8
 辣	naq8	0%
-垃	laq8
+垃	laq8	5%
 拉	laq8
 啦	laq8
 辣	laq8
@@ -9360,14 +9351,13 @@ k	khe1
 撮	tshaq7
 猝	tshaq7
 策	tshaq7
-筴	tshaq7
 鏼	tshaq7
 畟	tshaq7
 鸅	dzaq8
 宅	dzaq8
 䵵	dzaq8
 㔍	dzaq8
-翟	dzaq8
+翟	dzaq8	5%
 濯	dzaq8
 𦑱	dzaq8
 捽	dzaq8
@@ -9416,7 +9406,7 @@ k	khe1
 釋	saq7	5%
 濕	saq7	5%
 溼	saq7	5%
-圾	saq7
+圾	saq7	5%
 碎	saq7	0%
 石	zaq8
 閘	zaq8
@@ -9537,8 +9527,11 @@ k	khe1
 盇	ghaq8
 闔	ghaq8
 嗑	ghaq8
+𧛾	ghaq8
 壓	aq7
 鴨	aq7
+𩿼	aq7
+𪀌	aq7
 押	aq7
 閼	aq7
 阿	aq7
@@ -9676,10 +9669,12 @@ k	khe1
 𩉾	yaq8
 約	iaq7
 鴨	iaq7	0%
+𩿼	iaq7	0%
+𪀌	iaq7	0%
 骨	kuaq7
 榾	kuaq7
 縎	kuaq7
-搰	kuaq7
+搰	kuaq7	5%
 鶻	kuaq7
 汩	kuaq7
 括	kuaq7
@@ -9788,19 +9783,20 @@ k	khe1
 卜	boq8
 鉑	boq8
 箔	boq8
-暴	boq8
+暴	boq8	1%
 瀑	boq8
 曝	boq8
 㩧	boq8
 僕	boq8
 鏷	boq8
+𩍩	boq8
 亳	boq8
 僰	boq8
 伏	boq8
 袱	boq8
 栿	boq8
 𢫯	boq8
-泊	boq8
+泊	boq8	5%
 舶	boq8
 𦤣	boq8
 木	moq8
@@ -9821,7 +9817,7 @@ k	khe1
 纆	moq8
 邈	moq8
 穆	moq8
-万	moq8
+万	moq8	0%
 睦	moq8
 鶩	moq8
 楘	moq8
@@ -9878,7 +9874,7 @@ k	khe1
 𧩧	doq8
 𦂀	doq8
 𨍏	doq8
-喥	doq8
+喥	doq8	5%
 讀	doq8
 櫝	doq8
 犢	doq8
@@ -9935,7 +9931,7 @@ k	khe1
 輅	loq8
 䎊	loq8
 雒	loq8
-咯	loq8
+咯	loq8	5%
 落	loq8
 盝	loq8
 戮	loq8
@@ -9958,7 +9954,7 @@ k	khe1
 筑	tsoq7
 築	tsoq7
 燭	tsoq7
-屬	tsoq7
+屬	tsoq7	5%
 囑	tsoq7
 矚	tsoq7
 劚	tsoq7
@@ -10003,12 +9999,11 @@ k	khe1
 𠭴	tshoq7
 齪	tshoq7
 娖	tshoq7
-珿	tshoq7
 𥒭	tshoq7
 觸	tshoq7
 搠	tshoq7
 篧	tshoq7
-畜	tshoq7
+畜	tshoq7	5%
 亍	tshoq7
 矗	tshoq7
 綽	tshoq7
@@ -10017,10 +10012,11 @@ k	khe1
 赤	tshoq7	0%
 俗	dzoq8
 續	dzoq8
+藚	dzoq8
 族	dzoq8
 昨	dzoq8	5%
 怍	dzoq8
-柞	dzoq8
+柞	dzoq8	5%
 酢	dzoq8
 著	dzoq8
 着	dzoq8
@@ -10129,7 +10125,7 @@ k	khe1
 覺	koq7
 梏	koq7
 鵠	koq7
-咯	koq7
+咯	koq7	5%
 各	koq7
 𣫀	koq7
 該	koq7	0%
@@ -10224,7 +10220,7 @@ k	khe1
 幄	oq7
 渥	oq7
 齷	oq7
-堊	oq7
+堊	oq7	5%
 沃	oq7
 鋈	oq7
 𪁕	oq7
@@ -10351,10 +10347,18 @@ k	khe1
 的	tiq7
 扚	tiq7
 𢯊	tiq7
+玓	tiq7
+𥐝	tiq7
+靮	tiq7
+馰	tiq7
+魡	tiq7
 滴	tiq7
 嫡	tiq7
 鏑	tiq7
+樀	tiq7
 嘀	tiq7
+適	tiq7	0%
+𨮹	tiq7
 跌	tiq7
 搭	tiq7	5%
 倜	thiq7
@@ -10499,13 +10503,13 @@ k	khe1
 今	ciq7	0%
 結	ciq7
 潔	ciq7
-絜	ciq7
+絜	ciq7	5%
 䥛	ciq7
 訐	ciq7
 吉	ciq7
 詰	ciq7
 咭	ciq7
-桔	ciq7
+桔	ciq7	5%
 拮	ciq7
 㓤	ciq7
 蛣	ciq7
@@ -10596,6 +10600,7 @@ k	khe1
 直	jiq8
 殖	jiq8
 值	jiq8
+値	jiq8
 植	jiq8
 淔	jiq8
 秩	jiq8
@@ -10753,7 +10758,7 @@ k	khe1
 藉	zhiq8
 習	zhiq8
 石	zhiq8	5%
-碩	zhiq8
+碩	zhiq8	5%
 鼫	zhiq8
 鉐	zhiq8
 䖨	zhiq8
@@ -10816,7 +10821,6 @@ k	khe1
 壹	iq7
 噎	iq7
 揖	iq7
-謁	iq7
 邑	iq7
 唈	iq7
 挹	iq7
@@ -10995,7 +10999,6 @@ k	khe1
 輟	tsyuq7
 歠	tsyuq7
 醊	tsyuq7
-綴	tsyuq7
 啜	tsyuq7
 𩋁	tsyuq7
 䮕	tsyuq7
@@ -11198,8 +11201,8 @@ k	khe1
 道頭
 堍頭
 𡓦頭	zae deu
-篤塞弄	toq saq lon
-篤塞弄堂	toq saq lon daon
+篤塞弄
+篤塞弄堂
 井頭
 井頭	cin dei
 井頭跟
@@ -11772,7 +11775,7 @@ k	khe1
 幫廚
 #飯師傅	vae sy vu
 飯頭腦
-飯烏龜	vae u ciu
+飯烏龜
 #剃頭師傅	thi deu sy vu
 剃頭
 剃頭郎
@@ -11812,7 +11815,7 @@ k	khe1
 送娘子
 送娘爿
 送嫂
-挈出尿瓶	chiq tshyuq syu bin
+挈出尿瓶
 戲子人	shi tsy gnin
 大頭和尚	dou deu ghou zaon
 䠷頭王
@@ -11851,7 +11854,7 @@ k	khe1
 討飯頭
 討飯坯
 叫花子	kau huo tsy
-強討飯	jian thau vae
+強討飯
 撮佬	tshaq lau
 充手
 三隻手
@@ -11990,7 +11993,7 @@ k	khe1
 賴學精	la ghoq cin
 臭豬頭
 熱拆骨頭
-吵朋烏龜	tshau ban u ciu
+吵朋烏龜
 壞吃芋艿頭	ua chioq n na deu
 好吃果子	hau chioq kou tsy
 小貨
@@ -12374,8 +12377,8 @@ k	khe1
 爛屙
 爛薄屙
 爛薄稀屙
-大尿	dou syu
-大尿血	dou syu shiuq
+大尿
+大尿血
 鏖糟
 尿⿸尸咋	syu dza
 黃汗
@@ -12488,7 +12491,7 @@ k	khe1
 呵鼾	huo he
 眠鼾
 雞眨覺	ci saq kau
-亂夢地裏	loe maon di li
+亂夢地裏
 心網
 心相	shin shian
 心想
@@ -12645,7 +12648,7 @@ k	khe1
 病痼毒
 大卵袋	dou loe de
 小腸氣
-尿急病	syu ciq bin
+尿急病
 大腳風	dou ciaq fon
 象皮病
 流火
@@ -12750,10 +12753,10 @@ k	khe1
 褲腳
 褲腳筒
 褲帶縛
-尿衲布	syu naq pu
-尿布	syu pu
-尿衲	syu naq
-尿衲布頭	syu naq pu deu
+尿衲布
+尿布
+尿衲
+尿衲布頭
 衲頭
 大衲
 上山襪	zaon sae maq
@@ -12858,7 +12861,7 @@ k	khe1
 肉餅子
 肉圓
 獅子頭
-醃𤒘鮮	i toq shi
+醃𤒘鮮
 福禮
 利市
 利市頭
@@ -12911,7 +12914,7 @@ k	khe1
 彈胡	dae wu
 彈路	dae lu
 白蟹
-鮮白蟹	shi baq ha
+鮮白蟹
 小娘蟹
 紫殼蟹
 紫殼蟹	tsy khaon ha
@@ -12943,7 +12946,7 @@ k	khe1
 團臍
 長臍	jian ji
 江白蝦
-強盜蝦	jian dau huo
+強盜蝦
 滑皮蝦
 活皮蝦
 竹節蝦
@@ -13017,8 +13020,8 @@ k	khe1
 塘魚
 白鰱
 烏鱧魚
-鮊魚	ba ng
-翹嘴鮊魚	chiau tsyu ba ng
+鮊魚
+翹嘴鮊魚
 青條
 差魚	tsha ng
 差鮊魚	tsha ba ng
@@ -13292,7 +13295,7 @@ k	khe1
 方糕
 灰汁團
 油貼黃	yeu thaq waon
-箸夾管	ji kaq kun
+箸夾管
 麻餅
 千層餅
 和尚餅	ghou zaon pin
@@ -13655,7 +13658,7 @@ k	khe1
 痰瓶
 便桶	bi don
 料勺
-尿瓶	syu bin
+尿瓶
 㫰竿
 㫰丫叉
 㫰衣墩
@@ -13778,7 +13781,7 @@ k	khe1
 飯籃
 飯籃筲箕
 冷飯筲箕
-筷箸籠	khuae ji lon
+筷箸籠
 食罩
 箲帚
 天蘿箲
@@ -13805,7 +13808,7 @@ k	khe1
 盪口杯
 紅毛瓶
 紅毛瓶	ghou mau bin
-塞頭	saq deu
+塞頭
 蓋頭
 藥砂罐
 酒埕
@@ -13957,7 +13960,7 @@ k	khe1
 龍骨車
 牛車盤
 牛軛
-牛桊	ngeu ciun
+牛桊
 牛鼻桊	ngeu biq ciun
 牛鼻銷	ngeu biq shiau
 牛控篰
@@ -14191,7 +14194,7 @@ k	khe1
 石撞
 珠珠魚
 亮眼頭絲
-偷飯烏龜	theu vae u ciu
+偷飯烏龜
 魚泡泡
 田螺嗍
 田螺血
@@ -14223,7 +14226,7 @@ k	khe1
 辣蓼	laq liau
 艾青
 艾漢
-苧麻	ji mo
+苧麻
 絡麻
 糖蔗
 紅芷根	ghon tsy ken
@@ -14264,7 +14267,7 @@ k	khe1
 木蓮藤
 老勿大
 老勿大草
-玉荷花	gnioq ghou huo
+玉荷花
 朝日頭花	jiau gniq deu huo
 柴白絳花
 空殼狼刺	khon khoq laon tshy
@@ -14560,7 +14563,7 @@ k	khe1
 扯蛋
 吹牛屄
 搗親
-搗鯁	tau gan
+搗鯁
 造孽
 應嘴	in tsyu
 交代
@@ -14642,7 +14645,7 @@ k	khe1
 調覺	diau kau
 醒覺轉	shin kau tsoe
 睏失覺	khuen syuq kau
-做亂夢	tsou loe maon
+做亂夢
 講夜話
 爬起
 揹夜
@@ -14688,7 +14691,7 @@ k	khe1
 凍進
 凍掉
 傷風氣	saon fon chi
-鼻頭管塞煞	baq deu kun saq saq
+鼻頭管塞煞
 發酒凚
 𢪂痚駝
 吃熱
@@ -14786,8 +14789,8 @@ k	khe1
 翁中
 心戳煞
 犯怏	vae aon
-發喥	faq du
-發喥性	faq du shin
+發喥
+發喥性
 光火	kuan hou
 火大
 加氣
@@ -14938,9 +14941,9 @@ k	khe1
 拱趣趣
 呵癢趣趣	huo yan tshyu tshyu
 呵趣趣	huo tshyu tshyu
-騎馬啷啷	ji mo laon laon
-騎馬馬啷	ji mo mo laon
-騎馬嘟嘟	ji mo tu tu
+騎馬啷啷
+騎馬馬啷
+騎馬嘟嘟
 糾會	cieu wei
 過賬
 鬥賬
@@ -15101,7 +15104,7 @@ k	khe1
 犯着	vae dzoq
 犯賤	vae zhi
 生癢	san yan
-致怨	tsy iu
+致怨
 招怪
 做惡	tsou oq
 做惡人	tsou oq gnin
@@ -15183,7 +15186,7 @@ k	khe1
 落市
 犯熟地
 饐掉
-餲掉	aq diau
+餲掉
 餿氣
 發醭
 出氣
@@ -15213,7 +15216,7 @@ k	khe1
 塌地垟
 遮煞
 遮牢
-塞車	saq tsho
+塞車
 倒沒	tau maq
 翻向
 翻大向
@@ -15410,7 +15413,7 @@ k	khe1
 極細
 有夥
 木佬佬
-崩倒	pan tau
+崩倒	pon tau
 翻倒	fae tau
 造大反
 造反
@@ -15751,9 +15754,9 @@ k	khe1
 腦子短路
 腦子搭錯
 腦子錯拼
-屙塞煞	ou saq saq
-屙塞飽	ou saq pau
-屙塞頭底心	ou saq deu ti shin
+屙塞煞
+屙塞飽
+屙塞頭底心
 木性性
 木東東
 木篤篤
@@ -15814,7 +15817,7 @@ k	khe1
 屙背出	ou bei tshyuq
 神志無知
 神經稀稀
-鮮索	shi soq
+鮮索
 尷尬
 尷裏尷尬
 難弄	nae lon
@@ -15858,7 +15861,7 @@ k	khe1
 狗筋懶出
 屙懶出
 環襻頭	guae phae deu
-強頭倔腦	jian deu jiuq nau
+強頭倔腦
 強橫霸道	jian uan po dau
 強橫	jian uan
 橫𠡒	uan tei
@@ -16013,7 +16016,7 @@ k	khe1
 𠞭膿刮髓
 𠞭形刮髓
 丫角亂經
-奇出古怪	ji tshyuq ku kua
+奇出古怪
 硬傷
 倒運	tau yun
 倒竈	tau tsau
@@ -16086,8 +16089,8 @@ k	khe1
 #溚溚滴	taq taq ti
 #涾涾滴	daq daq ti
 水出爛糟
-餲𦤣幾糟	aq boq ci tsau
-餲𦤣𦤣	aq boq boq
+餲𦤣幾糟
+餲𦤣𦤣
 溼𦤣幾糟	saq boq ci tsau
 溼格格	saq kaq kaq
 汗滋滋
@@ -16138,7 +16141,7 @@ k	khe1
 拖黃	thou uaon
 拖得斯黃	thou taq sy uaon
 黃脯脯	waon bu bu
-崩脆	pan tshei
+崩脆
 屙末爛脆
 噴酥
 辣酥
@@ -16199,15 +16202,15 @@ k	khe1
 毛羽勿動
 毛衣勿動
 活龍
-透刮新鮮	theu kuaq shin shi
-透新鮮	theu shin shi
-透骨新鮮	theu kuaq shin shi
+透刮新鮮
+透新鮮
+透骨新鮮
 蔫糟糟
 霉頭脫腦
 半死爛活
 清湯寡水	chin thaon kua syu
 清湯寡水	chin thaon kuan syu
-油挪挪	yeu no no
+油挪挪
 油注刮得
 油漬格勒
 煞清爽
@@ -16219,7 +16222,7 @@ k	khe1
 體裏汰剌	thi li tha la
 體體汰汰
 滾洞爛煙
-崩洞爛煙	pan don lae i
+崩洞爛煙
 彭彭揚
 灰塵膨蓬
 滾天黑地
@@ -16338,7 +16341,7 @@ k	khe1
 碧綠青翠
 藍結結
 本白
-白咪咪	baq mhi mhi
+白咪咪
 白殕殕
 白膚膚
 白䵬䵬
@@ -16349,7 +16352,7 @@ k	khe1
 雪雪白
 雪裏斯白
 雪白粉嫩
-紅粉鮮白	ghon fen shi baq
+紅粉鮮白
 烏嘴烏臉
 漆烏	tshaq u
 漆黑	tshaq haq
@@ -16397,9 +16400,9 @@ k	khe1
 甜口
 甜嫩嫩
 甜嫩頭
-甜咪咪	di mhi mhi
+甜咪咪
 甜漿漿
-甜漿咪咪	di cian mhi mhi
+甜漿咪咪
 怪酸	kuan soe
 怪得斯酸	kuan taq sy soe
 怪得頭酸	kuan taq deu soe
@@ -16420,7 +16423,7 @@ k	khe1
 生苦結鹹	san khu ciq ghae
 生鐵苦鹹	san thiq khu ghae
 鹹苦
-鹹咪咪	ghae mhi mhi
+鹹咪咪
 鹹滋滋
 鹹辣
 鹹辣辣
@@ -16447,16 +16450,16 @@ k	khe1
 麻口
 麻辣辣
 槽槽動
-油咪咪	yeu mhi mhi
+油咪咪
 油蒿蒿
 油蒿氣
 漆蒿蒿
 蒿蒿動
 粉慈慈
 粉慈慈	fen zy zy
-透鮮	theu shi
-透刮鮮	theu kuaq shi
-透刮斯鮮	theu kuaq sy shi
+透鮮
+透刮鮮
+透刮斯鮮
 鮮朵朵	shi do do
 鮮豁豁	shi huaq huaq
 壞吃	ua chioq
@@ -16468,8 +16471,8 @@ k	khe1
 臭稀稀
 臭稀頭
 臭齈齈
-尿臊臭	syu sau chieu
-尿臊氣	syu sau chi
+尿臊臭
+尿臊氣
 屙腥臭
 腳屙臭
 腳屙爛臭
@@ -16491,7 +16494,7 @@ k	khe1
 火坺臭
 焦芽氣
 灰墣氣
-餲𦤣氣	aq boq chi
+餲𦤣氣
 青沙氣	chin so chi
 酒冒氣
 沓沓	daq daq
@@ -16571,9 +16574,9 @@ k	khe1
 凡到
 凡仔
 聚頭
-屯頭	den deu
+屯頭
 聚隊
-屯隊	den dei
+屯隊
 大家	doq ko
 躉注
 侅煞	khI saq
@@ -16619,7 +16622,7 @@ k	khe1
 眼烏珠翻白
 𠡒九筋
 𠡒八𠡒九筋
-暴時	bau zy
+暴時
 暴生	bau san
 先勿先
 本格
@@ -16734,7 +16737,7 @@ k	khe1
 定歸
 千定萬定
 硬勁	ngan cin
-硬致致	ngan tsy tsy
+硬致致
 橫致致	uan tsy tsy
 血心
 前生前世	zhi san zhi shi
@@ -16877,7 +16880,7 @@ k	khe1
 喁喁
 囑囑
 咩咩
-咪咪	mhi mhi
+咪咪
 的𡀂
 仔𡀂
 介𡀂	ka lei
@@ -17072,7 +17075,7 @@ k	khe1
 受委氣
 唸毛經
 夜馱出
-夜新鮮	ya shin shi
+夜新鮮
 放上槓	faon zaon kaon
 放白鴿
 放銅銃
@@ -17155,7 +17158,7 @@ k	khe1
 撮白失	tshaq baq syuq
 撮外快	tshaq nga khua
 撮便宜	tshaq bi gni
-鯁胡嚨	gan wu lon
+鯁胡嚨
 戳壁腳
 劖着劖	zae dzoq zae
 買着買	ma dzoq ma
@@ -17238,12 +17241,12 @@ k	khe1
 爲來爲去	wei le wei chi
 火種彭生	hou tson ban san
 火種彭生	hou tshon ban san
-心塞眼閉	shin saq ngae pi
-心塞塞	shin saq saq
+心塞眼閉
+心塞塞
 巴勿能夠
 巴勿得
 正當正氣	cin taon cin chi
-打強嘴巴	tan jian tsyu po
+打強嘴巴
 打硬嘴巴
 東借西拽
 東借西拽	ton cia shi yuq
@@ -17438,11 +17441,11 @@ k	khe1
 裁頭刮腳
 欺軟怕惡	chi gniu pho oq
 欺軟怕惡	chi li pho oq
-撳撳塞塞	chin chin saq saq
+撳撳塞塞
 蛔蟲朝下	wei dzon jiau gho
 短命促死	toe min tshaq shi
 裝棚搭架
-碎碎塞塞	sei sei saq saq
+碎碎塞塞
 睬儂瞎子
 睬儂阿白哥	tshe nou aq baq kou
 睬儂老白
@@ -17453,8 +17456,8 @@ k	khe1
 覅看甮看	fe khI ven khI
 覅其甮其	fe ji ven ji
 新花暴熱	shin huo pau gniq
-塞暗亮頭	saq EI lian deu
-鮮龍活跳	shi lon waq thiau
+塞暗亮頭
+鮮龍活跳
 敲開木魚
 敲火油箱
 遮蔭遮日	tso in tso gniq
