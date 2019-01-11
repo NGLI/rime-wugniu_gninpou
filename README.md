@@ -10,6 +10,10 @@
 
 [rime-wugniu_gninpou Wiki](https://github.com/shinzoqchiuq/rime-wugniu_gninpou/wiki)
 
+## 拼音教程
+
+https://shinzoqchiuq.gitbook.io/gninpou-tutorial/
+
 ## 參考資料
 
 - 湯珍珠、陳忠敏、吳新賢:《寧波方言詞典》,江蘇教育出版社,1997
