@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.01.06"
+version: "2019.01.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1621,6 +1621,7 @@ use_preset_vocabulary: true
 係	shi5
 繫	shi5
 屓	shi5
+屭	shi5
 餼	shi5
 咥	shi5
 熙	shi5
@@ -1812,6 +1813,7 @@ use_preset_vocabulary: true
 銥	i1
 挔	i1
 醫	i1
+𧕪	i1
 瞖	i1
 翳	i1
 鷖	i1
@@ -2278,9 +2280,9 @@ use_preset_vocabulary: true
 𤝘	wu2
 誤	wu2	5%
 悟	wu2	5%
-吾	wu2	5%
+吾	WU2	5%
 吳	wu2
-蜈	wu2	5%
+蜈	WU2	5%
 鼯	wu2
 齬	wu2
 娪	wu2
@@ -3307,6 +3309,7 @@ use_preset_vocabulary: true
 攪	gau4
 絞	gau4
 交	gau6	5%
+峧	gau6
 熬	ngau2
 敖	ngau2
 遨	ngau2
@@ -4259,6 +4262,7 @@ k	khe1
 硋	nge6
 蚶	he1
 酣	he1
+邯	he1
 鼾	he1
 憨	he1
 罕	he1
@@ -4272,6 +4276,7 @@ k	khe1
 熯	he5
 暵	he5
 𩈣	he5
+旰	he5
 厂	he5
 咳	he5
 孩	ghe2
@@ -5354,29 +5359,29 @@ k	khe1
 推	thei1
 㷟	thei1
 煺	thei1
-貪	thEI1
+貪	thei1
 腿	thei3
 骽	thei3
-嗿	thEI3
-醓	thEI3
+嗿	thei3
+醓	thei3
 退	thei5
 褪	thei5
 蛻	thei5
-探	thEI5
-㶒	thEI5
-僋	thEI5
+探	thei5
+㶒	thei5
+僋	thei5
 頹	dei2
 穨	dei2
 蘈	dei2
 隤	dei2
 𧝋	dei2
 魋	dei2
-覃	dEI2
-潭	dEI2
-窞	dEI2
+覃	dei2
+潭	dei2
+窞	dei2
 頭	dei2	5%
 紿	dei4
-禫	dEI4
+禫	dei4
 隊	dei6
 兌	dei6
 𩊭	dei6
@@ -5544,6 +5549,7 @@ k	khe1
 枘	zei6
 蚶	hEI1	0%
 酣	hEI1	0%
+邯	hEI1
 鼾	hEI1	0%
 頇	hEI1	0%
 憨	hEI1	0%
@@ -5552,9 +5558,10 @@ k	khe1
 許	hEI1	5%
 撼	hEI1	0%
 憾	hEI1	0%
-漢	hEI5	0%
 厂	hEI5	0%
+漢	hEI5	0%
 熯	hEI5
+旰	hEI5
 哎	ghEI2
 含	ghEI2
 焓	ghEI2
@@ -5566,7 +5573,6 @@ k	khe1
 晐	ghEI2
 翰	ghEI2
 瀚	ghEI2
-邯	ghEI2
 邗	ghEI2
 頇	ghEI2
 銜	ghEI2	5%
@@ -5683,6 +5689,7 @@ k	khe1
 簣	guei6
 籄	guei6
 聵	guei6
+瞶	guei6
 匱	guei6
 蕢	guei6
 潰	guei6
@@ -6447,6 +6454,7 @@ k	khe1
 鯁	gan4
 骾	gan4
 硬	ngan6
+鞕	ngan6
 亨	han1
 哼	han1
 夯	han5
@@ -7313,6 +7321,7 @@ k	khe1
 紛	fen1
 吩	fen1
 酚	fen1
+馚	fen1
 棻	fen1
 𦐈	fen1
 衯	fen1
@@ -8053,6 +8062,7 @@ k	khe1
 凚	jin4
 噤	jin4
 癛	jin4
+癝	jin4
 傾	jin4	0%
 晟	jin6
 陣	jin6
@@ -8296,7 +8306,7 @@ k	khe1
 垔	in1
 堙	in1
 陻	in1
-禋	in1
+𧛑	in1
 闉	in1
 形	in1	0%
 飲	in3
@@ -8391,6 +8401,7 @@ k	khe1
 熏	shiun1
 薰	shiun1
 燻	shiun1
+焄	shiun1
 勛	shiun1
 勳	shiun1
 勲	shiun1
@@ -8537,6 +8548,7 @@ k	khe1
 刃	zyun6
 紉	zyun6
 仞	zyun6
+韌	zyun6	5%
 認	zyun6	5%
 潤	zyun6
 慎	zyun6
@@ -8945,7 +8957,7 @@ k	khe1
 洶	shion1
 胸	shion1
 胷	shion1
-酗	shion1	0%
+酗	shion1	5%
 嗅	shion5
 榮	yon2
 嶸	yon2
@@ -9101,6 +9113,7 @@ k	khe1
 髮	faq7
 法	faq7
 灋	faq7
+𠵽	faq7
 砝	faq7
 珐	faq7
 琺	faq7
@@ -9668,6 +9681,7 @@ k	khe1
 柙	yaq8
 𩉾	yaq8
 約	iaq7
+𩚈	iaq7
 鴨	iaq7	0%
 𩿼	iaq7	0%
 𪀌	iaq7	0%
@@ -10632,6 +10646,7 @@ k	khe1
 杰	jiq8
 極	jiq8
 朮	jiq8
+𤇍	jiq8
 竭	jiq8
 𢷒	jiq8
 碣	jiq8
@@ -10740,6 +10755,7 @@ k	khe1
 㽺	shiq7
 𣣉	shiq7
 赥	shiq7
+歘	shiq7
 虩	shiq7
 隙	shiq7
 啥	shiq7	0%
@@ -11083,9 +11099,9 @@ k	khe1
 姆	mh1
 嘸	mh5
 #沒	mh5	0%
-芋	n6
 你	n2	0%
 妳	n2	0%
+芋	n6
 兒	ng2
 魚	ng2
 吳	ng2	0%
@@ -14957,7 +14973,7 @@ k	khe1
 打烊	tan yan
 進賬
 積落
-背债	pei tsa
+背債	pei tsa
 放生	faon san
 蕩光
 貴上	ciu zaon
@@ -17347,7 +17363,7 @@ k	khe1
 咋長闊短	dza jian khuaq toe
 豎長闊短	zyu jian khuaq toe
 的的刮刮
-貪肚下門	thEI du gho men
+貪肚下門	thei du gho men
 貪嘴落夜
 爬上吸落	bo zaon shiq loq
 爬高吸低
