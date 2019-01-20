@@ -104,6 +104,7 @@ speller:
     - derive/c(h)?ie$/ts$1e/
     - derive/jie$/dze/
     - derive/(?<=[sz])hie$/e/
+    - derive/^ye$/ghe/
     # 降壯不分
     - derive/ciaon/tsaon/
     # 官孤不分
