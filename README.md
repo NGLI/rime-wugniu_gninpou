@@ -12,7 +12,7 @@
 
 ## 拼音教程
 
-https://shinzoqchiuq.gitbook.io/gninpou-tutorial/
+https://shinzoqchiuq.github.io/gninpou-tutorial/
 
 ## 參考資料
 
