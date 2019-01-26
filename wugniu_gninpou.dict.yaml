@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.01.09"
+version: "2019.01.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3285,7 +3285,7 @@ use_preset_vocabulary: true
 吿	kau5
 誥	kau5
 鋯	kau5
-校	kau5
+校	kau5	5%
 較	kau5	0%
 覺	kau5
 酵	kau5
@@ -3799,7 +3799,7 @@ use_preset_vocabulary: true
 茭	ciau1	5%
 膠	ciau1	5%
 較	ciau1
-校	ciau1
+校	ciau1	5%
 僥	ciau1	5%
 覺	ciau1	5%
 嘐	ciau1
@@ -11875,7 +11875,7 @@ k	khe1
 充手
 三隻手
 賊骨頭
-騙賊柺子
+騙賊拐子
 𨉖壁賊
 掩邊賊
 𨉖背賊	iq pei zaq
@@ -12683,7 +12683,7 @@ k	khe1
 大帽	da mau
 開普帽
 鴨舌頭帽	aq zhiq deu mau
-羅鬆帽
+羅松帽
 活猻帽
 老頭帽
 太陽帽	tha yan mau
@@ -12843,13 +12843,13 @@ k	khe1
 點心飯
 點心飯	te shin vae
 半夜餐
-長面	jian mi
+長麪	jian mi
 索麪
-切面
-盤面
-筒頭面
+切麪
+盤麪
+筒頭麪
 米麪
-榨面
+榨麪
 澆頭
 下飯	gho vae
 嗄飯
@@ -13283,8 +13283,8 @@ k	khe1
 饅頭
 壽桃
 油包
-金團
-麻團
+金糰
+麻糰
 湯果
 享先湯果
 開面湯果
@@ -13297,7 +13297,7 @@ k	khe1
 漿板
 酒釀
 白藥
-青團
+青糰
 𩞁餈	mo zy
 糯米𩞁餈	nou mi mo zy
 青𩞁餈	chin mo zy
@@ -13309,7 +13309,7 @@ k	khe1
 黃𤿏糕
 水貼糕	syu thaq kau
 方糕
-灰汁團
+灰汁糰
 油貼黃	yeu thaq waon
 箸夾管
 麻餅
@@ -13902,7 +13902,7 @@ k	khe1
 旋鑿
 扳頭
 壓勿殺
-火表
+火錶
 插撲
 撲落
 揩布
@@ -14446,7 +14446,7 @@ k	khe1
 腦子卜	nau tsy boq
 腦子彈	nau tsy dae
 腦子搕
-豁辣面	huaq laq mi
+豁辣麪	huaq laq mi
 照相	ciau shian
 紙糊頭
 虛頭
@@ -14637,7 +14637,7 @@ k	khe1
 鬨鬧熱
 作漿
 浸煞
-遊河
+游河
 摜河
 打泅
 煞拱
@@ -15088,7 +15088,7 @@ k	khe1
 弄送
 弄聳
 弄慫
-弄鬆
+弄松
 解板	ka pae
 尋着	zhin dzoq
 引犯
@@ -15097,7 +15097,7 @@ k	khe1
 打棚
 調排	diau ba
 背命	pei min
-拼舍性命	phin so shin min
+拼捨性命
 隨舍	zei so
 橫豎橫	wan zyu wan
 做記勿着	tsou ci vaq dzoq
@@ -15915,7 +15915,7 @@ k	khe1
 好算算	hau soe soe
 上資上格	zaon tsy zaon kaq
 在內
-體託
+體托
 倭妥
 對章
 調直	diau jiq
@@ -17192,7 +17192,7 @@ k	khe1
 一包一𢷒
 一包一折
 一直鼻頭
-一轉一回
+一轉一迴
 一進一出
 一來一去
 一定不易	iq din paq yi
@@ -17293,7 +17293,7 @@ k	khe1
 吃腦子卜	chioq nau tsy boq
 吃腦子彈	chioq nau tsy dae
 吃腦子磕
-吃豁辣面	chioq huaq laq mi
+吃豁辣麪	chioq huaq laq mi
 同同到老
 傴頭磕腦
 傴倒施揖	eu tau sy iq
@@ -17425,7 +17425,7 @@ k	khe1
 倒頭順腦	tau deu zyun nau
 調頭𧝴角	diau deu toq koq
 調來換去	diau le wun chi
-調來回去	diau le wei chi
+調來迴去	diau le wei chi
 剝出鴨蛋	poq tshyuq aq dae
 屙𤿏屁鬆
 孃死孃倒	gnian shi gnian tau
@@ -17797,6 +17797,16 @@ k	khe1
 掏漿糊
 溚溚渧
 涾涾渧
+鏤膿刮髓
+鏤形刮髓
+鏤鏤挖挖
+打𧺤泥
+𧺤頭縮頸
+魄屍	phoq sy
+老魄屍	lau phoq sy
+癢嗖嗖	yan seu seu
+癢麻嘍嗖	yan mo leu seu
+癢麻嘍嗖	an moq leu seu
 
 # phrases
 
