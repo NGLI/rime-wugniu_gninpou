@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.01.26"
+version: "2019.02.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -500,12 +500,12 @@ use_preset_vocabulary: true
 乳	zyu4
 緒	zyu4
 緖	zyu4
+聚	zyu4
 誰	zyu4	0%
 孰	zyu4	0%
 墅	zyu4
 嶼	zyu4
 洳	zyu6
-聚	zyu6
 豎	zyu6
 竪	zyu6
 樹	zyu6
@@ -687,6 +687,7 @@ use_preset_vocabulary: true
 敉	mi4
 尾	mi4
 㝥	mi4
+𡬍	mi4
 羋	mi4
 弭	mi4
 乜	mi4
@@ -1291,6 +1292,7 @@ use_preset_vocabulary: true
 譴	chi3
 繾	chi3
 𥉻	chi5
+覷	chi5	0%
 䀙	chi5
 契	chi5
 碶	chi5
@@ -2770,8 +2772,8 @@ use_preset_vocabulary: true
 扠	tsha1
 攃	tsha1
 插	tsha1	0%
-扯	tsha3	5%
-撦	tsha3
+扯	tsha3	0%
+撦	tsha3	0%
 蔡	tsha5
 蠆	tsha5
 傺	tsha5
@@ -4714,6 +4716,7 @@ k	khe1
 偘	khae3
 嵌	khae5
 勘	khae5
+墈	khae5	0%
 磡	khae5
 瞰	khae5
 矙	khae5
@@ -8326,7 +8329,7 @@ k	khe1
 暎	in5
 瀴	in5
 窨	in5
-引	in5	0%
+#引	in5	0%
 衮	kuen3
 滾	kuen3
 滚	kuen3
@@ -9836,6 +9839,7 @@ k	khe1
 鶩	moq8
 楘	moq8
 麻	moq8	0%
+摩	moq8	0%
 福	foq7
 幅	foq7
 蝠	foq7
@@ -11154,7 +11158,7 @@ k	khe1
 成糖	din daon
 天家	thi ko
 地腳印
-地腳引	di ciaq in
+#地腳引	di ciaq in
 塢采
 塢處	u tshyu
 塢賽
