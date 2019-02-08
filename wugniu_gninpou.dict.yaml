@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.02.05"
+version: "2019.02.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2280,17 +2280,17 @@ use_preset_vocabulary: true
 乎	wu2
 䉿	wu2
 𤝘	wu2
-誤	wu2	5%
-悟	wu2	5%
-吾	WU2	5%
+誤	wu2	10%
+悟	wu2	10%
+吾	WU2	10%
 吳	wu2
-蜈	WU2	5%
+蜈	WU2	10%
 鼯	wu2
 齬	wu2
 娪	wu2
-無	Wu2	5%
-无	Wu2	5%
-誣	Wu2	5%
+無	Wu2	10%
+无	Wu2	10%
+誣	Wu2	10%
 毋	Wu2
 鳧	Wu2
 鳬	Wu2
@@ -2313,22 +2313,22 @@ use_preset_vocabulary: true
 圄	wu4
 牾	wu4
 武	Wu4
-務	Wu4	5%
+務	Wu4	10%
 惡	wu6
 濩	wu6
 頀	wu6
-悞	wu6	5%
-娛	wu6	5%
-捂	wu6	5%
-梧	wu6	5%
-晤	wu6	5%
-寤	wu6	5%
-迕	wu6	5%
-忤	wu6	5%
-啎	wu6	5%
-仵	wu6	5%
+悞	wu6	10%
+娛	wu6	10%
+捂	wu6	10%
+梧	wu6	10%
+晤	wu6	10%
+寤	wu6	10%
+迕	wu6	10%
+忤	wu6	10%
+啎	wu6	10%
+仵	wu6	10%
 戊	Wu6
-霧	Wu6	5%
+霧	Wu6	10%
 烏	u1
 塢	u1
 隖	u1
@@ -11147,7 +11147,8 @@ k	khe1
 野豬頭雲
 過雲雨
 胭脂紅	i ci ghon
-霧露
+霧露	vu lu
+霧露	Wu lu
 雪眼
 雪子
 爛雪片
@@ -11966,9 +11967,12 @@ k	khe1
 對手
 屙樸
 屙䨣
-竈跟無賴
-竈前無賴
-屋裏無賴
+竈跟無賴	tsau ken vu la
+竈跟無賴	tsau ken Wu la
+竈前無賴	tsau zhi vu la
+竈前無賴	tsau zhi Wu la
+屋裏無賴	oq li vu la
+屋裏無賴	oq li Wu la
 大佛	dou baq
 大白
 爛泥菩薩	na gni bu saq
@@ -14465,7 +14469,8 @@ k	khe1
 陰珓
 陽珓
 聖珓
-無常
+無常	vu dzaon
+無常	Wu dzaon
 活鬼
 河水鬼
 吊煞鬼
@@ -15441,6 +15446,7 @@ k	khe1
 甚多沒少	zhin tou maq shiau
 嘸告多少	mh kau tou shiau
 無千大萬	vu chi da vae
+無千大萬	Wu chi da vae
 行情行市	ghaon jin ghaon zy
 有多有少	yeu tou yeu shiau
 人多人勢	gnin tou gnin syu
@@ -15699,7 +15705,8 @@ k	khe1
 眯過眼笑
 哭作面貌
 哭作環臉	khoq tsoq wae li
-哭作無賴
+哭作無賴	khoq tsoq vu la
+哭作無賴	khoq tsoq Wu la
 青大腫
 青腫
 血出糊剌	shiuq tshyuq wu la
@@ -15752,7 +15759,8 @@ k	khe1
 注意
 熱石
 熱絡
-務心
+務心	vu shin
+務心	Wu shin
 勤力
 巴結
 懇苦
@@ -15812,7 +15820,8 @@ k	khe1
 投七投八
 旺旺動
 旺七旺八
-旺三無程
+旺三無程	waon sae vu jin
+旺三無程	waon sae Wu jin
 旺興夾結
 旺興結夾
 旺興帶爛泥	waon shin ta na gni
@@ -15836,7 +15845,8 @@ k	khe1
 獨頭獨腦
 背時背得	bei zy bei taq
 屙背出	ou bei tshyuq
-神志無知
+神志無知	zyun tsy vu tsyu
+神志無知	zyun tsy Wu tsyu
 神經稀稀
 鮮索
 尷尬
@@ -16059,7 +16069,8 @@ k	khe1
 迤風斜雨	yi fon zhia yu
 烏風猛暴	u fon man pau
 雨毛其其	yu mau ji ji
-霧露且且
+霧露且且	vu lu chia chia
+霧露且且	Wu lu chia chia
 窩風	ou fon
 鬥風	teu fon
 鬥水
@@ -16308,7 +16319,8 @@ k	khe1
 貼色一樣
 貼色做樣
 貼色做號	thiaq saq tsou ghau
-貼色無離
+貼色無離	thiaq saq vu li
+貼色無離	thiaq saq Wu li
 貼色葫蘆
 各號	koq ghau
 各色各樣
@@ -16323,7 +16335,9 @@ k	khe1
 腳碰腳
 腳上腳落	ciaq zaon ciaq loq
 差來無去	tsho le vu chi
+差來無去	tsho le Wu chi
 差來無幾	tsho le vu ci
+差來無幾	tsho le Wu ci
 差咋勿多	tsho dza vaq tou
 差勿多	tsho vaq tou
 對半夾起
@@ -16775,6 +16789,7 @@ k	khe1
 正式	cin shiq
 是會	zy wei
 老少無欺	lau shiau vu chi
+老少無欺	lau shiau Wu chi
 斷竅
 斷命
 實貨
@@ -17137,7 +17152,8 @@ k	khe1
 啥搭界	so taq ka
 做小貨
 裝小貨
-做無賴
+做無賴	tsou vu la
+做無賴	tsou Wu la
 做主意
 抲主意
 做初一
