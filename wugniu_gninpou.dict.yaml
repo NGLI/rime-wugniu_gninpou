@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.02.08"
+version: "2019.02.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1246,6 +1246,9 @@ use_preset_vocabulary: true
 鸂	chi1
 崎	chi1
 䀘	chi1
+豈	chi1
+弃	chi1
+棄	chi1
 僉	chi1
 簽	chi1
 籤	chi1
@@ -1261,9 +1264,6 @@ use_preset_vocabulary: true
 殲	chi1
 鑯	chi1
 槧	chi1
-豈	chi1
-弃	chi1
-棄	chi1
 倩	chi1
 謙	chi1
 嗛	chi1
@@ -2863,7 +2863,6 @@ use_preset_vocabulary: true
 加	cia1	5%
 袈	cia1
 嘉	cia1
-佳	cia1
 迦	cia1
 珈	cia1
 痂	cia1
@@ -2873,6 +2872,7 @@ use_preset_vocabulary: true
 麚	cia1
 瘕	cia1
 豭	cia1
+佳	cia1
 姐	cia3
 解	cia3	5%
 薢	cia3
@@ -2883,7 +2883,6 @@ use_preset_vocabulary: true
 斝	cia3
 藉	cia5
 借	cia5
-唶	cia5
 嫁	cia5	5%
 介	cia5	5%
 玠	cia5
