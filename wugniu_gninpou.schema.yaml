@@ -184,9 +184,10 @@ luna_pinyin:
   tag: luna_pinyin
   dictionary: luna_pinyin # 調取詞典luna_pinyin
   enable_user_dict: false # 關閉用戶詞典
-  prefix: '`'             # 反查引導鍵「`」
-  suffix: "'"             # 反查結束鍵「'」
+  prefix: '`'             # 引導鍵「`」
+  suffix: "'"             # 結束鍵「'」
   tips: 〔拼音〕          # 輸入前提示〔拼音〕
+  closing_tips: 〔吳語（寧波）〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -197,15 +198,16 @@ stroke:
   tag: stroke
   dictionary: stroke      # 調取詞典stroke
   enable_user_dict: false # 關閉用戶詞典
-  prefix: 'x'             # 反查引導鍵「x」
-  suffix: "'"             # 反查引導鍵「'」
+  prefix: 'x'             # 引導鍵「x」
+  suffix: "'"             # 結束鍵「'」
   tips: 〔筆畫〕          # 輸入前提示〔筆畫〕
+  closing_tips: 〔吳語（寧波）〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
 
 # 反查濾鏡
 reverse_lookup:
-  tags: [luna_pinyin,stroke]  # 掛在翻譯器luna_pinyin和stroke上
+  tags: [luna_pinyin, stroke] # 掛在翻譯器luna_pinyin和stroke上
   overwrite_comment: true     # 覆蓋其他提示
   dictionary: wugniu_gninpou  # 反查所得爲寧波吳拼
   comment_format:
