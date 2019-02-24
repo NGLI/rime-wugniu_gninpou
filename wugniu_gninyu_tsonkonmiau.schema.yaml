@@ -4,13 +4,14 @@
 schema:
   schema_id: wugniu_gninyu_tsonkonmiau
   name: 吳語（鄞縣鍾公廟）
-  version: "2018.12.17"
+  version: "2019.02.24"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
     鄞縣鍾公廟吳語注音輸入方案吳語學堂版
     鍾公廟音系基於《鄞县方言同音字汇》
     https://www.wugniu.com/
+    https://github.com/shinzoqchiuq/rime-wugniu_gninpou/
   dependencies:
     - luna_pinyin
     - stroke
@@ -55,8 +56,8 @@ engine:
     - reverse_lookup_filter@reverse_lookup # 反查濾鏡
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba"
-  delimiter: " '"
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: "'"
   algebra:
     # 生成鍾公廟音系
     - xform/WU/ngu/

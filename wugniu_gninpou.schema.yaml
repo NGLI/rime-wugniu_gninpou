@@ -4,12 +4,13 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "2018.12.17"
+  version: "2019.02.24"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
     寧波吳語注音輸入方案吳語學堂版
     https://www.wugniu.com/
+    https://github.com/shinzoqchiuq/rime-wugniu_gninpou/
   dependencies:
     - luna_pinyin
     - stroke
@@ -54,8 +55,8 @@ engine:
     - reverse_lookup_filter@reverse_lookup # 反查濾鏡
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " '"
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: "'"
   algebra:
     - xform/\d//     # 去掉聲調
     # 還原城區音系
