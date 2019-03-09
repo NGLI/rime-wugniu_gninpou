@@ -8,7 +8,7 @@
 
 ## 幫助文檔
 
-[rime-wugniu_gninpou Wiki](https://github.com/shinzoqchiuq/rime-wugniu_gninpou/wiki)
+[rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki)
 
 ## 拼音教程
 
