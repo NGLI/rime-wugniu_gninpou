@@ -10,6 +10,12 @@
 
 [rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki)
 
+## 安裝方法
+
+- [Windows](https://github.com/NGLI/rime-wugniu#windows-1)
+- [Linux、macOS](https://github.com/NGLI/rime-wugniu#linuxmacos-1)
+- [Android](https://github.com/NGLI/rime-wugniu#android-1)
+
 ## 拼音教程
 
 https://shinzoqchiuq.github.io/gninpou-tutorial/
