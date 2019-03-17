@@ -4834,10 +4834,10 @@ k	khe1
 劉	lieu2
 瀏	lieu2
 綹	lieu4
-柳	lieu4
-桺	lieu4
-栁	lieu4
-㧕	lieu4
+柳	lieu6
+桺	lieu6
+栁	lieu6
+㧕	lieu6
 霤	lieu6
 溜	lieu6
 溜	lhieu1
@@ -4876,6 +4876,7 @@ k	khe1
 汆	tshoe1
 竄	tshoe1
 攛	tshoe1
+詀	tshoe1
 篡	tshoe1
 簒	tshoe1
 穿	tshOE1
@@ -4891,7 +4892,6 @@ k	khe1
 剶	tshoe1
 鐫	tshoe1
 鐉	tshoe1
-詀	tshoe1
 車	tshoe1	1%
 叉	tshoe1	0%
 菜	tshoe1	0%
@@ -6720,6 +6720,7 @@ k	khe1
 䏾	phaon1
 胖	phaon5
 髈	phaon5
+膀	phaon5	0%
 旁	baon2
 螃	baon2
 滂	baon2
@@ -8715,6 +8716,7 @@ k	khe1
 躘	lon6
 弄	lon6
 挵	lon6
+𢙱	lon6
 哢	lon6
 弄	lhon1	5%
 挵	lhon1	5%
@@ -9921,6 +9923,7 @@ k	khe1
 菉	loq8
 碌	loq8
 磟	loq8
+睩	loq8	0%
 氯	loq8
 祿	loq8
 醁	loq8
