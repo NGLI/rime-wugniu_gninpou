@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.03.23"
+version: "2019.03.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8677,7 +8677,6 @@ k	khe1
 𢳾	don6
 洞	don6
 胴	don6
-烔	don6
 農	non2
 辳	non2
 膿	non2
@@ -16078,8 +16077,8 @@ k	khe1
 鬥水	teu syu
 熱溫溫
 熱度度
-熱烔烔	gniq don don
-火熱烔	hou gniq don
+熱烔烔
+火熱烔
 涾涾滾
 火熱涾涾滾
 𤉦暖
