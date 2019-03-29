@@ -1,6 +1,6 @@
 # 寧波吳語注音輸入方案吳語學堂版
 
-配方： ℞ **`wugniu_gninpou`**
+配方： ℞ **NGLI/wugniu_gninpou**
 
 基於[Rime](https://rime.im/)的寧波話吳語拼音輸入方案。
 
@@ -32,10 +32,11 @@ https://shinzoqchiuq.github.io/gninpou-tutorial/
 
 https://www.wugniu.com/
 
-## 致谢
+## 鳴謝
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
+- [iRime](https://github.com/jimmy54/iRime)
 - [字海网，叶典网](http://yedict.com/)
 - [汉典](http://www.zdic.net/)
 - [OpenCC](https://opencc.byvoid.com/)
