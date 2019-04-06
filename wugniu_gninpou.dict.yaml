@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.03.31"
+version: "2019.04.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -422,6 +422,7 @@ use_preset_vocabulary: true
 駐	dzyu6
 縋	dzyu6
 槌	dzyu6
+墜	dzyu6	5%
 滯	dzyu6	5%
 樹	dzyu6	0%
 書	syu1
@@ -2513,7 +2514,9 @@ use_preset_vocabulary: true
 靴	shiu1
 鞾	shiu1
 虛	shiu1
+虚	shiu1
 噓	shiu1
+嘘	shiu1
 墟	shiu1
 譃	shiu1
 歔	shiu1
@@ -2541,6 +2544,7 @@ use_preset_vocabulary: true
 詡	shiu3
 烜	shiu3
 毀	shiu5	5%
+毁	shiu5	5%
 㧦	shiu5
 揎	shiu5
 酗	shiu5
@@ -2713,7 +2717,7 @@ use_preset_vocabulary: true
 牠	tha1
 它	tha1
 鉈	tha1
-舑	tha3
+舑	tha1
 討	tha3	5%
 太	tha5
 鈦	tha5
@@ -3260,6 +3264,7 @@ use_preset_vocabulary: true
 交	kau1
 珓	kau1
 教	kau1
+敎	kau1
 皋	kau1
 皐	kau1
 臯	kau1
@@ -3291,7 +3296,7 @@ use_preset_vocabulary: true
 界	kau5	0%
 敲	khau1
 尻	khau1
-拷	khau3
+拷	khau1
 烤	khau3
 攷	khau3
 考	khau3
@@ -3445,8 +3450,8 @@ use_preset_vocabulary: true
 罵	mo6
 傌	mo6
 嬤	mho1
-朵	to1
-朶	to1
+朵	to1	5%
+朶	to1	5%
 挆	to3
 挅	to3
 䒳	to3
@@ -3462,8 +3467,8 @@ use_preset_vocabulary: true
 垜	to3
 埵	to3
 打	to3	0%
-朵	to5
-朶	to5
+朵	to3
+朶	to3
 跺	tho3
 跥	tho3
 湯	tho3	0%
@@ -3586,6 +3591,7 @@ use_preset_vocabulary: true
 加	ko1
 嘉	ko1
 枷	ko1
+架	ko1
 假	ko3
 叚	ko3
 假	ko5
@@ -3825,6 +3831,7 @@ use_preset_vocabulary: true
 叫	ciau5
 呌	ciau5
 教	ciau5
+敎	ciau5
 酵	ciau5	6%
 徼	ciau5
 噭	ciau5
@@ -4805,6 +4812,7 @@ use_preset_vocabulary: true
 帵	uae3
 綰	uae3
 捾	uae3
+頑	uae3	0%
 丢	tieu1
 丟	tieu1
 銩	tieu1
@@ -5252,7 +5260,7 @@ use_preset_vocabulary: true
 𦈧	pei1
 桮	pei1
 盃	pei1
-背	pei1
+揹	pei1
 褙	pei1
 陂	pei1
 貝	pei1
@@ -5436,6 +5444,7 @@ use_preset_vocabulary: true
 淚	lei6	6%
 泪	lei6	6%
 擂	lei6
+𢺢	lei6
 攂	lei6
 洡	lei6
 累	lei6	5%
@@ -5724,6 +5733,7 @@ use_preset_vocabulary: true
 昬	huei1	0%
 悔	huei3
 毀	huei3
+毁	huei3
 譭	huei3
 燬	huei3
 虫	huei3
@@ -6953,8 +6963,10 @@ use_preset_vocabulary: true
 鱨	dzaon2
 償	dzaon2	6%
 幢	dzaon4
+狀	dzaon4
 藏	dzaon6
 臟	dzaon6
+臓	dzaon6
 撞	dzaon6
 ⿱串皿	dzaon6
 霜	saon1
@@ -8417,6 +8429,7 @@ use_preset_vocabulary: true
 醺	shiun1
 訓	shiun5
 勻	yun2
+匀	yun2
 筠	yun2
 鋆	yun2
 𧥺	yun2
@@ -8775,6 +8788,7 @@ use_preset_vocabulary: true
 𤧚	tshon1
 𦝰	tshon1
 囪	tshon1
+囱	tshon1
 聰	tshon1
 從	tshon1
 鏦	tshon1
@@ -9435,6 +9449,7 @@ use_preset_vocabulary: true
 閘	zaq8
 牐	zaq8
 煠	zaq8
+炸	zaq8
 𧾁	zaq8
 𧼰	zaq8
 鍘	zaq8
@@ -10281,6 +10296,7 @@ use_preset_vocabulary: true
 鞸	piq7
 㮿	piq7
 別	piq7	0%
+别	piq7	0%
 彆	piq7
 𨂅	piq7
 必	piq7
@@ -10328,6 +10344,7 @@ use_preset_vocabulary: true
 𩪧	phiq7
 𨵩	phiq7
 別	biq8
+别	biq8
 弼	biq8
 鼻	biq8	6%
 䕗	biq8
@@ -10525,6 +10542,7 @@ use_preset_vocabulary: true
 㘍	ciq7
 灼	ciq7
 着	ciq7	5%
+𢆚	ciq7
 指	ciq7	0%
 今	ciq7	0%
 結	ciq7
@@ -10731,6 +10749,7 @@ use_preset_vocabulary: true
 息	shiq7
 媳	shiq7
 熄	shiq7
+瘜	shiq7
 式	shiq7
 拭	shiq7
 軾	shiq7
@@ -10950,6 +10969,7 @@ use_preset_vocabulary: true
 旭	shiuq7
 噱	shiuq7
 悅	yuq8
+悦	yuq8
 閱	yuq8
 戉	yuq8
 鉞	yuq8
@@ -14683,7 +14703,7 @@ use_preset_vocabulary: true
 做亂夢	tsou loe maon
 講夜話	kaon ya wo
 爬起	bo chi
-背夜	pei ya
+揹夜	pei ya
 落夜	loq ya
 宿夜	soq ya
 曬日頭菩	sa gniq deu bu
@@ -14992,7 +15012,7 @@ use_preset_vocabulary: true
 打烊	tan yan
 進賬	cin cian
 積落	ciq loq
-背債	pei tsa
+揹債	pei tsa
 放生	faon san
 蕩光	daon kuaon
 貴上	ciu zaon
@@ -15115,7 +15135,7 @@ use_preset_vocabulary: true
 吵朋	tshau ban
 打棚	tan ban
 調排	diau ba
-背命	pei min
+揹命	pei min
 拼捨性命	phin so shin min
 隨舍	zei so
 橫豎橫	wan zyu wan
@@ -15144,9 +15164,9 @@ use_preset_vocabulary: true
 招怪	ciau kua
 做惡	tsou oq
 做惡人	tsou oq gnin
-背耙	pei bo
-背老耙	pei lau bo
-背木梢	pei moq sau
+揹耙	pei bo
+揹老耙	pei lau bo
+揹木梢	pei moq sau
 上狗當	zaon keu taon
 上老當	zaon lau taon
 穿繃	tshOE pan
@@ -17416,7 +17436,7 @@ use_preset_vocabulary: true
 椏賣豆腐	o ma deu vu
 挖爛腳疤	uaq lae ciaq po
 挖壁打洞	uaq piq tan don
-背桌凳腳	pei tsoq ten ciaq
+揹桌凳腳	pei tsoq ten ciaq
 骨頭屁輕	kuaq deu phi chin
 骨頭輕煞	kuaq deu chin saq
 篤腿篤腿	toq thei toq thei
@@ -17922,3 +17942,4 @@ CT	shi thi
 T恤衫	thi shiuq sae
 U盤	ieu bun
 X光	e khaq sy kuaon
+來年子	ne gni tsy
