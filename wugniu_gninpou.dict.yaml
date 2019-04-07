@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.04.06"
+version: "2019.04.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2313,7 +2313,7 @@ use_preset_vocabulary: true
 牾	wu4
 武	Wu4
 務	Wu4	10%
-惡	wu6
+惡	wu6	0%
 濩	wu6
 頀	wu6
 悞	wu6	10%
@@ -2345,6 +2345,7 @@ use_preset_vocabulary: true
 熓	u1
 糊	u1	0%
 胡	u1	0%
+惡	u1	0%
 椅	u3	5%
 瑦	u3
 鄔	u5
@@ -2510,7 +2511,7 @@ use_preset_vocabulary: true
 輭	gniu4
 語	gniu6
 馭	gniu6	1%
-芋 	gniu6	5%
+芋	gniu6	5%
 靴	shiu1
 鞾	shiu1
 虛	shiu1
@@ -8628,6 +8629,7 @@ use_preset_vocabulary: true
 葑	fon1
 紛	fon1	0%
 諷	fon1
+畚	fon1	0%
 唪	fon3
 俸	fon5	5%
 賵	fon5
