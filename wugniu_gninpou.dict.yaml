@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.04.07"
+version: "2019.04.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2296,6 +2296,7 @@ use_preset_vocabulary: true
 舞	Wu2
 鵡	Wu2
 黃	wu2	0%
+黄	wu2	0%
 户	wu4
 戶	wu4
 戸	wu4
@@ -7129,6 +7130,7 @@ use_preset_vocabulary: true
 貺	huaon5
 王	waon2
 黃	waon2
+黄	waon2
 簧	waon2
 璜	waon2
 潢	waon2
@@ -7164,6 +7166,7 @@ use_preset_vocabulary: true
 往	uaon3
 徃	uaon3
 黃	uaon3	5%
+黄	uaon3	5%
 曂	uaon5
 枉	uaon5
 降	ciaon5
@@ -7172,6 +7175,7 @@ use_preset_vocabulary: true
 半	pun5
 𩢔	pun5
 潘	phun1
+盤	phun1	5%
 𧺾	phun3
 半	phun5	0%
 判	phun5
@@ -7180,7 +7184,7 @@ use_preset_vocabulary: true
 牉	phun5
 𠯘	phun5
 詊	phun5
-判	bun2
+判	bun2	5%
 盤	bun2
 蟠	bun2
 磐	bun2
@@ -7417,6 +7421,7 @@ use_preset_vocabulary: true
 凳	ten5
 櫈	ten5
 燉	ten5
+敦	ten5	5%
 撉	ten5
 澄	ten5
 膯	ten5
@@ -7656,8 +7661,8 @@ use_preset_vocabulary: true
 𩊖	pin3
 鉼	pin3
 鞞	pin3
-并	pin5
-併	pin5
+并	pin3
+併	pin3
 迸	pin5
 摒	pin5
 鬢	pin5
@@ -17901,6 +17906,8 @@ use_preset_vocabulary: true
 杠箱	kaon shian
 放映	faon ian
 傴背	on pei
+明朝	min jiau
+生活	sen waq
 借借看	cia cia khe
 停停看	din din khe
 動動看	don don khe
