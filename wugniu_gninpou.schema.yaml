@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "2019.03.09"
+  version: "2019.04.19"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
@@ -59,27 +59,11 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - xform/\d//     # 去掉聲調
+    # 去掉聲調
+    - xform/\d//
     # 還原城區音系
     - xlit/AEIOWN/aeiown/
 
-    ## 轉爲吳語協會式拼音
-    #- xform/q/h/
-    #- xform/(?<=[yi])o(\d|$)/uo/
-    #- xform/iau/io/
-    #- xform/([mnl]|ng)h/$1/
-    #- xform/([gk])ni(?=n|h|\d|$)/nyi/
-    #- xform/([gk])ni(?=[aoue])/ny/
-    #- xform/(?<=[szh])yu(?=n|h)/oe/
-    #- xform/er/r/
-
-    # 模糊音
-
-    ## 謝夜不分
-    #- derive/zhi(?=[aoue])/y/
-    #- derive/zhi(?=[nqh]|$)/yi/
-    ## 胡符不分
-    #- derive/wu$/vu/
     ## 亂漏不分
     - derive/loe/leu/
 
@@ -114,34 +98,21 @@ speller:
     - derive/ia(?=q|h)/i/
     - derive/ya(?=q|h)/yi/
 
-    # 新新派
-
-    ## 江高不分
-    #- derive/aon/au/
-    ## 朋排不分
-    #- derive/an/a/
-    ## 藍來不分
-    #- derive/ae/e/
-    ## 九舉不分
-    #- derive/(?<=[yi])eu/u/
-    ## 芋魚不分
-    #- derive/^n$/ng/
-
     # 清鼻邊音
     - derive/([mnl]|ng)h/$1/
     - derive/kn/gn/
+    # 容錯 gn(ny) => n kn => nh
+    - derive/(gn|ny)i/ni/
+    - derive/kni/nhi/
+    - derive/ny(?=[aoue])/ni/
     # 簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([pmtnlszkg]h|ng|ngh|tsh).+$/$1/
+    - abbrev/^([pmtnlszkg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
     # 容錯 un => oe
     - derive/([pbmw]|ph)un/$1oe/
     - derive/^([kgh]|kh)?un/$1uoe/
     # 容錯 au => ao
     - derive/au/ao/
-    # 容錯 gn(ny) => n kn => nh
-    - derive/(gn|ny)i/ni/
-    - derive/kni/nhi/
-    - derive/ny(?=[aoue])/ni/
     # c組聲母後自動加i
     - derive/^(c|j|gn|kn|[csz]h)i(?=[aoue])/$1/
     # 容錯 介音、主元音順序調換
@@ -158,31 +129,13 @@ translator:
   dictionary: wugniu_gninpou # 調取詞典wugniu_gninpou
   prism: wugniu_gninpou      # 根據拼寫運算生成棱鏡文件wugniu_gninpou
   spelling_hints: 5          # 標註拼音
-  comment_format:
+  comment_format: &comment
     # 還原城區音系
     - xlit/AEIOWN/aeiown/
     - xform/4/6/
 
-    # 顯示吳語協會式拼音
-    #- xform/q/h/
-    #- xform/(?<=[yi])o(\d|$)/uo/
-    #- xform/iau/io/
-    #- xform/([mnl]|ng)h/$1/
-    #- xform/([gk])ni(?=n|h|\d|$)/nyi/
-    #- xform/([gk])ni(?=[aoue])/ny/
-    #- xform/(?<=[szh])yu(?=n|h)/oe/
-    #- xform/er/r/
-    #- xlit/2345678/1223344/
-
     # 不顯示單字調
     - xform/\d//
-
-    ## 多字不顯示聲調
-    #- xform/(\d.+)\d/$1/
-    #- xform/\d(.+?)(?=\b)/$1/
-
-    ## 聲調上標
-    #- xlit/12345678/¹²³⁴⁵⁶⁷⁸/
 
 # 副翻譯器1 朙月拼音
 luna_pinyin:
@@ -215,27 +168,7 @@ reverse_lookup:
   tags: [luna_pinyin, stroke] # 掛在翻譯器luna_pinyin和stroke上
   overwrite_comment: true     # 覆蓋其他提示
   dictionary: wugniu_gninpou  # 反查所得爲寧波吳拼
-  comment_format:
-    # 還原城區音系
-    - xlit/AEIOWN/aeiown/
-    - xform/4/6/
-
-    # 顯示吳語協會式拼音
-    #- xform/q/h/
-    #- xform/(?<=[yi])o(\d|$)/uo/
-    #- xform/iau/io/
-    #- xform/([mnl]|ng)h/$1/
-    #- xform/([gk])ni(?=n|h|\d|$)/nyi/
-    #- xform/([gk])ni(?=[aoue])/ny/
-    #- xform/(?<=[szh])yu(?=n|h)/oe/
-    #- xform/er/r/
-    #- xlit/2345678/1223344/
-
-    ## 聲調上標
-    #- xlit/12345678/¹²³⁴⁵⁶⁷⁸/
-
-    # 不顯示單字調
-    - xform/\d//
+  comment_format: *comment
 
 punctuator:
   import_preset: symbols # 句讀處理器，統一從外部導入
