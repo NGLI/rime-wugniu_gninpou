@@ -1,6 +1,6 @@
 # 寧波吳語注音輸入方案吳語學堂版
 
-配方： ℞ **NGLI/wugniu_gninpou**
+配方： ℞ **NGLI/rime-wugniu_gninpou**
 
 基於[Rime](https://rime.im/)的寧波話吳語拼音輸入方案。
 
