@@ -26,9 +26,10 @@
 
 ## 使用
 
-- [模糊音](https://ngli.github.io/rime-wugniu/使用/模糊音.html)
-- [輸入提示](https://ngli.github.io/rime-wugniu/使用/输入提示.html)
-- [反查](https://ngli.github.io/rime-wugniu/使用/反查.html)
+- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派)
+- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音)
+- [输入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示)
+- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查)
 
 ## 拼音教程
 
