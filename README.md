@@ -11,7 +11,7 @@
 使用以下項目：
 
 - [寧波方言資料整理](https://github.com/shinzoqchiuq/gninpou-dialect)
-- [寧波話字表](https://github.com/shinzoqchiuq/gninpou-list)
+- [寧波話字表](https://github.com/shinzoqchiuq/gninpou-dictionary)
 
 ## 幫助文檔
 
