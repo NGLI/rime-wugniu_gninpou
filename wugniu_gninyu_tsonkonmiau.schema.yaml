@@ -4,12 +4,13 @@
 schema:
   schema_id: wugniu_gninyu_tsonkonmiau
   name: 吳語（鄞縣鍾公廟）
-  version: "2019.04.19"
+  version: "2019.04.22"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
-    鄞縣鍾公廟吳語注音輸入方案吳語學堂版
-    鍾公廟音系基於《鄞县方言同音字汇》
+    鄞縣鍾公廟吳語拼音輸入方案
+    採用學堂式吳語拼音
+    鍾公廟口音，音系基於《鄞县方言同音字汇》
     https://www.wugniu.com/
     https://github.com/NGLI/rime-wugniu_gninpou/
   dependencies:
