@@ -12,12 +12,12 @@
 # - 寧波方言資料整理
 #   https://github.com/shinzoqchiuq/gninpou-dialect
 # - 寧波話字表
-#   https://github.com/shinzoqchiuq/gninpou-list
+#   https://github.com/shinzoqchiuq/gninpou-dictionary
 #
 
 ---
 name: wugniu_gninpou
-version: "2019.04.20"
+version: "2019.04.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -502,7 +502,6 @@ use_preset_vocabulary: true
 誰	zyu4	0%
 孰	zyu4	0%
 墅	zyu4
-嶼	zyu4
 洳	zyu6
 豎	zyu6
 竪	zyu6
@@ -2623,6 +2622,7 @@ use_preset_vocabulary: true
 羽	yu4
 庾	yu4
 與	yu4
+嶼	yu4
 遠	yu4
 薳	yu4
 鉉	yu4
@@ -4103,7 +4103,6 @@ use_preset_vocabulary: true
 𧟰	fe1
 𡠍	fe1
 𫸻	fe1
-嫑	fe1
 點	te1	0%
 㸃	te1	0%
 歹	te3
@@ -14128,7 +14127,7 @@ use_preset_vocabulary: true
 賴孵雞	la bu ci
 賴孵雞娘	la bu ci gnian
 賴孵草雞	la bu tshau ci
-老伏卵	lau boq loe
+老伏卵	lau boq lou
 梅林雞	mei lin ci
 象山雞	jian sae ci
 蘆花雞	lu huo ci
@@ -18941,7 +18940,6 @@ use_preset_vocabulary: true
 老白酒	lau baq cieu
 老白蝨	lau baq saq
 老搭檔	lau taq taon
-老伏卵	lau boq lou
 老孵雞	lau bu ci
 老木朧懂	lau moq lon ton
 老菔乾	lau voq kI
@@ -23700,10 +23698,12 @@ use_preset_vocabulary: true
 看看看	khI khI khe
 相相看	shian shian khe
 䞁䞁看	i i khe
+派派看	pha pha khe
 明朝	min jiau
 生活	sen waq
 B超	bi chiau
 CT	shi thi
+T恤	thi shiuq
 T恤衫	thi shiuq sae
 U盤	ieu bun
 X光	e khaq sy kuaon
