@@ -68,6 +68,9 @@ speller:
 
     ## 亂漏不分
     - derive/loe/leu/
+    ## 研 讀 黏
+    - derive/Gn/kn/
+    - xform/Gn/gn/
 
     # 新派
 

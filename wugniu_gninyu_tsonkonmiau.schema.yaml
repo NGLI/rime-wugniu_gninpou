@@ -68,6 +68,7 @@ speller:
     - xform/nE/gnie/
     - xform/I/e/
     - xform/W/v/
+    - xform/Gn/kn/
     - xform/N/w/
     - xform/(^y|i)u(?=n)/$1o/
     - xform/([pb]|ph)un([1234])/$1oe$2/
@@ -142,6 +143,7 @@ translator:
     - xform/nE/gnie/
     - xform/I/e/
     - xform/W/v/
+    - xform/Gn/kn/
     - xform/N/w/
     - xform/(^y|i)u(?=n)/$1o/
     - xform/([pb]|ph)un([1234])/$1oe$2/
