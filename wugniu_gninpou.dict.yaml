@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.05.03"
+version: "2019.05.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -27694,6 +27694,10 @@ use_preset_vocabulary: true
 賺鈿勿着力	dzae di vaq jiaq liq
 介貌講	kaq mau kaon
 介貌寫	kaq mau shia
+K	khe1
+k	khe1
+S	e sy
+s	s sy
 B超	bi chiau
 CT	shi thi
 T恤	thi shiuq
