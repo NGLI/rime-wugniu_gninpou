@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.05.04"
+version: "2019.05.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -449,7 +449,7 @@ use_preset_vocabulary: true
 須	syu1
 鬚	syu1	0%
 尿	syu1
-⿰口舒	syu1
+#⿰口舒	syu1
 水	syu3
 暑	syu3
 黍	syu3
@@ -7561,9 +7561,9 @@ use_preset_vocabulary: true
 僧	sen1
 森	sen1
 參	sen1	10%
-蔘	sen1	10%
-葠	sen1	10%
-蓡	sen1	10%
+蔘	sen1
+葠	sen1
+蓡	sen1
 猻	sen1
 飧	sen1
 飱	sen1
@@ -7574,7 +7574,7 @@ use_preset_vocabulary: true
 胜	sen1
 苼	sen1
 泩	sen1
-聲	sen1	0%
+#聲	sen1	0%
 損	sen3
 矧	sen3
 哂	sen3
@@ -9786,7 +9786,7 @@ use_preset_vocabulary: true
 屋	uaq7	0%
 北	poq7
 鉳	poq7
-波	poq7
+波	poq7	5%
 卜	poq7
 卟	poq7
 剝	poq7
@@ -13607,7 +13607,7 @@ use_preset_vocabulary: true
 機器腳踏車	ci chi ciaq daq tsho
 棚車	ban tsho
 火輪	hou len
-回聲	wei sen
+#回聲	wei sen
 地莊船	di tsaon zOE
 抲魚船	kho ng zOE
 ⿰舟巤子	laq tsy
@@ -16952,10 +16952,10 @@ use_preset_vocabulary: true
 省勒	san laq
 省勒	sae laq
 單超	tae chiau
-喌喌	tsoq tsoq
+#喌喌	tsoq tsoq
 喌喌	tso tso
 喁喁	gniu gniu
-囑囑	tsoq tsoq
+#囑囑	tsoq tsoq
 咩咩	mhae mhae
 咪咪	mhi mhi
 的𡀂	tiq lei
@@ -23708,6 +23708,10 @@ use_preset_vocabulary: true
 生活	sen waq
 下工夫	gho kon fu
 下本	gho pen
+一百廿
+倭豆鹹肉糯米飯
+糯米飯
+倭豆飯
 有愁嘸愁
 愁六月嘸日頭	zeu loq yuq mh gniq deu
 東方發白開太陽	ton faon faq baq khe tha yan
@@ -27697,7 +27701,7 @@ use_preset_vocabulary: true
 K	khe1
 k	khe1
 S	e sy
-s	s sy
+s	e sy
 B超	bi chiau
 CT	shi thi
 T恤	thi shiuq
