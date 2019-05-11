@@ -13,11 +13,13 @@
 #   https://github.com/shinzoqchiuq/gninpou-dialect
 # - 寧波話字表
 #   https://github.com/shinzoqchiuq/gninpou-dictionary
+# - 寧波話【八股文】
+#   https://github.com/shinzoqchiuq/gninpou-essay
 #
 
 ---
 name: wugniu_gninpou
-version: "2019.05.07"
+version: "2019.05.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6035,9 +6037,9 @@ use_preset_vocabulary: true
 裹	kou3
 管	kou3	0%
 過	kou5
-個	kou5
-箇	kou5
-个	kou5	5%
+個	kou5	6%
+箇	kou5	6%
+个	kou5	6%
 軻	khou1
 苛	khou1
 䯊	khou1
@@ -23107,7 +23109,7 @@ use_preset_vocabulary: true
 俉個	ng goq
 俉儂個	ng nou goq
 
-# 《阿拉宁波话(修订版)》其他寫法
+# 《阿拉宁波话(修订版)》 其他寫法
 
 裏向	li shian
 外向	nga shian
@@ -23403,7 +23405,7 @@ use_preset_vocabulary: true
 尿⿸尸查出	syu dza tshyuq
 ⿸尸查爛薄屙	dza lae boq ou
 
-# 江蘇教育版《寧波方言詞典》其他寫法
+# 江蘇教育版《寧波方言詞典》 其他寫法
 
 四個	sy ghoq
 幾個	ci ghoq
@@ -23642,76 +23644,8 @@ use_preset_vocabulary: true
 白無常	baq vu dzaon
 黑無常	haq vu dzaon
 
-# other phrases
+# 其他詞彙
 
-鴉片	a phi
-阿彌陀佛	o mi dou vaq
-彌勒活大翹	mi laq waq da jiau
-打賬	tae cian
-打埋	tae ma
-依賴	i lae
-頭銜	deu ngae
-薄荷	bou hou
-象山	jian sae
-半個	phun kou
-凌𠗶	din daon
-凌𠗶	jin daon
-凌凙	din daon
-凌凙	jin daon
-肉肉	knion knion
-鴨梨	iaq li
-撫恤金	fu shiuq cin
-未嘗	vi dzaon
-放映	faon ian
-傴背	on pei
-魚鰓	ng se
-借借看	cia cia khe
-停停看	din din khe
-動動看	don don khe
-問問看	men men khe
-學學看	ghoq ghoq khe
-對對看	tei tei khe
-忖忖看	tshen tshen khe
-戳戳看	tshoq tshoq khe
-尋尋看	zhin zhin khe
-拼拼看	phin phin khe
-接接看	ciq ciq khe
-揉揉看	gnieu gnieu khe
-擦擦看	tshaq tshaq khe
-數數看	su su khe
-比比看	pi pi khe
-演演看	yi yi khe
-燒燒看	shiau shiau khe
-煮煮看	tsy tsy khe
-猜猜看	tshe tshe khe
-畫畫看	wo wo khe
-疊疊看	diaq diaq khe
-穿穿看	tshOE tshOE khe
-算算看	soe soe khe
-練練看	li li khe
-嗅嗅看	shion shion khe
-聽聽看	thin thin khe
-試試看	sy sy khe
-講講看	kaon kaon khe
-變變看	pi pi khe
-賺賺看	dzae dzae khe
-走走看	tseu tseu khe
-轉轉看	tsoe tsoe khe
-連連看	li li khe
-量量看	lian lian khe
-弄弄看	lon lon khe
-看看看	khI khI khe
-相相看	shian shian khe
-䞁䞁看	i i khe
-派派看	pha pha khe
-明朝	min jiau
-生活	sen waq
-下工夫	gho kon fu
-下本	gho pen
-一百廿
-倭豆鹹肉糯米飯
-糯米飯
-倭豆飯
 有愁嘸愁
 愁六月嘸日頭	zeu loq yuq mh gniq deu
 東方發白開太陽	ton faon faq baq khe tha yan
@@ -27698,6 +27632,80 @@ use_preset_vocabulary: true
 賺鈿勿着力	dzae di vaq jiaq liq
 介貌講	kaq mau kaon
 介貌寫	kaq mau shia
+鴉片	a phi
+阿彌陀佛	o mi dou vaq
+彌勒活大翹	mi laq waq da jiau
+打賬	tae cian
+打埋	tae ma
+依賴	i lae
+頭銜	deu ngae
+薄荷	bou hou
+象山	jian sae
+半個	phun kou
+凌𠗶	din daon
+凌𠗶	jin daon
+凌凙	din daon
+凌凙	jin daon
+肉肉	knion knion
+鴨梨	iaq li
+撫恤金	fu shiuq cin
+未嘗	vi dzaon
+放映	faon ian
+傴背	on pei
+魚鰓	ng se
+借借看	cia cia khe
+停停看	din din khe
+動動看	don don khe
+問問看	men men khe
+學學看	ghoq ghoq khe
+對對看	tei tei khe
+忖忖看	tshen tshen khe
+戳戳看	tshoq tshoq khe
+尋尋看	zhin zhin khe
+拼拼看	phin phin khe
+接接看	ciq ciq khe
+揉揉看	gnieu gnieu khe
+擦擦看	tshaq tshaq khe
+數數看	su su khe
+比比看	pi pi khe
+演演看	yi yi khe
+燒燒看	shiau shiau khe
+煮煮看	tsy tsy khe
+猜猜看	tshe tshe khe
+畫畫看	wo wo khe
+疊疊看	diaq diaq khe
+穿穿看	tshOE tshOE khe
+算算看	soe soe khe
+練練看	li li khe
+嗅嗅看	shion shion khe
+聽聽看	thin thin khe
+試試看	sy sy khe
+講講看	kaon kaon khe
+變變看	pi pi khe
+賺賺看	dzae dzae khe
+走走看	tseu tseu khe
+轉轉看	tsoe tsoe khe
+連連看	li li khe
+量量看	lian lian khe
+弄弄看	lon lon khe
+看看看	khI khI khe
+相相看	shian shian khe
+䞁䞁看	i i khe
+派派看	pha pha khe
+明朝	min jiau
+生活	sen waq
+下工夫	gho kon fu
+下本	gho pen
+一百廿
+倭豆鹹肉糯米飯
+糯米飯
+倭豆飯
+合算	kaq soe
+勿合算	vaq kaq soe
+弗合算	vaq kaq soe
+勿上算	vaq zaon soe
+弗上算	vaq zaon zoe
+來年子	ne gni tsy
 K	khe1
 k	khe1
 S	e sy
@@ -27708,4 +27716,859 @@ T恤	thi shiuq
 T恤衫	thi shiuq sae
 U盤	ieu bun
 X光	e khaq sy kuaon
-來年子	ne gni tsy
+
+# 寧波話【八股文】
+
+〇二	lin gni
+〇兩	lin lian
+一上去	iq zaon chi
+一下去	iq gho chi
+一世	iq shi
+一世紀	iq syu ci
+一世英名	iq shi in min
+一九九二	iq cieu cieu gni
+一九九兩	iq cieu cieu lian
+一乾二淨	iq kI gni zhin
+一乾二淨	iq kI er zhin
+一乾而盡	iq kI er jin
+一了	iq liau
+一了心願	iq liau shin gniu
+一了百了	iq liau paq liau
+一了百當	iq liau paq taon
+一事無成	iq zy Wu jin
+一事無成	iq zy vu jin
+一二	iq gni
+一二三	iq gni sae
+一兩三	iq lian sae
+一些人	iq shiq gnin
+一些問題	iq shiq ven di
+一人之下萬人之上	iq gnin tsy gho vae gnin tsy zaon
+一人份	iq gnin ven
+一人傳虛	iq gnin dzoe shiu
+一人得道	iq gnin taq dau
+一人得道雞犬升天	iq gnin taq dau ci chiu shin thi
+一仗	iq cian
+一代人	iq de gnin
+一代新人換舊人	iq de shin gnin wun jieu gnin
+一佛出世	iq vaq tshyuq syu
+一佛出世二佛生天	iq vaq tshyuq syu gni vaq sen thi
+一個勿小心	iq goq vaq shiau shin
+一個勿小心	iq ghoq vaq shiau shin
+一個弗小心	iq goq vaq shiau shin
+一個弗小心	iq ghoq vaq shiau shin
+一個中國政策	iq goq tson koq cin tshaq
+一個中國政策	iq ghoq tson koq cin tshaq
+一個人	iq goq gnin
+一個人	iq ghoq gnin
+一個人住	iq goq gnin dzyu
+一個人住	iq ghoq gnin dzyu
+一個人走	iq goq gnin tseu
+一個人走	iq ghoq gnin tseu
+一個個	iq goq goq
+一個個	iq ghoq ghoq
+一個勁	iq goq jin
+一個勁	iq ghoq jin
+一個女生	iq goq gniu san
+一個女生	iq ghoq gniu san
+一個巴掌拍勿響	iq goq po tsaon phaq vaq shian
+一個巴掌拍勿響	iq ghoq po tsaon phaq vaq shian
+一個巴掌拍弗響	iq goq po tsaon phaq vaq shian
+一個巴掌拍弗響	iq ghoq po tsaon phaq vaq shian
+一個心眼	iq goq shin ngae
+一個心眼	iq ghoq shin ngae
+一個接一個	iq goq ciq iq goq
+一個接一個	iq ghoq ciq iq ghoq
+一個月	iq goq yuq
+一個月	iq ghoq yuq
+一個月內	iq goq yuq nei
+一個月內	iq ghoq yuq nei
+一個月後	iq goq yuq gheu
+一個月後	iq ghoq yuq gheu
+一個樣	iq goq yan
+一個樣	iq ghoq yan
+一個準	iq goq tsyun
+一個準	iq ghoq tsyun
+一個紅臉一個白臉	iq goq ghon li iq goq baq li
+一個紅臉一個白臉	iq ghoq ghon li iq ghoq baq li
+一個蘿蔔一個坑	iq goq lou boq iq goq khan
+一個蘿蔔一個坑	iq ghoq lou boq iq ghoq khan
+一隻跟斗十萬八千里	iq tsaq ken teu zyuq vae paq chi li
+一隻鑊裏吃飯個	iq tsaq ghoq li chioq vae goq
+一隻頭兩隻大	iq tsaq deu lian tsaq dou
+一隻鼻孔出氣	iq tsaq biq khon tshyuq chi
+一倡百和	iq tshaon paq ghou
+一停	iq din
+一傳十	iq dzoe zyuq
+一億人	iq i gnin
+一償宿願	iq dzaon soq gniu
+一出去	iq tshyuq chi
+一出生	iq tshyuq san
+一分	iq fen
+一分一秒	iq fen iq miau
+一分子	iq ven tsy
+一分收穫	iq fen shieu ghoq
+一分爲二	iq fen wei gni
+一分耕耘	iq fen ken yun
+一分耕耘一分收穫	iq fen ken yun iq fen shieu ghoq
+一分貨	iq fen hou
+一分錢	iq fen ji
+一分洋鈿	iq fen yan di
+一分錢一分貨	iq fen ji iq fen hou
+一分洋鈿一分貨	iq fen yan di iq fen hou
+一分鐘	iq fen tson
+一切從簡	iq chiq dzon ci
+一加侖	iq cia len
+一千人	iq chi gnin
+一千個	iq chi goq
+一千個	iq chi ghoq
+一千零兩	iq chi lin lian
+一去	iq chi
+一去勿回	iq chi vaq wei
+一去弗回	iq chi vaq wei
+一去不回頭	iq chi paq wei deu
+一去勿回頭	iq chi vaq wei deu
+一去弗回頭	iq chi vaq wei deu
+一去勿復	iq chi vaq voq
+一去勿復返	iq chi vaq voq fae
+一去勿返	iq chi vaq fae
+一去弗復	iq chi vaq voq
+一去弗復返	iq chi vaq voq fae
+一去弗返	iq chi vaq fae
+一去無影蹤	iq chi Wu in tson
+一去無影蹤	iq chi vu in tson
+一口吃隻胖子	iq kheu chioq tsaq phaon tsy
+一口吸盡西江水	iq kheu shiq jin shi kaon syu
+一吹	iq tshyu
+一味	iq vi
+一和	iq ghou
+一品夫人	iq phin fu gnin
+一哄而上	iq ghon er zaon
+一哄而起	iq ghon er chi
+一員大將	iq yu da cian
+一唱一和	iq tshaon iq ghou
+一問	iq men
+一問一答	iq men iq taq
+一問三不知	iq men sae paq tsyu
+一問三勿知	iq men sae vaq tsyu
+一問三弗知	iq men sae vaq tsyu
+一問之下	iq men tsy gho
+一回去	iq wei chi
+一回生	iq wei san
+一回生兩回熟	iq wei san lian wei zoq
+一團和氣	iq doe ghou chi
+一報還一報	iq pau wae iq pau
+一場夢	iq jian mon
+一場春夢	iq jian tshyun mon
+一壇死水	iq dae shi syu
+一壺水	iq wu syu
+一夕之間	iq zhiq tsy ci
+一夜之間	iq ya tsy ci
+一夜無夢	iq ya Wu mon
+一夜無夢	iq ya vu mon
+一夜露水	iq ya lu syu
+一夢漫言	iq mon mae yi
+一夥人	iq hou gnin
+一日一個樣	iq gniq iq goq yan
+一日一個樣	iq gniq iq ghoq yan
+一夫當關萬夫莫敵	iq fu taon kuae vae fu moq diq
+一夫當關萬夫莫開	iq fu taon kuae vae fu moq khe
+一字勿差	iq zy vaq tsho
+一字之差	iq zy tsy tsho
+一字長蛇陣	iq zy jian dzo jin
+一學	iq ghoq
+一學到	iq ghoq tau
+一學期	iq ghoq ji
+一學起	iq ghoq chi
+一家之主	iq cia tsy tsyu
+一家之言	iq cia tsy yi
+一家人	iq ko gnin
+一家大小	iq ko dou shiau
+一家子	iq ko tsy
+一寸秋波	iq tshen chieu pou
+一對一鬥牛	iq tei iq teu ngeu
+一小撮	iq shiau tshoq
+一小部分	iq shiau bu ven
+一展	iq ci
+一展身手	iq ci shin shieu
+一展長才	iq ci jian dze
+一干人	iq kI gnin
+一年之計在於春	iq gni tsy ci dze yu tshyun
+一年被蛇咬十年怕井繩	iq gni bei dzo ngau zyuq gni pho cin zhin
+一心兩用	iq shin lian yon
+一念之差	iq nE tsy tsho
+一念之間	iq nE tsy ci
+一意孤行	iq i ku yin
+一手交貨	iq shieu kau hou
+一手交錢	iq shieu kau ji
+一手交鈔票	iq shieu kau tshau phiau
+一手托兩家	iq shieu thoq lian ko
+一技之長	iq ji tsy jian
+一把抓	iq po tsa
+一把辛酸淚	iq po shin soe lei
+一拉	iq lha
+一拉之下	iq lha tsy gho
+一掬同情之淚	iq ciuq don jin tsy lei
+一撮	iq tshoq
+一改故轍	iq ke ku ciq
+一新耳目	iq shin er moq
+一日三市	iq gniq sae zy
+一日三秋	iq gniq sae chieu
+一日三餐	iq gniq sae tshae
+一日不見	iq gniq paq ci
+一日勿見	iq gniq vaq ci
+一日弗見	iq gniq vaq ci
+一日不見如隔三秋	iq gniq paq ci zyu kaq sae chieu
+一日勿見如隔三秋	iq gniq vaq ci zyu kaq sae chieu
+一日弗見如隔三秋	iq gniq vaq ci zyu kaq sae chieu
+一日之計	iq gniq tsy ci
+一日之計在於晨	iq gniq tsy ci dze yu zyun
+一日之雅	iq gniq tsy ia
+一日九遷	iq gniq cieu chi
+一日份	iq gniq ven
+一日夫妻百日恩	iq gniq fu chi paq gniq en
+一日數驚	iq gniq su cin
+一日爲師	iq gniq wei sy
+一日萬機	iq gniq vae ci
+一日遊	iq gniq yeu
+一旦無常萬事休	iq tae Wu dzaon vae zy shieu
+一旦無常萬事休	iq tae vu dzaon vae zy shieu
+一時之間	iq zy tsy ci
+一時間	iq zy ci
+一曝十寒	iq boq zyuq ghEI
+一更	iq kan
+一朝一夕	iq ciau iq zhiq
+一朝之忿	iq ciau tsy ven
+一朝天子	iq jiau thi tsy
+一朝天子一朝臣	iq jiau thi tsy iq jiau jin
+一朝被蛇咬	iq ciau bei dzo ngau
+一杯水	iq pei syu
+一架	iq ko
+一條魚	iq diau ng
+一棍子打煞	iq kuen tsy tan saq
+一櫃	iq guei
+一次生	iq tshy san
+一步一個腳印	iq bu iq goq ciaq in
+一步一個腳印	iq bu iq ghoq ciaq in
+一歲	iq syu
+一死	iq shi
+一死一傷	iq shi iq saon
+一死了之	iq shi liau tsy
+一段時間	iq doe zy ci
+一水	iq syu
+一水之隔	iq syu tsy kaq
+一汽大衆	iq chi da tson
+一流人才	iq lieu zyun dze
+一流學府	iq lieu ghoq fu
+一清如水	iq chin zyu syu
+一滴水	iq tiq syu
+一潭死水	iq dae shi syu
+一無所長	iq vu so jian
+一無所長	iq Wu so jian
+一無長物	iq vu jian vaq
+一無長物	iq Wu jian vaq
+一片狼藉	iq phi laon zhiq
+一物降一物	iq vaq ghaon iq vaq
+一狀	iq zaon
+一班人	iq pae gnin
+一生	iq sen
+一生中	iq sen tson
+一生受用不盡	iq sen zhieu yon paq jin
+一生受用勿盡	iq sen zhieu yon vaq jin
+一生受用弗盡	iq sen zhieu yon vaq jin
+一甲	iq ciaq
+一甲子	iq ciaq tsy
+一百人	iq paq gnin
+一百個	iq paq goq
+一百個	iq paq ghoq
+一百分	iq paq fen
+一目十行	iq moq zyuq ghaon
+一眼望去	iq ngae vaon chi
+一眼望去	iq ngae maon chi
+一着	iq ciq
+一着不慎	iq ciq paq zyun
+一瞄	iq mhiau
+一瞬間	iq syun ci
+一石二鳥	iq zaq gni gniau
+一石二鳥	iq zaq er gniau
+一石兩鳥	iq zaq lian gniau
+一碗水端平	iq un syu toe bin
+一神教	iq zyun ciau
+一票人	iq phiau gnin
+一笑了之	iq shiau liau tsy
+一簾幽夢	iq li ieu mon
+一籌莫展	iq jieu moq ci
+一籌莫展	iq jieu moq tsoe
+一線希望	iq shi shi vaon
+一線生機	iq shi sen ci
+一缸水	iq kaon syu
+一羣人	iq jiun gnin
+一脈相傳	iq maq shian dzOE
+一至於此	iq tsy yu tshy
+一般人	iq pae gnin
+一般人員	iq pae zyun yu
+一般狀況	iq pae dzaon huaon
+一般貿易	iq pae meu yiq
+一萬人	iq vae gnin
+一萬個	iq vae goq
+一萬個	iq vae ghoq
+一號電池	iq ghau di ji
+一行	iq ghaon
+一行	iq yin
+一行三昧	iq yin sae mei
+一行人	iq yin gnin
+一行行	iq yin yin
+一衣帶水	iq i ta syu
+一表人才	iq piau zyun dze
+一表人材	iq piau zyun dze
+一表人物	iq piau zyun vaq
+一被	iq bei
+一視同仁	iq zy don zyun
+一覺	iq kau
+一覺睏到天亮	iq kau khuen tau thi lian
+一覺睏到天亮	iq kau khuen tau thiq gnian
+一覺睏到大天亮	iq kau khuen tau dou thi lian
+一觸即爆	iq tshoq ciq bau
+一言一行	iq yi iq yin
+一言不和	iq yi paq ghou
+一言勿和	iq yi vaq ghou
+一言弗和	iq yi vaq ghou
+一走了之	iq tseu liau tsy
+一辭莫贊	iq dzy moq tsae
+一進去	iq cin chi
+一過去	iq kou chi
+一部分	iq bu ven
+一醉解千愁	iq tsei ka chi zeu
+一錘子買賣	iq zei tsy ma ma
+一錘定音	iq zei din in
+一長	iq jian
+一長一短	iq jian iq toe
+一間	iq kae
+一隻貓	iq tsaq mae
+一集	iq jiq
+一霎間	iq saq ci
+一面之交	iq mi tsy ciau
+一頂	iq tin
+一頭撞煞	iq deu dzaon saq
+一頭霧水	iq deu vu syu
+一頭霧水	iq deu Wu syu
+一風吹	iq fon tshyu
+一飽耳福	iq pau er foq
+一髮之差	iq faq tsy tsho
+一髮之間	iq faq tsy ci
+一鳴驚人	iq min cin zyun
+一眼也	iq ngae gha
+一眼也勿	iq ngae gha vaq
+一眼也弗	iq ngae gha vaq
+一眼也嘸沒	iq ngae gha mhiq
+一黨獨大	iq taon doq dou
+一鼻子	iq biq tsy
+一鼻子灰	iq biq tsy huei
+一鼻孔	iq biq khon
+一鼻孔出氣	iq biq khon tshyuq chi
+丁一確二	tin iq chiuq er
+丁二烯	tin er shi
+丁二醇	tin er zyun
+丁克家庭	tin khaq cia din
+丁加奴	tin cia nu
+丁固生松	tin ku sen son
+丁基橡膠	tin ci zhian ciau
+丁寵家庭	tin tshon cia din
+丁未	tin vi
+丁村人	tin tshen gnin
+丁苯橡膠	tin pen zhian ciau
+丁骨牛排	tin kuaq ngeu ba
+七世	chiq shi
+七世夫妻	chiq shi fu chi
+七了八當	chiq liau paq taon
+七人	chiq gnin
+七個	chiq goq
+七個	chiq ghoq
+七個人	chiq goq gnin
+七個人	chiq ghoq gnin
+七個八個	chiq goq paq goq
+七個八個	chiq ghoq paq ghoq
+七億人	chiq i gnin
+七分	chiq fen
+七分之一	chiq fen tsy iq
+七分鐘	chiq fen tson
+七十七國集團	chiq zyuq chiq koq jiq doe
+七十二	chiq zyuq gni
+七十二行	chiq zyuq gni ghaon
+七千人	chiq chi gnin
+七和絃	chiq ghou yi
+七國集團	chiq koq jiq doe
+七堵	chiq tu
+七堵區	chiq tu chiu
+七大	chiq da
+七大工業國集團	chiq da kon gniq koq jiq doe
+七大洲	chiq da cieu
+七姊妹星團	chiq ci mei shin doe
+七層架構	chiq zen cia keu
+七帶石斑魚	chiq ta zaq pae ng
+七扭八歪	chiq gnieu paq hua
+七日	chiq gniq
+七歲	chiq syu
+七百人	chiq paq gnin
+七級浮屠	chiq ciq vu du
+七號電池	chiq ghau di ji
+七行	chiq ghaon
+七行詩	chiq ghaon sy
+七覺支	chiq ciuq tsy
+七魄	chiq phaq
+丈二和尚	jian gni ghou zaon
+丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
+丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
+丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
+丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
+丈二金剛	jian gni cin kaon
+三世	sae shi
+三世佛	sae shi vaq
+三世紀	sae syu ci
+三人	sae gnin
+三人份	sae gnin ven
+三人成虎	sae gnin jin fu
+三人行	sae zyun yin
+三人行必有我師	sae zyun yin piq yeu ngo sy
+三仁	sae zyun
+三伏天	sae voq thi
+三伯	sae paq
+三伯父	sae paq vu
+三保太監	sae pau tha kae
+三個世界	sae goq syu ka
+三個世界	sae ghoq syu ka
+三個人	sae goq gnin
+三個人	sae ghoq gnin
+三個代表	sae goq de piau
+三個代表	sae ghoq de piau
+三個和尚嘸沒水喝	sae goq ghou zaon mhiq syu haq
+三個和尚嘸沒水喝	sae ghoq ghou zaon mhiq syu haq
+三個和尚嘸沒水吃	sae goq ghou zaon mhiq syu chioq
+三個和尚嘸沒水吃	sae ghoq ghou zaon mhiq syu chioq
+三個女人一臺戲	sae goq gniu gnin iq de shi
+三個女人一臺戲	sae ghoq gniu gnin iq de shi
+三個字	sae goq zy
+三個字	sae ghoq zy
+三個方面	sae goq faon mi
+三個方面	sae ghoq faon mi
+三個月	sae goq yuq
+三個月	sae ghoq yuq
+三個臭皮匠	sae goq chieu bi zhian
+三個臭皮匠	sae ghoq chieu bi zhian
+三個臭皮匠勝過諸葛亮	sae goq chieu bi zhian shin kou tsyu kaq lian
+三個臭皮匠勝過諸葛亮	sae ghoq chieu bi zhian shin kou tsyu kaq lian
+三個臭皮匠賽過諸葛亮	sae goq chieu bi zhian se kou tsyu kaq lian
+三個臭皮匠賽過諸葛亮	sae ghoq chieu bi zhian se kou tsyu kaq lian
+三個臭皮匠頂個諸葛亮	sae goq chieu bi zhian tin goq tsyu kaq lian
+三個臭皮匠頂個諸葛亮	sae ghoq chieu bi zhian tin ghoq tsyu kaq lian
+三個階段	sae goq ka doe
+三個階段	sae ghoq ka doe
+三億人	sae i gnin
+三分	sae fen
+三分之一	sae fen tsy iq
+三分之二	sae fen tsy gni
+三分之兩	sae fen tsy lian
+三分法	sae fen faq
+三分熟	sae fen zoq
+三分球	sae fen jieu
+三分線	sae fen shi
+三分鐘	sae fen tson
+三分鐘熱度	sae fen tson gniq du
+三分頭	sae fen deu
+三十二	sae zyuq gni
+三十兩萬	sae zyuq lian vae
+三十日	sae zyuq gniq
+三十歲	sae zyuq syu
+三千世界	sae chi syu ka
+三千人	sae chi gnin
+三千個	sae chi goq
+三千個	sae chi ghoq
+三句不離本行	sae ciu paq li pen ghaon
+三句勿離本行	sae ciu vaq li pen ghaon
+三句弗離本行	sae ciu vaq li pen ghaon
+三句話不離本行	sae ciu wo paq li pen ghaon
+三句話勿離本行	sae ciu wo vaq li pen ghaon
+三句話弗離本行	sae ciu wo vaq li pen ghaon
+三呼萬歲	sae fu vae sei
+三和絃	sae ghou yi
+三和路	sae ghou lu
+三商行	sae saon ghaon
+三國無雙	sae koq vu saon
+三國無雙	sae koq Wu saon
+三圍	sae wei
+三大	sae da
+三大件	sae da ji
+三大作風	sae da tsoq fon
+三大塊	sae dou khuei
+三大差別	sae da tsho biq
+三大政策	sae da cin tshaq
+三大洋	sae da yan
+三大片	sae da phi
+三大發明	sae da faq min
+三大革命	sae da kaq min
+三大革命運動	sae da kaq min yun don
+三大類	sae da lei
+三天打魚	sae thi tan ng
+三夷教	sae yi ciau
+三好學生	sae hau ghoq san
+三好生	sae hau san
+三孃教子	sae gnian ciau tsy
+三家	sae cia
+三家村	sae cia tshen
+三對三鬥牛	sae tei sae teu ngeu
+三年生	sae gni san
+三度空間	sae du khon ci
+三座大山	sae zou da sae
+三從	sae dzon
+三從四德	sae dzon sy taq
+三思而後行	sae sy er gheu yin
+三思而行	sae sy er yin
+三房兩廳	sae vaon lian thin
+三教	sae ciau
+三教九流	sae ciau cieu lieu
+三文魚	sae ven ng
+三日	sae gniq
+三日不讀書面目可憎	sae gniq paq doq syu mi moq khou tsen
+三日勿讀書面目可憎	sae gniq vaq doq syu mi moq khou tsen
+三日弗讀書面目可憎	sae gniq vaq doq syu mi moq khou tsen
+三日份	sae gniq ven
+三日打魚	sae gniq tan ng
+三星集團	sae shin jiq doe
+三更	sae kan
+三更半夜	sae kan pun ya
+三朝元老	sae jiau gniu lau
+三杯和萬事	sae pei ghou vae zy
+三樂	sae loq
+三權分立	sae jiu fen liq
+三歲	sae syu
+三歲時	sae syu zy
+三毛貓	sae mau mae
+三氯甲烷	sae loq ciaq wun
+三水	sae syu
+三水區	sae syu chiu
+三水縣	sae syu yu
+三江生態旅遊區	sae kaon sen the li yeu chiu
+三牲	sae san
+三生	sae sen
+三生有幸	sae sen yeu yin
+三生石	sae sen zaq
+三甲	sae ciaq
+三申五令	sae syun ng lin
+三百人	sae paq gnin
+三百個	sae paq goq
+三百個	sae paq ghoq
+三百六十行行行出狀元	sae paq loq zyuq ghaon ghaon ghaon tshyuq dzaon gniu
+三省	sae san
+三硝基甲苯	sae shiau ci ciaq pen
+三等分	sae ten fen
+三等分角	sae ten fen koq
+三絃樂器	sae yi yuq chi
+三維空間	sae vi khon ci
+三聯單	sae li tae
+三聲無奈	sae shin vu nae
+三自	sae zy
+三自性	sae zy shin
+三自愛國教會	sae zy e koq ciau wei
+三自教會	sae zy ciau wei
+三色貓	sae saq mae
+三萬兩千	sae vae lian chi
+三萬人	sae vae gnin
+三萬個	sae vae goq
+三萬個	sae vae ghoq
+三號電池	sae ghau di ji
+三行	sae ghaon
+三角學	sae koq yuq
+三角架	sae koq ko
+三跪九叩	sae jiu cieu kheu
+三農問題	sae non ven di
+三都水族自治縣	sae tu syu dzoq zy dzyu yu
+三重人	sae dzon gnin
+三重人格	sae dzon gnin kaq
+三長制	sae jian tsyu
+三間	sae kae
+三閭大夫	sae li da fu
+三阿姨	sae aq yi
+三集	sae jiq
+三面夏娃	sae mi gho ua
+三體問題	sae thi ven di
+三魂七魄	sae wen chiq phaq
+三鹵甲烷	sae lu ciaq wun
+三鹿集團	sae loq jiq doe
+上一個	zaon iq goq
+上一個	zaon iq ghoq
+上下交困	zaon gho ciau khuen
+上下文菜單	zaon gho ven tshe tae
+上下班時間	zaon gho pae zy ci
+上落班時間	zaon loq pae zy ci
+上落班辰光	zaon loq pae zyun kuaon
+上勿了	zaon vaq liau
+上弗了	zaon vaq liau
+上勿了臺面	zaon vaq liau de mi
+上弗了臺面	zaon vaq liau de mi
+上勿去	zaon vaq chi
+上弗去	zaon vaq chi
+上世	zaon shi
+上世紀	zaon syu ci
+上乘	zaon jin
+上也	zaon ye
+上歲數	zaon sei su
+上交	zaon ciau
+上交所	zaon ciau so
+上人	zaon gnin
+上個	zaon goq
+上個	zaon ghoq
+上個世紀	zaon goq syu ci
+上個世紀	zaon ghoq syu ci
+上個星期	zaon goq shin ji
+上個星期	zaon ghoq shin ji
+上傳	zaon dzOE
+上傳到	zaon dzOE tau
+上傳圖片	zaon dzOE du phi
+上分器	zaon fen chi
+上前去	zaon zhi chi
+上千人	zaon chi gnin
+上半部分	zaon pun bu ven
+上去	zaon chi
+上吊自殺	zaon tiau zhi saq
+上大學	zaon da ghoq
+上學時	zaon ghoq zy
+上學校	zaon ghoq yau
+上官婉兒	zaon kun un er
+上市交易	zaon zy ciau yiq
+上市時間	zaon zy zy ci
+上帝教	zaon ti ciau
+上新世	zaon shin syu
+上映期間	zaon in ji ci
+上朝	zaon jiau
+上架	zaon ko
+上榜名單	zaon paon min tae
+上樓去	zaon leu chi
+上機時間	zaon ci zy ci
+上水	zaon syu
+上水船	zaon syu zOE
+上水道	zaon syu dau
+上沃爾特	zaon oq er daq
+上流人士	zaon lieu zyun zy
+上海交大	zaon he ciau da
+上海交通大學	zaon he ciau thon da ghoq
+上海人	zaon he gnin
+上海商務印書館	zaon he saon vu in syu kun
+上海外國語大學	zaon he nga koq gniu da ghoq
+上海大劇院	zaon he da jiq yu
+上海大學	zaon he da ghoq
+上海大衆	zaon he da tson
+上海寶鋼集團公司	zaon he pau kaon jiq doe kon sy
+上海師範大學	zaon he sy vae da ghoq
+上海戲劇學院	zaon he shi jiq ghoq yu
+上海文廣新聞傳媒集團	zaon he ven kuaon shin ven dzOE mei jiq doe
+上海汽車工業集團	zaon he chi tsho kon gniq jiq doe
+上海第二醫科大學	zaon he di gni i khou da ghoq
+上海證券交易所	zaon he cin chiu ciau yiq so
+上海車展	zaon he tsho tsoe
+上海醫科大學	zaon he i khou da ghoq
+上海音樂學院	zaon he in yuq ghoq yu
+上牀睏覺	zaon zaon khuen kau
+上片時間	zaon phi zy ci
+上牌	zaon ba
+上班時間	zaon pae zy ci
+上班辰光	zaon pae zyun kuaon
+上癮	zaon in
+上癮頭	zaon gni deu
+上百人	zaon paq gnin
+上確界	zaon chiuq ka
+上籃得分	zaon lae taq fen
+上網時間	zaon maon zy ci
+上網辰光	zaon maon zyun kuaon
+上自	zaon zy
+上艾瑟爾	zaon nge saq er
+上行	zaon yin
+上行下效	zaon yin gho yau
+上行列車	zaon yin liq tsho
+上訴人	zaon su gnin
+上還	zaon wae
+上酒家	zaon cieu cia
+上門去	zaon men chi
+上門服務	zaon men voq vu
+上集	zaon jiq
+下一個	gho iq goq
+下一個	gho iq ghoq
+下勿了	gho vaq liau
+下弗了	gho vaq liau
+下勿了臺	gho vaq liau de
+下弗了臺	gho vaq liau de
+下勿去	gho vaq chi
+下弗去	gho vaq chi
+下乘	gho jin
+下人	gho gnin
+下任	gho gnin
+下個	gho goq
+下個	gho ghoq
+下個星期	gho goq shin ji
+下個星期	gho ghoq shin ji
+下個禮拜	gho goq li pa
+下個禮拜	gho ghoq li pa
+下傳	gho dzOE
+下去	gho chi
+下單	gho tae
+下地無門	gho di vu men
+下地無門	gho di Wu men
+下墜	gho dzyu
+下墜球	gho dzyu jieu
+下奶	gho na
+下崗工人	gho kaon kon gnin
+下得了	gho taq liau
+下懷	gho wae
+下拉	gho lha
+下拉框	gho lha khuaon
+下拉菜單	gho lha tshe tae
+下於	gho yu
+下朝	gho jiau
+下架	gho ko
+下樓去	gho leu chi
+下水	gho syu
+下水典禮	gho syu ti li
+下水禮	gho syu li
+下水管	gho syu kun
+下水船	gho syu zOE
+下水道	gho syu dau
+下水道系統	gho syu dau shi thon
+下流人士	gho lieu zyun zy
+下班時間	gho pae zy ci
+下班辰光	gho pae zyun kuaon
+下着	gho dzoq
+下着	gho zyuq
+下自	gho zy
+下自成蹊	gho zy jin chi
+下行	gho yin
+下行列車	gho yin liq tsho
+落課時間	loq khou zy ci
+落課辰光	loq khou zyun kuaon
+下賤	gho zhi
+下跪	gho jiu
+跪落	jiu loq
+下降	gho ciaon
+下集	gho jiq
+下鼻甲	gho biq ciaq
+勿上去	vaq zaon chi
+弗上去	vaq zaon chi
+勿下去	vaq gho chi
+弗下去	vaq gho chi
+勿落去	vaq loq chi
+弗落去	vaq loq chi
+不下於	paq gho yu
+勿下於	vaq gho yu
+弗下於	vaq gho yu
+不世之材	paq syu tsy dze
+勿世之材	vaq syu tsy dze
+弗世之材	vaq syu tsy dze
+不世出	paq syu tshyuq
+勿世出	vaq syu tshyuq
+弗世出	vaq syu tshyuq
+不中於款	paq tson yu khun
+不乏其人	paq vaq ji zyun
+不乾不淨	paq kI paq zhin
+勿乾勿淨	vaq kI vaq zhin
+勿乾弗淨	vaq kI vaq zhin
+不乾性油	paq kI shin yeu
+勿乾性油	vaq kI shin yeu
+弗乾性油	vaq kI shin yeu
+勿乾杯	vaq kI pei
+弗乾杯	vaq kI pei
+勿乾淨	vaq kI zhin
+弗乾淨	vaq kI zhin
+勿乾脆	vaq kI tshei
+弗乾脆	vaq kI tshei
+不乾膠	paq kI ciau
+勿乾裂	vaq kI liq
+弗乾裂	vaq kI liq
+不了之局	paq liau tsy jiuq
+不了了	paq liau liau
+不了了之	paq liau liau tsy
+不了情	paq liau jin
+不了漢	paq liau he
+不二法門	paq gni faq men
+勿二法門	vaq gni faq men
+弗二法門	vaq gni faq men
+不亞於	paq ia yu
+勿亞於	vaq ia yu
+弗亞於	vaq ia yu
+勿交	vaq ciau
+弗交	vaq ciau
+勿交	vaq kau
+弗交	vaq kau
+不亦樂乎	paq yiq loq wu
+不亦樂乎	paq yiq loq vu
+勿人道	vaq zyun dau
+弗人道	vaq zyun dau
+不仁	paq zyun
+不仁不義	paq zyun paq gni
+勿介意	vaq ka i
+弗介意	vaq ka i
+不低於	paq ti yu
+勿低於	vaq ti yu
+弗低於	vaq ti yu
+不信任	paq shin zyun
+勿信任	vaq shin zyun
+弗信任	vaq shin zyun
+不信任動議	paq shin zyun don gni
+勿信任動議	vaq shin zyun don gni
+弗信任動議	vaq shin zyun don gni
+不信任投票	paq shin zyun deu phiau
+勿信任投票	vaq shin zyun deu phiau
+弗信任投票	vaq shin zyun deu phiau
+不信任案	paq shin zyun EI
+勿信任案	vaq shin zyun EI
+弗信任案	vaq shin zyun EI
+不假思索	paq cia sy soq
+不做虧心事	paq tsou khuei shin zy
+勿做虧心事	vaq tsou khuei shin zy
+弗做虧心事	vaq tsou khuei shin zy
+勿停	vaq din
+弗停	vaq din
+勿傳	vaq dzOE
+弗傳	vaq dzOE
+勿傷和氣	vaq saon ghou chi
+弗傷和氣	vaq saon ghou chi
+不共戴天	paq gon te thi
+不共戴天之仇	paq gon te thi tsy jieu
+勿准問	vaq tsyun men
+弗准問	vaq tsyun men
+勿出去	vaq tshyuq chi
+弗出去	vaq tshyuq chi
+勿分	vaq fen
+弗分	vaq fen
+不分伯仲	paq fen paq dzon
+不分勝敗	paq fen shin ba
+不分勝負	paq fen shin veu
+不分彼此	paq fen pei tshy
+不分情由	paq fen jin yeu
+不分晝夜	paq fen cieu ya
+不分清紅皁白	paq fen chin ghon zau baq
+勿分清紅皁白	vaq fen chin ghon zau baq
+不分男女老幼	paq fen nEI gniu lau ieu
+不分皁白	paq fen zau baq
+不分輕重緩急	paq fen chin dzon wun ciq
+不分青紅	paq fen chin ghon
+不分青紅皁白	paq fen chin ghon zau baq
+不分首從	paq fen shieu dzon
+不分高下	paq fen kau gho
+不列顛哥倫比亞省	paq liq ti kou len pi ia san
+不利於	paq li yu
+勿利於	vaq li yu
+弗利於	vaq li yu
+不到長城非好漢	paq tau jian jin fi hau he
+勿到長城非好漢	vaq tau jian jin fi hau he
+弗到長城非好漢	vaq tau jian jin fi hau he
+勿動了	vaq don lei
+弗動了	vaq don lei
+不務正業	paq vu cin gniq
+勿區分大小寫	vaq chiu fen dou shiau shia
+弗區分大小寫	vaq chiu fen dou shiau shia
+不升反降	paq shin fae ciaon
+勿升反降	vaq shin fae ciaon
+弗升反降	vaq shin fae ciaon
+勿去睬	vaq chi tshe
+弗去睬	vaq chi tshe
+不可一世	paq khou iq syu
+不可再生資源	paq khou tse sen tsy gniu
+勿可再生資源	vaq khou tse sen tsy gniu
+弗可再生資源	vaq khou tse sen tsy gniu
