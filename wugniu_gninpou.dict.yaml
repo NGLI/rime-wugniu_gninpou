@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.05.11"
+version: "2019.05.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3593,6 +3593,7 @@ use_preset_vocabulary: true
 麝	zo6
 家	ko1
 傢	ko1
+𠺢	ko1
 加	ko1
 嘉	ko1
 枷	ko1
@@ -3613,6 +3614,7 @@ use_preset_vocabulary: true
 我	ngo4
 瓦	ngo4
 砑	ngo6
+啞	ngho5	0%
 厦	gho4
 廈	gho4
 下	gho4
@@ -4542,7 +4544,6 @@ use_preset_vocabulary: true
 難	nae6
 㬮	nae6
 爛	nae6	5%
-㖠	nhae5
 婪	lae2
 惏	lae2
 漤	lae2
@@ -6426,6 +6427,7 @@ use_preset_vocabulary: true
 孟	man6
 𩜠	mhan1
 𩛎	mhan1
+飯	mhan1	0%
 孟	mhan1	0%
 打	tan3
 帶	tan3	0%
@@ -6732,6 +6734,7 @@ use_preset_vocabulary: true
 搒	paon5
 䏾	phaon1
 胖	phaon5
+肨	phaon5
 髈	phaon5
 膀	phaon5	0%
 旁	baon2
@@ -11161,6 +11164,8 @@ use_preset_vocabulary: true
 俉	ng6
 孲	ngh1
 嗯	ngh1
+唔	ngh1
+㕶	ngh1
 嘸沒	mhiq7
 
 # 《阿拉宁波话(修订版)》
@@ -23404,6 +23409,9 @@ use_preset_vocabulary: true
 ⿸尸查尿出	dza syu tshyuq
 尿⿸尸查出	syu dza tshyuq
 ⿸尸查爛薄屙	dza lae boq ou
+鹹𪉨蟹	ghae chian ha
+紅膏𪉨蟹	ghon kau chian ha
+燥㸆飯	sau khau vae
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -23643,6 +23651,10 @@ use_preset_vocabulary: true
 純光無之	zyun kuaon vu tsy
 白無常	baq vu dzaon
 黑無常	haq vu dzaon
+㸆麩	khau fu
+大頭魚鯗㸆肉	dou deu ng shian khau tshon
+河鯽魚㸆蔥	ghou ci ng khau tshon
+剝皮大㸆	poq bi dou khau
 
 # 其他詞彙
 
@@ -26911,6 +26923,7 @@ use_preset_vocabulary: true
 奧體中心
 慈城鎮
 慈城
+慈谿
 慈湖
 慈湖中學	dzy wu tson ghoq
 北侖區
@@ -26972,6 +26985,7 @@ use_preset_vocabulary: true
 貴駟街道	ciu sy ka dau
 貴駟	ciu sy
 澥浦鎮
+蟹浦
 九龍湖鎮
 九龍湖
 鄞州區
@@ -27029,6 +27043,7 @@ use_preset_vocabulary: true
 寧波一中	gnin pou iq tson
 一中	iq tson
 諾丁漢大學	noq tin he da ghoq
+諾丁漢
 羅蒙環球城
 潘火街道
 潘火
@@ -27202,6 +27217,8 @@ use_preset_vocabulary: true
 丈亭
 陸埠鎮
 陸埠
+四明山鎮
+四明山
 慈溪市
 慈溪
 龍山鎮
@@ -27319,6 +27336,7 @@ use_preset_vocabulary: true
 甬金高速
 甬舟高速
 甬莞高速
+穿山疏港高速
 金塘大橋	cin daon da jiau
 象山港大橋	jian sae kaon da jiau
 杭州灣跨海大橋	ghaon cieu uae khua he da jiau
@@ -27344,6 +27362,7 @@ use_preset_vocabulary: true
 華辰大橋	wo zyun da jiau
 江北大橋	kaon poq da jiau
 青林灣大橋	chin lin uae da jiau
+西洪大橋	shi ghon da jiau
 餘姚江大橋	yu yau kaon da jiau
 甬江
 甬江大橋	ion kaon da jiau
@@ -27646,7 +27665,41 @@ use_preset_vocabulary: true
 凌𠗶	jin daon
 凌凙	din daon
 凌凙	jin daon
+奧魚	au ng
 肉肉	knion knion
+襖襖
+茶茶	go go
+飯飯	mhan mhan
+𩜠𩜠	mhan mhan
+吃飯飯	chioq mhan mhan
+吃𩜠𩜠	chioq mhan mhan
+唔唔	ngh ngh
+⿸尸查唔唔	dza ngh ngh
+⿸尸咋唔唔	dza ngh ngh
+㕶㕶	ngh ngh
+⿸尸查㕶㕶	dza ngh ngh
+⿸尸咋㕶㕶	dza ngh ngh
+尿尿	syu syu
+⿸尸查尿尿	dza syu syu
+⿸尸咋尿尿	dza syu syu
+哚哚尿	to to syu
+⿸尸查哚哚尿	dza to to syu
+⿸尸咋哚哚尿	dza to to syu
+手手
+⿰氵丈手手	jian shieu shieu
+滰手手
+嘎嘎鴨	ga ga ae
+嘵嘵豬	gniau gniau tsyu
+咩咩羊
+汪汪狗
+爬爬蟲
+啞啞船	ngho ngho zOE
+棚棚船
+𠺢𠺢雞	ko ko ci
+𠺢𠺢嗡	ko ko on
+喵嗚貓
+娘胡貓
+阿旺牛
 鴨梨	iaq li
 撫恤金	fu shiuq cin
 未嘗	vi dzaon
@@ -27700,6 +27753,32 @@ use_preset_vocabulary: true
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
+里肌肉
+里肌
+裏肌肉
+裏肌
+木蓮凍
+石花	zhiq huo
+三黃雞	sae waon ci
+醬毛蟹	cian mau ha
+鱔絲	zoe sy
+烤菜
+㸆菜
+烤大頭菜	khau dou deu tshe
+㸆大頭菜	khau dou deu tshe
+豬油⿰米鬼	tsyu yeu khuei
+漿板圓子
+番薯年糕
+紅醬豆腐烤肉
+紅醬豆腐㸆肉
+醬豆腐烤肉
+醬豆腐㸆肉
+麪結
+麪結麪
+倉橋麪結店
+興寧橋燒雞
+缸鴨狗	kaon aq keu
+趙大有	jiau da yeu
 合算	kaq soe
 勿合算	vaq kaq soe
 弗合算	vaq kaq soe
