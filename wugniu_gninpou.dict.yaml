@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.05.25"
+version: "2019.06.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2490,6 +2490,7 @@ use_preset_vocabulary: true
 元	gniu2
 芫	gniu2
 阮	gniu2
+朊	gniu2
 沅	gniu2
 刓	gniu2
 岏	gniu2
@@ -4373,7 +4374,7 @@ use_preset_vocabulary: true
 畈	pae5	5%
 攀	phae1
 眅	phae1
-帕	phae3
+帕	phae3	5%
 盼	phae5
 襻	phae5
 鋬	phae5
@@ -11159,8 +11160,8 @@ use_preset_vocabulary: true
 午	ng4	0%
 尾	ng4
 爾	ng6
-你	ng6
-妳	ng6
+你	ng6	5%
+妳	ng6	5%
 俉	ng6
 孲	ngh1
 嗯	ngh1
@@ -27777,6 +27778,7 @@ use_preset_vocabulary: true
 麪結麪
 倉橋麪結店
 興寧橋燒雞
+片片鴨	phi phi ae
 缸鴨狗	kaon aq keu
 趙大有	jiau da yeu
 合算	kaq soe
