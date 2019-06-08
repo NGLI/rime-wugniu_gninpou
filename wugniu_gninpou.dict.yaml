@@ -2283,14 +2283,15 @@ use_preset_vocabulary: true
 𤝘	wu2
 誤	wu2	10%
 悟	wu2	10%
-吾	WU2	10%
+吾	Wu2	10%
 吳	wu2
-蜈	WU2	10%
+蜈	Wu2	10%
 鼯	wu2
 齬	wu2
 娪	wu2
 無	Wu2	10%
 无	Wu2	10%
+亡	Wu2	0%
 誣	Wu2	10%
 毋	Wu2
 鳧	Wu2
@@ -8226,7 +8227,7 @@ use_preset_vocabulary: true
 盛	zhin2
 繩	zhin2
 澠	zhin2
-乘	zhin2
+乘	zhin2	5%
 晴	zhin2
 尋	zhin2
 潯	zhin2
@@ -28821,11 +28822,11 @@ VCD	v c d
 勿少人	vaq shiau zyun
 勿少於	vaq shiau yu
 弗少人	vaq shiau zyun
-不少於	vaq shiau yu
+弗少於	vaq shiau yu
 不屑於	paq shiq yu
-勿屬於	paq dzoq yu
+不屬於	paq dzoq yu
+勿屬於	vaq dzoq yu
 弗屬於	vaq dzoq yu
-不屬於	vaq dzoq yu
 不差	paq tsho
 不差毫釐	paq tsha ghau li
 不差毫髮	paq tsha ghau faq
@@ -28864,9 +28865,9 @@ VCD	v c d
 弗得其解	vaq taq ji cia
 弗得好死	vaq taq hau shi
 弗得擅自	vaq taq zoe zy
-不從	paq tshon
-勿從	vaq tshon
-弗從	vaq tshon
+不從	paq dzon
+勿從	vaq dzon
+弗從	vaq dzon
 不忘	paq vaon
 不忘本	paq vaon pen
 勿忘	vaq vaon
@@ -28965,8 +28966,1325 @@ VCD	v c d
 不戴	paq ta
 勿戴	vaq ta
 弗戴	vaq ta
-不戴	paq tae
-勿戴	vaq tae
-弗戴	vaq tae
+不戴	paq te
+勿戴	vaq te
+弗戴	vaq te
 不打自招	paq tan zy ciau
 不承認主義	paq jin zyun tsyu gni
+不按牌理	paq EI ba li
+不按牌理出牌	paq EI ba li tshyuq ba
+不提也罷	paq di ye ba
+不擋人財路	paq taon gnin dze lu
+不攻自破	paq kon zy phou
+不教而誅	paq ciau er tsyu
+不敢後人	paq kI gheu gnin
+不敢自專	paq kI zy tsoe
+不敢越雷池一步	paq kI yuq lei ji iq bu
+不敢越雷池一步	paq kI yuq lei dzy iq bu
+不斷加強	paq doe cia jian
+不斷增加	paq doe tsen ko
+不斷擴大	paq doe khoq dou
+不斷更新	paq doe ken shin
+不斷發展	paq doe faq ci
+不斷發展	paq doe faq tsoe
+不日	paq zyuq
+不早了	paq tsau lei
+勿早了	vaq tsau lei
+弗早了	vaq tsau lei
+不明確	paq min chiuq
+勿明確	vaq min chiuq
+弗明確	vaq min chiuq
+不明飛行物	paq min fi yin vaq
+不易	paq yi
+不易	paq yiq
+不易之論	paq yiq tsy len
+不是一個	paq zy iq goq
+不是一個	paq zy iq ghoq
+勿是一個	vaq zy iq goq
+勿是一個	vaq zy iq ghoq
+弗是一個	vaq zy iq goq
+弗是一個	vaq zy iq ghoq
+勿是儂	vaq zy nou
+弗是儂	vaq zy nou
+勿是俉	vaq zy ng
+弗是俉	vaq zy ng
+勿是爾	vaq zy ng
+弗是爾	vaq zy ng
+勿是其他人	vaq zy ji tha gnin
+勿是其它人	vaq zy ji tha gnin
+弗是其他人	vaq zy ji tha gnin
+弗是其它人	vaq zy ji tha gnin
+勿是嘸沒	vaq zy mhiq
+弗是嘸沒	vaq zy mhiq
+不是滋味	paq zy tsy vi
+勿是滋味	vaq zy tsy vi
+弗是滋味	vaq zy tsy vi
+不更事	paq ken zy
+勿更事	vaq ken zy
+弗更事	vaq ken zy
+不曾	paq dzen
+不曾在	paq dzen dze
+不曾有	paq dzen yeu
+不曾有過	paq dzen yeu kou
+勿曾	vaq dzen
+勿曾在	vaq dzen dze
+勿曾來	vaq dzen le
+勿曾有	vaq dzen yeu
+勿曾有過	vaq dzen yeu kou
+弗曾	vaq dzen
+弗曾在	vaq dzen dze
+弗曾來	vaq dzen le
+弗曾有	vaq dzen yeu
+弗曾有過	vaq dzen yeu kou
+不會吧	paq wei pa
+不會忘記	paq wei maon ci
+勿會忘記	vaq wei maon ci
+弗會忘記	vaq wei maon ci
+𣍐忘記	vei maon ci
+不服水土	paq voq sei thu
+勿服水土	vaq voq sei thu
+弗服水土	vaq voq sei thu
+不材	paq dze
+不樂	paq loq
+不樂於	paq loq yu
+不樂觀	paq loq kun
+勿材	vaq dze
+勿樂	vaq loq
+勿樂於	vaq loq yu
+勿樂觀	vaq loq kun
+弗材	vaq dze
+弗樂	vaq loq
+弗樂於	vaq loq yu
+弗樂觀	vaq loq kun
+不止於此	paq tsy yu tshy
+勿止於此	vaq tsy yu tshy
+弗止於此	vaq tsy yu tshy
+不正常狀況	paq cin dzaon dzaon huaon
+勿正常狀況	vaq cin dzaon dzaon huaon
+弗正常狀況	vaq cin dzaon dzaon huaon
+不正當競爭	paq cin taon jin tsen
+勿正當競爭	vaq cin taon jin tsen
+弗正當競爭	vaq cin taon jin tsen
+不正確	paq cin chiuq
+勿正確	vaq cin chiuq
+弗正確	vaq cin chiuq
+不死	paq sy
+不死不活	paq sy paq waq
+不死心	paq sy shin
+不死藥	paq sy yaq
+不死	paq shi
+不死不活	paq shi paq waq
+不死藥	paq shi yaq
+勿死	vaq shi
+勿死勿活	vaq shi vaq waq
+勿死心	vaq sy shin
+勿死藥	vaq shi yaq
+弗死	vaq shi
+弗死弗活	vaq shi vaq waq
+弗死心	vaq sy shin
+弗死藥	vaq shi yaq
+不求甚解	paq jieu zhin cia
+不求甚解	paq jieu zhin ka
+不治而死	paq dzyu er sy
+不治而死	paq dzyu er shi
+不法分子	paq faq ven tsy
+不法行爲	paq faq ghan wei
+不消幾日	paq shiau ci zyuq
+不消幾日	paq shiau ci gniq
+不準確	paq tsyun chiuq
+不無	paq vu
+不無可疑	paq vu khou gni
+不無可疑之處	paq vu khou gni tsy tshyu
+不無小補	paq vu shiau pu
+不無道理	paq vu dau li
+不無遺憾	paq vu yi he
+不無	paq Wu
+不無可疑	paq Wu khou gni
+不無可疑之處	paq Wu khou gni tsy tshyu
+不無小補	paq Wu shiau pu
+不無道理	paq Wu dau li
+不無遺憾	paq Wu yi he
+不爭	paq tsen
+勿爭	vaq tsen
+弗爭	vaq tsen
+不爭	paq tsan
+勿爭	vaq tsan
+弗爭	vaq tsan
+不爭氣	paq tsen chi
+勿爭氣	vaq tsan chi
+弗爭氣	vaq tsan chi
+不爲人知	paq wei zyun tsyu
+不爲牛後	paq wei ngeu gheu
+不甘後人	paq kI gheu zyun
+不甘於	paq kI yu
+勿甘於	vaq kI yu
+弗甘於	vaq kI yu
+不甚了了	paq zhin liau liau
+不生	paq san
+勿生	vaq san
+弗生	vaq san
+不生不死	paq sen paq sy
+不生不死	paq sen paq shi
+不生不滅	paq sen paq miq
+不由分說	paq yeu fen syuq
+不由自主	paq yeu zy tsyu
+不當人	paq taon gnin
+勿當人	vaq taon gnin
+弗當人	vaq taon gnin
+不當人子	paq taon gnin tsy
+不當家	paq taon cia
+不當家花花	paq taon cia huo huo
+不登大雅之堂	paq ten da ia tsy daon
+勿登大雅之堂	vaq ten da ia tsy daon
+弗登大雅之堂	vaq ten da ia tsy daon
+不發達國家	paq faq daq koq cia
+勿發達國家	vaq faq daq koq cia
+弗發達國家	vaq faq daq koq cia
+不相聞問	paq shian ven ven
+不相聞問	paq shian ven men
+勿相聞問	vaq shian ven ven
+勿相聞問	vaq shian ven men
+弗相聞問	vaq shian ven ven
+弗相聞問	vaq shian ven men
+不省人事	paq shin zyun zy
+勿省人事	vaq shin zyun zy
+弗省人事	vaq shin zyun zy
+不真不假	paq cin paq ko
+勿真勿假	vaq cin vaq ko
+弗真弗假	vaq cin vaq ko
+勿着	vaq jiaq
+勿着	vaq dzoq
+勿着	vaq zyuq
+弗着	vaq jiaq
+弗着	vaq dzoq
+弗着	vaq zyuq
+不急	paq ciq
+勿急	vaq ciq
+弗急	vaq ciq
+不着痕跡	paq dzoq ghen ciq
+不着邊際	paq dzoq pi ci
+不着陸飛行	paq dzoq loq fi yin
+不着痕跡	paq zyuq ghen ciq
+不着邊際	paq zyuq pi ci
+不着陸飛行	paq zyuq loq fi yin
+勿着痕跡	vaq dzoq ghen ciq
+勿着邊際	vaq dzoq pi ci
+勿着陸飛行	vaq dzoq loq fi yin
+勿着痕跡	vaq zyuq ghen ciq
+勿着邊際	vaq zyuq pi ci
+勿着陸飛行	vaq zyuq loq fi yin
+弗着痕跡	vaq dzoq ghen ciq
+弗着邊際	vaq dzoq pi ci
+弗着陸飛行	vaq dzoq loq fi yin
+弗着痕跡	vaq zyuq ghen ciq
+弗着邊際	vaq zyuq pi ci
+弗着陸飛行	vaq zyuq loq fi yin
+不睡覺	paq zei ciau
+勿睡覺	vaq zei ciau
+弗睡覺	vaq zei ciau
+勿睏覺	vaq khuen kau
+弗睏覺	vaq khuen kau
+不瞭解	paq liau ka
+不瞭解	paq liau cia
+勿瞭解	vaq liau ka
+勿瞭解	vaq liau cia
+弗瞭解	vaq liau ka
+弗瞭解	vaq liau cia
+不知不覺	paq tsyu paq ciuq
+勿知勿覺	vaq tsyu vaq ciuq
+弗知弗覺	vaq tsyu vaq ciuq
+勿知勿覺	vaq tsyu vaq koq
+弗知弗覺	vaq tsyu vaq koq
+不知其二	paq tsyu ji er
+不知其二	paq tsyu ji gni
+勿知其二	vaq tsyu ji er
+勿知其二	vaq tsyu ji gni
+弗知其二	vaq tsyu ji er
+弗知其二	vaq tsyu ji gni
+不知出於何種原因	paq tsyu tshyuq yu ghou tson gniu in
+勿曉得啥原因	vaq shiau taq so gniu in
+勿曉得啥原因	vaq shiau taq soq gniu in
+勿曉得啥原因	vaq shiau taq sou gniu in
+弗曉得啥原因	vaq shiau taq so gniu in
+弗曉得啥原因	vaq shiau taq soq gniu in
+弗曉得啥原因	vaq shiau taq sou gniu in
+不知分寸	paq tsyu fen tshen
+不知去向	paq tsyu chiu shian
+勿知去向	vaq tsyu chiu shian
+弗知去向	vaq tsyu chiu shian
+不知好人	paq tsyu hau gnin
+不知好人心	paq tsyu hau gnin shin
+不知好人	paq tsyu hau zyun
+不知好人心	paq tsyu hau zyun shin
+不知死活	paq tsyu shi waq
+不知者無罪	paq tsyu tse vu zei
+不知者無罪	paq tsyu tse Wu zei
+不知自愛	paq tsyu zy e
+不知覺	paq tsyu ciuq
+不知覺	paq tsyu koq
+不知鹿死誰手	paq tsyu loq sy zei shieu
+不確	paq chiuq
+不確定	paq chiuq din
+不確定性	paq chiuq din shin
+勿確	vaq chiuq
+勿確定	vaq chiuq din
+勿確定性	vaq chiuq din shin
+弗確	vaq chiuq
+弗確定	vaq chiuq din
+弗確定性	vaq chiuq din shin
+不確定性原理	paq chiuq din shin gniu li
+不確定感	paq chiuq din kI
+不確定故意	paq chiuq din ku i
+不確實	paq chiuq zyuq
+勿確定感	vaq chiuq din kI
+勿確實	vaq chiuq zyuq
+弗確定感	vaq chiuq din kI
+弗確實	vaq chiuq zyuq
+不科學	paq khou yuq
+勿科學	vaq khou yuq
+弗科學	vaq khou yuq
+不等價交換	paq ten ko ciau wun
+勿等價交換	vaq ten ko ciau wun
+弗等價交換	vaq ten ko ciau wun
+不等於	paq ten yu
+不管三七二十一	paq kun sae chiq er zyuq iq
+勿等於	vaq ten yu
+勿管三七二十一	vaq kun sae chiq er zyuq iq
+弗等於	vaq ten yu
+弗管三七二十一	vaq kun sae chiq er zyuq iq
+不管三七廿一	paq kun sae chiq nE iq
+勿管三七廿一	vaq kun sae chiq nE iq
+不簡單	paq ci tae
+勿簡單	vaq ci tae
+弗簡單	vaq ci tae
+不結盟國家	paq ciq men koq cia
+不絕於耳	paq dzyuq yu er
+不經一事不長一智	paq cin iq zy paq cian iq tsyu
+不經意間	paq cin i ci
+不繫	paq ci
+不繫舟	paq ci cieu
+不習慣	paq zhiq kuae
+不習慣	paq zyuq kuae
+勿習慣	vaq zhiq kuae
+勿習慣	vaq zyuq kuae
+弗習慣	vaq zhiq kuae
+弗習慣	vaq zyuq kuae
+不聞不問	paq ven paq ven
+不聞不問	paq ven paq men
+不肯去	paq khen chi
+勿肯去	vaq khen chi
+弗肯去	vaq khen chi
+不能忘記	paq nen maon ci
+不能確定	paq nen chiuq din
+不能自制	paq nen zy tsyu
+不能自己	paq nen zy ci
+不能自已	paq nen zy yi
+不能自拔	paq nen zy baq
+不能言傳	paq nen yi dzOE
+勿能忘記	vaq nen maon ci
+勿能確定	vaq nen chiuq din
+勿能自制	vaq nen zy tsyu
+勿能自己	vaq nen zy ci
+勿能自已	vaq nen zy yi
+勿能自拔	vaq nen zy baq
+勿能言傳	vaq nen yi dzOE
+弗能忘記	vaq nen maon ci
+弗能確定	vaq nen chiuq din
+弗能自制	vaq nen zy tsyu
+弗能自己	vaq nen zy ci
+弗能自已	vaq nen zy yi
+弗能自拔	vaq nen zy baq
+弗能言傳	vaq nen yi dzOE
+不自	paq zy
+不自主	paq zy tsyu
+不自在	paq zy dze
+不自然	paq zy zoe
+不自由	paq zy yeu
+不自禁	paq zy cin
+不自覺	paq zy ciuq
+勿自	vaq zy
+勿自主	vaq zy tsyu
+勿自在	vaq zy dze
+勿自然	vaq zy zoe
+勿自由	vaq zy yeu
+勿自禁	vaq zy cin
+勿自覺	vaq zy ciuq
+弗自	vaq zy
+弗自主	vaq zy tsyu
+弗自在	vaq zy dze
+弗自然	vaq zy zoe
+弗自由	vaq zy yeu
+弗自禁	vaq zy cin
+弗自覺	vaq zy ciuq
+不自量	paq zy lian
+不自量力	paq zy lian liq
+不至於	paq tsy yu
+不致於	paq tsy yu
+勿至於	vaq tsy yu
+勿致於	vaq tsy yu
+弗至於	vaq tsy yu
+弗致於	vaq tsy yu
+不良於行	paq lian yu yin
+不良習慣	paq lian zhiq kuae
+不良習慣	paq lian zyuq kuae
+不落人後	paq loq gnin gheu
+不虛此生	paq shiu tshy sen
+不虛此行	paq shiu tshy yin
+勿良於行	vaq lian yu yin
+勿良習慣	vaq lian zhiq kuae
+勿良習慣	vaq lian zyuq kuae
+勿落人後	vaq loq gnin gheu
+勿虛此生	vaq shiu tshy sen
+勿虛此行	vaq shiu tshy yin
+弗良於行	vaq lian yu yin
+弗良習慣	vaq lian zhiq kuae
+弗良習慣	vaq lian zyuq kuae
+弗落人後	vaq loq gnin gheu
+弗虛此生	vaq shiu tshy sen
+弗虛此行	vaq shiu tshy yin
+不虧	paq khuei
+不行	paq yin
+不行了	paq yin lei
+不被	paq bei
+勿虧	vaq khuei
+勿行	vaq yin
+勿行了	vaq yin lei
+勿被	vaq bei
+弗虧	vaq khuei
+弗行	vaq yin
+弗行了	vaq yin lei
+弗被	vaq bei
+不要去	paq iau chi
+勿要去	vaq iau chi
+弗要去	vaq iau chi
+覅去	fe chi
+𧟰去	fe chi
+不要問	paq iau men
+勿要問	vaq iau men
+弗要問	vaq iau men
+覅問	fe men
+𧟰問	fe men
+莫問	mhau men
+莫問	mau men
+不要忘記	paq iau vaon ci
+莫忘記	mhau maon ci
+莫忘記	mau maon ci
+不要輕易	paq iau chin yi
+不見世面	paq ci syu mi
+不見了	paq ci lei
+不見天日	paq ci thi zyuq
+不見棺材不掉淚	paq ci kun ze paq diau lei
+不見棺材不落淚	paq ci kun ze paq loq lei
+勿見天日	vaq ci thi zyuq
+勿見棺材勿掉淚	vaq ci kun ze vaq diau lei
+勿見棺材勿落淚	vaq ci kun ze vaq loq lei
+弗見天日	vaq ci thi zyuq
+弗見棺材弗掉淚	vaq ci kun ze vaq diau lei
+弗見棺材弗落淚	vaq ci kun ze vaq loq lei
+不見經傳	paq ci cin dzOE
+不覺	paq ciuq
+不覺察	paq ciuq tshaq
+不覺得	paq ciuq taq
+勿見經傳	vaq ci cin dzOE
+勿覺	vaq ciuq
+勿覺察	vaq ciuq tshaq
+勿覺得	vaq ciuq taq
+弗見經傳	vaq ci cin dzOE
+弗覺	vaq ciuq
+弗覺察	vaq ciuq tshaq
+弗覺得	vaq ciuq taq
+不解	paq ka
+不解之仇	paq ka tsy jieu
+不解之緣	paq ka tsy yu
+不解之謎	paq ka tsy mi
+不解事	paq ka zy
+不解風情	paq ka fon jin
+不解	paq cia
+不解之仇	paq cia tsy jieu
+不解之緣	paq cia tsy yu
+不解之謎	paq cia tsy mi
+不解事	paq cia zy
+不解風情	paq cia fon jin
+不言自明	paq yi zy min
+不該	paq ke
+勿該	vaq ke
+弗該	vaq ke
+不認	paq gnin
+不認人	paq gnin gnin
+不認帳	paq gnin cian
+不認賬	paq gnin cian
+勿認	vaq gnin
+勿認人	vaq gnin gnin
+勿認帳	vaq gnin cian
+勿認賬	vaq gnin cian
+弗認	vaq gnin
+弗認人	vaq gnin gnin
+弗認帳	vaq gnin cian
+弗認賬	vaq gnin cian
+不誤	paq Nu
+勿誤	vaq Nu
+弗誤	vaq Nu
+不誤	paq wu
+勿誤	vaq wu
+弗誤	vaq wu
+不說自明	paq syuq zy min
+不調和	paq diau ghou
+勿調和	vaq diau ghou
+弗調和	vaq diau ghou
+不請自來	paq chin zy le
+勿請自來	vaq chin zy le
+弗請自來	vaq chin zy le
+不識之無	paq shiq tsy vu
+不識之無	paq shiq tsy Wu
+不識大體	paq shiq da thi
+不識時務	paq shiq zy vu
+不識時務	paq shiq zy Wu
+勿識時務	vaq shiq zy vu
+勿識時務	vaq shiq zy Wu
+弗識時務	vaq shiq zy vu
+弗識時務	vaq shiq zy Wu
+不讓人	paq gnian gnin
+勿讓人	vaq gnian gnin
+弗讓人	vaq gnian gnin
+不讓鬚眉	paq gnian syu mei
+勿讓鬚眉	vaq gnian syu mei
+弗讓鬚眉	vaq gnian syu mei
+不負衆望	paq veu tson vaon
+不負責任	paq veu tsaq zyun
+勿負責任	vaq veu tsaq zyun
+弗負責任	vaq veu tsaq zyun
+不貳	paq er
+不貳過	paq er kou
+不貴	paq ciu
+勿貴	vaq ciu
+弗貴	vaq ciu
+不費吹灰之力	paq fi tshei huei tsy liq
+勿費吹灰之力	vaq fi tshei huei tsy liq
+弗費吹灰之力	vaq fi tshei huei tsy liq
+不越雷池	paq yuq lei ji
+不越雷池	paq yuq lei dzy
+不足爲外人道	paq tsoq wei nga zyun dau
+不足爲外人道也	paq tsoq wei nga zyun dau ye
+不足道也	paq tsoq dau ye
+不跟人	paq ken gnin
+勿跟人	vaq ken gnin
+弗跟人	vaq ken gnin
+不近人情	paq jin zyun jin
+勿近人情	vaq jin zyun jin
+弗近人情	vaq jin zyun jin
+不透明水彩畫	paq theu min syu tshe wo
+勿透明水彩畫	vaq theu min syu tshe wo
+弗透明水彩畫	vaq theu min syu tshe wo
+不透水	paq theu syu
+勿透水	vaq theu syu
+弗透水	vaq theu syu
+不通人情	paq thon zyun jin
+不進去	paq cin chi
+不過去	paq kou chi
+不過問	paq kou ven
+不過爾爾	paq kou er er
+不遜於	paq sen yu
+勿進去	vaq cin chi
+勿過去	vaq kou chi
+勿過問	vaq kou ven
+勿過爾爾	vaq kou er er
+勿遜於	vaq sen yu
+弗進去	vaq cin chi
+弗過去	vaq kou chi
+弗過問	vaq kou ven
+弗過爾爾	vaq kou er er
+弗遜於	vaq sen yu
+不遲	paq dzy
+不遲	paq ji
+勿遲	vaq dzy
+勿遲	vaq ji
+弗遲	vaq dzy
+弗遲	vaq ji
+不長	paq cian
+不長	paq jian
+勿長	vaq cian
+勿長	vaq jian
+弗長	vaq cian
+弗長	vaq jian
+不長一智	paq cian iq tsyu
+勿長一智	vaq cian iq tsyu
+弗長一智	vaq cian iq tsyu
+不長不短	paq cian paq toe
+勿長勿短	vaq cian vaq toe
+弗長弗短	vaq cian vaq toe
+不間斷	paq ci doe
+不間斷電源	paq ci doe di gniu
+勿間斷	vaq ci doe
+勿間斷電源	vaq ci doe di gniu
+弗間斷	vaq ci doe
+弗間斷電源	vaq ci doe di gniu
+不防	paq baon
+勿防	vaq baon
+弗防	vaq baon
+不防	paq vaon
+勿防	vaq vaon
+弗防	vaq vaon
+不降	paq ghaon
+不降	paq ciaon
+不降反升	paq ciaon fae shin
+勿降	vaq ghaon
+勿降	vaq ciaon
+勿降反升	vaq ciaon fae shin
+弗降	vaq ghaon
+弗降	vaq ciaon
+弗降反升	vaq ciaon fae shin
+不限於	paq ghae yu
+不隨大流	paq zei da lieu
+不顧大局	paq ku da jiuq
+不顯山不露水	paq shi sae paq lu sei
+不食人間煙火	paq zhiq zyun ci i hou
+勿限於	vaq ghae yu
+勿隨大流	vaq zei da lieu
+勿顧大局	vaq ku da jiuq
+勿顯山勿露水	vaq shi sae vaq lu sei
+勿食人間煙火	vaq zhiq zyun ci i hou
+弗限於	vaq ghae yu
+弗隨大流	vaq zei da lieu
+弗顧大局	vaq ku da jiuq
+弗顯山弗露水	vaq shi sae vaq lu sei
+弗食人間煙火	vaq zhiq zyun ci i hou
+不飽和	paq pau ghou
+不飽和脂肪酸	paq pau ghou tsy faon soe
+勿飽和	vaq pau ghou
+勿飽和脂肪酸	vaq pau ghou tsy faon soe
+弗飽和	vaq pau ghou
+弗飽和脂肪酸	vaq pau ghou tsy faon soe
+不齒於人	paq tshy yu zyun
+不龜手藥	paq kuei shieu yaq
+不龜藥	paq kuei yaq
+丑也	chieu ye
+丑日	chieu gniq
+丑牛	chieu ngeu
+且戰且走	chie ci chie tseu
+且戰且走	chie tsoe chie tseu
+且於	chie yu
+且聽下回分解	chie thin gho wei fen ka
+且聽下回分解	chie thin gho wei fen cia
+世上	syu zaon
+世上無難事	syu zaon vu nae zy
+世上無難事	syu zaon Wu nae zy
+世上無難事只怕有心人	syu zaon vu nae zy ciq pho yeu shin gnin
+世上無難事只怕有心人	syu zaon Wu nae zy ciq pho yeu shin gnin
+世世	syu syu
+世世代代	syu syu de de
+世主	syu tsyu
+世乒賽	syu phin se
+世亂識忠臣	syu loe shiq tson jin
+世事	syu zy
+世交	syu ciau
+世人	syu zyun
+世人	syu gnin
+世仇	syu jieu
+世代	syu de
+世代交替	syu de ciau thi
+世代相傳	syu de shian dzOE
+世伯	syu paq
+世俗	syu dzoq
+世俗主義	syu dzoq tsyu gni
+世俗之見	syu dzoq tsy ci
+世俗諦	syu dzoq ti
+世傳	syu dzOE
+世儒	syu zyu
+世兄	syu shion
+世典	syu ti
+世出世	syu tshyuq syu
+世務	syu vu
+世務	syu Wu
+世博	syu poq
+世博會	syu poq wei
+世及	syu jiq
+世叔	syu soq
+世味	syu vi
+世外	syu nga
+世外桃源	syu nga dau gniu
+世外桃花源	syu nga dau huo gniu
+世好	syu hau
+世婦	syu vu
+世子	syu tsy
+世宗	syu tson
+世宗大王	syu tson da waon
+世家	syu ko
+世家子弟	syu ko tsy di
+世家	syu cia
+世家子弟	syu cia tsy di
+世尊	syu tsen
+世局	syu jiuq
+世居	syu ciu
+世弊	syu bi
+世弟	syu di
+世德	syu taq
+世情	syu jin
+世情看冷暖	syu jin khI lan noe
+世態	syu the
+世態人情	syu the zyun jin
+世態炎涼	syu the yi lian
+世所周知	syu so cieu tsyu
+世故	syu ku
+世教	syu ciau
+世敵	syu diq
+世新	syu shin
+世新大學	syu shin da ghoq
+世族	syu dzoq
+世業	syu gniq
+世母	syu meu
+世法	syu faq
+世爵	syu ciaq
+世父	syu vu
+世牒	syu diaq
+世田谷	syu di koq
+世界	syu ka
+世界一流	syu ka iq lieu
+世界上	syu ka zaon
+世界上最	syu ka zaon tsei
+世界上頂	syu ka zaon tin
+世界主義	syu ka tsyu gni
+世界之窗	syu ka tsy tshaon
+世界人	syu ka gnin
+世界人權宣言	syu ka zyun jiu soe yi
+世界先進水平	syu ka shi cin sei bin
+世界冠軍	syu ka kun ciun
+世界博覽會	syu ka poq lae wei
+世界反共聯盟	syu ka fae gon li men
+世界史	syu ka sy
+世界各國	syu ka koq koq
+世界各地	syu ka koq di
+世界和平	syu ka ghou bin
+世界地圖	syu ka di du
+世界地球日	syu ka di jieu gniq
+世界報	syu ka pau
+世界大同	syu ka da don
+世界大學生運動會	syu ka da ghoq san yun don wei
+世界大戰	syu ka da ci
+世界大戰	syu ka da tsoe
+世界小姐選美	syu ka shiau cia soe mei
+世界屋脊	syu ka oq ciq
+世界展望會	syu ka ci vaon wei
+世界展望會	syu ka tsoe vaon wei
+世界市場	syu ka zy jian
+世界強國	syu ka jian koq
+世界性	syu ka shin
+世界排名	syu ka ba min
+世界文化	syu ka ven huo
+世界文化遺產	syu ka ven huo yi tshae
+世界文化遺產地	syu ka ven huo yi tshae di
+世界新專	syu ka shin tsoe
+世界新聞傳播學院	syu ka shin ven dzOE pou yuq yu
+世界新聞專科學校	syu ka shin ven tsoe khou ghoq yau
+世界新聞職業學校	syu ka shin ven ciq gniq ghoq yau
+世界旅遊組織	syu ka li yeu tsu ciq
+世界日報	syu ka zyuq pau
+世界時	syu ka zy
+世界最大	syu ka tsei da
+世界頂大	syu ka tin dou
+世界末日	syu ka maq zyuq
+世界歷史	syu ka liq sy
+世界氣象組織	syu ka chi zhian tsu ciq
+世界海關組織	syu ka he kuae tsu ciq
+世界潮流	syu ka jiau lieu
+世界的語言	syu ka tiq gniu yi
+世界個語言	syu ka goq gniu yi
+世界個語言	syu ka ghoq gniu yi
+世界盃	syu ka pei
+世界盃賽	syu ka pei se
+世界知名	syu ka tsyu min
+世界知識產權組織	syu ka tsyu shiq tshae jiu tsu ciq
+世界第一	syu ka di iq
+世界範圍	syu ka vae wei
+世界糧食署	syu ka lian zhiq zyu
+世界紀錄	syu ka ci loq
+世界級	syu ka ciq
+世界經濟	syu ka cin ci
+世界經濟危機	syu ka cin ci wei ci
+世界經濟論壇	syu ka cin ci len dae
+世界維吾爾代表大會	syu ka vi Nu er de piau da wei
+世界維吾爾代表大會	syu ka vi Wu er de piau da wei
+世界聞名	syu ka ven min
+世界自然基金會	syu ka zy zoe ci cin wei
+世界華文文學獎	syu ka wo ven ven yuq cian
+世界著名	syu ka tsyu min
+世界衛生大會	syu ka wei sen da wei
+世界衛生組織	syu ka wei sen tsu ciq
+世界裏	syu ka li
+世界觀	syu ka kun
+世界語	syu ka gniu
+世界變暖	syu ka pi noe
+世界貨幣	syu ka hou bi
+世界貿易	syu ka meu yiq
+世界貿易中心	syu ka meu yiq tson shin
+世界貿易大樓	syu ka meu yiq da leu
+世界貿易組織	syu ka meu yiq tsu ciq
+世界運動會	syu ka yun don wei
+世界遺產	syu ka yi tshae
+世界野生生物基金會	syu ka ya sen sen vaq ci cin wei
+世界金融中心	syu ka cin yon tson shin
+世界銀行	syu ka gnin ghaon
+世界頂級	syu ka tin ciq
+世盟	syu men
+世祚	syu dzu
+世祿	syu loq
+世祿之家	syu loq tsy cia
+世系	syu shi
+世紀	syu ci
+世紀初	syu ci tshu
+世紀末	syu ci maq
+世紀末年	syu ci maq gni
+世紀鐘	syu ci tson
+世紀鐘錶	syu ci tson piau
+世維會	syu vi wei
+世綵堂	syu tshe daon
+世胄	syu jieu
+世臣	syu jin
+世臺	syu de
+世臺會	syu de wei
+世行	syu ghan
+世衛	syu wei
+世衛組織	syu wei tsu ciq
+世表	syu piau
+世衰道微	syu se dau vi
+世襲	syu zhiq
+世襲君主國	syu zhiq ciun tsyu koq
+世親	syu chin
+世說新語	syu syuq shin gniu
+世誼	syu gni
+世講	syu kaon
+世譜	syu pu
+世貿	syu meu
+世貿中心	syu meu tson shin
+世貿中心大樓	syu meu tson shin da leu
+世貿大廈	syu meu da gho
+世貿大樓	syu meu da leu
+世貿組織	syu meu tsu ciq
+世路	syu lu
+世運	syu yun
+世運會	syu yun wei
+世道	syu dau
+世道人心	syu dau zyun shin
+世道人情	syu dau zyun jin
+世銀	syu gnin
+世錦賽	syu cin se
+世間	syu ci
+世間法	syu ci faq
+世阿彌	syu o mi
+世隔絕	syu kaq dzyuq
+世青賽	syu chin se
+世面	syu mi
+世風	syu fon
+世風不古	syu fon paq ku
+世風日下	syu fon zyuq gho
+世風澆薄	syu fon ciau boq
+丘吉爾	chieu ciq er
+丘爾金	chieu er cin
+丘逢甲	chieu von ciaq
+丘遲	chieu dzy
+丘遲	chieu ji
+丙二醇	pin er zyun
+丙申	pin syun
+丙申	pin shin
+丙綸	pin len
+丟上去	tieu zaon chi
+丟下去	tieu gho chi
+丟落去	tieu loq chi
+丟出去	tieu tshyuq chi
+丟盔卸甲	tieu khuei shia ciaq
+丟盔棄甲	tieu khuei chi ciaq
+並上去	bin zaon chi
+並不在乎	bin paq dze fu
+並勿在乎	bin vaq dze fu
+並弗在乎	bin vaq dze fu
+並世	bin syu
+並世無雙	bin syu vu saon
+並世無雙	bin syu Wu saon
+並介之人	bin ka tsy zyun
+並出去	bin tshyuq chi
+並回去	bin wei chi
+並存着	bin dzen dzoq
+並存着	bin dzen zyuq
+並從	bin dzon
+並於	bin yu
+並日	bin zyuq
+並日而食	bin zyuq er zhiq
+並未	bin vi
+並無	bin vu
+並無不可	bin vu paq khou
+並無不當	bin vu paq taon
+並無此事	bin vu tshy zy
+並無	bin Wu
+並無不可	bin Wu paq khou
+並無不當	bin Wu paq taon
+並無此事	bin Wu tshy zy
+並發展	bin faq ci
+並發展	bin faq tsoe
+並肩作戰	bin ci tsoq ci
+並肩作戰	bin ci tsoq tsoe
+並肩而行	bin ci er yin
+並自負	bin zy veu
+並行	bin yin
+並行不悖	bin yin paq bei
+並行口	bin yin kheu
+並行程序	bin yin jin zyu
+並行計算	bin yin ci soe
+並被	bin bei
+並進去	bin cin chi
+並過去	bin kou chi
+並馳	bin dzy
+並馳	bin ji
+中不溜	tson paq lieu
+中世	tson syu
+中世紀	tson syu ci
+中也	tson ya
+中了	tson lei
+中亞國家	tson ia koq cia
+中人	tson gnin
+中介	tson ka
+中介公司	tson ka kon sy
+中介子	tson ka tsy
+中介所	tson ka so
+中介服務	tson ka voq vu
+中介機構	tson ka ci keu
+中介社團	tson ka dzo doe
+中介組織	tson ka tsu ciq
+中介費	tson ka fi
+中伏	tson voq
+中信銀行	tson shin gnin ghaon
+中共中央宣傳部	tson gon tson ian soe dzOE bu
+中共九大	tson gon cieu da
+中分	tson fen
+中加	tson cia
+中北大學	tson poq da ghoq
+中千世界	tson chi syu ka
+中南大學	tson nEI da ghoq
+中原大學	tson gniu da ghoq
+中原標準時間	tson gniu piau tsyun zy ci
+中去	tson chi
+中古世紀	tson ku syu ci
+中和	tson ghou
+中和劑	tson ghou ci
+中和力	tson ghou liq
+中和市	tson ghou zy
+中國交通建設	tson koq ciau thon ci shiq
+中國交通運輸協會	tson koq ciau thon yun syu yaq wei
+中國人	tson koq gnin
+中國人口	tson koq zyun kheu
+中國人壽	tson koq zyun zhieu
+中國人大	tson koq zyun da
+中國人權民運信息中心	tson koq zyun jiu min yun shin shiq tson shin
+中國人權組織	tson koq zyun jiu tsu ciq
+中國人民	tson koq zyun min
+中國人民保險公司	tson koq zyun min pau shi kon sy
+中國人民大學	tson koq zyun min da ghoq
+中國人民對外友好協會	tson koq zyun min tei nga yeu hau yaq wei
+中國人民志願軍	tson koq zyun min tsy gniu ciun
+中國人民武裝警察部隊	tson koq zyun min Wu tsaon cin tshaq bu dei
+中國人民解放軍	tson koq zyun min cia faon ciun
+中國人民解放軍海軍	tson koq zyun min cia faon ciun he ciun
+中國人民解放軍空軍	tson koq zyun min cia faon ciun khon ciun
+中國人民銀行	tson koq zyun min gnin ghaon
+中國伊斯蘭教協會	tson koq i sy lae ciau yaq wei
+中國作家協會	tson koq tsoq cia yaq wei
+中國傳統	tson koq dzOE thon
+中國光大銀行	tson koq kuaon da gnin ghaon
+中國十大	tson koq zyuq da
+中國古代四大美女	tson koq ku de sy da mei gniu
+中國商業銀行	tson koq saon gniq gnin ghaon
+中國國家博物館	tson koq koq cia poq vaq kun
+中國國家原子能機構	tson koq koq cia gniu tsy nen ci keu
+中國國家地震局	tson koq koq cia di tsyun jiuq
+中國國家環保局	tson koq koq cia wae pau jiuq
+中國國家環境保護總局	tson koq koq cia wae cin pau wu tson jiuq
+中國國家航天局	tson koq koq cia ghaon thi jiuq
+中國國防科技信息中心	tson koq koq vaon khou ji shin shiq tson shin
+中國地球物理學會	tson koq di jieu vaq li yuq wei
+中國地質大學	tson koq di ciq da ghoq
+中國地震局	tson koq di tsyun jiuq
+中國地震臺	tson koq di tsyun de
+中國大百科全書出版社	tson koq da paq khou dzoe syu tshyuq pae dzo
+中國大陸	tson koq da loq
+中國天主教愛國會	tson koq thi tsyu ciau e koq wei
+中國女人	tson koq gniu gnin
+中國學生	tson koq ghoq san
+中國工人	tson koq kon gnin
+中國工商銀行	tson koq kon saon gnin ghaon
+中國建設銀行	tson koq ci shiq gnin ghaon
+中國政法大學	tson koq cin faq da ghoq
+中國教育	tson koq ciau yuq
+中國教育網	tson koq ciau yuq maon
+中國文化大學	tson koq ven huo da ghoq
+中國文化學院	tson koq ven huo yuq yu
+中國文學	tson koq ven yuq
+中國文學藝術界聯合會	tson koq ven yuq gni zyuq ka li ghaq wei
+中國日報	tson koq zyuq pau
+中國最大	tson koq tsei da
+中國未來	tson koq vi le
+中國殘疾人聯合會	tson koq dzae jiq gnin li ghaq wei
+中國法學會	tson koq faq yuq wei
+中國海事專科學校	tson koq he zy tsoe khou ghoq yau
+中國男人	tson koq nEI gnin
+中國發展	tson koq faq ci
+中國發展	tson koq faq tsoe
+中國社會科學院	tson koq dzo wei khou yuq yu
+中國科學院	tson koq khou yuq yu
+中國航海日	tson koq ghaon he zyuq
+中國船舶貿易公司	tson koq zOE boq meu yi kon sy
+中國船舶重工集團公司	tson koq zOE boq dzon kon jiq doe kon sy
+中國農業銀行	tson koq non gniq gnin ghaon
+中國農民銀行	tson koq non min gnin ghaon
+中國進出口銀行	tson koq cin tshyuq kheu gnin ghaon
+中國遊藝機遊樂園協會	tson koq yeu gni ci yeu loq yu yaq wei
+中國醫藥大學	tson koq i yaq da ghoq
+中國醫藥學院	tson koq i yaq yuq yu
+中國銀行	tson koq gnin ghaon
+中國長城工業公司	tson koq jian jin kon gniq kon sy
+中國音樂	tson koq in yuq
+中大	tson da
+中大型	tson da yin
+中央人民廣播電臺	tson ian zyun min kuaon pou di de
+中央商務區	tson ian saon vu chiu
+中央商務區	tson ian saon Wu chiu
+中央國家機關	tson ian koq cia ci kuae
+中央執行委員會	tson ian ciq yin uei yu wei
+中央大學	tson ian da ghoq
+中央宣傳部	tson ian soe dzOE bu
+中央專制集權	tson ian tsoe tsyu jiq jiu
+中央戲劇學院	tson ian shi jiq yuq yu
+中央日報	tson ian zyuq pau
+中央民族大學	tson ian min dzoq da ghoq
+中央省	tson ian san
+中央警官學校	tson ian cin kun ghoq yau
+中央財經大學	tson ian dze cin da ghoq
+中央銀行	tson ian gnin ghaon
+中央集權	tson ian jiq jiu
+中央音樂學院	tson ian in yuq yuq yu
+中學	tson ghoq
+中學教師	tson ghoq ciau sy
+中學生	tson ghoq san
+中學西用	tson yuq shi yon
+中專生	tson tsoe san
+中小企業銀行	tson shiau chi gniq gnin ghaon
+中小學	tson shiau ghoq
+中小學校	tson shiau ghoq yau
+中小學生	tson shiau ghoq san
+中山大學	tson sae da ghoq
+中山狼傳	tson sae laon dzOE
+中山醫學大學	tson sae i yuq da ghoq
+中山醫學院	tson sae i yuq yu
+中州技術學院	tson cieu ji zyuq yuq yu
+中年人	tson gni gnin
+中年男人	tson gni nEI gnin
+中心主任	tson shin tsyu gnin
+中心人物	tson shin zyun vaq
+中心任務	tson shin gnin vu
+中心任務	tson shin gnin Wu
+中心匯率	tson shin wei liq
+中心小學	tson shin shiau ghoq
+中性人	tson shin gnin
+中文標準交換碼	tson ven piau tsyun ciau wun mo
+中新世	tson shin syu
+中於	tson yu
+中日	tson zyuq
+中日戰爭	tson zyuq ci tsen
+中日戰爭	tson zyuq tsoe tsen
+中日文化交流	tson zyuq ven huo ciau lieu
+中日甲午戰爭	tson zyuq ciaq wu ci tsen
+中日甲午戰爭	tson zyuq ciaq wu tsoe tsen
+中日詞典	tson zyuq dzy ti
+中日關係	tson zyuq kuae shi
+中日韓	tson zyuq ghEI
+中日韓統一表意文字	tson zyuq ghEI thon iq piau i ven zy
+中日韓越	tson zyuq ghEI yuq
+中書省	tson syu san
+中書舍人	tson syu so gnin
+中朝	tson jiau
+中材	tson dze
+中東國家	tson ton koq cia
+中歐國家	tson eu koq cia
+中正國民小學	tson cin koq min shiau ghoq
+中正大學	tson cin da ghoq
+中正理工學院	tson cin li kon yuq yu
+中水	tson syu
+中法戰爭	tson faq ci tsen
+中法戰爭	tson faq tsoe tsen
+中波段	tson pou doe
+中波長	tson pou jian
+中源地震	tson gniu di tsyun
+中生	tson sen
+中生代	tson sen de
+中甲	tson ciaq
+中秋快樂	tson chieu khua loq
+中立國家	tson liq koq cia
+中等專業學校	tson ten tsoe gniq ghoq yau
+中等專業教育	tson ten tsoe gniq ciau yuq
+中等師範學校	tson ten sy vae ghoq yau
+中等技術學校	tson ten ji zyuq ghoq yau
+中等教育	tson ten ciau yuq
+中等普通教育	tson ten phu thon ciau yuq
+中等生	tson ten san
+中籤率	tson chi liq
+中級人民法院	tson ciq zyun min faq yu
+中老年人	tson lau gni gnin
+中耕	tson kan
+中耳	tson er
+中耳炎	tson er yi
+中臺科技大學	tson de khou ji da ghoq
+中臺醫護技術學院	tson de i wu ji zyuq yuq yu
+中興大學	tson shin da ghoq
+中興大業	tson shin da gniq
+中興小學	tson shin shiau ghoq
+中英夾雜	tson in kaq dzaq
+中華人民共和國	tson wo zyun min gon ghou koq
+中華兒女	tson wo er gniu
+中華大學	tson wo da ghoq
+中華工商專科學校	tson wo kon saon tsoe khou ghoq yau
+中華技術學院	tson wo ji zyuq yuq yu
+中華日報	tson wo zyuq pau
+中華蘇維埃共和國	tson wo su vi e gon ghou koq
+中藥學	tson yaq yuq
+中藥材	tson yaq dze
+中蘇解決懸案大綱協定	tson su ka ciuq yu EI da kaon yaq din
+中行	tson ghaon
+中覺	tson kau
+中資銀行	tson tsy gnin ghaon
+中越戰爭	tson yuq ci tsen
+中越戰爭	tson yuq tsoe tsen
+中轉櫃檯	tson tsoe guei de
+中途島戰役	tson du tau ci yuq
+中途島戰役	tson du tau tsoe yuq
+中途擱淺	tson du koq chi
+中遠太平洋	tson yu tha bin yan
+中遠太平洋有限公司	tson yu tha bin yan yeu ghae kon sy
+中遠集團	tson yu jiq doe
+中遠香港集團	tson yu shian kaon jiq doe
+中醫學	tson i yuq
+中醫學院	tson i yuq yu
+中長期	tson cian ji
+中長波	tson cian pou
+中長線	tson cian shi
+中長跑	tson cian bau
+中長鐵路	tson cian thiq lu
+中間	tson ci
+中間人	tson ci gnin
+中間件	tson ci ji
+中間價	tson ci ko
+中間名	tson ci min
+中間商	tson ci saon
+中間層	tson ci zen
+中間性	tson ci shin
+中間派	tson ci pha
+中間環節	tson ci wae ciq
+中間神經元	tson ci zyun cin gniu
+中間纖維	tson ci shi vi
+中間色	tson ci saq
+中間路線	tson ci lu shi
+中間體	tson ci thi
+中隊長	tson dei jian
+中集	tson jiq
+中非共和國	tson fi gon ghou koq
+中非國家	tson fi koq cia
+丰姿綽約	fon tsy tshoq iaq
+丰神綽約	fon zyun tshoq iaq
+串上去	tshoe zaon chiu
+串味	tshoe vi
+串哄	tshoe hon
+串行	tshoe yin
+串行口	tshoe yin kheu
+丹尼爾	tae gni er
+丹尼爾克雷格	tae gni er khaq lei kaq
+丹尼爾雷德克里夫	tae gni er lei taq khaq li fu
+丹瑞大將	tae zei da cian
+丹頂鶴	tae tin ngoq
+丹魄	tae phaq
+丹麥人	tae maq gnin
+主人	tsyu gnin
+主任	tsyu gnin
+主任委員	tsyu gnin uei yu
+主任醫師	tsyu gnin i sy
+主使人	tsyu sy gnin
+主和	tsyu ghou
+主和派	tsyu ghou pha
+主和絃	tsyu ghou yi
+主婚人	tsyu huen gnin
+主幹家庭	tsyu kI cia din
+主從	tsyu dzon
+主戰	tsyu ci
+主戰場	tsyu ci jian
+主戰派	tsyu ci pha
+主戰	tsyu tsoe
+主戰場	tsyu tsoe jian
+主戰派	tsyu tsoe pha
+主打品牌	tsyu tan phin ba
+主抓	tsyu tsa
+主持	tsyu dzy
+主持人	tsyu dzy gnin
+主持會議	tsyu dzy wei gni
+主持正義	tsyu dzy cin gni
+主教	tsyu ciau
+主教團	tsyu ciau doe
+主教練	tsyu ciau li
+主日	tsyu gniq
+主日學	tsyu gniq yuq
+主材	tsyu dze
+主權國家	tsyu jiu koq cia
+主治大夫	tsyu dzyu da fu
+主治醫生	tsyu dzyu i sen
+主營業務	tsyu yin gniq vu
+主營業務	tsyu yin gniq Wu
+主管人員	tsyu kun zyun yu
+主管教區	tsyu kun ciau chiu
+主腦人	tsyu nau gnin
+主要人物	tsyu iau zyun vaq
+主要任務	tsyu iau zyun vu
+主要任務	tsyu iau zyun Wu
+主要分佈	tsyu iau fen pu
+主要問題	tsyu iau ven di
+主要成分	tsyu iau jin ven
+主要業務	tsyu iau gniq vu
+主要業務	tsyu iau gniq Wu
+主要用於	tsyu iau yon yu
+主要矛盾	tsyu iau mau den
+主要負責人	tsyu iau veu tsaq gnin
+主要責任	tsyu iau tsaq zyun
+主計長	tsyu ci cian
+主辦人	tsyu bae gnin
+主長	tsyu jian
+乃堆拉	nae tei lha
+乃堆拉山口	nae tei lha sae kheu
+乃爾	nae er
+乃至於	nae tsy yu
+乃蠻	nae mae
+久仰大名	cieu gnian da min
+久慕盛名	cieu mou zhin min
+久負盛名	cieu veu zhin min
+久賭無勝家	cieu tu vu shin cia
+久賭無勝家	cieu tu Wu shin cia
+久長	cieu jian
+之乎者也	tsy wu tse ye
+之乎者也	tsy wu tse ya
+之二	tsy er
+之二	tsy gni
+之兩	tsy lian
+之交	tsy ciau
+之分	tsy fen
+之夢	tsy mon
+之大	tsy da
+之家	tsy cia
+之差	tsy tsha
+之戰	tsy ci
+之戰	tsy tsoe
+之於	tsy yu
+之日	tsy zyuq
+之日起	tsy zyuq chi
+之樂	tsy yuq
+之無	tsy vu
+之無	tsy Wu
+之爭	tsy tsen
+之行	tsy yin
+之長	tsy jian
+之間	tsy ci
+乍暖還寒	tso noe wae ghEI
+乎乎	fu fu
+乎呼	fu fu
+乎嚕	fu lu
+乏人問津	vaq zyun ven cin
+乏人問津	vaq gnin ven cin
+乏味	vaq vi
+乒乓外交	phin phan nga ciau
+乖乖牌	kua kua ba
+乖乖牌	kua kua bae
+乖剌	kua la
+乖忤	kua Nu
+乖忤	kua wu
+乖覺	kua ciuq
+乖迕	kua Nu
+乖迕	kua wu
+乘了	jin laq
+乘人不備	jin gnin paq bei
+乘人之危	jin gnin tsy wei
+乘僞行詐	jin wei yin tso
+乘其不備	jin ji paq bei
+乘務	jin vu
+乘務	jin Wu
+乘務員	jin vu yu
+乘務員	jin Wu yu
+乘奔御風	jin pen gniu fon
+乘數	jin su
+乘涼	zhin lian
+乘着	jin dzoq
+乘着	jin zyuq
+乘興而去	jin shin er chiu
+乘興而去	jin shin er chi
+乘長風破萬里浪	jin jian fon phou vae li laon
+乘間	jin ci
+乘風	jin fon
+乘風破浪	jin fon phou laon
+乙丙橡膠	iq pin zhian ciau
+乙二醇	iq er zyun
+乙太	iq tha
+乙太網路	iq tha maon lu
+乙未	iq vi
+乙狀結腸	iq dzaon ciq jian
+乙種維生素	iq tson vi sen su
+九三學社	cieu sae yuq dzo
+九世	cieu syu
+九世之仇	cieu syu tsy jieu
+九世之讎	cieu syu tsy jieu
+九世紀	cieu syu ci
+九九乘法	cieu cieu jin faq
+九九乘法表	cieu cieu jin faq piau
+九二一	cieu er iq
+九個	cieu kou
+九個人	cieu kou gnin
+九個月	cieu kou yuq
+九個	cieu goq
+九個人	cieu goq gnin
+九個月	cieu goq yuq
+九個	cieu ghoq
+九個人	cieu ghoq gnin
+九個月	cieu ghoq yuq
+九分	cieu fen
+九分之一	cieu fen tsy iq
+九分新	cieu fen shin
+九分熟	cieu fen zoq
+九分鐘	cieu fen tson
+九千人	cieu chi gnin
+九千個	cieu chi kou
+九千個	cieu chi goq
+九千個	cieu chi ghoq
+九命怪貓	cieu min kua mae
+九大	cieu da
+九大行星	cieu da yin shin
+九官鳥	cieu kun gniau
+九尾龜	cieu vi kuei
+九嶷山	cieu gni sae
+九日	cieu gniq
+九歲	cieu syu
+九死	cieu sy
+九死一生	cieu sy iq sen
+九死不悔	cieu sy paq huei
+九流三教	cieu lieu sae ciau
+九牛一毛	cieu ngeu iq mau
+九牛二虎	cieu ngeu er fu
+九牛二虎之力	cieu ngeu er fu tsy liq
+九牛一毛	cieu gnieu iq mau
+九牛二虎	cieu gnieu er fu
+九牛二虎之力	cieu gnieu er fu tsy liq
+九百人	cieu paq gnin
+九百個	cieu paq kou
+九百個	cieu paq goq
+九百個	cieu paq ghoq
+九萬二千	cieu vae er chi
+九萬兩千	cieu vae lian chi
+九萬人	cieu vae gnin
+九萬個	cieu vae kou
+九萬個	cieu vae goq
+九萬個	cieu vae ghoq
+九集	cieu jiq
+九頭鳥	cieu deu gniau
+九龍表行	cieu lon piau ghaon
+乞人	chiq gnin
+乞伏	chiq voq
+乞和	chiq ghou
+乞降	chiq ghaon
