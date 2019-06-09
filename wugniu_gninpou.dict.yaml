@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.08"
+version: "2019.06.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2644,8 +2644,7 @@ use_preset_vocabulary: true
 援	yu6
 褑	yu6
 淤	iu1
-於	iu1
-于	iu1
+于	iu1	5%
 迂	iu1
 竽	iu1
 紆	iu1
@@ -30288,3 +30287,1151 @@ VCD	v c d
 乞伏	chiq voq
 乞和	chiq ghou
 乞降	chiq ghaon
+也不	gha paq
+也不例外	gha paq li nga
+也不到	gha paq tau
+也不可能	gha paq khou nen
+也不在	gha paq dze
+也不是	gha paq zy
+也不會	gha paq wei
+也不盡然	gha paq jin zoe
+也不知道	gha paq tsyu dau
+也不曉得	gha paq shiau taq
+也不能	gha paq nen
+也不好	gha paq hau
+也不願	gha paq gniu
+也勿	gha vaq
+也勿例外	gha vaq li nga
+也勿到	gha vaq tau
+也勿可能	gha vaq khou nen
+也勿是	gha vaq zy
+也勿會	gha vaq wei
+也勿盡然	gha vaq jin zoe
+也勿曉得	gha vaq shiau taq
+也勿能	gha vaq nen
+也勿好	gha vaq hau
+也勿願	gha vaq gniu
+也弗	gha vaq
+也弗例外	gha vaq li nga
+也弗到	gha vaq tau
+也弗可能	gha vaq khou nen
+也弗是	gha vaq zy
+也弗會	gha vaq wei
+也弗盡然	gha vaq jin zoe
+也弗曉得	gha vaq shiau taq
+也弗能	gha vaq nen
+也弗好	gha vaq hau
+也弗願	gha vaq gniu
+也使	gha sy
+也來	gha le
+也做	gha tsou
+也像	gha zhian
+也先	gha shi
+也再	gha tse
+也別	gha biq
+也到	gha tau
+也剋制	gha khaq tsyu
+也去	gha chi
+也叫	gha ciau
+也可以	gha khou yi
+也向	gha shian
+也咬	gha ngau
+也因	gha in
+也多	gha tou
+也好	gha hau
+也對	gha tei
+也對於	gha tei yu
+也少	gha shiau
+也就	gha jieu
+也就是	gha jieu zy
+也就是說	gha jieu zy syuq
+也就是講	gha jieu zy kaon
+也從	gha dzon
+也快	gha khua
+也怕	gha pho
+也想	gha shian
+也應	gha in
+也搖	gha yau
+也敢	gha kI
+也是	gha zy
+也是一種	gha zy iq tson
+也更	gha ken
+也曾	gha dzen
+也會	gha wei
+也會在	gha wei dze
+也會有	gha wei yeu
+也有	gha yeu
+也未	gha vi
+也正	gha cin
+也比	gha pi
+也沒	gha maq
+也沒有	gha maq yeu
+也嘸沒	gha mhiq
+也無	gha vu
+也無	gha Wu
+也爲	gha wei
+也用	gha yon
+也由	gha yeu
+也稱	gha chin
+也算	gha soe
+也能	gha nen
+也能夠	gha nen keu
+也行	gha yin
+也作	gha tsoq
+也被	gha bei
+也要	gha iau
+也許	ya shiu
+也許在	ya shiu dze
+也許是	ya shiu zy
+也許會	ya shiu wei
+也許有	ya shiu yeu
+也許能	ya shiu nen
+也許	ye shiu
+也許在	ye shiu dze
+也許是	ye shiu zy
+也許會	ye shiu wei
+也許有	ye shiu yeu
+也許能	ye shiu nen
+也該	gha ke
+也說	gha syuq
+也講	gha kaon
+也嘔	gha eu
+也請	gha chin
+也讓	gha gnian
+也跟	gha ken
+也較	gha ciau
+也過	gha kou
+也過來	gha kou le
+也過去	gha kou chi
+也還	gha wa
+也都	gha tu
+也都是	gha tu zy
+也門	ye men
+也門	ya men
+也難	gha nae
+也非	gha fi
+也須	gha syu
+乳兒	zyu er
+乳汁狀	zyu ciq dzaon
+乳源瑤族自治縣	zyu gniu yau dzoq zy dzyu yu
+乳牛	zyu ngeu
+乳狀	zyu dzaon
+乳狀液	zyu dzaon yiq
+乳脂狀	zyu tsy dzaon
+乳膠	zyu kau
+乳膠漆	zyu kau chiq
+乳臭未乾	zyu shieu vi kI
+乳頭狀	zyu deu dzaon
+乾一杯	kI iq pei
+乾一碗	kI iq un
+乾一罈	kI iq dae
+乾不乾淨	kI paq kI zhin
+乾勿乾淨	kI vaq kI zhin
+乾弗乾淨	kI vaq kI zhin
+乾淨不乾淨	kI zhin paq kI zhin
+乾淨勿乾淨	kI zhin vaq kI zhin
+乾淨弗乾淨	kI zhin vaq kI zhin
+清爽勿清爽	chin saon vaq chin saon
+清爽弗清爽	chin saon vaq chin saon
+乾乾	kI kI
+乾乾巴巴	kI kI po po
+乾乾淨淨	kI kI zhin zhin
+乾乾爽爽	kI kI saon saon
+乾乾瘦瘦	kI kI seu seu
+乾乾的	kI kI tiq
+乾乾個	kI kI goq
+乾乾個	kI kI ghoq
+乾乾脆脆	kI kI tshei tshei
+乾了	kI lei
+乾井	kI cin
+乾俸	kI von
+乾元	ji gniu
+乾兒子	kI er tsy
+乾兩杯	kI lian pei
+乾冒煙	kI mau i
+乾冰	kI pin
+乾冷	kI lan
+乾卦	ji kuo
+乾又熱	kI yeu gniq
+乾和	ji wu
+乾咳	kI he
+乾咽	kI i
+乾哥	kI kou
+乾哥哥	kI kou kou
+乾哭	kI khoq
+乾唱	kI tshaon
+乾啞	kI o
+乾啤	kI bi
+乾啼	kI di
+乾喬	kI jiau
+乾嘉	ji cia
+乾嘉三大家	ji cia sae da cia
+乾嘔	kI eu
+乾噦	kI iuq
+乾嚎	kI ghau
+乾圖	ji du
+乾土	kI thu
+乾地	kI di
+乾坐着	kI zou dzoq
+乾坐着	kI zou zyuq
+乾坐的	kI zou tiq
+乾坤	ji khuen
+乾坤一擲	ji khuen iq jiq
+乾坤再造	ji khuen tse zau
+乾坤大挪移	ji khuen da nou yi
+乾塢	kI u
+乾女	kI gniu
+乾女兒	kI gniu er
+乾女婿	kI gniu shi
+乾奴才	kI nu dze
+乾妹	kI mei
+乾妹妹	kI mei mei
+乾阿妹	kI aq mei
+乾姊	kI ci
+乾姊姊	kI ci ci
+乾姐	kI cia
+乾阿姐	kI aq cia
+乾姬松茸	kI ci son dzon
+乾媽	kI mha
+乾孃	kI gnian
+乾子	kI tsy
+乾季	kI ci
+乾宅	ji dzaq
+乾安	ji EI
+乾安縣	ji EI yu
+乾屍	kI sy
+乾屎橛	kI sy jiuq
+乾巴	kI po
+乾巴巴	kI po po
+乾巴巴的	kI po po tiq
+燥夫夫個	sau fu fu goq
+燥乎乎個	sau fu fu goq
+燥夫夫個	sau fu fu ghoq
+燥乎乎個	sau fu fu ghoq
+乾布	kI pu
+乾幾杯	kI ci pei
+乾式	kI shiq
+乾弟	kI di
+乾弟弟	kI di di
+乾得很	kI taq hen
+乾急	kI ciq
+乾性	kI shin
+乾性油	kI shin yeu
+乾性皮膚	kI shin bi fu
+乾手淨腳	kI shieu zhin ciaq
+乾打壘	kI tan lei
+乾打雷	kI tan lei
+乾折	kI ciq
+乾掉一杯	kI diau iq pei
+乾掉一瓶	kI diau iq bin
+乾掉一碗	kI diau iq un
+乾掉這杯	kI diau tsyuq pei
+乾掉那杯	kI diau nha pei
+乾掉宕杯	kI diau daon pei
+乾掉蕩杯	kI diau daon pei
+乾掉該杯	kI diau kiq pei
+乾擦	kI tshaq
+乾數杯	kI su pei
+乾料	kI liau
+乾斷	ji toe
+乾旦	ji tae
+乾旱	kI ghEI
+乾旱地區	kI ghEI di chiu
+乾暖	kI noe
+乾曜	kI yau
+乾材	kI dze
+乾杯	kI pei
+乾枝	kI tsy
+乾枯	kI khu
+乾柴	kI za
+乾柴烈火	kI za liq hou
+乾梅	kI mei
+乾梅子	kI mei tsy
+乾此杯	kI tshy pei
+乾死	kI sy
+乾煞	kI saq
+乾煞死	kI saq shi
+乾毛巾	kI mau cin
+燥毛巾	sau mau cin
+乾池	kI ji
+乾池	kI dzy
+乾沒	kI maq
+乾洗	kI shi
+乾洗店	kI shi ti
+乾涸	kI hoq
+乾涼	kI lian
+乾淨	kI zhin
+乾淨俐落	kI zhin li loq
+乾淨利落	kI zhin li loq
+乾清宮	ji chin kon
+乾渠	kI jiu
+乾渴	kI khaq
+乾溝	kI keu
+乾溼	kI shiq
+乾溼髮	kI shiq faq
+乾漆	kI chiq
+乾澀	kI saq
+乾煸土豆絲	kI pi thu deu sy
+乾熬	kI ngau
+乾熱	kI gniq
+乾燒	kI shiau
+乾燥	kI sau
+乾燥劑	kI sau ci
+乾燥器	kI sau chi
+乾燥機	kI sau ci
+乾燥箱	kI sau shian
+乾燥花	kI sau huo
+乾爸	kI pa
+乾爸爸	kI pa pa
+乾爹	kI tia
+乾爽	kI saon
+乾片	kI phi
+乾生受	kI sen zhieu
+乾生子	kI sen tsy
+乾生氣	kI sen chi
+乾產	kI tshae
+乾田	kI di
+乾疥	kI ka
+乾瘦	kI seu
+乾癟	kI piq
+乾癟癟	kI piq piq
+乾癬	kI shi
+乾癬性	kI shi shin
+乾癮	kI in
+乾白	kI baq
+乾的	kI tiq
+乾個	kI goq
+乾個	kI ghoq
+燥個	sau goq
+燥個	sau ghoq
+乾盛世	ji zhin syu
+乾眼	kI ngae
+乾眼病	kI ngae bin
+乾眼症	kI ngae cin
+乾瞪眼	kI ten ngae
+乾硬	kI ngan
+乾禮	kI li
+乾稿	kI kau
+乾站着	kI dzae tsaq
+乾笑	kI shiau
+乾等	kI ten
+乾粉	kI fen
+乾糧	kI lian
+乾糧袋	kI lian de
+乾紅	kI ghon
+乾結	kI ciq
+乾絲	kI sy
+乾綱	kI kaon
+乾縣	ji yu
+乾繃	kI pan
+乾耗	kI hau
+乾肉	kI gnioq
+乾肉片	kI gnioq phi
+乾股	kI ku
+乾肥	kI vi
+乾脆	kI tshei
+乾脆利落	kI tshei li loq
+乾花	kI huo
+乾草	kI tshau
+乾草叉	kI tshau tsho
+乾草堆	kI tshau tei
+乾草機	kI tshau ci
+乾草粉	kI tshau fen
+乾落	kI loq
+乾薑	kI cian
+乾薪	kI shin
+乾薹	kI de
+乾號	kI ghau
+乾血漿	kI shiuq cian
+乾衣	kI i
+乾衣機	kI i ci
+乾裂	kI liq
+乾製	kI tsyu
+乾親	kI chin
+乾象	ji zhian
+乾象曆	ji zhian liq
+乾貨	kI hou
+乾躁	kI tshau
+乾透	kI theu
+乾這一杯	kI tsyuq iq pei
+乾這杯	kI tsyuq pei
+乾該一杯	kI kiq iq pei
+乾該杯	kI kiq pei
+乾造	kI zau
+乾逼	kI piq
+乾過杯	kI kou pei
+乾過癮	kI kou in
+乾那杯	kI nha pei
+乾酪	kI loq
+乾酵母	kI ciau meu
+乾酵母	kI shiau meu
+乾醋	kI tshu
+乾重	kI dzon
+乾量	kI lian
+乾闥婆	ji thaq bou
+乾陵	ji lin
+乾隆	ji lon
+乾隆年間	ji lon gni ci
+乾隆皇帝	ji lon waon ti
+乾雲蔽日	kI yun bi zyuq
+乾雷	kI lei
+乾電	kI di
+乾電池	kI di ji
+乾霍亂	kI hoq loe
+乾颱	kI de
+乾飯	kI vae
+乾館	kI kun
+乾餱	kI gheu
+乾餾	kI lieu
+乾餾法	kI lieu faq
+乾魚	kI yu
+乾鮮	kI shi
+乾麪	kI mi
+亂世	loe syu
+亂世佳人	loe syu cia zyun
+亂世兒女	loe syu er gniu
+亂丟垃圾	loe tieu la shi
+垃圾亂揞	la shi loe an
+垃圾亂揞	la shi loe khan
+亂交	loe ciau
+亂來亂去	loe le loe chiu
+亂倒垃圾	loe tau la shi
+垃圾亂倒	la shi loe tau
+亂哄哄	loe hon hon
+亂抓	loe tsa
+亂槍打鳥	loe chian tan gniau
+亂生	loe san
+亂石砸死	loe zaq tsaq sy
+亂行	loe yin
+亂鋸	loe ciu
+亂集團	loe jiq doe
+了一	liau iq
+了不得	liau paq taq
+了不成	liau paq jin
+了不起	liau paq chi
+了勿得	liau vaq taq
+了勿成	liau vaq jin
+了勿起	liau vaq chi
+了弗得	liau vaq taq
+了弗成	liau vaq jin
+了弗起	liau vaq chi
+了了	liau liau
+了事	liau zy
+了事環	liau zy wae
+了得	liau taq
+了悟	liau Nu
+了斷	liau doe
+了案	liau EI
+了此殘生	liau tshy dzae sen
+了無	liau vu
+了無掛礙	liau vu kuo nge
+了無新意	liau vu shin i
+了無牽掛	liau vu chi kuo
+了無生機	liau vu sen ci
+了無生趣	liau vu sen tshyu
+了無痕跡	liau vu ghen ciq
+了無罣礙	liau vu kuo nge
+了無掛礙	liau Wu kuo nge
+了無新意	liau Wu shin i
+了無牽掛	liau Wu chi kuo
+了無生機	liau Wu sen ci
+了無生趣	liau Wu sen tshyu
+了無痕跡	liau Wu ghen ciq
+了無罣礙	liau Wu kuo nge
+了然不惑	liau zoe paq ghoq
+了當	liau taon
+了當不得	liau taon paq taq
+了納	liau naq
+了落	liau loq
+了解情況	liau cia jin huaon
+了訖	liau chiq
+了話	liau wo
+了語	liau gniu
+了賬	liau cian
+了身達命	liau shin daq min
+了願	liau gniu
+了鳥	liau gniau
+事不宜遲	zy paq gni dzy
+事不宜遲	zy paq gni ji
+事件發生	zy ji faq sen
+事假	zy ko
+事務	zy vu
+事務主義	zy vu tsyu gni
+事務員	zy vu yu
+事務官	zy vu kun
+事務局	zy vu jiuq
+事務律師	zy vu liq sy
+事務性	zy vu shin
+事務所	zy vu so
+事務所律師	zy vu so liq sy
+事務管理	zy vu kun li
+事務繁忙	zy vu vae maon
+事務股	zy vu ku
+事務處理	zy vu tshyu li
+事務長	zy vu cian
+事務	zy Wu
+事務主義	zy Wu tsyu gni
+事務員	zy Wu yu
+事務官	zy Wu kun
+事務局	zy Wu jiuq
+事務律師	zy Wu liq sy
+事務性	zy Wu shin
+事務所	zy Wu so
+事務所律師	zy Wu so liq sy
+事務管理	zy Wu kun li
+事務繁忙	zy Wu vae maon
+事務股	zy Wu ku
+事務處理	zy Wu tshyu li
+事務長	zy Wu cian
+事危累卵	zy wei lei loe
+事在人爲	zy dze zyun wei
+事在人爲	zy dze gnin wei
+事實勝於雄辯	zy zyuq shin yu yon bi
+事態發展	zy the faq ci
+事態發展	zy the faq tsoe
+事業家	zy gniq cia
+事業發展	zy gniq faq ci
+事業發展	zy gniq faq tsoe
+事無鉅細	zy vu jiu shi
+事關重大	zy kuae dzon da
+兩〇	lian lin
+兩〇〇九	lian lin lin cieu
+兩〇〇八	lian lin lin paq
+兩〇一〇	lian lin iq lin
+兩〇一一	lian lin iq iq
+二丁醚	er tin mi
+二七區	er chiq chiu
+廿七區	nE chiq chiu
+二七大罷工	er chiq da ba kon
+二三	er sae
+二乙胺基	er iq EI ci
+廿二	nE er
+二二得四	gni gni taq sy
+二二拍子	gni gni phaq tsy
+兩兩拍子	lian lian phaq tsy
+二五一十	gni ng iq zyuq
+二人	er gnin
+二人份	er gnin ven
+兩人	lian gnin
+兩人份	lian gnin ven
+二人同心	er gnin don shin
+二人同心其利斷金	er gnin don shin ji li doe cin
+兩人同心	lian gnin don shin
+兩人同心其利斷金	lian gnin don shin ji li doe cin
+二代	gni de
+二任	gni gnin
+兩份	lian ven
+二伯	gni paq
+二伯母	gni paq meu
+二伯父	gni paq vu
+兩位	lian wei
+兩位數	lian wei su
+兩個人	lian goq gnin
+兩個月	lian goq yuq
+兩個人	lian ghoq gnin
+兩個月	lian ghoq yuq
+兩倍	lian bei
+二倍體	er bei thi
+兩倍體	lian bei thi
+兩側	lian tshaq
+二傳	gni dzOE
+二傳手	gni dzOE shieu
+兩價	lian ko
+兩億	lian i
+兩億人	lian i gnin
+兩億元	lian i gniu
+兩億塊	lian i khuei
+兩元	lian gniu
+兩元方程式	lian gniu faon jin shiq
+二兩	gni lian
+二八十六	gni paq zyuq loq
+兩具	lian jiu
+兩出祁山	lian tshyuq ji sae
+兩分	lian fen
+兩分之一	lian fen tsy iq
+兩分法	lian fen faq
+兩分裂	lian fen liq
+兩分鐘	lian fen tson
+兩分音符	lian fen in vu
+兩分點	lian fen ti
+兩則	lian tsaq
+兩副	lian fu
+兩劃	lian waq
+兩動	lian don
+兩區	lian chiu
+二十	er zyuq
+二十一	er zyuq iq
+二十一世紀	er zyuq iq syu ci
+廿一世紀	nE iq syu ci
+二十一條	er zyuq iq diau
+二十一萬	er zyuq iq vae
+二十一點	er zyuq iq ti
+二十七	er zyuq chiq
+二十七萬	er zyuq chiq vae
+二十七號	er zyuq chiq ghau
+二十三	er zyuq sae
+二十三萬	er zyuq sae vae
+二十三點	er zyuq sae ti
+廿一萬	nE iq vae
+廿一點	nE iq ti
+廿七萬	nE chiq vae
+廿七號	nE chiq ghau
+廿三萬	nE sae vae
+廿三點	nE sae ti
+二十世紀	er zyuq syu ci
+二十九	er zyuq cieu
+二十二	er zyuq er
+二十二萬	er zyuq er vae
+二十二號	er zyuq er ghau
+二十二點	er zyuq er ti
+廿二萬	nE gni vae
+廿二號	nE gni ghau
+廿二點	nE gni ti
+二十五	er zyuq ng
+二十五史	er zyuq ng sy
+二十五萬	er zyuq ng vae
+二十八	er zyuq paq
+二十八宿	er zyuq paq shieu
+二十八星瓢蟲	er zyuq paq shin biau dzon
+二十八萬	er zyuq paq vae
+二十八號	er zyuq paq ghau
+二十六	er zyuq loq
+二十六歲	er zyuq loq syu
+二十六萬	er zyuq loq vae
+二十六號	er zyuq loq ghau
+二十四	er zyuq sy
+二十四史	er zyuq sy sy
+二十四孝	er zyuq sy shiau
+二十四小時	er zyuq sy shiau zy
+二十四節氣	er zyuq sy ciq chi
+二十四萬	er zyuq sy vae
+二十四號	er zyuq sy ghau
+二十多	er zyuq tou
+二十多萬	er zyuq tou vae
+二十天	er zyuq thi
+廿五萬	nE ng vae
+廿八宿	nE paq shieu
+廿八萬	nE paq vae
+廿八號	nE paq ghau
+廿六歲	nE loq syu
+廿六萬	nE loq vae
+廿六號	nE loq ghau
+廿四小時	nE sy shiau zy
+廿四萬	nE sy vae
+廿四號	nE sy ghau
+廿多	nE tou
+廿多萬	nE tou vae
+廿日	nE gniq
+二十年目睹之怪現狀	er zyuq gni moq tu tsy kua yi dzaon
+二十幾	er zyuq ci
+二十幾年	er zyuq ci gni
+二十幾萬	er zyuq ci vae
+二十歲	er zyuq sei
+二十萬	er zyuq vae
+廿幾	nE ci
+廿幾年	nE ci gni
+廿幾萬	nE ci vae
+廿歲	nE sei
+廿萬	nE vae
+二十面體	er zyuq mi thi
+二十點	er zyuq ti
+廿點	nE ti
+兩千	lian chi
+兩千人	lian chi zyun
+兩千個	lian chi kou
+兩千億	lian chi i
+兩千元	lian chi gniu
+兩千塊	lian chi khuei
+兩千多	lian chi tou
+兩千多萬	lian chi tou vae
+兩千年	lian chi gni
+兩千石	lian chi zaq
+兩千萬	lian chi vae
+兩半	lian pun
+二叉樹	gni tsho zyu
+二叔	gni soq
+二叔叔	gni soq soq
+兩句	lian ciu
+兩句話	lian ciu wo
+兩合一	lian ghaq iq
+二名	gni min
+二名法	gni min faq
+兩周	lian cieu
+二和藥	gni ghou yaq
+兩和藥	lian ghou yaq
+兩員	lian yu
+二哥	gni kou
+兩回	lian wei
+兩回熟	lian wei zoq
+兩圓	lian yu
+二地主	gni di tsyu
+二堂哥	gni daon kou
+二堂妹	gni daon mei
+二堂嫂	gni daon sau
+二堂弟	gni daon di
+二堂舍子	gni daon so tsy
+兩塊	lian khuei
+兩塊錢	lian khuei ji
+兩塊洋鈿	lian khuei yan di
+二壘	er lei
+二壘手	er lei shieu
+兩夜	lian ya
+二大	gni da
+兩大	lian da
+兩日	lian gniq
+兩日後	lian gniq gheu
+兩女	lian gniu
+兩女一男	lian gniu iq nEI
+兩女兩男	lian gniu lian nEI
+二妹	gni mei
+二妹夫	gni mei fu
+二姊	gni ci
+二姊夫	gni ci fu
+二姐	gni cia
+二姑	gni ku
+二姑丈	gni ku jian
+二姑媽	gni ku mha
+二姑母	gni ku meu
+二姨	gni yi
+二姨媽	gni yi mha
+二娘	gni gnian
+二娘子	gni gnian tsy
+二婚	gni huen
+二嫂	gni sau
+二嬸	gni shin
+二嬸婆	gni shin bou
+二孃	gni gnian
+兩子	lian tsy
+兩子一女	lian tsy iq gniu
+兩子兩女	lian tsy lian gniu
+兩字	lian zy
+兩季	lian ci
+兩季度	lian ci du
+二審	gni shin
+二專	gni tsoe
+兩尖瓣	lian ci bae
+兩局	lian jiuq
+兩局上半	lian jiuq zaon pun
+兩局下半	lian jiuq gho pun
+二屆	gni ka
+二層	gni zen
+兩層	lian zen
+二崙	gni len
+二崙鄉	gni len shian
+二帝三王	gni ti sae waon
+兩幅	lian foq
+兩年	lian gni
+兩年制	lian gni tsyu
+兩年生	lian gni sen
+兩年生植物	lian gni sen jiq vaq
+兩年級	lian gni ciq
+兩度	lian du
+兩度春	lian du tshyun
+兩度梅	lian du mei
+二式	gni shiq
+兩式	lian shiq
+二形人	gni yin gnin
+兩心	lian shin
+二戰	gni ci
+二戰	gni tsoe
+二房	gni vaon
+兩房	lian vaon
+兩手	lian shieu
+兩手房	lian shieu vaon
+兩手菸	lian shieu i
+兩手貨	lian shieu hou
+兩手車	lian shieu tsho
+兩把	lian po
+兩把刀	lian po tau
+兩把手	lian po shieu
+兩指	lian tsy
+兩斗	lian teu
+兩日	lian zyuq
+兩日份	lian zyuq ven
+二是	gni zy
+兩晚	lian vae
+二更	gni kan
+二月	gni yuq
+二月二	gni yuq gni
+二月份	gni yuq ven
+兩月	lian yuq
+兩月兩	lian yuq lian
+兩月份	lian yuq ven
+二月革命	gni yuq kaq min
+兩期	lian ji
+兩期工程	lian ji kon jin
+二期稻作	er ji dau tsoq
+兩本	lian pen
+兩杯	lian pei
+二林	gni lin
+二林鎮	gni lin tsyun
+兩枚	lian mei
+兩桶	lian don
+兩桿子	lian kI tsy
+兩桿子脾氣	lian kI tsy bi chi
+兩棟	lian ton
+兩樓	lian leu
+兩樓住戶	lian leu dzyu wu
+兩次	lian tshy
+兩次世界大戰	lian tshy syu ka da ci
+兩次世界大戰	lian tshy syu ka da tsoe
+兩次函數	lian tshy ghEI su
+兩次型	lian tshy yin
+兩次多項式	lian tshy tou ghaon shiq
+兩次大戰	lian tshy da ci
+兩次感染	lian tshy kI gni
+兩次方	lian tshy faon
+兩次方程	lian tshy faon jin
+兩次方程式	lian tshy faon jin shiq
+兩次曲	lian tshy chiuq
+兩次曲線	lian tshy chiuq shi
+兩次曲面	lian tshy chiuq mi
+兩次污染	lian tshy u gni
+兩次破碎	lian tshy phou sei
+兩次能源	lian tshy nen gniu
+兩次開發	lian tshy khe faq
+兩次電子	lian tshy di tsy
+二正丙醚	er cin pin mi
+兩步	lian bu
+兩段	lian doe
+兩段制	lian doe tsyu
+兩段式	lian doe shiq
+兩毛	lian mau
+兩角	lian koq
+二氧	er yan
+二氧化	er yan huo
+二氧化氮	er yan huo dae
+二氧化物	er yan huo vaq
+二氧化矽	er yan huo zhiq
+二氧化硅	er yan huo kuei
+二氧化硫	er yan huo lieu
+二氧化碳	er yan huo thae
+二氧化碳隔離	er yan huo thae kaq li
+二氧化鈦	er yan huo tha
+二氧化鈾	er yan huo yeu
+二氧化鉛	er yan huo khae
+二氧化錳	er yan huo man
+二氧芑	er yan chi
+二氧雜芑	er yan dzaq chi
+二氯乙烷	er loq iq wun
+二氯乙烷中毒	er loq iq wun tson doq
+二氯甲烷	er loq ciaq wun
+二氯胺	er loq EI
+二水	gni syu
+二水鄉	gni syu shian
+二泉映月	gni dzOE in yuq
+二流	gni lieu
+二流人才	gni lieu zyun dze
+二流角色	gni lieu koq saq
+兩滴	lian tiq
+二炮	gni phau
+兩班	lian pae
+兩班制	lian pae tsyu
+二環	gni wae
+兩環	lian wae
+二甘醇	er kI zyun
+二甲	gni ciaq
+二甲基胂酸	er ciaq ci shin soe
+二甲胺基	er ciaq EI ci
+二甲苯	er ciaq pen
+兩男	lian nEI
+兩男一女	lian nEI iq gniu
+兩男兩女	lian nEI lian gniu
+兩百	lian paq
+兩百人	lian paq gnin
+兩百個	lian paq goq
+兩百個	lian paq ghoq
+兩百元	lian paq gniu
+兩百塊	lian paq khuei
+兩百多萬	lian paq tou vae
+兩百萬	lian paq vae
+二皇帝	gni waon ti
+二硫化物	er lieu huo vaq
+二硫化碳	er lieu huo thae
+二硫化鉬	er lieu huo moq
+二硫基丙醇	er lieu ci pin zyun
+兩碗	lian un
+二碳化鈣	er thae huo ke
+二磷酸腺苷	er lin soe shi kI
+兩科	lian khou
+兩秒	lian miau
+兩秒鐘	lian miau tson
+兩種	lian tson
+兩端	lian toe
+兩等	lian ten
+兩等兵	lian ten pin
+兩等功	lian ten kon
+兩等獎	lian ten cian
+兩等艙	lian ten tshaon
+兩等親	lian ten chin
+兩等車	lian ten tsho
+兩筒	lian don
+二簧	gni waon
+兩籠	lian lon
+兩粒	lian liq
+二糖	gni daon
+兩級	lian ciq
+兩級域名	lian ciq yuq min
+兩級士官	lian ciq zy kun
+兩級市場	lian ciq zy jian
+兩級緩存	lian ciq wun dzen
+兩級頭	lian ciq deu
+兩級風	lian ciq fon
+二絃	gni yi
+二綠	gni loq
+二維	gni vi
+二維碼	gni vi mo
+兩維	lian vi
+兩維碼	lian vi mo
+兩線	lian shi
+二老闆	gni lau pae
+兩者	lian tse
+二者不可兼得	er tse paq khou ci taq
+兩者不可兼得	lian tse paq khou ci taq
+兩者之一	lian tse tsy iq
+兩者之間	lian tse tsy ci
+二者必居其一	er tse piq ciu ji iq
+兩者必居其一	lian tse piq ciu ji iq
+二聯	gni li
+二聯單	gni li tae
+二聯式	gni li shiq
+兩聲	lian shin
+兩股	lian ku
+兩胎	lian the
+二胡	er wu
+二致	er tsy
+兩臺	lian de
+二舅	gni jieu
+二舅媽	gni jieu mha
+二舅母	gni jieu meu
+兩艘	lian seu
+二苯氯胂	er pen loq shin
+二茬罪	gni dzo zei
+兩萬	lian vae
+兩萬七千	lian vae chiq chi
+兩萬三千	lian vae sae chi
+兩萬九千	lian vae cieu chi
+兩萬兩千	lian vae lian chi
+兩萬五千	lian vae ng chi
+兩萬五千里長征	lian vae ng chi li jian cin
+兩萬人	lian vae gnin
+兩萬個	lian vae goq
+兩萬個	lian vae ghoq
+兩萬元	lian vae gniu
+兩萬六千	lian vae loq chi
+兩萬四千	lian vae sy chi
+兩萬塊	lian vae khuei
+兩萬多	lian vae tou
+兩葉松	lian yiq son
+兩虎相鬥	lian fu shian teu
+兩號	lian ghau
+兩號人物	lian ghau zyun vaq
+兩號機	lian ghau ci
+兩號電池	lian ghau di ji
+兩街	lian ka
+二衝程引擎	gni tshon jin yin jin
+二表哥	gni piau kou
+二表妹	gni piau mei
+二表姐	gni piau cia
+二表嫂	gni piau sau
+二表弟	gni piau di
+兩袋	lian de
+二要	gni iau
+二話	gni wo
+二話不說	gni wo paq syuq
+二話勿講	gni wo vaq kaon
+二話弗講	gni wo vaq kaon
+二話沒說	gni wo maq syuq
+兩課	lian khou
+兩讀	lian doq
+兩路	lian lu
+兩路縱隊	lian lu tson dei
+兩踢腳	lian thiq ciaq
+兩輪	lian len
+兩輪電影	lian len di in
+兩輪馬車	lian len mo tsho
+二通	gni thon
+兩通	lian thon
+二連	gni li
+兩連	lian li
+兩進	lian cin
+兩進位	lian cin wei
+兩進位制	lian cin wei tsyu
+兩進制	lian cin tsyu
+兩進制碼	lian cin tsyu mo
+兩進制編碼	lian cin tsyu pi mo
+二進宮	gni cin kon
+兩進宮	lian cin kon
+兩遍	lian pi
+兩遍苦	lian pi khu
+兩道	lian dau
+二道區	gni dau chiu
+二道江	gni dau kaon
+二道江區	gni dau kaon chiu
+兩道販子	lian dau fae tsy
+兩邊	lian pi
+二郎	gni laon
+二郎山	gni laon sae
+二郎神	gni laon zyun
+二郎腿	gni laon thei
+兩部	lian bu
+兩部制	lian bu tsyu
+兩部合唱	lian bu ghaq tshaon
+兩部曲	lian bu chiuq
+二醇	er zyun
+兩里	lian li
+二里頭	gni li deu
+二里頭文化	gni li deu ven huo
+兩重	lian dzon
+兩重人格	lian dzon zyun kaq
+兩重唱	lian dzon tshaon
+兩重奏	lian dzon tseu
+兩重性	lian dzon shin
+兩重根	lian dzon ken
+兩錢	lian ji
+二門	gni men
+二門不出	gni men paq tshyuq
+二阿姨	gni aq yi
+二院	gni yu
+兩院	lian yu
+二隊	gni dei
+兩隊	lian dei
+二階	gni cie
+兩階	lian cie
+兩隻	lian tsaq
+兩集	lian jiq
+兩零零	lian lin lin
+兩面角	lian mi koq
+兩頁	lian yiq
+兩頂	lian ten
+二項式	gni ghaon shiq
+二項式係數	gni ghaon shiq shi su
+二項式定理	gni ghaon shiq din li
+兩頭肌	lian deu ci
+兩類	lian lei
+兩首	lian shieu
+兩首歌	lian shieu kou
+二鬼子	gni kuei tsy
+二黃	gni waon
+兩點	lian ti
+兩點鐘	lian ti tson
+兩黨制	lian taon tsyu
+二龍	gni lon
+于丹	iu tae
+于于	iu yu
+于仁泰	iu zyun tha
+于佳卉	iu cia huei
+于偉國	iu wei koq
+于傑	iu jiq
+于光遠	iu kuaon yu
+于克勒	iu khaq laq
+于冕	iu mi
+于勒	iu laq
+于化虎	iu huo fu
+于占元	iu ci gniu
+于右任	iu yeu zyun
+于吉	iu ciq
+于品海	iu phin he
+于嗟	iu tse
+于堅	iu ci
+于大寶	iu da pau
+于天仁	iu thi zyun
+于姓	iu shin
+于娜	iu na
+于娟	iu ciu
+于子千	iu tsy chi
+于孔兼	iu khon ci
+于學忠	iu yuq tson
+于家堡	iu cia pau
+于小偉	iu shiau wei
+于小彤	iu shiau don
+于山	iu sae
+于山國	iu sae koq
+于帥	iu se
+于幼軍	iu ieu ciun
+于康震	iu khaon tsyun
+于廣洲	iu kuaon cieu
+于式枚	iu shiq mei
+于徐	iu zhi
+于德海	iu taq he
+于志寧	iu tsy gnin
+于思	iu sy
+于慎行	iu zyun yin
+于慧	iu wei
+于成龍	iu jin lon
+于振	iu tsyun
+于振武	iu tsyun Wu
+于敏	iu min
+于敏中	iu min tson
+于斌	iu pin
+于斯塔德	yu sy thaq taq
+于明濤	iu min dau
+于晨楠	iu zyun nEI
+于晴	iu zhin
+于會泳	iu wei ion
+于根偉	iu ken wei
+于格	iu kaq
+于欣源	iu shin gniu
+于正昇	iu cin shin
+于正昌	iu cin tshaon
+于歸	yu kuei
+于江震	iu kaon tsyun
+于波	iu pou
+于洪區	iu ghon chiu
+于浩威	iu ghau uei
+于海洋	iu he yan
+于漢超	iu he chiau
+于濤	iu dau
+于爾根	yu er ken
+于爾里克	yu er li khaq
+于玉立	iu gnioq liq
+于田	yu di
+于田縣	yu di yu
+于禁	iu cin
+于秀敏	iu shieu min
+于素秋	iu su chieu
+于臺煙	iu de i
+于若木	iu zhiaq moq
+于蔭霖	iu in lin
+于衡	iu ghen
+于謙	iu chi
+于貝爾	iu pei er
+于贈	iu dzen
+于越	iu yuq
+于軍	iu ciun
+于道泉	iu dau dzOE
+于遠偉	iu yu wei
+于都	yu tu
+于都縣	yu tu yu
+于闐	yu di
+于闐縣	yu di yu
+于雙戈	iu saon kou
+于震寰	iu tsyun wae
+于震環	iu tsyun wae
+于靖	iu zhin
+于韋斯屈萊	yu wei sy chiuq le
+于風政	iu fon cin
+于飛	yu fi
+于飛之樂	yu fi tsy loq
+于鳳桐	iu von don
+于鳳至	iu von tsy
+于默奧	iu maq au
+云乎	yun wu
+云爾	yun er
+互交	wu ciau
+互加	wu ko
+互助土族自治縣	wu dzu thu dzoq zy dzyu yu
+互問	wu men
+互教互學	wu kau wu ghoq
+互教互學	wu kau wu yuq
+互斥	wu chiq
+互於	wu yu
+互派大使	wu pha da sy
+互爭	wu tsen
+互爭雄長	wu tsen yon cian
+互生	wu sen
+互生葉	wu sen yiq
+互相聯繫	wu shian li shi
+互致問候	wu tsy ven gheu
+互通有無	wu thon yeu vu
+互通有無	wu thon yeu Wu
