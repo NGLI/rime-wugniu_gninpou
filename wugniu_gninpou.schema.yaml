@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "0.2.7"
+  version: "0.2.8"
   author:
     - Electric Sheep ˂1613023143@qq.com˃
   description: |
@@ -137,7 +137,7 @@ translator:
   spelling_hints: 5          # 標註拼音
   comment_format: &comment
     # 還原城區音系
-    - xlit/AEIOWN/aeiown/
+    - xlit/AEIOUWGNDZ/aeiouwgndz/
     - xform/4/6/
 
     # 不顯示單字調
