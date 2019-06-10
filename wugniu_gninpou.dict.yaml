@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.09"
+version: "2019.06.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2083,29 +2083,29 @@ use_preset_vocabulary: true
 努	nu2
 孥	nu2
 駑	nu2
-吾	Nu2
-梧	Nu2
-鼯	Nu2
-齬	Nu2
-娪	Nu2
-誤	Nu2
-悟	Nu2
+吾	NU2
+梧	nu2
+鼯	nu2
+齬	nu2
+娪	nu2
+誤	nu2
+悟	nu2
 努	nu4
 弩	nu4
 砮	nu4
 𧉭	nu4
-圄	Nu4
-牾	Nu4
+圄	nu4
+牾	nu4
 怒	nu6
-悞	Nu6
-娛	Nu6
-捂	Nu6
-晤	Nu6
-寤	Nu6
-迕	Nu6
-忤	Nu6
-啎	Nu6
-仵	Nu6
+悞	nu6
+娛	nu6
+捂	nu6
+晤	nu6
+寤	nu6
+迕	nu6
+忤	nu6
+啎	nu6
+仵	nu6
 呶	nhu5
 廬	lu2
 爐	lu2
@@ -2283,9 +2283,9 @@ use_preset_vocabulary: true
 𤝘	wu2
 誤	wu2	10%
 悟	wu2	10%
-吾	Wu2	10%
+吾	WU2	10%
 吳	wu2
-蜈	Wu2	10%
+蜈	WU2	10%
 鼯	wu2
 齬	wu2
 娪	wu2
@@ -4913,13 +4913,13 @@ use_preset_vocabulary: true
 全	dzoe2
 痊	dzoe2
 傳	dzOE2
-泉	dzOE2
-椽	dzOE2
+泉	DZOE2
+椽	DZOE2
 猭	dzoe2
 諓	dzoe2
 椯	dzoe2
 𩔊	dzoe4
-篆	dzOE4
+篆	DZOE4
 瑑	dzoe4
 撰	dzoe4
 譔	dzoe4
@@ -4946,8 +4946,8 @@ use_preset_vocabulary: true
 諠	soe5
 然	zoe2
 燃	zoe2
-船	zOE2
-舩	zOE2
+船	ZOE2
+舩	ZOE2
 羨	zoe2
 羡	zoe2
 單	zoe2	1%
@@ -5541,8 +5541,8 @@ use_preset_vocabulary: true
 瘁	zei2
 睡	zei2
 瑞	zei2
-蠶	zei2
-鏨	zei2
+蠶	zEI2
+鏨	zEI2
 𨅔	zei2
 蕊	zei4
 蕋	zei4
@@ -11264,7 +11264,7 @@ use_preset_vocabulary: true
 缺頭	chiuq deu
 車頭	tsho deu
 埠頭	bu deu
-航船埠頭	ghaon zOE bu deu
+航船埠頭	ghaon ZOE bu deu
 河埠頭	ghou bu deu
 河頭	ghou deu
 道頭	dau deu
@@ -12098,7 +12098,7 @@ use_preset_vocabulary: true
 和消頭	ghou shiau deu
 賴臭皮	la chieu bi
 賴屙皮	la ou bi
-出頭椽子	tshyuq deu dzOE tsy
+出頭椽子	tshyuq deu DZOE tsy
 老貼蛋	lau thaq dae
 老樸屍	lau phoq sy
 浮屍	vei sy
@@ -13134,7 +13134,7 @@ use_preset_vocabulary: true
 豆板	deu pae
 蘭花倭豆	lae huo ou deu
 羅漢豆	lou he deu
-蠶豆	zei deu
+蠶豆	zEI deu
 細倭豆	shi ou deu
 赤豆	tshaq deu
 帶豆	ta deu
@@ -13616,18 +13616,18 @@ use_preset_vocabulary: true
 棚車	ban tsho
 火輪	hou len
 #回聲	wei sen
-地莊船	di tsaon zOE
-抲魚船	kho ng zOE
+地莊船	di tsaon ZOE
+抲魚船	kho ng ZOE
 ⿰舟巤子	laq tsy
 抲水	kho syu
-看鴨船	khI ae zOE
-腳搲船	ciaq uo zOE
-航船	ghaon zOE
+看鴨船	khI ae ZOE
+腳搲船	ciaq uo ZOE
+航船	ghaon ZOE
 櫓烏珠	lu u tsyu
 風篷	fon bon
 篙子	kau tsy
-船機	zOE ci
-打水機船	tan syu ci zOE
+船機	ZOE ci
+打水機船	tan syu ci ZOE
 石蛋路	zaq dae lu
 汽車路	chi tsho lu
 機耕路	ci kan lu
@@ -14208,7 +14208,7 @@ use_preset_vocabulary: true
 遊蛄	yeu ku
 芋艿蓊蟲	n na on dzon
 芋艿屙蟲	n na ou dzon
-地蠶	di zei
+地蠶	di zEI
 油蝨	yeu saq
 洋辣毛	yan laq mau
 楊辣	yan laq
@@ -14778,7 +14778,7 @@ use_preset_vocabulary: true
 疰夏	tsyu gho
 疰車	tsyu tsho
 疰浪	tsyu laon
-疰船	tsyu zOE
+疰船	tsyu ZOE
 腳筋吊	ciaq cin tiau
 吊腳筋	tiau ciaq cin
 傷筋	saon cin
@@ -17548,7 +17548,7 @@ use_preset_vocabulary: true
 敲火油箱	khau hou yeu shian
 遮蔭遮日	tso in tso gniq
 撮來依到	tshaq le i tau
-撐鬥風船	tshan teu fon zOE
+撐鬥風船	tshan teu fon ZOE
 瞎三話四	haq sae wo sy
 瞎𠡒西𠡒	haq tei shi tei
 瞎𠡒百𠡒	haq tei paq tei
@@ -17767,7 +17767,7 @@ use_preset_vocabulary: true
 水裏	syu li
 水泥	syu gni
 水門汀	syu men thin
-水泥船	syu gni zOE
+水泥船	syu gni ZOE
 水仙花	syu shi huo
 水菸管	syu i kun
 水鳧鷺	syu Wu lu
@@ -18237,7 +18237,7 @@ use_preset_vocabulary: true
 耳朵彎	gni to uae
 耳朵彎	ng to uae
 染坊	gni faon
-研船	GNi zOE
+研船	GNi ZOE
 硯墨爿	gni moq bae
 碾子	gni tsy
 膩腥不剌	gni shin paq laq
@@ -18306,7 +18306,7 @@ use_preset_vocabulary: true
 看牛小頑	khI ngeu shiau uae
 看相先生	khI shian shi san
 看樣子	khI yan tsy
-看風使船	khI fon sy zOE
+看風使船	khI fon sy ZOE
 看風水	khI fon syu
 看中意	khI tson i
 看白戲	khI baq shi
@@ -18581,7 +18581,7 @@ use_preset_vocabulary: true
 椅子背	i tsy pei
 叭兒狗	pa er keu
 擺渡	pa du
-擺渡船	pa du zOE
+擺渡船	pa du ZOE
 擺俏功	pa chiau kon
 擺攤頭	pa thae deu
 擺場面	pa jian mi
@@ -19142,7 +19142,7 @@ use_preset_vocabulary: true
 鷓鴣	tso ku
 炸豬排	tso tsyu ba
 柞樹	tso zyu
-柞蠶	tso zei
+柞蠶	tso zEI
 榨面	tso mi
 叉肩胛	tsho ci kaq
 叉牌頭	tsho ba deu
@@ -19275,8 +19275,8 @@ use_preset_vocabulary: true
 丫頭	o deu
 丫頭屄	o deu pi
 丫鵲	o chiaq
-搲船	o zOE
-搲龍船	o lon zOE
+搲船	o ZOE
+搲龍船	o lon ZOE
 𦫪掉	o diau
 掗賣豆腐	o ma deu vu
 表弟新婦	piau di shin vu
@@ -19463,7 +19463,7 @@ use_preset_vocabulary: true
 孝子	shiau tsy
 笑呵呵	shiau hou hou
 紹興戲	zhiau shin shi
-搖船	yau zOE
+搖船	yau ZOE
 妖怪精	iau kua cin
 妖形怪狀	iau yin kua dzaon
 腰子	iau tsy
@@ -19949,8 +19949,8 @@ use_preset_vocabulary: true
 穿着	tshOE ciaq
 竄頭	tshoe deu
 全夜	dzoe ya
-泉水	dzOE syu
-椽子	dzOE tsy
+泉水	DZOE syu
+椽子	DZOE tsy
 宣紙	soe tsy
 酸梅湯	soe mei thaon
 蒜泥	soe gni
@@ -19960,13 +19960,13 @@ use_preset_vocabulary: true
 算命	soe min
 算命先生	soe min shi san
 算命瞎眼	soe min haq ngae
-船大身	zOE da shin
-船鞋	zOE gha
-船老大	zOE lau da
-船頭	zOE deu
-船洋	zOE yan
-船尾巴	zOE ng po
-船尾巴	zOE mi po
+船大身	ZOE da shin
+船鞋	ZOE gha
+船老大	ZOE lau da
+船頭	ZOE deu
+船洋	ZOE yan
+船尾巴	ZOE ng po
+船尾巴	ZOE mi po
 鱔魚羹	zoe ng kan
 週年	cieu gni
 九號	cieu ghau
@@ -19995,7 +19995,7 @@ use_preset_vocabulary: true
 酒盅	cieu tson
 酒腳	cieu cian
 酒肉朋友	cieu gnioq ban yeu
-救生船	cieu sen zOE
+救生船	cieu sen ZOE
 救護車	cieu wu tsho
 抽筋	chieu cin
 抽腳筋	chieu ciaq cin
@@ -20188,7 +20188,7 @@ use_preset_vocabulary: true
 男小頑	nEI shiau uae
 男𡢿	nEI gnion
 男人客	nEI gnin khaq
-南溪溫泉	nEI chi uen dzOE
+南溪溫泉	nEI chi uen DZOE
 南瓜	nEI kuo
 南半邊	nEI pun pi
 南面	nEI mi
@@ -20212,10 +20212,10 @@ use_preset_vocabulary: true
 隨面	zei mi
 隨嫁	zei ko
 隨嫁阿姆	zei ko an m
-蠶寶寶	zei pau pau
-蠶蛾	zei ngou
-蠶屙	zei ou
-蠶蛹	zei ion3
+蠶寶寶	zEI pau pau
+蠶蛾	zEI ngou
+蠶屙	zEI ou
+蠶蛹	zEI ion
 罪過不剌	zei kou paq laq
 含羞草	ghEI shieu tshau
 寒露	ghEI lu
@@ -21228,7 +21228,7 @@ use_preset_vocabulary: true
 黃沙	waon so
 黃瓜	waon kuo
 黃巖蜜橘	waon ngae miq ciuq
-黃泉路	waon dzOE lu
+黃泉路	waon DZOE lu
 黃梅天	waon mei thi
 黃黴天	waon mei thi
 黃豆	waon deu
@@ -21386,7 +21386,7 @@ use_preset_vocabulary: true
 嫩哀哀	nen e e
 嫩頭	nen deu
 嫩筍頭	nen syun deu
-輪船	len zOE
+輪船	len ZOE
 輪着	len zyuq
 忖紋理	tshen ven li
 襯布	tshen pu
@@ -21736,7 +21736,7 @@ use_preset_vocabulary: true
 耘稻	yun dau
 閏月	yun yuq
 暈車	yun tsho
-暈船	yun zOE
+暈船	yun ZOE
 準定	tsyun din
 鎮紙	tsyun tsy
 鎮裏	tsyun li
@@ -22059,7 +22059,7 @@ use_preset_vocabulary: true
 默書	maq syu
 襪帶	maq ta
 襪套頭	maq thau deu
-襪船	maq zOE
+襪船	maq ZOE
 襪撐	maq tshan
 襪筒	maq don
 弗二弗三	faq gni faq sae
@@ -22371,7 +22371,7 @@ use_preset_vocabulary: true
 腳銬	ciaq khau
 腳絞仔	ciaq gau tsy
 腳紗頭	ciaq so deu
-腳搲船	ciaq o zOE
+腳搲船	ciaq o ZOE
 腳頭	ciaq deu
 腳印	ciaq in
 腳魄	ciaq phaq
@@ -22445,7 +22445,7 @@ use_preset_vocabulary: true
 北斗星	poq teu shin
 北半邊	poq pun pi
 剝皮大烤	poq bi dou khau
-駁船	poq zOE
+駁船	poq ZOE
 魄屍	phoq sy
 撲蓋頭	phoq ke deu
 撲粉	phoq fen
@@ -22932,9 +22932,9 @@ use_preset_vocabulary: true
 一萬九	iq vae cieu
 一眼一沰	iq ngae iq toq
 一轉一回	iq tsoe iq wei
-一桅船	iq wei zOE
-兩桅船	lian wei zOE
-三桅船	sae wei zOE
+一桅船	iq wei ZOE
+兩桅船	lian wei ZOE
+三桅船	sae wei ZOE
 一大半	iq dou pun
 一遘晝	iq keu cieu
 一兩里路	iq lian li lu
@@ -23723,7 +23723,7 @@ use_preset_vocabulary: true
 妹在埠頭汏內紗	mei dze bu deu da nei so
 跌落金釵埠頭下	tiq loq cin tsho bu deu gho
 跌落金釵埠頭下	toq loq cin tsho bu deu gho
-航船埠頭軋出人	ghaon zOE bu deu gaq tshyuq gnin
+航船埠頭軋出人	ghaon ZOE bu deu gaq tshyuq gnin
 河埠頭⿰氵丈衣裳	ghou bu deu jian i zaon
 河埠頭講阿婆	ghou bu deu kaon aq bou
 唸經堂講新婦
@@ -23960,7 +23960,7 @@ use_preset_vocabulary: true
 七主意
 八老大	paq lau da
 老大多	lau da tou
-倒沒船	tau maq zOE
+倒沒船	tau maq ZOE
 落雨𡀂
 打烊𡀂
 小八癩𪓿開會𡀂
@@ -24478,8 +24478,8 @@ use_preset_vocabulary: true
 完全外行	wun dzoe nga ghaon
 大火輪	dou hou len
 人到三十頂風光	gnin tau sae zyuq ten fon kuaon
-船到⿰舟巤子頂會裝	zOE tau laq tsy ten wei tsaon
-撮隻櫓烏珠想打船	tshaq tsaq lu u tsyu shian tan zOE
+船到⿰舟巤子頂會裝	ZOE tau laq tsy ten wei tsaon
+撮隻櫓烏珠想打船	tshaq tsaq lu u tsyu shian tan ZOE
 扯風篷
 撐家計	tshan ko ci
 早睏晏爬起
@@ -25518,9 +25518,9 @@ use_preset_vocabulary: true
 㨆樹皮	lin zyu bi
 㨆竹節	lin tsoq ciq
 捂小雞	u shiau ci
-捂蠶	u zei
+捂蠶	u zEI
 㒼屁眼
-船到橋門自會直	zOE tau jiau men zy wei jiq
+船到橋門自會直	ZOE tau jiau men zy wei jiq
 勿是碰就是別
 澆馬路
 澆水泥地垟	ciau syu gni di yan
@@ -27694,7 +27694,7 @@ use_preset_vocabulary: true
 咩咩羊
 汪汪狗
 爬爬蟲
-啞啞船	ngho ngho zOE
+啞啞船	ngho ngho ZOE
 棚棚船
 𠺢𠺢雞	ko ko ci
 𠺢𠺢嗡	ko ko on
@@ -27785,7 +27785,7 @@ use_preset_vocabulary: true
 勿合算	vaq kaq soe
 弗合算	vaq kaq soe
 勿上算	vaq zaon soe
-弗上算	vaq zaon zoe
+弗上算	vaq zaon soe
 來年子	ne gni tsy
 K	khe1
 k	khe1
@@ -28443,7 +28443,7 @@ VCD	v c d
 上樓去	zaon leu chi
 上機時間	zaon ci zy ci
 上水	zaon syu
-上水船	zaon syu zOE
+上水船	zaon syu ZOE
 上水道	zaon syu dau
 上沃爾特	zaon oq er daq
 上流人士	zaon lieu zyun zy
@@ -28527,7 +28527,7 @@ VCD	v c d
 下水典禮	gho syu ti li
 下水禮	gho syu li
 下水管	gho syu kun
-下水船	gho syu zOE
+下水船	gho syu ZOE
 下水道	gho syu dau
 下水道系統	gho syu dau shi thon
 下流人士	gho lieu zyun zy
@@ -28888,7 +28888,7 @@ VCD	v c d
 弗怕鬼敲門	vaq pho ciu khau men
 不急之務	paq ciq tsy vu
 不恤人言	paq shiuq zyun yi
-不悟	paq Nu
+不悟	paq nu
 不惜一戰	paq shiq iq ci
 不惜一戰	paq shiq iq tsoe
 不惜犧牲	paq shiq shi sen
@@ -29420,9 +29420,9 @@ VCD	v c d
 弗認人	vaq gnin gnin
 弗認帳	vaq gnin cian
 弗認賬	vaq gnin cian
-不誤	paq Nu
-勿誤	vaq Nu
-弗誤	vaq Nu
+不誤	paq nu
+勿誤	vaq nu
+弗誤	vaq nu
 不誤	paq wu
 勿誤	vaq wu
 弗誤	vaq wu
@@ -29700,8 +29700,8 @@ VCD	v c d
 世界經濟	syu ka cin ci
 世界經濟危機	syu ka cin ci wei ci
 世界經濟論壇	syu ka cin ci len dae
-世界維吾爾代表大會	syu ka vi Nu er de piau da wei
-世界維吾爾代表大會	syu ka vi Wu er de piau da wei
+世界維吾爾代表大會	syu ka vi NU er de piau da wei
+世界維吾爾代表大會	syu ka vi WU er de piau da wei
 世界聞名	syu ka ven min
 世界自然基金會	syu ka zy zoe ci cin wei
 世界華文文學獎	syu ka wo ven ven yuq cian
@@ -29928,8 +29928,8 @@ VCD	v c d
 中國社會科學院	tson koq dzo wei khou yuq yu
 中國科學院	tson koq khou yuq yu
 中國航海日	tson koq ghaon he zyuq
-中國船舶貿易公司	tson koq zOE boq meu yi kon sy
-中國船舶重工集團公司	tson koq zOE boq dzon kon jiq doe kon sy
+中國船舶貿易公司	tson koq ZOE boq meu yi kon sy
+中國船舶重工集團公司	tson koq ZOE boq dzon kon jiq doe kon sy
 中國農業銀行	tson koq non gniq gnin ghaon
 中國農民銀行	tson koq non min gnin ghaon
 中國進出口銀行	tson koq cin tshyuq kheu gnin ghaon
@@ -30194,10 +30194,10 @@ VCD	v c d
 乖乖牌	kua kua ba
 乖乖牌	kua kua bae
 乖剌	kua la
-乖忤	kua Nu
+乖忤	kua nu
 乖忤	kua wu
 乖覺	kua ciuq
-乖迕	kua Nu
+乖迕	kua nu
 乖迕	kua wu
 乘了	jin laq
 乘人不備	jin gnin paq bei
@@ -30719,7 +30719,7 @@ VCD	v c d
 了事	liau zy
 了事環	liau zy wae
 了得	liau taq
-了悟	liau Nu
+了悟	liau nu
 了斷	liau doe
 了案	liau EI
 了此殘生	liau tshy dzae sen
@@ -31119,7 +31119,7 @@ VCD	v c d
 二氯胺	er loq EI
 二水	gni syu
 二水鄉	gni syu shian
-二泉映月	gni dzOE in yuq
+二泉映月	gni DZOE in yuq
 二流	gni lieu
 二流人才	gni lieu zyun dze
 二流角色	gni lieu koq saq
@@ -31399,7 +31399,7 @@ VCD	v c d
 于贈	iu dzen
 于越	iu yuq
 于軍	iu ciun
-于道泉	iu dau dzOE
+于道泉	iu dau DZOE
 于遠偉	iu yu wei
 于都	yu tu
 于都縣	yu tu yu
@@ -31429,9 +31429,9 @@ VCD	v c d
 互派大使	wu pha da sy
 互爭	wu tsen
 互爭雄長	wu tsen yon cian
+互爭	wu tsan
+互爭雄長	wu tsan yon cian
 互生	wu sen
 互生葉	wu sen yiq
 互相聯繫	wu shian li shi
 互致問候	wu tsy ven gheu
-互通有無	wu thon yeu vu
-互通有無	wu thon yeu Wu
