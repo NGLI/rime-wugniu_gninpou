@@ -65,7 +65,7 @@ speller:
     # 去掉聲調
     - xform/\d//
     # 還原城區音系
-    - xlit/AEIOUWGNDZ/aeiouwgndz/
+    - xlit/AEIOUWNDZ/aeiouwndz/
 
     ## 亂漏不分
     - derive/loe/leu/
