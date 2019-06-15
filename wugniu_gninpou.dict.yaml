@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.11"
+version: "2019.06.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11928,7 +11928,7 @@ use_preset_vocabulary: true
 充手	tshon shieu
 三隻手	sae tsaq shieu
 賊骨頭	zaq kuaq deu
-騙賊拐子	phi zaq kua tsy
+騙賊柺子	phi zaq kua tsy
 𨉖壁賊	iq piq zaq
 掩邊賊	i pi zaq
 𨉖背賊	iq pei zaq
@@ -14503,7 +14503,7 @@ use_preset_vocabulary: true
 腦子卜	nau tsy boq
 腦子彈	nau tsy dae
 腦子搕	nau tsy khaq
-豁辣麪	huaq laq mi
+豁辣面	huaq laq mi
 照相	ciau shian
 紙糊頭	tsy wu deu
 虛頭	shiu deu
@@ -16407,7 +16407,7 @@ use_preset_vocabulary: true
 紅稀稀	ghon shi shi
 紫得得	tsy taq taq
 紫絳紅	tsy cian ghon
-鐵繡紅	thiq shieu ghon
+#鐵繡紅	thiq shieu ghon
 栗殼色	liq khoq saq
 松黃	son waon
 松松黃	son son waon
@@ -17362,7 +17362,7 @@ use_preset_vocabulary: true
 吃腦子卜	chioq nau tsy boq
 吃腦子彈	chioq nau tsy dae
 吃腦子磕	chioq nau tsy khaq
-吃豁辣麪	chioq huaq laq mi
+吃豁辣面	chioq huaq laq mi
 同同到老	don don tau lau
 傴頭磕腦	eu deu khaq nau
 傴倒施揖	eu tau sy iq
@@ -17452,7 +17452,7 @@ use_preset_vocabulary: true
 駝背軋直	dou pei gaq jiq
 要緊要慢	iau cin iau mae
 輕腳泛手	chin ciaq fae shieu
-椏賣豆腐	o ma deu vu
+掗賣豆腐	o ma deu vu
 挖爛腳疤	uaq lae ciaq po
 挖壁打洞	uaq piq tan don
 揹桌凳腳	pei tsoq ten ciaq
@@ -17718,7 +17718,7 @@ use_preset_vocabulary: true
 柿餅	zy pin
 祠堂	zy daon
 硃紅	tsyu ghon
-侏慄	tsyu liq
+侏栗	tsyu liq
 珠花	tsyu huo
 蛛蛛網	tsyu tsyu maon
 蛛蛛網絲	tsyu tsyu maon sy
@@ -17832,11 +17832,10 @@ use_preset_vocabulary: true
 屁股溝	phi ku keu
 屁屁輕	phi phi chin
 𠜱刀	phi tau
-騙賊柺子	phi zaq kua tsy
 騙子	phi tsy
 譬如勿得	phi zy vaq taq
 譬如	phi zy
-皮子面	bi tsy mi
+皮子麪	bi tsy mi
 皮靴	bi shiu
 皮大衣	bi da i
 皮大王	bi da waon
@@ -18034,9 +18033,8 @@ use_preset_vocabulary: true
 地壤下底	di gnian gho ti
 地藏王菩薩	di dzaon waon bu saq
 地坪	di bin
-地袱	di boq
-地袱踏穿	di boq daq tshOE
-地袱𨂝穿	di boq bae tshOE
+地栿踏穿	di boq daq tshOE
+地栿𨂝穿	di boq bae tshOE
 地鱉蟲	di piq dzon
 地栗	di liq
 地軸	di jiuq
@@ -18048,7 +18046,6 @@ use_preset_vocabulary: true
 墊被套	di bi thau
 墊板	di pae
 墊腳石	di ciaq zaq
-連爹連娘	li tia li gnian
 連刀塊	li tau khuei
 連衫連褲	li sae li khu
 連坐	li zou
@@ -18185,7 +18182,6 @@ use_preset_vocabulary: true
 錢莊	ji tsaon
 薺菜	ji tshe
 臍帶風	ji ta fon
-歧頭鵝	ji deu ngou
 忌嘴	ji tsyu
 忌日羹飯	ji gniq kan vae
 健健個	ji ji kou
@@ -18544,7 +18540,6 @@ use_preset_vocabulary: true
 楦頭	shiu deu
 玄色	yu saq
 圍巾	yu cin
-圍身布欄	yu shin pu lae
 圍裙	yu jiun
 榆樹	yu zyu
 圓絲藍	yu sy lae
@@ -18605,11 +18600,10 @@ use_preset_vocabulary: true
 買面子	ma mi tsy
 買賬	ma cian
 買勿出	ma vaq tshyuq
-賣爹賣娘	ma tia ma gnian
 賣旺	ma waon
 賣藥郎中	ma yaq laon tson
 帶孝	ta hau
-帶發尼姑	ta faq gni ku
+帶髮尼姑	ta faq gni ku
 帶魚	ta ng
 戴高帽子	ta kau mau tsy
 它山堰	tha sae i
@@ -18798,8 +18792,7 @@ use_preset_vocabulary: true
 拐籮窠	kua lou khou
 拐腳	kua ciaq
 懷裏	gua li
-歪嘴闢得	hua tsyu phiq taq
-歪嘴闢腳	hua tsyu phiq ciaq
+歪嘴辟腳	hua tsyu phiq ciaq
 還好	wa hau
 還只	gha ciq
 懷錶	wa piau
@@ -18895,7 +18888,6 @@ use_preset_vocabulary: true
 稻穀麻雀	dau koq moq cian
 鬧新房	nau shin vaon
 鬧鐘	nau tson
-閙熱	nau gniq
 勞心	lau shin
 勞作	lau tsoq
 癆槽窞	lau zau dei
@@ -18913,7 +18905,6 @@ use_preset_vocabulary: true
 老懈懈	lau ga ga
 老蟹	lau ha
 老鴇	lau pau
-老早百里	lau tsau paq li
 老早百地	lau tsau paq di
 價格	ko kaq
 老話頭	lau wo deu
@@ -19143,7 +19134,6 @@ use_preset_vocabulary: true
 炸豬排	tso tsyu ba
 柞樹	tso zyu
 柞蠶	tso zEI
-榨面	tso mi
 叉肩胛	tsho ci kaq
 叉牌頭	tsho ba deu
 車子裏	tsho tsy li
@@ -19249,7 +19239,7 @@ use_preset_vocabulary: true
 我儂	ngo non
 我個	ngo goq
 我儂個	ngo nou goq
-下面	gho mi
+下麪	gho mi
 下霧露	gho Wu lu
 下襬	gho pa
 下巴	gho po
@@ -19278,7 +19268,6 @@ use_preset_vocabulary: true
 搲船	o ZOE
 搲龍船	o lon ZOE
 𦫪掉	o diau
-掗賣豆腐	o ma deu vu
 表弟新婦	piau di shin vu
 表姊妹	piau ci mei
 表姐夫	piau cia fu
@@ -19666,7 +19655,6 @@ use_preset_vocabulary: true
 蠻人	mae gnin
 咩咩羊	mhae mhae yan
 晚米	mae mi
-晚娘	mae gnian
 晚稻	mae dau
 萬子	mae tsy
 慢太婆	mae tha bou
@@ -20152,7 +20140,6 @@ use_preset_vocabulary: true
 煤餅店	mei pin ti
 煤爐	mei lu
 煤灰	mei huei
-黴頭脫腦	mei deu thaq nau
 妹妹	mhei mhei
 每日	mei gniq
 妹夫	mei fu
@@ -20306,7 +20293,7 @@ use_preset_vocabulary: true
 蘑菇	mou ku
 墓碑	mou pei
 多嘴	tou tsyu
-多嘴活孫	tou tsyu waq sen
+多嘴活猻	tou tsyu waq sen
 多少個	tou shiau kou
 多少個	tou shiau goq
 多心	tou shin
@@ -20795,7 +20782,6 @@ use_preset_vocabulary: true
 兩夫妻	lian fu chi
 兩姑嫂	lian ku sau
 兩眼竈	lian ngae tsau
-兩娘	lian gnian
 兩樣生	lian yan san
 兩樣	lian yan
 兩親家公	lian chin ko kon
@@ -20896,7 +20882,7 @@ use_preset_vocabulary: true
 娘子阿姆	gnian tsy an m
 孃家	gnian ko
 孃舅外甥	gnian jieu nga san
-娘戳屄	gnian tshoq pi
+孃戳屄	gnian tshoq pi
 仰死仰倒	gnian shi gnian tau
 相思樹	shian sy zyu
 相干	shian kI
@@ -20933,7 +20919,6 @@ use_preset_vocabulary: true
 鯗𥳖	shian bu
 響箱	shian shian
 向天睏	shian thi khuen
-向白藍	shian baq lae
 向日葵	shian zyuq guei
 相仙	shian shi
 相拋天	shian phau thi
@@ -20988,7 +20973,6 @@ use_preset_vocabulary: true
 橫豎	wan zyu
 橫豎	wan zy
 橫使	wan sy
-橫蕭	wan shiau
 橫愛司頭	wan e sy deu
 橫樑	wan lian
 幫頭	paon deu
@@ -21006,7 +20990,6 @@ use_preset_vocabulary: true
 忘記太公	maon ci tha kon
 忘伯伯	maon paq paq
 望遠鏡	maon yu cin
-望娘盤	maon gnian bun
 方矮凳	faon a ten
 方丈和尚	faon jian ghou zaon
 方巾	faon cin
@@ -21264,7 +21247,6 @@ use_preset_vocabulary: true
 半個	pun goq
 半日	pun gniq
 判官	phun kun
-盤面	bun mi
 盤纏鈿	bun ji di
 盤貨	bun hou
 盤香紐	bun shian gnieu
@@ -21382,7 +21364,6 @@ use_preset_vocabulary: true
 藤椅	den iu
 騰騰奔	den den pen
 能幹	nen kI
-嫰勢	nen syu
 嫩哀哀	nen e e
 嫩頭	nen deu
 嫩筍頭	nen syun deu
@@ -21834,11 +21815,10 @@ use_preset_vocabulary: true
 動氣	don chi
 動土	don thu
 動手	don shieu
-動夥	don hou
+動伙	don hou
 桶耳朵皮	don ng to bi
 桶耳朵皮	don gni to bi
 筒子	don tsy
-筒頭面	don deu mi
 齆鼻頭	nhon baq deu
 龍鬚竹	lon syu tsoq
 龍蝦	lon huo
@@ -21877,9 +21857,9 @@ use_preset_vocabulary: true
 糉箬	tson gniaq
 充公	tshon kon
 沖天炮	tshon thi phau
-衝賬	tshon cian
-衝場	tshon jian
-衝熱水瓶	tshon gniq syu bin
+沖口出	tshon kheu tshyuq
+沖賬	tshon cian
+沖熱水瓶	tshon gniq syu bin
 蔥花	tshon huo
 蔥油餅	tshon yeu pin
 蔥白	tshon baq
@@ -22155,7 +22135,6 @@ use_preset_vocabulary: true
 蠟燭巴釘	laq tsoq po tin
 蠟燭臺	laq tsoq de
 蠟燭頭	laq tsoq deu
-蠟酒壺	laq cieu wu
 鑞匠	laq zhian
 扎臍帶	tsaq ji ta
 扎奶	tsaq na
@@ -22420,7 +22399,6 @@ use_preset_vocabulary: true
 豁拳	huaq jiu
 豁開	huaq khe
 豁大大	huaq dou dou
-豁辣面	huaq laq mi
 囫圇	waq len
 活被	waq bi
 活氽活滾	waq then waq kuen
@@ -22586,7 +22564,6 @@ use_preset_vocabulary: true
 啄木鳥	tsoq moq gniau
 撮藥	tsoq yaq
 戳人勒色	tshoq gnin laq saq
-觸黴頭	tshoq mei deu
 妯娌	dzoq li
 族裏人	dzoq li gnin
 族長	dzoq cian
@@ -22606,7 +22583,7 @@ use_preset_vocabulary: true
 啥體	so thi
 啥些	soq shiq
 啥西	so shi
-#雪面	soq mi
+#雪麪	soq mi
 雪裏蕻	syuq li hon
 雪裏紅	syuq li ghon
 雪竇山風景區	syuq deu sae fon cin chiu
@@ -22675,8 +22652,8 @@ use_preset_vocabulary: true
 吃進	chioq cin
 吃白食	chioq baq zhiq
 吃沒	chioq maq
-吃發郎	chioq faq laon
-吃發頭郎	chioq faq deu laon
+吃髮郎	chioq faq laon
+吃髮頭郎	chioq faq deu laon
 吃落	chioq loq
 吃落腳	chioq loq ciaq
 吃茶	chioq dzo
@@ -22745,11 +22722,9 @@ use_preset_vocabulary: true
 蜜糖	miq daon
 蜜蜂	miq fon
 蜜筒瓜	miq don kuo
-蔑牑	miq bi
-蔑青	miq chin
-蔑白	miq baq
-蔑竹	miq tsoq
-篾席	miq zhiq
+篾青	miq chin
+篾竹	miq tsoq
+篾蓆	miq zhiq
 的的薄	tiq tiq boq
 菲菲薄	fi fi boq
 踢土旁	thiq thu baon
@@ -22791,7 +22766,7 @@ use_preset_vocabulary: true
 接生婆	ciq san bou
 接龍	ciq lon
 揭方巾	ciq faon cin
-結珠	ciq tsyu
+#結珠	ciq tsyu
 結拜兄弟	ciq pa shion di
 結拜弟兄	ciq pa di shion
 結綵	ciq tshe
@@ -22931,7 +22906,6 @@ use_preset_vocabulary: true
 一萬八	iq vae paq
 一萬九	iq vae cieu
 一眼一沰	iq ngae iq toq
-一轉一回	iq tsoe iq wei
 一桅船	iq wei ZOE
 兩桅船	lian wei ZOE
 三桅船	sae wei ZOE
@@ -23013,9 +22987,8 @@ use_preset_vocabulary: true
 出嫁	tshyuq ko
 出梅	tshyuq mei
 出黴	tshyuq mei
-出頭發	tshyuq deu faq
+出頭髮	tshyuq deu faq
 出賬	tshyuq cian
-出搶花	tshyuq chian huo
 出洋相	tshyuq yan shian
 出榜	tshyuq paon
 出喪	tshyuq saon
@@ -23054,7 +23027,6 @@ use_preset_vocabulary: true
 嘸弄頭	mh lon deu
 嘸搭頭	mh taq deu
 嘸落頭	mh loq deu
-嘸腳活孫	mh ciaq waq sen
 嘸說話	mh syuq wo
 嘸角菱	mh koq lin
 #嘸出山	mh tshyuq sae
