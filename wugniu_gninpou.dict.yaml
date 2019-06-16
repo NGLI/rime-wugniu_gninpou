@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.15"
+version: "2019.06.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1835,7 +1835,7 @@ use_preset_vocabulary: true
 菸	i1
 烟	i1
 湮	i1
-殷	i1
+殷	i1	5%
 胭	i1
 臙	i1
 閼	i1
@@ -10641,6 +10641,7 @@ use_preset_vocabulary: true
 澈	chiq7
 輒	chiq7
 輙	chiq7
+出	chiq7	0%
 乞	chiq7
 訖	chiq7
 迄	chiq7
@@ -27821,8 +27822,8 @@ VCD	v c d
 一仗	iq cian
 一代人	iq de gnin
 一代新人換舊人	iq de shin gnin wun jieu gnin
-一佛出世	iq vaq tshyuq syu
-一佛出世二佛生天	iq vaq tshyuq syu gni vaq sen thi
+一佛出世	iq baq chiq shi
+一佛出世二佛生天	iq baq chiq shi gni vaq sen thi
 一個勿小心	iq goq vaq shiau shin
 一個勿小心	iq ghoq vaq shiau shin
 一個弗小心	iq goq vaq shiau shin
@@ -31407,3 +31408,1214 @@ VCD	v c d
 互生葉	wu sen yiq
 互相聯繫	wu shian li shi
 互致問候	wu tsy ven gheu
+互通有無	wu thon yeu vu
+互通有無	wu thon yeu Wu
+五一期間	ng iq ji ci
+五一長假	ng iq cian ko
+五七幹部學校	ng chiq kI bu ghoq yau
+五世	ng syu
+五世同堂	ng syu don daon
+五人	ng gnin
+五人份	ng gnin ven
+五人墓碑記	ng gnin mou pei ci
+五個	ng goq
+五個人	ng goq zyun
+五個方面	ng goq faon mi
+五個月	ng goq yuq
+五個	ng ghoq
+五個人	ng ghoq gnin
+五個方面	ng ghoq faon mi
+五個月	ng ghoq yuq
+五停心觀	ng din shin kun
+五分	ng fen
+五分之一	ng fen tsy iq
+五分制	ng fen tsyu
+五分法身	ng fen faq shin
+五分熟	ng fen zoq
+五分錢	ng fen ji
+五分洋鈿	ng fen yan di
+五分鐘	ng fen tson
+五分鐘熱度	ng fen tson gniq du
+五十歲	ng zyuq syu
+五千人	ng chi gnin
+五千個	ng chi goq
+五千個	ng chi ghoq
+五口之家	ng kheu tsy cia
+五味	ng vi
+五味俱全	ng vi jiu dzoe
+五味子	ng vi tsy
+五味雜陳	ng vi dzaq jin
+五堵	ng tu
+五大	ng da
+五大三粗	ng da sae tshu
+五大名山	ng da min sae
+五大明王	ng da min waon
+五大洲	ng da cieu
+五大湖	ng da wu
+五大連池	ng da li ji
+五大連池	ng da li dzy
+五大連池市	ng da li ji zy
+五大連池市	ng da li dzy zy
+五家渠	ng cia jiu
+五家渠市	ng cia jiu zy
+五專生	ng tsoe san
+五峯土家族自治縣	ng fon thu cia dzoq zy dzyu yu
+五斗櫃	ng teu guei
+五斗解酲	ng teu ka jin
+五方雜處	ng faon dzaq tshyu
+五日	ng gniq
+五日份	ng gniq ven
+五更天	ng kan thi
+五架	ng ko
+五架	ng cia
+五柳先生	ng lieu shi san
+五權分立	ng jiu fen liq
+五歲	ng syu
+五歲時	ng syu zy
+五氧化二釩	ng yan huo er vae
+五濁惡世	ng dzoq oq syu
+五無間業	ng vu ci gniq
+五無間業	ng Wu ci gniq
+五甲	ng ciaq
+五百人	ng paq gnin
+五百個	ng paq goq
+五百個	ng paq ghoq
+五短身材	ng toe shin dze
+五穀不分	ng koq paq fen
+五穀勿分	ng koq vaq fen
+五穀弗分	ng koq vaq fen
+五穀雜糧	ng koq dzaq lian
+五色鳥	ng saq gniau
+五花大綁	ng huo da paon
+五萬人	ng vae gnin
+五萬個	ng vae goq
+五萬個	ng vae ghoq
+五蘊熾盛苦	ng iun tsy zhin khu
+五號電池	ng ghau di ji
+五行	ng yin
+五行	ng ghaon
+五行並下	ng yin bin gho
+五行八作	ng yin paq tsoq
+五行字	ng ghaon zy
+五行生剋	ng yin sen khaq
+五角大廈	ng koq da gho
+五角大樓	ng koq da leu
+五角大樓官員	ng koq da leu kun yu
+五里霧	ng li vu
+五里霧中	ng li vu tson
+五里霧	ng li Wu
+五里霧中	ng li Wu tson
+五金行	ng cin ghaon
+五間	ng kae
+五陰世間	ng in syu ci
+五集	ng jiq
+五雷轟頂	ng lei hon tin
+五頂	ng tin
+五顏六色	ng ngae loq saq
+五馬分屍	ng mo fen sy
+五鬼	ng kuei
+五鬼鬧判	ng kuei nau phun
+井架	cin ko
+井水	cin syu
+井水不犯河水	cin syu paq vae ghou syu
+亙古未有	ken ku vi yeu
+些個	shiq kou
+亞伯	ia paq
+亞伯拉罕	ia paq lha he
+亞倫艾克哈特	ia len nge khaq ha daq
+亞利安人	ia li EI gnin
+亞利安娜	ia li EI na
+亞力山大帝	ia liq sae da ti
+亞哈斯	ia ha sy
+亞太	ia tha
+亞太區	ia tha chiu
+亞太國家	ia tha koq cia
+亞太地區	ia tha di chiu
+亞太營運中心	ia tha yin yun tson shin
+亞太經合會	ia tha cin ghaq wei
+亞太經合組織	ia tha cin ghaq tsu ciq
+亞太經濟合作會議	ia tha cin ci ghaq tsoq wei gni
+亞太經濟合作組織	ia tha cin ci ghaq tsoq tsu ciq
+亞太金融中心	ia tha cin yon tson shin
+亞拉巴馬	ia lha pa ma
+亞拉巴馬州	ia lha pa ma cieu
+亞於	ia yu
+亞歐大陸	ia eu da loq
+亞歐大陸橋	ia eu da loq jiau
+亞歐大陸腹地	ia eu da loq foq di
+亞歷山大	ia liq sae da
+亞歷山大大帝	ia liq sae da da ti
+亞歷山大帝國	ia liq sae da ti koq
+亞歷山大里亞	ia liq sae da li ia
+亞洲人	ia cieu gnin
+亞洲國家	ia cieu koq cia
+亞洲大學	ia cieu da ghoq
+亞洲太平洋地區	ia cieu tha bin yan di chiu
+亞洲最大	ia cieu tsei da
+亞洲頂大	ia cieu ten da
+亞洲與太平洋	ia cieu yu tha bin yan
+亞洲與太平洋地區	ia cieu yu tha bin yan di chiu
+亞洲開發銀行	ia cieu khe faq gnin ghaon
+亞特蘭大	ia daq lae da
+亞米拿達	ia mi na daq
+亞細亞生產方式	ia shi ia sen tshae faon shiq
+亞美利加	ia mei li cia
+亞美利加洲	ia mei li cia cieu
+亞美尼亞人	ia mei gni ia gnin
+亞肩疊背	ia ci diaq pei
+亞該亞	ia ke ia
+亞軍獎牌	ia ciun cian ba
+亞速爾羣島	ia soq er jiun tau
+亞齊省	ia ji san
+亟待解決	ciq de ka ciuq
+亡了	vaon liau
+亡了	vaon lei
+亡兵紀念日	vaon pin ci nE zyuq
+亡妹	vaon mei
+交上	kau zaon
+交上來	kau zaon le
+交上去	kau zaon chi
+交下	kau gho
+交下來	kau gho le
+交下去	kau gho chi
+交落	kau loq
+交落來	kau loq le
+交落去	kau loq chi
+交九	kau cieu
+交了	kau lei
+交互	ciau wu
+交互作用	ciau wu tsoq yon
+交互式	ciau wu shiq
+交互進行	ciau wu cin yin
+交些	kau shiq
+交交	ciau ciau
+交付	ciau fu
+交付使用	ciau fu sy yon
+交付給	ciau fu ciq
+交付撥	ciau fu paq
+交件	kau ji
+交併	ciau pin
+交保	kau pau
+交保釋放	kau pau shiq faon
+交個	ciau goq
+交個	ciau ghoq
+交兵	ciau pin
+交出	kau tshyuq
+交出來	kau tshyuq le
+交出去	kau tshyuq chi
+交到	ciau tau
+交到	kau tau
+交割	ciau kaq
+交割價	ciau kaq ko
+交割股	ciau kaq ku
+交加	ciau cia
+交匯	ciau wei
+交匯處	ciau wei tshyu
+交匯點	ciau wei ti
+交卷	ciau ciu
+交卸	ciau shia
+交叉	ciau tsho
+交叉口	ciau tsho kheu
+交叉學科	ciau tsho yuq khou
+交叉火力	ciau tsho hou liq
+交叉科學	ciau tsho khou yuq
+交叉耐藥性	ciau tsho ne yaq shin
+交叉運球	ciau tsho yun jieu
+交叉陰影線	ciau tsho in in shi
+交叉點	ciau tsho ti
+交友	ciau yeu
+交友不慎	ciau yeu paq zyun
+交口	ciau kheu
+交口稱譽	ciau kheu chin yu
+交口稱讚	ciau kheu chin tsae
+交口縣	ciau kheu yu
+交合	ciau ghaq
+交售	ciau jieu
+交回	kau wei
+交回來	kau wei le
+交回去	kau wei chi
+交困	ciau khuen
+交城	ciau jin
+交城縣	ciau jin yu
+交大	ciau da
+交契	ciau chi
+交女友	ciau gniu yeu
+交女朋友	ciau gniu ban yeu
+交男友	ciau nEI yeu
+交男朋友	ciau nEI ban yeu
+交好	ciau hau
+交媾	ciau keu
+交學費	kau ghoq fi
+交完	kau wun
+交對	kau tei
+交尾	ciau vi
+交尾季節	ciau vi ci ciq
+交工	ciau kon
+交差	ciau tsha
+交差了事	ciau tsha liau zy
+交帳	ciau cian
+交底	ciau ti
+交往	ciau uaon
+交往甚密	ciau uaon zhin miq
+交待	ciau de
+交心	ciau shin
+交情	ciau jin
+交惡	ciau u
+交感	ciau kI
+交感神經	ciau kI zyun cin
+交戰	ciau ci
+交戰國	ciau ci koq
+交戰圖	ciau ci du
+交戰團體	ciau ci doe thi
+交戰狀態	ciau ci dzaon the
+交戰	ciau tsoe
+交戰國	ciau tsoe koq
+交戰圖	ciau tsoe du
+交戰團體	ciau tsoe doe thi
+交戰狀態	ciau tsoe dzaon the
+交房	ciau vaon
+交手	ciau shieu
+交投	ciau deu
+交拜	ciau pa
+交接	ciau ciq
+交接班	ciau ciq pae
+交接點	ciau ciq ti
+交換	ciau wun
+交換代數	ciau wun de su
+交換價值	ciau wun ko jiq
+交換器	ciau wun chi
+交換律	ciau wun liq
+交換意見	ciau wun i ci
+交換所	ciau wun so
+交換技術	ciau wun ji zyuq
+交換條件	ciau wun diau ji
+交換機	ciau wun ci
+交換法	ciau wun faq
+交換碼	ciau wun mo
+交換端	ciau wun toe
+交換網路	ciau wun maon lu
+交換虛電路	ciau wun shiu di lu
+交於	ciau yu
+交易	ciau yiq
+交易中心	ciau yiq tson shin
+交易價	ciau yiq ko
+交易價格	ciau yiq ko kaq
+交易價鈿	ciau yiq ko di
+交易員	ciau yiq yu
+交易商	ciau yiq saon
+交易市場	ciau yiq zy jian
+交易平臺	ciau yiq bin de
+交易成本	ciau yiq jin pen
+交易所	ciau yiq so
+交易方式	ciau yiq faon shiq
+交易日	ciau yiq zyuq
+交易會	ciau yiq wei
+交易法	ciau yiq faq
+交易稅	ciau yiq sei
+交易系統	ciau yiq shi thon
+交易者	ciau yiq tse
+交易臺	ciau yiq de
+交易量	ciau yiq lian
+交易額	ciau yiq ngaq
+交替	ciau thi
+交替法	ciau thi faq
+交會	ciau wei
+交會法	ciau wei faq
+交朋友	ciau ban yeu
+交杯	ciau pei
+交棒	ciau baon
+交椅	ciau i
+交椅	ciau iu
+交椅	ciau u
+交款	kau khun
+交款單	kau khun tae
+交歡	ciau hun
+交流	ciau lieu
+交流中心	ciau lieu tson shin
+交流團	ciau lieu doe
+交流平臺	ciau lieu bin de
+交流會	ciau lieu wei
+交流活動	ciau lieu waq don
+交流道	ciau lieu dau
+交流電	ciau lieu di
+交流電力	ciau lieu di liq
+交流電力機車	ciau lieu di liq ci tsho
+交涉	ciau jiq
+交淺言深	ciau chi yi shin
+交清	ciau chin
+交火	ciau hou
+交班	ciau pae
+交由	ciau yeu
+交界	ciau ka
+交界處	ciau ka tshyu
+交疊	ciau diaq
+交發	ciau faq
+交白卷	kau baq ciu
+交相	ciau shian
+交相輝映	ciau shian huei in
+交睫	ciau saq
+交移	ciau yi
+交稅	ciau sei
+交稿	ciau kau
+交管	ciau kun
+交納	ciau naq
+交結	ciau ciq
+交給	ciau ciq
+交撥	ciau paq
+交織	ciau ciq
+交織成	ciau ciq jin
+交織着	ciau ciq dzoq
+交織着	ciau ciq zyuq
+交臂	ciau pi
+交臂失之	ciau pi syuq tsy
+交與	ciau yu
+交融	ciau yon
+交行	ciau ghaon
+交角	ciau koq
+交託	ciau thoq
+交誼	ciau gni
+交誼廳	ciau gni thin
+交誼會	ciau gni wei
+交誼舞	ciau gni Wu
+交談	ciau dae
+交談起來	ciau dae chi le
+交警	ciau cin
+交警大隊	ciau cin da dei
+交警支隊	ciau cin tsy dei
+交變	ciau pi
+交變電流	ciau pi di lieu
+交貨	ciau hou
+交貨價	ciau hou ko
+交貨單	ciau hou tae
+交貨期	ciau hou ji
+交貨港	ciau hou kaon
+交費	ciau fi
+交賬	ciau cian
+交趾	ciau tsy
+交辦	ciau bae
+交迫	ciau paq
+交通	ciau thon
+交通事故	ciau thon zy ku
+交通便利	ciau thon bi li
+交通信號	ciau thon shin ghau
+交通協管員	ciau thon yaq kun yu
+交通卡	ciau thon kha
+交通史	ciau thon sy
+交通員	ciau thon yu
+交通堵塞	ciau thon tu saq
+交通壕	ciau thon ghau
+交通大學	ciau thon da ghoq
+交通安全	ciau thon EI dzoe
+交通局	ciau thon jiuq
+交通島	ciau thon tau
+交通工具	ciau thon kon jiu
+交通廳	ciau thon thin
+交通建設	ciau thon ci shiq
+交通意外	ciau thon i nga
+交通擁擠	ciau thon ion ci
+交通標誌	ciau thon piau tsy
+交通樞紐	ciau thon syu gnieu
+交通法庭	ciau thon faq din
+交通法規	ciau thon faq kuei
+交通秩序	ciau thon jiq zyu
+交通管制	ciau thon kun tsyu
+交通管理	ciau thon kun li
+交通管理局	ciau thon kun li jiuq
+交通網	ciau thon maon
+交通線	ciau thon shi
+交通肇事罪	ciau thon zhiau zy zei
+交通處	ciau thon tshyu
+交通號誌	ciau thon ghau tsy
+交通規則	ciau thon kuei tsaq
+交通警察	ciau thon cin tshaq
+交通費	ciau thon fi
+交通車	ciau thon tsho
+交通運輸	ciau thon yun syu
+交通部	ciau thon bu
+交通部長	ciau thon bu cian
+交通部門	ciau thon bu men
+交通銀行	ciau thon gnin ghaon
+交通阻塞	ciau thon tsu saq
+交遊	ciau yeu
+交遊廣闊	ciau yeu kuaon khuaq
+交過	ciau kou
+交過來	ciau kou le
+交過去	ciau kou chi
+交道	ciau dau
+交還	ciau wae
+交還給	ciau wae ciq
+交還撥	ciau wae paq
+交配	ciau phei
+交配季節	ciau phei ci ciq
+交鋒	ciau fon
+交錢	kau ji
+交鈔票	kau tshau phiau
+交錯	ciau tshou
+交錯法	ciau tshou faq
+交際	ciau ci
+交際應酬	ciau ci in jieu
+交際舞	ciau ci Wu
+交際花	ciau ci huo
+交際處長	ciau ci tshyu cian
+交際費	ciau ci fi
+交集	ciau jiq
+交電	ciau di
+交面	ciau mi
+交響	ciau shian
+交響曲	ciau shian chiuq
+交響樂	ciau shian yuq
+交響樂團	ciau shian yuq doe
+交響樂章	ciau shian yuq tsaon
+交響樂隊	ciau shian yuq dei
+交響詩	ciau shian sy
+交響金屬	ciau shian cin dzoq
+交頭接耳	ciau deu ciq er
+交馳	ciau dzy
+交馳	ciau ji
+交鬨	ciau ghon
+交點	ciau ti
+亦對於	yiq tei yu
+亦無	yiq vu
+亦無	yiq Wu
+亨利五世	han li ng syu
+亨利四世	han li sy syu
+亨德爾	han taq er
+享受生活	shian zhieu sen waq
+享有盛譽	shian yeu zhin yu
+享樂	shian loq
+享樂主義	shian loq tsyu gni
+享樂主義者	shian loq tsyu gni tse
+京二胡	cin er wu
+京味	cin vi
+京哈	cin ha
+京哈鐵路	cin ha thiq lu
+京師人	cin sy gnin
+京杭大運河	cin ghaon da yun ghou
+京郊日報	cin ciau zyuq pau
+京韻大鼓	cin yun da ku
+亭子間	din tsy kae
+亭長	din cian
+亮了	lian lei
+亮分	lian fen
+亮眼人	lian ngae gnin
+亮着	lian dzoq
+亮着	lian zyuq
+亮的	lian tiq
+亮菌甲素	lian chiun ciaq su
+亹亹	men men
+亹亹不倦	men men paq jiu
+亹源	men gniu
+亹源回族自治縣	men gniu wei dzoq zy dzyu yu
+亹源縣	men gniu yu
+人一己百	zyun iq ci paq
+人丁	zyun tin
+人丁旺盛	zyun tin waon zhin
+人丁興旺	zyun tin shin waon
+人上有人	gnin zaon yeu gnin
+人下	gnin gho
+人不	gnin paq
+人不像人	gnin paq zhian gnin
+人不可貌相	gnin paq khou mau shian
+人不可貌相	zyun paq khou mau shian
+人勿	gnin vaq
+人勿像人	gnin vaq zhian gnin
+人勿可貌相	gnin vaq khou mau shian
+人勿可貌相	zyun vaq khou mau shian
+人弗	gnin vaq
+人弗像人	gnin vaq zhian gnin
+人弗可貌相	gnin vaq khou mau shian
+人弗可貌相	zyun vaq khou mau shian
+人不爲己	zyun paq wei ci
+人不犯我	zyun paq vae ngo
+人不爲己	gnin paq wei ci
+人不犯我	gnin paq vae ngo
+人不知鬼不覺	zyun paq tsyu kuei paq ciuq
+人不聊生	zyun paq liau sen
+人世	zyun syu
+人世間	zyun syu ci
+人中之龍	zyun tson tsy lon
+人中豪傑	zyun tson ghau jiq
+人主	zyun tsyu
+人之	zyun tsy
+人之初	zyun tsy tshu
+人之將死	zyun tsy cian sy
+人之常情	zyun tsy dzaon jin
+人也	gnin gha
+人事	zyun zy
+人事不省	zyun zy paq shin
+人事全非	zyun zy dzoe fi
+人事室	zyun zy syuq
+人事局	zyun zy jiuq
+人事異動	zyun zy yi don
+人事皆非	zyun zy cie fi
+人事管理	zyun zy kun li
+人事處	zyun zy tshyu
+人事行政	zyun zy yin cin
+人事變動	zyun zy pi don
+人事部	zyun zy bu
+人事部門	zyun zy bu men
+人云	zyun yun
+人云亦云	zyun yun yiq yun
+人云集	zyun yun jiq
+人五人六	zyun ng zyun loq
+人亡政息	gnin vaon cin shiq
+人亡物在	gnin vaon vaq dze
+人人	gnin gnin
+人人平等	gnin gnin bin ten
+人人得而	gnin gnin taq er
+人人得而誅之	gnin gnin taq er tsyu tsy
+人人有則	gnin gnin yeu tsaq
+人人有責	gnin gnin yeu tsaq
+人人皆知	gnin gnin cie tsyu
+人人稱快	gnin gnin chin khua
+人人自危	gnin gnin zy wei
+人人都有	gnin gnin tu yeu
+人人都有缺點	gnin gnin tu yeu chiuq ti
+人代	zyun de
+人代大會	zyun de da wei
+人代會	zyun de wei
+人以羣分	gnin yi jiun fen
+人仰馬翻	gnin gnian mo fae
+人來	gnin le
+人來人往	gnin le gnin uaon
+人來說	gnin le syuq
+人保	zyun pau
+人們	zyun men
+人倫	zyun len
+人做	gnin tsou
+人偶戲	gnin ngeu shi
+人傑	zyun jiq
+人傑地靈	zyun jiq di lin
+人傳人	gnin dzOE gnin
+人像	zyun zhian
+人像畫	zyun zhian wo
+人像靶	zyun zhian po
+人像	gnin zhian
+人像畫	gnin zhian wo
+人像靶	gnin zhian po
+人出現	gnin tshyuq yi
+人別哭	gnin biq khoq
+人莫哭	gnin mau khoq
+人莫哭	gnin mhau khoq
+人到中年	gnin tau tson gni
+人到中年萬事休	gnin tau tson gni vae zy shieu
+人制	gnin tsyu
+人前	gnin zhi
+人前人後	gnin zhi gnin gheu
+人剝削人	gnin poq shiaq gnin
+人力	zyun liq
+人力不足	zyun liq paq tsoq
+人力回天	zyun liq wei thi
+人力資本	zyun liq tsy pen
+人力資源	zyun liq tsy gniu
+人力車	zyun liq tsho
+人力車伕	zyun liq tsho fu
+人勝節	gnin shin ciq
+人千人萬	gnin chi gnin vae
+人卻	gnin chiaq
+人去	gnin chiu
+人去樓空	gnin chiu leu khon
+人叢	gnin dzon
+人口	gnin kheu
+人口分佈	gnin kheu fen pu
+人口問題	gnin kheu ven di
+人口增加	gnin kheu tsen cia
+人口增長	gnin kheu tsen cian
+人口學	gnin kheu yuq
+人口密度	gnin kheu miq du
+人口數	gnin kheu su
+人口普查	gnin kheu phu dzo
+人口爆炸	gnin kheu bau tso
+人口稠密	gnin kheu jieu miq
+人口結構	gnin kheu ciq keu
+人口統計	gnin kheu thon ci
+人口統計學	gnin kheu thon ci yuq
+人口調查	gnin kheu diau dzo
+人口論	gnin kheu len
+人口販子	gnin kheu fae tsy
+人口販運	gnin kheu fae yun
+人口過剩	gnin kheu kou jin
+人口金字塔	gnin kheu cin zy thaq
+人叫	gnin ciau
+人叫聲	gnin ciau shin
+人吃人	gnin chioq gnin
+人各有志	gnin koq yeu tsy
+人各有所好	gnin koq yeu so hau
+人同此心	gnin don tshy shin
+人同此心心同此理	gnin don tshy shin shin don tshy li
+人名	zyun min
+人君	zyun ciun
+人呢	gnin gni
+人命	zyun min
+人命關天	zyun min kuae thi
+人和	gnin ghou
+人和事	gnin ghou zy
+人搭事	gnin taq zy
+人品	zyun phin
+人員	zyun yu
+人員傷亡	zyun yu saon vaon
+人員名單	zyun yu min tae
+人啊	gnin gha
+人善被人欺	gnin zoe bei gnin chi
+人單勢薄	gnin tae syu boq
+人嗎	gnin ma
+人因	gnin in
+人困馬乏	gnin khuen mo vaq
+人在	gnin dze
+人在何方	gnin dze ghou faon
+人在何處	gnin dze ghou tshyu
+人在江湖	gnin dze kaon wu
+人在福中不知福	gnin dze foq tson paq tsyu foq
+人地	zyun di
+人地生疏	zyun di sen su
+人均	zyun ciun
+人均收入	zyun ciun shieu zyuq
+人堆	gnin tei
+人士	zyun zy
+人壽	zyun zhieu
+人壽保險	zyun zhieu pau shi
+人壽年豐	gnin zhieu gni fon
+人外有人	gnin nga yeu gnin
+人多	gnin tou
+人多了	gnin tou laq
+人多了	gnin tou lei
+人多勢衆	gnin tou syu tson
+人多口雜	gnin tou kheu dzaq
+人多嘴雜	gnin tou tsyu dzaq
+人多手雜	gnin tou shieu dzaq
+人大	zyun da
+人大代表	zyun da de piau
+人大工作	zyun da kon tsoq
+人大常委會	zyun da dzaon uei wei
+人夫	zyun fu
+人如其名	gnin zyu ji min
+人如其面	gnin zyu ji mi
+人如風後入江雲	gnin zyu fon gheu zyuq kaon yun
+人妖	zyun iau
+人妻	zyun chi
+人子	zyun tsy
+人字拖	gnin zy thou
+人字拖鞋	gnin zy thou gha
+人字架	gnin zy cia
+人存政舉	gnin dzen cin ciu
+人孤勢單	gnin ku syu tae
+人定	zyun din
+人定勝天	zyun din shin thi
+人家說	gnin ko syuq
+人家講	gnin ko kaon
+人對	gnin tei
+人小鬼大	gnin shiau kuei dou
+人少	gnin shiau
+人缺	gnin chiuq
+人就	gnin jieu
+人居	zyun ciu
+人居環境	zyun ciu wae cin
+人山人海	gnin sae gnin he
+人工	gnin kon
+人工	zyun kon
+人工冬眠	zyun kon ton mi
+人工化	zyun kon huo
+人工受孕	zyun kon zhieu yun
+人工受精	zyun kon zhieu cin
+人工合成	zyun kon ghaq jin
+人工呼吸	zyun kon fu shiq
+人工呼吸	gnin kon fu shiq
+人工孵化	zyun kon bu huo
+人工島	zyun kon tau
+人工工資	zyun kon kon tsy
+人工心臟	zyun kon shin dzaon
+人工成本	zyun kon jin pen
+人工成本	gnin kon jin pen
+人工授精	zyun kon zhieu cin
+人工效率	zyun kon yau saq
+人工效率	gnin kon yau saq
+人工智慧	zyun kon tsyu wei
+人工智能	zyun kon tsyu nen
+人工林	zyun kon lin
+人工概念	zyun kon ke nE
+人工氣胸	zyun kon chi shion
+人工河	zyun kon ghou
+人工流產	zyun kon lieu tshae
+人工湖	zyun kon wu
+人工甘味	zyun kon kI vi
+人工色素	zyun kon saq su
+人工閱卷	zyun kon yuq ciu
+人工降雨	zyun kon ciaon yu
+人工養殖	zyun kon ian jiq
+人師	zyun sy
+人強馬壯	gnin jian mo tsaon
+人形	zyun yin
+人影	zyun in
+人很	gnin hen
+人後	gnin gheu
+人從	gnin dzon
+人微言輕	zyun vi yi chin
+人心	zyun shin
+人心不古	zyun shin paq ku
+人心不同	zyun shin paq don
+人心不同各如其面	zyun shin paq don koq zyu ji mi
+人心不同如其面	zyun shin paq don zyu ji mi
+人心不足蛇吞象	zyun shin paq tsoq dzo then zhian
+人心叵測	zyun shin phou tshaq
+人心向背	zyun shin shian pei
+人心大快	zyun shin da khua
+人心如面	zyun shin zyu mi
+人心思漢	zyun shin sy he
+人心惟危	zyun shin vi wei
+人心惶惶	zyun shin waon waon
+人心所向	zyun shin so shian
+人心是肉做的	zyun shin zy gnioq tsou tiq
+人心果	zyun shin kou
+人心渙散	zyun shin hun sae
+人心皇皇	zyun shin waon waon
+人心莫測	zyun shin mau tshaq
+人心隔肚皮	zyun shin kaq du bi
+人心難測	zyun shin nae tshaq
+人心	gnin shin
+人心是肉做的	gnin shin zy gnioq tsou tiq
+人怕出名	gnin pho tshyuq min
+人怕出名豬怕肥	gnin pho tshyuq min tsyu pho vi
+人性	zyun shin
+人性化	zyun shin huo
+人性尊嚴	zyun shin tsen gni
+人性本善	zyun shin pen zoe
+人性本惡	zyun shin pen oq
+人性論	zyun shin len
+人情世故	zyun jin syu ku
+人情之常	zyun jin tsy dzaon
+人情債	zyun jin tsa
+人情冷暖	zyun jin lan noe
+人情味	zyun jin vi
+人慾	zyun yuq
+人慾橫流	zyun yuq wan lieu
+人我	zyun ngo
+人我不分	zyun ngo paq fen
+人所	zyun so
+人所共知	zyun so gon tsyu
+人手	gnin shieu
+人手一冊	gnin shieu iq tshaq
+人手不足	gnin shieu paq tsoq
+人手動	gnin shieu don
+人才	zyun dze
+人才出衆	zyun dze tshyuq tson
+人才培養	zyun dze bei ian
+人才外流	zyun dze nga lieu
+人才市場	zyun dze zy jian
+人才庫	zyun dze khu
+人才招聘	zyun dze ciau phin
+人才流動	zyun dze lieu don
+人才流失	zyun dze lieu syuq
+人才濟濟	zyun dze ci ci
+人才網	zyun dze maon
+人才資源	zyun dze tsy gniu
+人才輩出	zyun dze pei tshyuq
+人才隊伍	zyun dze dei wu
+人才難得	zyun dze nae taq
+人敢	gnin kI
+人數	gnin su
+人數最多	gnin su tsei tou
+人數頂多	gnin su ten tou
+人文	zyun ven
+人文主義	zyun ven tsyu gni
+人文地理	zyun ven di li
+人文地理學	zyun ven di li yuq
+人文學	zyun ven yuq
+人文教育	zyun ven ciau yuq
+人文景觀	zyun ven cin kun
+人文社會學科	zyun ven dzo wei yuq khou
+人文社科	zyun ven dzo khou
+人文科學	zyun ven khou yuq
+人文精神	zyun ven cin zyun
+人文薈萃	zyun ven uei zei
+人文關懷	zyun ven kuae wa
+人族	gnin dzoq
+人日	gnin gniq
+人是	gnin zy
+人是誰	gnin zy zei
+人時	gnin zy
+人會	gnin wei
+人有	gnin yeu
+人有旦夕禍福	gnin yeu tae zhiq ghou foq
+人望	gnin vaon
+人本	zyun pen
+人本主義	zyun pen tsyu gni
+人本論	zyun pen len
+人材	zyun dze
+人格	zyun kaq
+人格保證	zyun kaq pau cin
+人格分裂	zyun kaq fen liq
+人格化	zyun kaq huo
+人格擔保	zyun kaq tae pau
+人格教育	zyun kaq ciau yuq
+人格權	zyun kaq jiu
+人格測驗	zyun kaq tshaq nE
+人格神	zyun kaq zyun
+人格魅力	zyun kaq mei liq
+人梯	zyun thi
+人棄我取	gnin chi ngo tshyu
+人極	zyun jiq
+人模人樣	gnin mou gnin yan
+人樣	gnin yan
+人機	zyun ci
+人機一體	zyun ci iq thi
+人機交互	zyun ci ciau wu
+人機介面	zyun ci ka mi
+人機界面	zyun ci ka mi
+人權	zyun jiu
+人權主義	zyun jiu tsyu gni
+人權宣言	zyun jiu soe yi
+人權思想	zyun jiu sy shian
+人權法	zyun jiu faq
+人權觀察	zyun jiu kun tshaq
+人權鬥士	zyun jiu teu zy
+人次	gnin tshy
+人武	zyun Wu
+人死	gnin shi
+人死亡	gnin sy vaon
+人死留名	gnin shi lieu min
+人比人	gnin pi gnin
+人比人氣死人	gnin pi gnin chi sy gnin
+人比人氣煞人	gnin pi gnin chi saq gnin
+人氏	zyun zy
+人民	zyun min
+人民之聲	zyun min tsy shin
+人民之聲報	zyun min tsy shin pau
+人民代表	zyun min de piau
+人民代表大會	zyun min de piau da wei
+人民代表大會制度	zyun min de piau da wei tsyu du
+人民內部	zyun min nei bu
+人民內部矛盾	zyun min nei bu mau den
+人民公敵	zyun min kon diq
+人民公社	zyun min kon dzo
+人民公社化	zyun min kon dzo huo
+人民共和國	zyun min gon ghou koq
+人民出版社	zyun min tshyuq pae dzo
+人民利益	zyun min li iq
+人民團體	zyun min doe thi
+人民基本權利	zyun min ci pen jiu li
+人民報	zyun min pau
+人民大學	zyun min da ghoq
+人民大會	zyun min da wei
+人民大會堂	zyun min da wei daon
+人民委員	zyun min uei yu
+人民委員會	zyun min uei yu wei
+人民子弟兵	zyun min tsy di pin
+人民幣	zyun min bi
+人民幣元	zyun min bi gniu
+人民廣場	zyun min kuaon jian
+人民性	zyun min shin
+人民意志	zyun min i tsy
+人民戰爭	zyun min ci tsen
+人民戰爭	zyun min tsoe tsen
+人民政協	zyun min cin yaq
+人民政府	zyun min cin fu
+人民日報	zyun min zyuq pau
+人民檢察院	zyun min ci tshaq yu
+人民武裝	zyun min Wu tsaon
+人民民主國家	zyun min min tsyu koq cia
+人民民主專政	zyun min min tsyu tsoe cin
+人民法庭	zyun min faq din
+人民法院	zyun min faq yu
+人民生活	zyun min sen waq
+人民生活水平	zyun min sen waq sei bin
+人民生活水平	zyun min sen waq syu bin
+人民網	zyun min maon
+人民羣衆	zyun min jiun tson
+人民聯盟黨	zyun min li men taon
+人民英雄紀念碑	zyun min in yon ci nE pei
+人民行動黨	zyun min yin don taon
+人民解放軍	zyun min cia faon ciun
+人民警察	zyun min cin tshaq
+人民起義	zyun min chi gni
+人民軍隊	zyun min ciun dei
+人民醫院	zyun min i yu
+人民銀行	zyun min gnin ghaon
+人民陣線	zyun min jin shi
+人民陪審員	zyun min bei shin yu
+人民黨	zyun min taon
+人氣	zyun chi
+人氣旺盛	zyun chi waon zhin
+人治	zyun dzyu
+人流	zyun lieu
+人流手術	zyun lieu shieu zyuq
+人流量	zyun lieu lian
+人浮於事	zyun vu yu zy
+人浮於食	zyun vu yu zhiq
+人海	zyun he
+人海戰術	zyun he ci zyuq
+人海茫茫	zyun he maon maon
+人渣	zyun tso
+人溺己溺	zyun gniq ci gniq
+人滿	zyun mun
+人滿之患	zyun mun tsy wae
+人滿爲患	zyun mun wei wae
+人潮	zyun jiau
+人無	gnin vu
+人無前後眼	gnin vu zhi gheu ngae
+人無千日	gnin vu chi gniq
+人無千日好	gnin vu chi gniq hau
+人無千日好花無百日紅	gnin vu chi gniq hau huo vu paq gniq ghon
+人無完人	gnin vu wun gnin
+人無遠慮	gnin vu yu li
+人無	gnin Wu
+人無前後眼	gnin Wu zhi gheu ngae
+人無千日	gnin Wu chi gniq
+人無千日好	gnin Wu chi gniq hau
+人無千日好花無百日紅	gnin Wu chi gniq hau huo Wu paq gniq ghon
+人無完人	gnin Wu wun gnin
+人無遠慮	gnin Wu yu li
+人煙	zyun i
+人煙浩穰	zyun i ghau gnian
+人煙湊集	zyun i tsheu jiq
+人煙稀少	zyun i shi shiau
+人煙稠密	zyun i jieu miq
+人煙輻輳	zyun i foq tsheu
+人爭一口氣	gnin tsan iq kheu chi
+人爲	zyun wei
+人爲刀俎	zyun wei tau tsu
+人爲地	zyun wei di
+人爲萬物之靈	zyun wei vae vaq tsy lin
+人爲財死	zyun wei dze sy
+人爲財死	gnin wei dze sy
+人牆	zyun zhian
+人物	zyun vaq
+人物形象	zyun vaq yin zhian
+人物性格	zyun vaq shin kaq
+人物描寫	zyun vaq miau shia
+人物畫	zyun vaq wo
+人物誌	zyun vaq tsy
+人犯	gnin vae
+人猿	zyun yu
+人猿泰山	zyun yu tha sae
+人瑞	zyun zei
+人生	zyun sen
+人生一世	zyun sen iq shi
+人生七十	zyun sen chiq zyuq
+人生價值	zyun sen ko jiq
+人生哲學	zyun sen ciq yuq
+人生在世	zyun sen dze syu
+人生地不熟	gnin san di paq zoq
+人生地勿熟	gnin san di vaq zoq
+人生地弗熟	gnin san di vaq zoq
+人生如夢	zyun sen zyu mon
+人生如朝露	zyun sen zyu ciau lu
+人生如萍	zyun sen zyu bin
+人生意義	zyun sen i gni
+人生朝露	zyun sen ciau lu
+人生盛衰	zyun sen zhin se
+人生目標	zyun sen moq piau
+人生短暫	zyun sen toe dzae
+人生經歷	zyun sen cin liq
+人生舞臺	zyun sen Wu de
+人生觀	zyun sen kun
+人生路不熟	gnin san lu paq zoq
+人生面不熟	gnin san mi paq zoq
+人生路勿熟	gnin san lu vaq zoq
+人生面勿熟	gnin san mi vaq zoq
+人生路弗熟	gnin san lu vaq zoq
+人生面弗熟	gnin san mi vaq zoq
+人用	gnin yon
+人畜	gnin tshoq
+人畜興旺	gnin tshoq shin waon
+人的	gnin tiq
+人個	gnin goq
+人個	gnin ghoq
+人皆	zyun cie
+人皮	zyun bi
+人盡其才	zyun jin ji dze
+人盡其材	zyun jin ji dze
+人盡可夫	zyun jin khou fu
+人盡皆知	zyun jin cie tsyu
+人相	gnin shian
+人相學	gnin shian yuq
+人看	gnin khI
+人眼	gnin ngae
+人知道	gnin tsyu dau
+人神共憤	gnin zyun gon ven
+人神同憤	gnin zyun don ven
+人禍	zyun ghou
+人種	zyun tson
+人種學	zyun tson yuq
+人種差別	zyun tson tsho biq
+人稱	zyun chin
+人稱代名詞	zyun chin de min dzy
+人稱代詞	zyun chin de dzy
+人窮志不窮	zyun jion tsy paq jion
+人窮志短	zyun jion tsy toe
+人算不如天算	gnin soe paq zyu thi soe
+人算勿如天算	gnin soe vaq zyu thi soe
+人算弗如天算	gnin soe vaq zyu thi soe
+人精	zyun cin
+人給家足	zyun ciq cia tsoq
+人緣	gnin yu
+人罵	gnin mo
+人羣	zyun jiun
+人羣中	zyun jiun tson
+人老珠黃	gnin lau tsyu waon
+人聲	zyun shin
+人聲吵雜	zyun shin tshau dzaq
+人聲鼎沸	zyun shin tin fi
+人肉	gnin gnioq
+人肉市場	gnin gnioq zy jian
+人肉搜索	gnin gnioq seu soq
+人肉搜索引擎	gnin gnioq seu soq yin jin
+人能	gnin nen
+人脈	zyun maq
+人腦	zyun nau
+人臉	zyun li
+人臣	zyun jin
+人與	gnin yu
+人與人	gnin yu gnin
+人與人之間	gnin yu gnin tsy ci
+人與自然	gnin yu zy zoe
+人蔘	gnin sen
+人蔘果	gnin sen kou
+人蔘精	gnin sen cin
+人蔘酒	gnin sen cieu
+人蛇	zyun dzo
+人蛇集團	zyun dzo jiq doe
+人衆勝天	zyun tson shin thi
+人行	zyun yin
+人行區	zyun yin chiu
+人行地下通道	zyun yin di gho thon dau
+人行地下道	zyun yin di gho dau
+人行橫道	zyun yin wan dau
+人行橫道線	zyun yin wan dau shi
+人行道	zyun yin dau
+人要	gnin iau
+人要衣裝	gnin iau i tsaon
+人見	zyun ci
+人見人愛	zyun ci zyun e
+人言	zyun yi
+人言可畏	zyun yi khou uei
+人言嘖嘖	zyun yi tsaq tsaq
+人言籍籍	zyun yi zhiq zhiq
+人話	gnin wo
+人語馬嘶	gnin gniu mo sy
+人說	gnin syuq
+人說話	gnin syuq wo
+人謀不臧	zyun meu paq tsaon
+人證物證	zyun cin vaq cin
+人財兩失	zyun dze lian syuq
+人財兩得	zyun dze lian taq
+人財兩空	zyun dze lian khon
+人財兩失	gnin dze lian syuq
+人財兩得	gnin dze lian taq
+人財兩空	gnin dze lian khon
+人販子	gnin fae tsy
+人貴有自知之明	zyun kuei yeu zy tsyu tsy min
+人質	zyun ciq
+人跡	zyun ciq
+人跡杳然	zyun ciq yau zoe
+人跡罕至	zyun ciq he tsy
+人身	zyun shin
+人身	gnin shin
+人身上	gnin shin zaon
+人身事故	zyun shin zy ku
+人身依附	zyun shin i vu
+人身保護令	zyun shin pau wu lin
+人身保險	zyun shin pau shi
+人身安全	zyun shin EI dzoe
+人身損害賠償	zyun shin sen ghe bei dzaon
+人身損害賠償	zyun shin sen ghe bei saon
+人身攻擊	zyun shin kon ciq
+人身權	zyun shin jiu
+人身自由	zyun shin zy yeu
+人車混行	gnin tsho wen ghan
+人造	gnin zau
+人造冰	gnin zau pin
+人造土	gnin zau thu
+人造地球衛星	gnin zau di jieu wei shin
+人造天體	gnin zau thi thi
+人造板	gnin zau pae
+人造棉	gnin zau mi
+人造橡膠	gnin zau zhian ciau
+人造毛	gnin zau mau
+人造皮	gnin zau bi
+人造石油	gnin zau zaq yeu
+人造絲	gnin zau sy
+人造纖維	gnin zau shi vi
+人造肥料	gnin zau vi liau
+人造花	gnin zau huo
+人造衛星	gnin zau wei shin
+人造語言	gnin zau gniu yi
+人造雨	gnin zau yu
+人造革	gnin zau kaq
+人逢喜事精神爽	zyun von shi zy cin zyun saon
+人道	zyun dau
+人道主義	zyun dau tsyu gni
+人道救援	zyun dau cieu yu
+人道立場	zyun dau liq jian
+人道精神	zyun dau cin zyun
+人選	gnin soe
+人還	zyun wa
+人部	zyun bu
+人都	gnin tu
+人都知道	gnin tu tsyu dau
+人鏈	zyun li
+人間	zyun ci
+人間仙境	zyun ci shi cin
+人間佛教	zyun ci vaq ciau
+人間冷暖	zyun ci lan noe
+人間喜劇	zyun ci shi jiq
+人間地獄	zyun ci di yuq
+人間天堂	zyun ci thi daon
+人間煙火	zyun ci i hou
+人間詞話	zyun ci dzy wo
+人際	zyun ci
+人際交往	zyun ci ciau uaon
+人際關係	zyun ci kuae shi
+人非木石	zyun fi moq zaq
+人非生而知之者	zyun fi sen er tsyu tsy tse
+人非聖賢	zyun fi shin yi
+人非草木	zyun fi tshau moq
+人面	zyun mi
+人面上	zyun mi zaon
+人面桃花	zyun mi dau huo
+人面獅身	zyun mi sy shin
+人面獸心	zyun mi shieu shin
+人面逐高低	zyun mi dzoq kau ti
+人頭獅身	zyun deu sy shin
+人頭稅	gnin deu sei
+人頭落地	gnin deu loq di
+人頭蛇身	gnin deu dzo shin
+人頭馬	gnin deu mo
+人類	zyun lei
+人類乳突病毒	zyun lei zyu daq bin doq
+人類免疫缺陷病毒	zyun lei mi yuq chiuq ghae bin doq
+人類史	zyun lei sy
+人類史上	zyun lei sy zaon
+人類基因組計劃	zyun lei ci in tsu ci waq
+人類學	zyun lei yuq
+人類學家	zyun lei yuq cia
+人類文明	zyun lei ven min
+人類歷史	zyun lei liq sy
+人類社會	zyun lei dzo wei
+人類起源	zyun lei chi gniu
+人飢己飢	zyun ci ci ci
+人馬	gnin mo
+人馬宮	gnin mo kon
+人馬座	gnin mo zou
+人馬臂	gnin mo pi
+人馬	zyun mo
+人馬宮	zyun mo kon
+人馬座	zyun mo zou
+人馬臂	zyun mo pi
+人體	zyun thi
+人體上	zyun thi zaon
+人體健康	zyun thi ji khaon
+人體器官	zyun thi chi kun
+人體工學	zyun thi kon yuq
+人體彩繪	zyun thi tshe wei
+人體素描	zyun thi su miau
+人體藝術	zyun thi gni zyuq
+人體解剖	zyun thi ka phou
+人體解剖學	zyun thi ka phou yuq
+人高馬大	gnin kau mo dou
+人鬼	zyun kuei
+人鬼不分	zyun kuei paq fen
+人鬼殊途	zyun kuei zyu du
+人魚	zyun yu
+人魚公主	zyun yu kon tsyu
+人魚小姐	zyun yu shiau cia
+人龍	zyun lon
