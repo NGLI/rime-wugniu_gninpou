@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.16"
+version: "2019.06.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2676,6 +2676,7 @@ use_preset_vocabulary: true
 怨	iu5
 八	pa1	0%
 叭	pa1
+巴	pa1	5%
 吧	pa1
 擺	pa3
 襬	pa3
@@ -2926,6 +2927,7 @@ use_preset_vocabulary: true
 襾	shia5
 罅	shia5	0%
 𥕕	shia5
+下	shia5	0%
 斜	zhia2
 邪	zhia2
 衺	zhia2
@@ -2960,8 +2962,8 @@ use_preset_vocabulary: true
 迓	ia1
 䃁	ia1
 錏	ia1
-耶	ia1	5%
-椰	ia1	5%
+耶	ia1	6%
+椰	ia1	6%
 雅	ia3
 亞	ia5
 婭	ia5
@@ -3576,7 +3578,6 @@ use_preset_vocabulary: true
 稍	so1
 蓑	so1
 簑	so1
-畬	so1
 啥	so1
 奢	so1
 舍	so1
@@ -27760,6 +27761,14 @@ use_preset_vocabulary: true
 勿上算	vaq zaon soe
 弗上算	vaq zaon soe
 來年子	ne gni tsy
+大巴車	dou pa tsho
+中巴車	tson pa tsho
+大巴	dou pa
+中巴	tson pa
+小巴	shiau pa
+巴士	pa zy
+下載	shia tse
+下載	gho tse
 K	khe1
 k	khe1
 老K牌	lau k ba
