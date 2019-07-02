@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.06.19"
+version: "2019.07.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3004,6 +3004,7 @@ use_preset_vocabulary: true
 歪	ua1	0%
 竵	ua1	0%
 窪	ua1
+洼	ua1
 蛙	ua1	5%
 鼃	ua1	5%
 娃	ua1	6%
@@ -5364,8 +5365,8 @@ use_preset_vocabulary: true
 沬	mei6
 𩎟	mei6
 妹	mhei5
-浮	vei6	0%
 𣍐	vei2
+浮	vei6	0%
 堆	tei1
 𠡒	tei3
 對	tei5
@@ -8634,6 +8635,7 @@ use_preset_vocabulary: true
 酆	fon1
 灃	fon1
 封	fon1
+湗	fon1
 峯	fon1
 峰	fon1
 烽	fon1
@@ -9640,7 +9642,6 @@ use_preset_vocabulary: true
 爵	ciaq7
 爝	ciaq7
 婥	ciaq7
-杓	ciaq7
 妁	ciaq7
 趵	ciaq7
 酌	ciaq7
@@ -9656,6 +9657,7 @@ use_preset_vocabulary: true
 鉀	ciaq7
 玾	ciaq7
 𥑐	ciaq7
+岬	ciaq7
 戛	ciaq7
 戞	ciaq7
 筴	ciaq7
@@ -14089,7 +14091,7 @@ use_preset_vocabulary: true
 鷂子	yau tsy
 鷂虻	yau maon
 大頭殼子	dou deu khoq tsy
-野狐狸	ya wu li
+#野狐狸	ya wu li
 人案頭	gnin e deu
 人案	gnin e
 木頭人案	moq deu gnin e
@@ -27769,6 +27771,7 @@ use_preset_vocabulary: true
 巴士	pa zy
 下載	shia tse
 下載	gho tse
+野狐臉	ya wu li
 K	khe1
 k	khe1
 老K牌	lau k ba
