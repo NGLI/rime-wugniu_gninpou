@@ -30,7 +30,7 @@
 
 - [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派)
 - [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音)
-- [输入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示)
+- [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示)
 - [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查)
 
 ## 拼音教程
