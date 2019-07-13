@@ -6,7 +6,7 @@
 
 含寧波城區及鄞縣鍾公廟（鄞縣中區，今鄞州區鍾公廟街道）兩種口音的輸入方案。
 
-拼音方案爲[吳語學堂](https://www.wugniu.com/)式拼音。
+拼音方案爲[吳語學堂式拼音](https://shinzoqchiuq.github.io/gninpou-tutorial/)。
 
 使用以下項目：
 
@@ -56,8 +56,8 @@ Electric Sheep：
 
 - 郵箱：1613023143@qq.com
 
-吳語學堂：
+[吳語學堂](https://www.wugniu.com/)：
 
-- QQ群：46520589
+- QQ羣：46520589
 - 微信公衆號：wu_gniu
 - 微博：吳語學堂
