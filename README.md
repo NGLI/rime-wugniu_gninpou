@@ -6,7 +6,7 @@
 
 含寧波城區及鄞縣鍾公廟（鄞縣中區，今鄞州區鍾公廟街道）兩種口音的輸入方案。
 
-拼音方案爲[吳語學堂式拼音](https://shinzoqchiuq.github.io/gninpou-tutorial/)。
+拼音方案爲[吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案)。
 
 使用以下項目：
 
@@ -18,7 +18,7 @@
 
 [rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki)
 
-## 安裝方法
+### 安裝方法
 
 - [Windows](https://ngli.github.io/rime-wugniu/安装方法/Windows.html)
 - [macOS](https://ngli.github.io/rime-wugniu/安装方法/macOS.html)
@@ -26,7 +26,7 @@
 - [Android](https://ngli.github.io/rime-wugniu/安装方法/Android.html)
 - [iOS](https://ngli.github.io/rime-wugniu/安装方法/iOS.html)
 
-## 使用
+### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用)
 
 - [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派)
 - [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音)
