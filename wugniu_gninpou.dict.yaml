@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.07.02"
+version: "2019.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8735,6 +8735,7 @@ use_preset_vocabulary: true
 聾	lon2
 礱	lon2
 嚨	lon2
+曨	lon2
 瓏	lon2
 蘢	lon2
 瀧	lon2
@@ -11584,7 +11585,7 @@ use_preset_vocabulary: true
 大年夜	dou gni ya
 節肯	ciq khen
 節日頭間	ciq gniq deu kae
-節頭節面	ciq deu ciq mi
+#節頭節面	ciq deu ciq mi
 節頭節尾	ciq deu ciq mi
 過年過節	kou gni kou ciq
 節邊	ciq pi
@@ -32445,19 +32446,13 @@ VCD	v c d
 人知道	gnin tsyu dau
 人神共憤	gnin zyun gon ven
 人神同憤	gnin zyun don ven
-人禍	zyun ghou
-人種	zyun tson
 人種學	zyun tson yuq
-人種差別	zyun tson tsho biq
-人稱	zyun chin
-人稱代名詞	zyun chin de min dzy
-人稱代詞	zyun chin de dzy
+人種學	gnin tson yuq
 人窮志不窮	zyun jion tsy paq jion
 人窮志短	zyun jion tsy toe
 人算不如天算	gnin soe paq zyu thi soe
 人算勿如天算	gnin soe vaq zyu thi soe
 人算弗如天算	gnin soe vaq zyu thi soe
-人精	zyun cin
 人給家足	zyun ciq cia tsoq
 人緣	gnin yu
 人罵	gnin mo
