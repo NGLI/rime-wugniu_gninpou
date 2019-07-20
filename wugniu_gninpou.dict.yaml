@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.07.13"
+version: "2019.07.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -27813,8 +27813,6 @@ VCD	v c d
 一世英名	iq shi in min
 一九九二	iq cieu cieu gni
 一九九兩	iq cieu cieu lian
-一乾二淨	iq kI gni zhin
-一乾二淨	iq kI er zhin
 一乾而盡	iq kI er jin
 一了	iq liau
 一了心願	iq liau shin gniu
@@ -27837,6 +27835,8 @@ VCD	v c d
 一代新人換舊人	iq de shin gnin wun jieu gnin
 一佛出世	iq baq chiq shi
 一佛出世二佛生天	iq baq chiq shi gni vaq sen thi
+一個不小心	iq goq paq shiau shin
+一個不小心	iq ghoq paq shiau shin
 一個勿小心	iq goq vaq shiau shin
 一個勿小心	iq ghoq vaq shiau shin
 一個弗小心	iq goq vaq shiau shin
@@ -27882,8 +27882,6 @@ VCD	v c d
 一隻頭兩隻大	iq tsaq deu lian tsaq dou
 一隻鼻孔出氣	iq tsaq biq khon tshyuq chi
 一倡百和	iq tshaon paq ghou
-一停	iq din
-一傳十	iq dzoe zyuq
 一億人	iq i gnin
 一償宿願	iq dzaon soq gniu
 一出去	iq tshyuq chi
@@ -27908,11 +27906,15 @@ VCD	v c d
 一千個	iq chi ghoq
 一千零兩	iq chi lin lian
 一去	iq chi
+一去不回	iq chiu paq wei
 一去勿回	iq chi vaq wei
 一去弗回	iq chi vaq wei
 一去不回頭	iq chi paq wei deu
 一去勿回頭	iq chi vaq wei deu
 一去弗回頭	iq chi vaq wei deu
+一去不復	iq chiu paq voq
+一去不復返	iq chiu paq voq fae
+一去不返	iq chiu paq fae
 一去勿復	iq chi vaq voq
 一去勿復返	iq chi vaq voq fae
 一去勿返	iq chi vaq fae
@@ -27957,6 +27959,7 @@ VCD	v c d
 一日一個樣	iq gniq iq ghoq yan
 一夫當關萬夫莫敵	iq fu taon kuae vae fu moq diq
 一夫當關萬夫莫開	iq fu taon kuae vae fu moq khe
+一字不差	iq zy paq tsho
 一字勿差	iq zy vaq tsho
 一字之差	iq zy tsy tsho
 一字長蛇陣	iq zy jian dzo jin
@@ -28201,6 +28204,8 @@ VCD	v c d
 七覺支	chiq ciuq tsy
 七魄	chiq phaq
 丈二和尚	jian gni ghou zaon
+丈二和尚摸不着頭腦	jian gni ghou zaon moq paq dzoq deu nau
+丈二和尚摸不着頭腦	jian gni ghou zaon moq paq zyuq deu nau
 丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
 丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq dzoq deu nau
 丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
@@ -28918,16 +28923,8 @@ VCD	v c d
 勿成材	vaq jin dze
 弗成問題	vaq jin ven di
 弗成材	vaq jin dze
-不戰	paq ci
 不戰不和	paq ci paq ghou
-不戰而勝	paq ci er shin
-不戰而敗	paq ci er ba
-不戰而退	paq ci er thei
-不戰	paq tsoe
 不戰不和	paq tsoe paq ghou
-不戰而勝	paq tsoe er shin
-不戰而敗	paq tsoe er ba
-不戰而退	paq tsoe er thei
 勿戰	vaq ci
 勿戰勿和	vaq ci vaq ghou
 勿戰而勝	vaq ci er shin
@@ -32626,3 +32623,508 @@ VCD	v c d
 人魚公主	zyun yu kon tsyu
 人魚小姐	zyun yu shiau cia
 人龍	zyun lon
+什麼問題	zyuq mou ven di
+什麼時間	zyuq mou zy ci
+什麼牌子	zyuq mou ba tsy
+什麼顏色	zyuq mou ngae saq
+啥問題	soq ven di
+啥問題	so ven di
+啥問題	sou ven di
+啥牌子	soq ba tsy
+啥牌子	so ba tsy
+啥牌子	sou ba tsy
+啥顏色	soq ngae saq
+啥顏色	so ngae saq
+啥顏色	sou ngae saq
+仁丹	zyun tae
+仁人	zyun zyun
+仁人	zyun gnin
+仁人君子	zyun zyun ciun tsy
+仁人志士	zyun zyun tsy zy
+仁人義士	zyun zyun gni zy
+仁人君子	zyun gnin ciun tsy
+仁人志士	zyun gnin tsy zy
+仁人義士	zyun gnin gni zy
+仁信	zyun shin
+仁兄	zyun shion
+仁化	zyun huo
+仁化縣	zyun huo yu
+仁厚	zyun gheu
+仁君	zyun ciun
+仁和	zyun ghou
+仁和區	zyun ghou chiu
+仁和縣	zyun ghou yu
+仁壽	zyun zhieu
+仁壽縣	zyun zhieu yu
+仁壽街	zyun zhieu ka
+仁孝	zyun shiau
+仁宗	zyun tson
+仁川	zyun tshoe
+仁川市	zyun tshoe zy
+仁川廣域市	zyun tshoe kuaon yuq zy
+仁布	zyun pu
+仁布縣	zyun pu yu
+仁弟	zyun di
+仁德	zyun taq
+仁德鄉	zyun taq shian
+仁心	zyun shin
+仁心仁術	zyun shin zyun zyuq
+仁惠	zyun wei
+仁愛	zyun e
+仁愛區	zyun e chiu
+仁愛國中	zyun e koq tson
+仁愛國小	zyun e koq shiau
+仁愛爲接物之本	zyun e wei ciq vaq tsy pen
+仁愛路	zyun e lu
+仁愛鄉	zyun e shian
+仁愛醫院	zyun e i yu
+仁慈	zyun dzy
+仁慈心	zyun dzy shin
+仁懷	zyun wae
+仁懷市	zyun wae zy
+仁懷縣	zyun wae yu
+仁政	zyun cin
+仁昌	zyun tshaon
+仁杰	zyun jiq
+仁武	zyun Wu
+仁武鄉	zyun Wu shian
+仁民愛物	zyun min e vaq
+仁波切	zyun pou chiq
+仁義	zyun gni
+仁義禮智信	zyun gni li tsyu shin
+仁義道德	zyun gni dau taq
+仁者	zyun tse
+仁者無敵	zyun tse vu diq
+仁者見仁	zyun tse ci zyun
+仁至義盡	zyun tsy gni jin
+仁術	zyun zyuq
+仁言利博	zyun yi li poq
+仁道	zyun dau
+仁醫	zyun i
+仇人	jieu gnin
+仇人相見分外眼紅	jieu gnin shian ci fen nga ngae ghon
+仇家	jieu ko
+仇恨罪行	jieu ghen zei yin
+今世	cin syu
+今文學	cin ven yuq
+今文經學	cin ven cin yuq
+今日世界	cin zyuq syu ka
+今日事今日畢	cin zyuq zy cin zyuq piq
+今是昨非	cin zy dzoq fi
+今時今日	cin zy cin zyuq
+今朝有酒今朝醉	cin ciau yeu cieu cin ciau tsei
+今歲	cin sei
+今生	cin san
+今生今世	cin san cin shi
+介之推	cia tsy thei
+介乎	cia fu
+介休	cia shieu
+介休市	cia shieu zy
+介懷	cia wae
+介懷	ka wae
+介紹	ka zhiau
+介紹一下	ka zhiau iq gho
+介紹一記	ka zhiau iq ci
+介紹人	ka zhiau gnin
+介紹信	ka zhiau shin
+介紹出來	ka zhiau tshyuq le
+介紹所	ka zhiau so
+介詞	ka dzy
+介質	ka ciq
+介質訪問控制	ka ciq faon men khon tsyu
+介質訪問控制層	ka ciq faon men khon tsyu zen
+介電常數	ka di dzaon su
+介面	cia mi
+介面卡	cia mi kha
+介面板	cia mi pae
+仍去	jin chiu
+仍未	jin vi
+仔魚	tsy ng
+他上去	tha zaon chi
+他下去	tha gho chi
+他了	tha lei
+他了	tha laq
+他人	tha gnin
+他出去	tha tshyuq chi
+渠上去	ji zaon chi
+渠下去	ji gho chi
+渠落去	ji loq chi
+渠了	ji lei
+渠了	ji laq
+渠人	ji gnin
+渠出去	ji tshyuq chi
+其上去	ji zaon chi
+其下去	ji gho chi
+其落去	ji loq chi
+其了	ji lei
+其了	ji laq
+其人	ji gnin
+其出去	ji tshyuq chi
+他加祿語	tha cia loq gniu
+他化自在天	tha huo zy dze thi
+他和	tha ghou
+他和她	tha ghou tha
+他家	tha cia
+他日	tha zyuq
+他自己	tha zy ci
+他認爲	tha zyun wei
+他過去	tha kou chiu
+他過去	tha kou chi
+渠搭	ji taq
+渠搭渠	ji taq ji
+渠拉屋落	jiq laq oq loq
+渠拉屋落	ji laq oq loq
+渠自家	ji zhi ko
+渠認爲	ji zyun wei
+渠過去	ji kou chiu
+渠過去	ji kou chi
+其搭	ji taq
+其搭其	ji taq ji
+其拉屋落	jiq laq oq loq
+其拉屋落	ji laq oq loq
+其自家	ji zhi ko
+其認爲	ji zyun wei
+其過去	ji kou chiu
+其過去	ji kou chi
+仗劍	cian ci
+仗勢	cian syu
+仗勢欺人	cian syu chi zyun
+仗勢欺人	cian syu chi gnin
+仗恃	cian dzy
+仗托	cian thoq
+仗持	cian ji
+仗持	cian dzy
+仗火	cian hou
+仗着	cian dzoq
+仗着	cian zyuq
+仗勒	cian laq
+仗義	cian gni
+仗義執言	cian gni ciq yi
+仗義疏財	cian gni su dze
+仗腰	cian iau
+付下去	fu gho chi
+付落去	fu loq chi
+付之流水	fu tsy lieu syu
+付了	fu laq
+付了	fu lei
+付交	fu kau
+付出去	fu tshyuq chi
+付去	fu chi
+付款人	fu khun gnin
+付款日	fu khun gniq
+付着	fu dzoq
+付着	fu zyuq
+付勒	fu laq
+付的	fu tiq
+付諸實行	fu tsyu zyuq yin
+付諸流水	fu tsyu lieu syu
+付諸行動	fu tsyu yin don
+仙人掌果	shi zyun tsaon kou
+仙女座大星雲	shi gniu zou da shin yun
+仙樂	shi yuq
+代人	de gnin
+代代相傳	de de shian dzOE
+代償	de dzaon
+代數和	de su ghou
+代數學	de su yuq
+代數學基本定理	de su yuq ci pen din li
+代數幾何學	de su ci ghou yuq
+代數簇	de su tshoq
+代書事務所	de syu zy vu so
+代書事務所	de syu zy Wu so
+代爾夫特	de er fu daq
+代理人	de li gnin
+代理服務器	de li voq vu chi
+代理服務器	de li voq Wu chi
+代理行	de li ghaon
+代管人	de kun gnin
+代簽人	de chi gnin
+代耕	de kan
+代行	de yin
+代表人	de piau gnin
+代表人物	de piau zyun vaq
+代表大會	de piau da wei
+代言人	de yi gnin
+代謝率	de zhia liq
+令人震驚	lin zyun tsyun cin
+令人震驚	lin gnin tsyun cin
+令俉	lin ng
+令爾	lin ng
+令儂	lin nou
+令出必行	lin tshyuq piq yin
+令出惟行	lin tshyuq vi yin
+令妹	lin mei
+令尊大人	lin tsen da zyun
+令望	lin vaon
+令牌	lin ba
+令牌環	lin ba wae
+令牌環網	lin ba wae maon
+令狀	lin dzaon
+令甥	lin san
+令行	lin yin
+令行禁止	lin yin cin tsy
+以上學歷	yi zaon ghoq liq
+以俉	yi ng
+以爾	yi ng
+以儂	yi nou
+以假亂真	yi cia loe cin
+以利於	yi li yu
+以卵投石	yi loe deu zaq
+以卵擊石	yi loe ciq zaq
+以和爲貴	yi ghou wei kuei
+以埃	yi e
+以天下爲己任	yi thi gho wei ci zyun
+以太	yi tha
+以太網	yi tha maon
+以太網絡	yi tha maon loq
+以太網絡端口	yi tha maon loq toe kheu
+以子之矛	yi tsy tsy mau
+以寡擊衆	yi kua ciq tson
+以寡敵衆	yi kua diq tson
+以小人之心	yi shiau zyun tsy shin
+以小吃大	yi shiau chioq dou
+以小見大	yi shiau ci dou
+以弗所	yi faq so
+以弗所書	yi faq so syu
+以斯拉記	yi sy lha ci
+以暴易暴	yi bau yiq bau
+以淚洗面	yi lei shi mi
+以爲自己	yi wei zy ci
+以牙還牙	yi ngo wae ngo
+以眼還眼	yi ngae wa ngae
+以老大自居	yi lau dou zy ciu
+以老大自居	yi lau da zy ciu
+以自制	yi zy tsyu
+以至於	yi tsy yu
+以致於	yi tsy yu
+以色列人	yi saq liq gnin
+以苦爲樂	yi khu wei loq
+以衆克寡	yi tson khaq kua
+以訛傳訛	yi ngou dzOE ngou
+以誠待人	yi jin de gnin
+以貌取人	yi mau tshyu gnin
+以貨易貨	yi hou yiq hou
+以還	yi wae
+以降	yi ciaon
+仰仗	gnian cian
+仰仗着	gnian cian dzoq
+仰仗着	gnian cian zyuq
+仰仗勒	gnian cian laq
+仰光大金塔	gnian kuaon da cin thaq
+仰天一望	gnian thi iq maon
+仰天大笑	gnian thi da shiau
+仰天長嘯	gnian thi jian shiau
+仰屋著書	gnian oq tsyu syu
+仰德大道	gnian taq da dau
+仰望	gnian maon
+仰看着	gnian khI dzoq
+仰看着	gnian khI zyuq
+仰看勒	gnian khI laq
+仰賴着	gnian la dzoq
+仰賴着	gnian la zyuq
+仰賴勒	gnian la laq
+仰面朝天	gnian mi jiau thi
+仲介	dzon ka
+仲介公司	dzon ka kon sy
+仲夏夜之夢	dzon gho ya tsy mon
+仲家	dzon ko
+仲裁人	dzon ze gnin
+任一個	zyun iq goq
+任一個	zyun iq ghoq
+任丘	zyun chieu
+任丘市	zyun chieu zy
+任事	zyun zy
+任人	zyun zyun
+任人唯親	zyun zyun vi chin
+任人唯賢	zyun zyun vi yi
+任人宰割	zyun zyun tse kaq
+任人擺佈	zyun zyun pa pu
+任何	zyun ghou
+任何一方	zyun ghou iq faon
+任何一種	zyun ghou iq tson
+任何事	zyun ghou zy
+任何事情	zyun ghou zy jin
+任何事體	zyun ghou zy thi
+任何人	zyun ghou gnin
+任何其他	zyun ghou ji tha
+任何地方	zyun ghou di faon
+任何時候	zyun ghou zy gheu
+任何東西	zyun ghou ton shi
+任何表演	zyun ghou piau yi
+任何表示	zyun ghou piau zy
+任何表達	zyun ghou piau daq
+任何錶	zyun ghou piau
+任何鐘錶	zyun ghou tson piau
+任你	zyun gni
+任你	zyun n
+任你	zyun ng
+任俉	zyun ng
+任爾	zyun ng
+任便	zyun bi
+任俠	zyun yaq
+任免	zyun mi
+任免權	zyun mi jiu
+任內	zyun nei
+任其	zyun ji
+任其自然	zyun ji zy zoe
+任副	zyun fu
+任務	zyun vu
+任務團	zyun vu doe
+任務在身	zyun vu dze shin
+任務書	zyun vu syu
+任務欄	zyun vu lae
+任務	zyun Wu
+任務團	zyun Wu doe
+任務在身	zyun Wu dze shin
+任務書	zyun Wu syu
+任務欄	zyun Wu lae
+任勞任怨	zyun lau zyun iu
+任命	zyun min
+任命狀	zyun min zaon
+任咎	zyun jieu
+任城	zyun jin
+任城區	zyun jin chiu
+任天堂	zyun thi daon
+任安	zyun EI
+任從	zyun dzon
+任志強	zyun tsy jian
+任性	zyun shin
+任情	zyun jin
+任意	zyun i
+任意球	zyun i jieu
+任憑	zyun bin
+任憑風浪起	zyun bin fon laon chi
+任憑風浪起穩坐釣魚臺	zyun bin fon laon chi uen zou tiau ng de
+任所	zyun so
+任教	zyun ciau
+任教於	zyun ciau yu
+任教者	zyun ciau tse
+任於	zyun yu
+任正非	zyun cin fi
+任氣	zyun chi
+任爲	zyun wei
+任由	zyun yeu
+任由擺佈	zyun yeu pa pu
+任筆沈詩	zyun piq shin sy
+任縣	zyun yu
+任總統	zyun tson thon
+任職	zyun ciq
+任職期間	zyun ciq ji ci
+任職資格	zyun ciq tsy kaq
+任聽	zyun thin
+任誕	zyun dae
+任賢齊	zyun yi ji
+任達華	zyun daq wo
+任選	zyun soe
+任重	zyun dzon
+任重致遠	zyun dzon tsy yu
+任重道遠	zyun dzon dau yu
+任隨	zyun zei
+仿射空間	faon zhiq khon ci
+仿生	faon sen
+仿生學	faon sen yuq
+仿生建築	faon sen ci tsoq
+仿真服務器	faon cin voq vu chi
+仿真服務器	faon cin voq Wu chi
+仿行	faon yin
+企劃人	chi waq gnin
+企望	chi vaon
+企業品牌	chi gniq phin ba
+企業家	chi gniq cia
+企業戰略	chi gniq tsoe liaq
+企業法人	chi gniq faq gnin
+企業財務	chi gniq dze vu
+企業財務	chi gniq dze Wu
+企業間	chi gniq ci
+企業集團	chi gniq jiq doe
+企鵝牌	chi ngou ba
+伊于胡底	i yu wu ti
+伊利埃斯庫	i li e sy khu
+伊士曼柯達公司	i zy mae kou daq kon sy
+伊妹兒	i mei er
+伊娃	i ua
+伊娃門德斯	i ua men taq sy
+伊布拉欣	i pu lha shin
+伊戈爾	i kou er
+伊戈爾斯	i kou er sy
+伊拉克	i lha khaq
+伊拉克人	i lha khaq gnin
+伊拉克籍	i lha khaq zhiq
+伊拉克隊	i lha khaq dei
+伊斯坦布爾	i sy thae pu er
+伊斯蘭教	i sy lae ciau
+伊斯蘭教曆	i sy lae ciau liq
+伊斯蘭教歷史	i sy lae ciau liq sy
+伊斯蘭聖戰組織	i sy lae shin tsoe tsu ciq
+伊於胡底	i yu wu ti
+伊朗人	i laon gnin
+伊波拉	i pou lha
+伊爾	i er
+伊爾庫次克	i er khu tshy khaq
+伊爾庫茨克	i er khu dzy khaq
+伊犁哈薩克自治州	i li ha saq khaq zy dzyu cieu
+伊甸樂園	i di loq yu
+伊通滿族自治縣	i thon mun dzoq zy dzyu yu
+伊通自然保護區	i thon zy zoe pau wu chiu
+伊頓公學	i ten kon yuq
+伊馬姆	i ma m
+伍家崗	wu cia kaon
+伍家崗區	wu cia kaon chiu
+伍茲	wu tsy
+伏下	boq gho
+伏下來	boq gho le
+伏下去	boq gho chi
+伏侍	voq zy
+伏兵	voq pin
+伏几	voq ci
+伏到	boq tau
+伏勝	voq shin
+伏在	boq dze
+伏勒	boq laq
+伏地	voq di
+伏地挺身	voq di thin shin
+伏地魔	voq di mou
+伏天	voq thi
+伏妖	voq iau
+伏安	voq EI
+伏屍	voq sy
+伏屍流血	voq sy lieu shiuq
+伏屍遍野	voq sy pi ya
+伏惟	voq vi
+伏擊	voq ciq
+伏明霞	voq min ya
+伏暑	voq syu
+伏案	voq EI
+伏汛	voq shin
+伏法	voq faq
+伏流	voq lieu
+伏爾加	voq er cia
+伏爾加格勒	voq er cia kaq laq
+伏爾加河	voq er cia ghou
+伏爾泰	voq er tha
+伏牛山	voq ngeu sae
+伏特	voq daq
+伏特加	voq daq cia
+伏特計	voq daq ci
+伏生	voq sen
+伏着	boq dzoq
+伏着	boq zyuq
+伏筆	voq piq
+伏罪	voq zei
+伏羅希洛夫	voq lou shi loq fu
+伏羲	voq shi
+伏羲氏	voq shi zy
+伏臥	voq ngou
+伏藏	voq dzaon
+伏虎	voq fu
+伏襲	voq zhiq
+伏誅	voq tsyu
+伏貼	voq thiaq
+伏身	voq shin
+伏輸	voq syu
+伏辯	voq bi
+伏都教	voq tu kau
+伏願	voq gniu
+伏首	voq shieu
+伏首稱臣	voq shieu chin jin
+伏龍鳳雛	voq lon von dzu
