@@ -4,9 +4,9 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "0.2.11"
+  version: "0.3.0"
   author:
-    - Electric Sheep ˂1613023143@qq.com˃
+    - Electric Sheep <1613023143@qq.com>
   description: |
     寧波吳語拼音輸入方案
     採用學堂式吳語拼音
@@ -62,8 +62,6 @@ speller:
   delimiter: " '"
   algebra:
     - xform/^([bcdfghjklpqstvwxyz])$/$1_/
-    # 去掉聲調
-    - xform/\d//
     # 還原城區音系
     - xlit/AEIOUWNDZ/aeiouwndz/
 
@@ -139,10 +137,6 @@ translator:
   comment_format: &comment
     # 還原城區音系
     - xlit/AEIOUWGNDZ/aeiouwgndz/
-    - xform/4/6/
-
-    # 不顯示單字調
-    - xform/\d//
 
 # 副翻譯器1 朙月拼音
 luna_pinyin:
