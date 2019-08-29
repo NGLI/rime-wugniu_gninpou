@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninyu_tsonkonmiau
   name: 吳語（鄞縣鍾公廟）
-  version: "0.3.0"
+  version: "0.3.1"
   author:
     - Electric Sheep <1613023143@qq.com>
   description: |
@@ -72,7 +72,7 @@ speller:
     - xform/Gn/kn/
     - xform/N/w/
     - xform/(^y|i)u(?=n)/$1o/
-    - xform/([pb]|ph)un([1234])/$1oe$2/
+    - derive/([pb]|ph)un/$1oe/
     - xform/mun/moe/
     - xform/uo/o/
     - xform/wo/gho/
@@ -81,7 +81,14 @@ speller:
     - xform/(?<=tsh|dz)OE/oe/
     - xform/DZOE/jieu/
     - xform/ZOE/zhieu/
-    - erase/(^|c|j|gn|[csz]h)(y|i)u?o\b/
+    - erase/(^|c|j|gn|kn|[csz]h)(y|i)o$/
+
+    # 兼容部分吳語協會式拼音
+    - derive/iau/io/
+    - derive/([gk])ni(?=n|h|\d|\b)/nyi/
+    - derive/([gk])ni(?=[aoue])/ny/
+    - derive/(?<=[szh])yu(?=n|h)/oe/
+    - derive/er/r/
 
     # 亂漏不分
     - derive/loe/leu/
@@ -149,7 +156,7 @@ translator:
     - xform/Gn/kn/
     - xform/N/w/
     - xform/(^y|i)u(?=n)/$1o/
-    - xform/([pb]|ph)un([1234])/$1oe$2/
+    - derive/([pb]|ph)un/$1oe/
     - xform/mun/moe/
     - xform/uo/o/
     - xform/wo/gho/
@@ -158,8 +165,7 @@ translator:
     - xform/(?<=tsh|dz)OE/oe/
     - xform/DZOE/jieu/
     - xform/ZOE/zhieu/
-    - xform/4/6/
-    - erase/(^|c|j|gn|[csz]h)(y|i)u?o\b/
+    - erase/(^|c|j|gn|kn|[csz]h)(y|i)o$/
 
 # 副翻譯器1 朙月拼音
 luna_pinyin:
