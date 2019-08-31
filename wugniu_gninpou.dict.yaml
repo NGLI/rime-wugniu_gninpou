@@ -2659,6 +2659,7 @@ use_preset_vocabulary: true
 八	pa	0%
 叭	pa
 巴	pa	5%
+芭	pa	5%
 吧	pa
 擺	pa
 襬	pa
@@ -2692,6 +2693,7 @@ use_preset_vocabulary: true
 買	ma
 馬	ma	0%
 嗎	ma
+瑪	ma	6%
 賣	ma
 𧻲	mha
 埋	mha	5%
@@ -28592,7 +28594,6 @@ VCD	v c d	418
 三農問題	sae non ven di
 三都水族自治縣	sae tu syu dzoq zy dzyu yu
 三重人	sae dzon gnin
-三重人格	sae dzon gnin kaq
 三長制	sae jian tsyu
 三間	sae kae
 三閭大夫	sae li da fu
@@ -28951,19 +28952,16 @@ VCD	v c d	418
 不堪回首	paq khae wei shieu
 不堪忍受	paq khae zyun zhieu
 不堪設想	paq khae shiq shian
-不堪重負	paq khae dzon veu
 勿堪入目	vaq khae zyuq moq
 勿堪入耳	vaq khae zyuq er
 勿堪回首	vaq khae wei shieu
 勿堪忍受	vaq khae zyun zhieu
 勿堪設想	vaq khae shiq shian
-勿堪重負	vaq khae dzon veu
 弗堪入目	vaq khae zyuq moq
 弗堪入耳	vaq khae zyuq er
 弗堪回首	vaq khae wei shieu
 弗堪忍受	vaq khae zyun zhieu
 弗堪設想	vaq khae shiq shian
-弗堪重負	vaq khae dzon veu
 不墜	paq dzei
 不壞	paq ua
 勿壞	vaq ua
@@ -28983,7 +28981,6 @@ VCD	v c d	418
 勿大勿小	vaq dou vaq shiau
 弗大弗小	vaq dou vaq shiau
 不大合時	paq da ghaq zy
-不大好	paq da hau
 勿大好	vaq da hau
 弗大好	vaq da hau
 不大想	paq da shian
@@ -31001,7 +30998,6 @@ VCD	v c d	418
 事業發展	zy gniq faq ci
 事業發展	zy gniq faq tsoe
 事無鉅細	zy vu jiu shi
-事關重大	zy kuae dzon da
 兩〇	lian lin
 兩〇〇九	lian lin lin cieu
 兩〇〇八	lian lin lin paq
@@ -31493,6 +31489,7 @@ VCD	v c d	418
 二里頭文化	gni li deu ven huo
 兩重	lian dzon
 兩重人格	lian dzon zyun kaq
+兩重人格	lian dzon gnin kaq
 兩重唱	lian dzon tshaon
 兩重奏	lian dzon tseu
 兩重性	lian dzon shin
@@ -33483,7 +33480,6 @@ VCD	v c d	418
 佈於	pu yu
 佈道大會	pu dau da wei
 佈防	pu vaon
-位尊望重	wei tsen vaon dzon
 位差	wei tsho
 位形空間	wei yin khon ci
 位於	wei yu
@@ -34797,3 +34793,1581 @@ VCD	v c d	418
 偏微分	phi vi fen
 偏微分方程	phi vi fen faon jin
 偏心率	phi shin liq
+偏於	phi yu
+偏着	phi dzoq
+偏着	phi zyuq
+偏勒	phi laq
+偏重於	phi dzon yu
+偏長	phi jian
+偕行	ye yin
+做一天和尚	tsou iq thi ghou zaon
+做一天和尚撞一天鐘	tsou iq thi ghou zaon dzaon iq thi tson
+做一日和尚	tsou iq gniq ghou zaon
+做一日和尚撞一日鐘	tsou iq gniq ghou zaon dzaon iq gniq tson
+做下去	tsou gho chi
+做落去	tsou loq chi
+做不了	tsou paq liau
+做勿了	tsou vaq liau
+做弗了	tsou vaq liau
+做勿來	tsou vaq le
+做弗來	tsou vaq le
+做了	tsou laq
+做個	tsou goq
+做個	tsou ghoq
+做假	tsou ko
+做假賬	tsou ko cian
+做夢	tsou mon
+做大	tsou dou
+做大做強	tsou dou tsou jian
+做女人	tsou gniu gnin
+做學問	tsou yuq ven
+做家務	tsou cia vu
+做家務	tsou cia Wu
+做廣告宣傳	tsou kuaon kau soe dzOE
+做得了	tsou taq liau
+做勒來	tsou laq le
+做得更好	tsou taq ken hau
+做勒更好	tsou laq ken hau
+做牛做馬	tsou ngeu tsou mo
+做生日	tsou sen gniq
+做着	tsou dzoq
+做着	tsou zyuq
+做自己	tsou zy ci
+做自家	tsou zhi ko
+做鬼	tsou ciu
+做鬼臉	tsou kuei li
+停上	din zaon
+停上來	din zaon le
+停上去	din zaon chi
+停下	din gho
+停下來	din gho le
+停下去	din gho chi
+停落	din loq
+停落來	din loq le
+停落去	din loq chi
+停不下	din paq gho
+停不下來	din paq gho le
+停勿落	din vaq loq
+停勿落來	din vaq loq le
+停弗落	din vaq loq
+停弗落來	din vaq loq le
+停不住	din paq dzyu
+停勿牢	din vaq lau
+停弗牢	din vaq lau
+停了	din laq
+停了	din lei
+停住	din dzyu
+停牢	din lau
+停來停去	din le din chi
+停俸	din von
+停停	din din
+停刊	din khae
+停利	din li
+停到	din tau
+停勻	din yun
+停售	din jieu
+停在	din dze
+停勒	din laq
+停妥	din thou
+停學	din ghoq
+停完	din wun
+停屍	din sy
+停屍房	din sy vaon
+停屍間	din sy kae
+停工	din kon
+停建	din ci
+停得	din taq
+停徵	din cin
+停息	din shiq
+停戰	din ci
+停戰協定	din ci yaq din
+停戰和約	din ci ghou iaq
+停戰日	din ci zyuq
+停戰	din tsoe
+停戰協定	din tsoe yaq din
+停戰和約	din tsoe ghou iaq
+停戰日	din tsoe zyuq
+停手	din shieu
+停掉	din diau
+停損	din sen
+停損點	din sen ti
+停播	din pou
+停擺	din pa
+停放	din faon
+停放在	din faon dze
+停放勒	din faon laq
+停會	din wei
+停有	din yeu
+停板	din pae
+停板制度	din pae tsyu du
+停業	din gniq
+停業處分	din gniq tshyu ven
+停機	din ci
+停機坪	din ci bin
+停權	din jiu
+停歇	din shiq
+停止	din tsy
+停止下來	din tsy gho le
+停止落來	din tsy loq le
+停止損失	din tsy sen syuq
+停步	din bu
+停水	din syu
+停水通知	din syu thon tsyu
+停泊	din boq
+停泊費	din boq fi
+停滯	din dzy
+停滯不前	din dzy paq zhi
+停滯勿前	din dzy vaq zhi
+停滯弗前	din dzy vaq zhi
+停滯	din ji
+停滯不前	din ji paq zhi
+停滯勿前	din ji vaq zhi
+停滯弗前	din ji vaq zhi
+停火	din hou
+停火協定	din hou yaq din
+停火協議	din hou yaq gni
+停火線	din hou shi
+停牌	din ba
+停產	din tshae
+停用	din yon
+停留	din lieu
+停留在	din lieu dze
+停留勒	din lieu laq
+停留時間	din lieu zy ci
+停留辰光	din lieu zyun kuaon
+停發	din faq
+停盤	din bun
+停着	din dzoq
+停着	din zyuq
+停站	din dzae
+停筆	din piq
+停約	din iaq
+停經	din cin
+停經期	din cin ji
+停經片	din cin phi
+停置	din tsyu
+停職	din ciq
+停航	din ghaon
+停船	din ZOE
+停船靠岸	din ZOE khau nge
+停薪	din shin
+停薪留職	din shin lieu ciq
+停藥	din yaq
+停表	din piau
+停製	din tsyu
+停訓	din shiun
+停診	din cin
+停話	din wo
+停課	din khou
+停賽	din se
+停蹄	din di
+停車	din tsho
+停車位	din tsho wei
+停車位置	din tsho wei tsyu
+停車位子	din tsho wei tsy
+停車場	din tsho jian
+停車庫	din tsho khu
+停車燈	din tsho ten
+停車站	din tsho dzae
+停車計時器	din tsho ci zy chi
+停車費	din tsho fi
+停載	din tse
+停轉	din tsoe
+停辦	din bae
+停進	din cin
+停進來	din cin le
+停進去	din cin chi
+停運	din yun
+停過	din kou
+停過來	din kou le
+停過去	din kou chi
+停酒止樂	din cieu tsy loq
+停錯	din tshou
+停閉	din pi
+停開	din khe
+停雲	din yun
+停雲落月	din yun loq yuq
+停電	din di
+停電通知	din di thon tsyu
+停靈	din lin
+停靠	din khau
+停靠在	din khau dze
+停靠勒	din khau laq
+停靠港	din khau kaon
+停靠站	din khau dzae
+停頓	din ten
+停頓下來	din ten gho le
+停頓落來	din ten loq le
+停顯	din shi
+停飛	din fi
+停食	din zhiq
+停駐	din dzyu
+停駛	din sy
+健兒	ji er
+健壯如牛	ji tsaon zyu ngeu
+健康勝於財富	ji khaon shin yu dze fu
+健康快樂	ji khaon khua loq
+健康成長	ji khaon jin cian
+健康教育	ji khaon ciau yuq
+健康狀態	ji khaon dzaon the
+健康狀況	ji khaon dzaon huaon
+健忘	ji vaon
+健忘症	ji vaon cin
+健怡可樂	ji yi khou loq
+健教	ji ciau
+健美先生	ji mei shi san
+健行	ji yin
+健行工專	ji yin kon tsoe
+側撞防護系統	tshaq dzaon vaon wu shi thon
+側耳	tshaq er
+側重於	tshaq dzon yu
+偵防	cin vaon
+偶人	ngeu gnin
+偶像人物	ngeu zhian zyun vaq
+偶家	ngeu ko
+偶然之間	ngeu zoe tsy ci
+偶然間	ngeu zoe ci
+偶爾	ngeu er
+偷下去	theu gho chi
+偷落去	theu loq chi
+偷了	theu laq
+偷人	theu gnin
+偷來偷去	theu le theu chi
+偷停	theu din
+偷出去	theu tshyuq chi
+偷加	theu ko
+偷去	theu chi
+偷回去	theu wei chi
+偷天換日	theu thi wun gniq
+偷得浮生半日閒	theu taq vu sen pun gniq ghae
+偷拿	theu no
+偷馱	theu dou
+偷教	theu kau
+偷架	theu ko
+偷水	theu syu
+偷溜	theu lhieu
+偷溜走	theu lhieu tseu
+偷着	theu dzoq
+偷着	theu zyuq
+偷勒	theu laq
+偷過去	theu kou chi
+偷雞不着	theu ci paq dzoq
+偷雞不着	theu ci paq zyuq
+偷雞不着蝕把米	theu ci paq dzoq zhiq po mi
+偷雞不着蝕把米	theu ci paq zyuq zhiq po mi
+傍人籬壁	baon gnin li piq
+傍人門戶	baon gnin men wu
+傍大款	baon da khun
+傍若無人	baon zhiaq vu zyun
+傍若無人	baon zoq vu zyun
+傍若無人	baon zhiaq Wu zyun
+傍若無人	baon zoq Wu zyun
+傑佛茲	jiq faq dzy
+傑哈德巴特勒	jiq ha taq pa daq laq
+傑哈德巴狄厄	jiq ha taq pa diq aq
+傑弗遜	jiq faq sen
+傑弗里喬叟	jiq faq li jiau seu
+傑拉	jiq lha
+傑拉德	jiq lha taq
+傑拉爾德	jiq lha er taq
+傑樂米	jiq loq mi
+傑爾	jiq er
+傑爾村	jiq er tshen
+傑西卡艾爾芭	jiq shi kha nge er pa
+傑西詹姆斯	jiq shi ci m sy
+傘降	sae ciaon
+備取生	bei tshyu san
+備忘	bei vaon
+備忘錄	bei vaon loq
+備戰狀態	bei ci dzaon the
+備戰狀態	bei tsoe dzaon the
+備耕	bei kan
+傢俱	cia jiu
+傢俱行	cia jiu ghaon
+催人	tshei gnin
+催奶	tshei na
+催淚	tshei lei
+催淚劑	tshei lei ci
+催淚大片	tshei lei da phi
+催淚彈	tshei lei dae
+催淚瓦斯	tshei lei ngo sy
+催生	tshei san
+催生作用	tshei san tsoq yon
+催生婆	tshei san bou
+催生素	tshei san su
+催眠狀態	tshei mi dzaon the
+催賬單	tshei cian tae
+傭耕	yon kan
+傲世	ngau syu
+傲人	ngau gnin
+傲然自得	ngau zoe zy taq
+傲自	ngau zy
+傳上	dzOE zaon
+傳上來	dzOE zaon le
+傳上去	dzOE zaon chi
+傳下	dzOE gho
+傳下來	dzOE gho le
+傳下去	dzOE gho chi
+傳落	dzOE loq
+傳落來	dzOE loq le
+傳落去	dzOE loq chi
+傳不到	dzOE paq tau
+傳勿到	dzOE vaq tau
+傳弗到	dzOE vaq tau
+傳世	dzOE syu
+傳世私服	dzOE syu sy voq
+傳中	dzOE tson
+傳人	dzOE gnin
+傳代	dzOE de
+傳令	dzOE lin
+傳令兵	dzOE lin pin
+傳佈	dzOE pu
+傳位	dzOE wei
+傳來	dzOE le
+傳來傳去	dzOE le dzOE chi
+傳信	dzOE shin
+傳信鴿	dzOE shin kaq
+傳傳	dzOE dzOE
+傳入	dzOE zyuq
+傳入神經	dzOE zyuq zyun cin
+傳出	dzOE tshyuq
+傳出來	dzOE tshyuq le
+傳出去	dzOE tshyuq chi
+傳出神經	dzOE tshyuq zyun cin
+傳到	dzOE tau
+傳動	dzOE don
+傳動力	dzOE don liq
+傳動器	dzOE don chi
+傳動帶	dzOE don ta
+傳動機構	dzOE don ci keu
+傳動比	dzOE don pi
+傳動系統	dzOE don shi thon
+傳動裝置	dzOE don tsaon tsyu
+傳動軸	dzOE don jiuq
+傳動鏈	dzOE don li
+傳去	dzOE chi
+傳名	dzOE min
+傳告	dzOE kau
+傳呼	dzOE fu
+傳呼機	dzOE fu ci
+傳呼電話	dzOE fu di wo
+傳唱	dzOE tshaon
+傳問	dzOE ven
+傳喚	dzOE hun
+傳單	dzOE tae
+傳單廣	dzOE tae kuaon
+傳回	dzOE wei
+傳回來	dzOE wei le
+傳國	dzOE koq
+傳報	dzOE pau
+傳奇	dzOE ji
+傳奇人物	dzOE ji zyun vaq
+傳奇性	dzOE ji shin
+傳媒	dzOE mei
+傳媒集團	dzOE mei jiq doe
+傳子	dzOE tsy
+傳宗	dzOE tson
+傳宗接代	dzOE tson ciq de
+傳家	dzOE cia
+傳家之寶	dzOE cia tsy pau
+傳家寶	dzOE cia pau
+傳寄	dzOE ci
+傳審	dzOE shin
+傳寫	dzOE shia
+傳對	dzOE tei
+傳導	dzOE dau
+傳導性	dzOE dau shin
+傳導電流	dzOE dau di lieu
+傳導體	dzOE dau thi
+傳幫帶	dzOE paon ta
+傳得	dzOE taq
+傳心術	dzOE shin zyuq
+傳情	dzOE jin
+傳感	dzOE kI
+傳感器	dzOE kI chi
+傳戒	dzOE ka
+傳承	dzOE jin
+傳抄	dzOE tshau
+傳授	dzOE zhieu
+傳授法	dzOE zhieu faq
+傳授給	dzOE zhieu ciq
+傳授撥	dzOE zhieu paq
+傳揚	dzOE yan
+傳播	dzOE pou
+傳播出去	dzOE pou tshyuq chi
+傳播四方	dzOE pou sy faon
+傳播媒介	dzOE pou mei cia
+傳播媒體	dzOE pou mei thi
+傳播學	dzOE pou yuq
+傳播學系	dzOE pou yuq shi
+傳播界	dzOE pou ka
+傳播給	dzOE pou ciq
+傳播撥	dzOE pou paq
+傳播者	dzOE pou tse
+傳教	dzOE ciau
+傳教團	dzOE ciau doe
+傳教士	dzOE ciau zy
+傳於	dzOE yu
+傳旨	dzOE tsy
+傳書	dzOE syu
+傳書鴿	dzOE syu kaq
+傳本	dzOE pen
+傳杯弄盞	dzOE pei lon tsae
+傳杯換盞	dzOE pei wun tsae
+傳板	dzOE pae
+傳染	dzOE gni
+傳染性	dzOE gni shin
+傳染源	dzOE gni gniu
+傳染病	dzOE gni bin
+傳染病學	dzOE gni bin yuq
+傳染給	dzOE gni ciq
+傳染撥	dzOE gni paq
+傳檄	dzOE yiq
+傳法	dzOE faq
+傳流	dzOE lieu
+傳熱	dzOE gniq
+傳熱係數	dzOE gniq shi su
+傳熱學	dzOE gniq yuq
+傳熱性	dzOE gniq shin
+傳燈	dzOE ten
+傳燈錄	dzOE ten loq
+傳爲	dzOE wei
+傳爲佳話	dzOE wei cia wo
+傳爲美談	dzOE wei mei dae
+傳球	dzOE jieu
+傳球法	dzOE jieu faq
+傳略	dzOE liaq
+傳發	dzOE faq
+傳的	dzOE tiq
+傳個	dzOE goq
+傳個	dzOE ghoq
+傳真	dzOE cin
+傳真機	dzOE cin ci
+傳真發送	dzOE cin faq son
+傳真號碼	dzOE cin ghau mo
+傳真電報	dzOE cin di pau
+傳着	dzOE dzoq
+傳着	dzOE zyuq
+傳勒	dzOE laq
+傳神	dzOE zyun
+傳票	dzOE phiau
+傳種	dzOE tson
+傳粉	dzOE fen
+傳給	dzOE ciq
+傳撥	dzOE paq
+傳統	dzOE thon
+傳統中國醫藥	dzOE thon tson koq i yaq
+傳統化	dzOE thon huo
+傳統名稱	dzOE thon min chin
+傳統媒體	dzOE thon mei thi
+傳統工藝	dzOE thon kon gni
+傳統市場	dzOE thon zy jian
+傳統性	dzOE thon shin
+傳統教育	dzOE thon ciau yuq
+傳統文化	dzOE thon ven huo
+傳統產業	dzOE thon tshae gniq
+傳統節日	dzOE thon ciq zyuq
+傳統美德	dzOE thon mei taq
+傳統觀念	dzOE thon kun nE
+傳統醫藥	dzOE thon i yaq
+傳經	dzOE cin
+傳經送寶	dzOE cin son pau
+傳習	dzOE zhiq
+傳習錄	dzOE zhiq loq
+傳聞	dzOE ven
+傳聞中	dzOE ven tson
+傳聞證據	dzOE ven cin ciu
+傳聲	dzOE shin
+傳聲器	dzOE shin chi
+傳聲筒	dzOE shin don
+傳自	dzOE zy
+傳舍	dzOE so
+傳藝	dzOE gni
+傳衣鉢	dzOE i paq
+傳見	dzOE ci
+傳觀	dzOE kun
+傳言	dzOE yi
+傳訊	dzOE shin
+傳記	dzoe ci
+傳記性	dzoe ci shin
+傳記文學	dzoe ci ven yuq
+傳話	dzOE wo
+傳話人	dzOE wo gnin
+傳語	dzOE gniu
+傳誦	dzOE dzon
+傳誦一時	dzOE dzon iq zy
+傳說	dzOE syuq
+傳說中	dzOE syuq tson
+傳說人物	dzOE syuq zyun vaq
+傳諭	dzOE yu
+傳講	dzOE kaon
+傳謠	dzOE yau
+傳譯	dzOE yiq
+傳譯出	dzOE yiq tshyuq
+傳質	dzOE ciq
+傳贊	dzOE tsae
+傳起	dzOE chi
+傳起來	dzOE chi le
+傳輸	dzOE syu
+傳輸協定	dzOE syu yaq din
+傳輸媒質	dzOE syu mei ciq
+傳輸媒體	dzOE syu mei thi
+傳輸層	dzOE syu zen
+傳輸技術	dzOE syu ji zyuq
+傳輸控制	dzOE syu khon tsyu
+傳輸控制協定	dzOE syu khon tsyu yaq din
+傳輸控制協議	dzOE syu khon tsyu yaq gni
+傳輸服務	dzOE syu voq vu
+傳輸模式	dzOE syu mou shiq
+傳輸率	dzOE syu liq
+傳輸線	dzOE syu shi
+傳輸設備	dzOE syu shiq bei
+傳輸距離	dzOE syu jiu li
+傳輸通道	dzOE syu thon dau
+傳輸速度	dzOE syu soq du
+傳輸速率	dzOE syu soq liq
+傳述	dzOE zyuq
+傳送	dzOE son
+傳送帶	dzOE son ta
+傳送服務	dzOE son voq vu
+傳送服務	dzOE son voq Wu
+傳送機	dzOE son ci
+傳送率	dzOE son liq
+傳遍	dzOE pi
+傳過	dzOE kou
+傳過來	dzOE kou le
+傳過去	dzOE kou chi
+傳道	dzOE dau
+傳道受業	dzOE dau zhieu gniq
+傳道書	dzOE dau syu
+傳道者	dzOE dau tse
+傳道部	dzOE dau bu
+傳達	dzOE daq
+傳達出	dzOE daq tshyuq
+傳達出來	dzOE daq tshyuq le
+傳達員	dzOE daq yu
+傳達室	dzOE daq syuq
+傳達物	dzOE daq vaq
+傳達處	dzOE daq tshyu
+傳遞	dzOE di
+傳遞信息	dzOE di shin shiq
+傳遞出去	dzOE di tshyuq chi
+傳遞性	dzOE di shin
+傳遞者	dzOE di tse
+傳銷	dzOE shiau
+傳開	dzOE khe
+傳閱	dzOE yuq
+傳電	dzOE di
+傳頌	dzOE dzon
+傳頌一時	dzOE dzon iq zy
+傳頌千古	dzOE dzon chi ku
+債務人	tsa vu gnin
+債務人	tsa Wu gnin
+債務擔保證券	tsa vu tae pau cin chiu
+債務擔保證券	tsa Wu tae pau cin chiu
+債權人	tsa jiu gnin
+傷了	saon laq
+傷亡人數	saon vaon gnin su
+傷人	saon gnin
+傷來傷去	saon le saon chi
+傷停補時	saon din pu zy
+傷及無辜	saon jiq vu ku
+傷及無辜	saon jiq Wu ku
+傷弓之鳥	saon kon tsy gniau
+傷心致死	saon shin tsy sy
+傷懷	saon wae
+傷殘人	saon dzae gnin
+傷殘人員	saon dzae zyun yu
+傷生	saon sen
+傻乎乎	sa fu fu
+傻了	sa laq
+傻人	sa gnin
+傻人自有傻福	sa gnin zy yeu sa foq
+戇人自有戇福	gaon gnin zy yeu gaon foq
+傻大個	sa da kou
+傻樂	sa loq
+傾下去	chin gho chi
+傾落去	chin loq chi
+傾倒垃圾	chin tau la shi
+傾向於	chin shian yu
+傾家	chin cia
+傾家蕩產	chin cia daon tshae
+傾盆大雨	chin ben da yu
+傾耳	chin er
+傾耳注目	chin er tsyu moq
+傾耳而聽	chin er er thin
+僅作參考	jin tsoq tshae khau
+僅供參考	jin kon tshae khau
+僅次於	jin tshy yu
+僅限於	jin ghae yu
+像你	zhian gni
+像你	zhian ng
+像俉	zhian ng
+像爾	zhian ng
+像儂	zhian nou
+像個	zhian goq
+像個	zhian ghoq
+像差	zhian tsho
+僑生	jiau sen
+僕人	boq gnin
+僕固懷恩	boq ku wae en
+僕從	boq dzon
+僞基人	wei ci gnin
+僞學	wei yuq
+僞學者	wei yuq tse
+僞朝	wei jiau
+僞科學	wei khou yuq
+僞頂	wei ten
+僧人	sen gnin
+僧加羅語	sen cia lou gniu
+僬僥	ciau ciau
+僱人	ku gnin
+僱個	ku goq
+僱個	ku ghoq
+僱於	ku yu
+僵持	cian dzy
+僵持不下	cian dzy paq gho
+僵持勿落	cian dzy vaq loq
+僵持弗落	cian dzy vaq loq
+僵死	cian sy
+僵煞	cian saq
+僵煞死	cian saq shi
+價單	ko tae
+價差	ko tsho
+價格戰	ko kaq ci
+價格戰	ko kaq tsoe
+價格波動	ko kaq pou don
+價格範圍	ko kaq vae wei
+價目單	ko moq tae
+儀仗	gni jian
+儀仗隊	gni jian dei
+億人	i gnin
+億個	i goq
+億個	i ghoq
+儉以防匱	ji yi vaon guei
+儉學	ji yuq
+儉省	ji san
+儒勒凡爾納	zyu laq vae er naq
+儒學	zyu yuq
+儒家	zyu cia
+儒家思想	zyu cia sy shian
+儒教	zyu ciau
+儒生	zyu sen
+儘自	jin zy
+償付	dzaon fu
+償債	dzaon tsa
+償債基金	dzaon tsa ci cin
+償命	dzaon min
+償回	dzaon wei
+償回來	dzaon wei le
+償清	dzaon chin
+償還	dzaon wa
+償願	dzaon gniu
+優先認股權	ieu shi gnin ku jiu
+優化大師	ieu huo da sy
+優於	ieu yu
+優柔寡斷	ieu zhieu kua doe
+優生	ieu san
+優生優育	ieu san ieu yuq
+優生學	ieu san yuq
+優秀人才	ieu shieu zyun dze
+優秀學生	ieu shieu ghoq san
+優秀教師	ieu shieu ciau sy
+優等生	ieu ten san
+優良傳統	ieu lian dzOE thon
+優良單株	ieu lian tae tsyu
+優諾牌	ieu noq ba
+優遊自在	ieu yeu zy dze
+優遊自得	ieu yeu zy taq
+儲水	zyu syu
+儲水管	zyu syu kun
+儲水箱	zyu syu shian
+儲水量	zyu syu lian
+儲蓄率	zyu shiuq liq
+儲蓄銀行	zyu shiuq gnin ghaon
+儲集	zyu jiq
+兀自	waq zy
+元世祖	gniu syu tsu
+元人民幣	gniu zyun min bi
+元代人	gniu de gnin
+元任	gniu zyun
+元嘉	gniu cia
+元太祖	gniu tha tsu
+元旦假期	gniu tae ko ji
+元智大學	gniu tsyu da ghoq
+元曲四大家	gniu chiuq sy da cia
+元朝	gniu jiau
+元朝人	gniu jiau gnin
+元氣大衰	gniu chi da se
+元語言學意識	gniu gniu yi yuq i shiq
+元謀猿人	gniu meu yu gnin
+元長	gniu cian
+元長鄉	gniu cian shian
+元雜劇	gniu dzaq jiq
+元音和諧	gniu in ghou ye
+元魚	gniu ng
+兄妹	shion mei
+兄弟二人	shion di er gnin
+兄弟兩人	shion di lian gnin
+兄弟姐妹	shion di cia mei
+兄弟姊妹	shion di ci mei
+兄長	shion cian
+充分	tshon ven
+充分利用	tshon ven li yon
+充分就業	tshon ven jieu gniq
+充分發揮	tshon ven faq huei
+充分考慮	tshon ven khau li
+充分肯定	tshon ven khen din
+充分認識	tshon ven gnin shiq
+充分體現	tshon ven thi yi
+充塞着	tshon saq dzoq
+充塞着	tshon saq zyuq
+充斥	tshon chiq
+充斥市面	tshon chiq zy mi
+充溢	tshon iq
+充滿希望	tshon mun shi vaon
+充滿着	tshon mun dzoq
+充滿着	tshon mun zyuq
+充盛	tshon zhin
+充耳不聞	tshon er paq ven
+兆個	zhiau goq
+兆個	zhiau ghoq
+兆電子伏	zhiau di tsy voq
+兇人	shion gnin
+先上去	shi zaon chi
+先下去	shi gho chi
+先落去	shi loq chi
+先世	shi syu
+先乾爲敬	shi kI wei cin
+先了	shi laq
+先了一步	shi laq iq bu
+先人	shi gnin
+先人後己	shi gnin gheu ci
+先出去	shi tshyuq chi
+先去	shi chi
+先問	shi ven
+先問	shi men
+先回去	shi wei chi
+先大母	shi da meu
+先小人後君子	shi shiau zyun gheu ciun tsy
+先從	shi dzon
+先憂後樂	shi ieu gheu loq
+先戴	shi ta
+先於	shi yu
+先決問題	shi ciuq ven di
+先王之樂	shi waon tsy yuq
+先生們	shi sen men
+先盛後衰	shi jin gheu se
+先知先覺	shi tsyu shi ciuq
+先行	shi yin
+先行官	shi yin kun
+先行後聞	shi yin gheu ven
+先行者	shi yin tse
+先覺	shi ciuq
+先讓人	shi gnian gnin
+先進個人	shi cin kou gnin
+先進分子	shi cin ven tsy
+先進去	shi cin chi
+先進單位	shi cin tae wei
+先進國家	shi cin koq cia
+先進生產者	shi cin sen tshae tse
+先進集體	shi cin jiq thi
+先過去	shi kou chi
+先降	shi ciaon
+先馳得點	shi dzy taq ti
+光了	kuaon laq
+光了	kuaon lei
+光了了	kuaon liau liau
+光二極管	kuaon er jiq kun
+光兩極管	kuaon lian jiq kun
+光伏	kuaon voq
+光伏器件	kuaon voq chi ji
+光出溜	kuaon tshyuq lhieu
+光刻膠	kuaon khaq ciau
+光功率	kuaon kon liq
+光化學	kuaon huo yuq
+光化學煙霧	kuaon huo yuq i vu
+光去	kuaon chi
+光和	kuaon ghou
+光圈範圍	kuaon chiu vae wei
+光大	kuaon da
+光大起來	kuaon da chi le
+光大銀行	kuaon da gnin ghaon
+光天化日	kuaon thi huo zyuq
+光天化日之下	kuaon thi huo zyuq tsy gho
+光學	kuaon yuq
+光學儀器	kuaon yuq gni chi
+光學字符識別	kuaon yuq zy vu shiq biq
+光學玻璃	kuaon yuq pou li
+光學系統	kuaon yuq shi thon
+光學變焦	kuaon yuq pi ciau
+光學錄音	kuaon yuq loq in
+光學顯微鏡	kuaon yuq shi vi cin
+光彩照人	kuaon tshe ciau gnin
+光明日報	kuaon min zyuq pau
+光明正大	kuaon min cin da
+光波長	kuaon pou jian
+光溜	kuaon lhieu
+光溜溜	kuaon lhieu lhieu
+光煙霧	kuaon i vu
+光煙霧	kuaon i Wu
+光爆	kuaon pau
+光着	kuaon dzoq
+光着	kuaon zyuq
+光的	kuaon tiq
+頭光的	deu kuaon tiq
+光碟櫃	kuaon diaq guei
+光祿大夫	kuaon loq da fu
+光範圍	kuaon vae wei
+光緒年間	kuaon zyu gni ci
+光纖分佈數據接口	kuaon shi fen pu su ciu ciq kheu
+光膀子	kuaon paon tsy
+光譜分析	kuaon pu fen shiq
+光譜學	kuaon pu yuq
+光豔動人	kuaon yi don gnin
+光赤	kuaon chiq
+光電二極	kuaon di er jiq
+光電二極管	kuaon di er jiq kun
+光電兩極	kuaon di lian jiq
+光電兩極管	kuaon di lian jiq kun
+光電池	kuaon di ji
+克什米爾	khaq zyuq mi er
+克倫威爾	khaq len uei er
+克克爾	khaq khaq er
+克分子	khaq fen tsy
+克分子濃度	khaq fen tsy gnion du
+克卜勒	khaq poq laq
+克卜勒定律	khaq poq laq din liq
+克基拉島	khaq ci lha tau
+克婁巴特拉	khaq leu pa daq lha
+克孜爾千佛洞	khaq tsy er chi vaq don
+克家	khaq cia
+克家子	khaq cia tsy
+克拉克	khaq lha khaq
+克拉夫丘克	khaq lha fu chieu khaq
+克拉夫特	khaq lha fu daq
+克拉姆	khaq lha m
+克拉斯諾亞爾斯克	khaq lha sy noq ia er sy khaq
+克拉斯諾達爾	khaq lha sy noq daq er
+克拉瑪依	khaq lha ma i
+克拉瑪依區	khaq lha ma i chiu
+克拉瑪依市	khaq lha ma i zy
+克拉科	khaq lha khou
+克拉科夫	khaq lha khou fu
+克拉茲	khaq lha tsy
+克服不了	khaq voq paq liau
+克服勿了	khaq voq vaq liau
+克服弗了	khaq voq vaq liau
+克架	khaq cia
+克汀病	khaq thin bin
+克洛爾	khaq loq er
+克爾	khaq er
+克爾白	khaq er baq
+克羅地亞共和國	khaq lou di ia gon ghou koq
+克羅埃	khaq lou e
+克羅埃西亞	khaq lou e shi ia
+克耳文	khaq er ven
+克莉奧佩特拉	khaq li au bei daq lha
+克莉絲汀	khaq li sy thin
+克莉絲汀娜	khaq li sy thin na
+克萊兒	khaq le er
+克蕾兒	khaq lei er
+克虜伯	khaq lou pan
+克里奧爾語	khaq li au er gniu
+克里姆林	khaq li m lin
+克里姆林宮	khaq li m lin kon
+克里姆林杯	khaq li m lin pei
+克里斯托弗	khaq li sy thoq faq
+克里斯汀	khaq li sy thin
+克里斯汀貝爾	khaq li sy thin pei er
+克里絲蒂娃	khaq li sy ti ua
+克隆人	khaq lon gnin
+克雷伯氏菌屬	khaq lei paq zy chiun dzoq
+克魯茲	khaq lu tsy
+兌換率	dei wun liq
+免不了	mi paq liau
+免勿了	mi vaq liau
+免弗了	mi vaq liau
+免去	mi chiu
+免去職務	mi chiu ciq vu
+免去職務	mi chiu ciq Wu
+免參	mi tshae
+免戰牌	mi ci ba
+免於	mi yu
+免疫學	mi yuq yuq
+免試升學	mi sy shin ghoq
+兒化	er huo
+兒化韻	er huo yun
+兒女	er gniu
+兒女之命	er gniu tsy min
+兒女債	er gniu tsa
+兒女情長	er gniu jin jian
+兒女成羣	er gniu jin jiun
+兒女英雄傳	er gniu in yon dzoe
+兒媳	er shiq
+兒媳婦	er shiq vu
+兒孫	er sen
+兒孫滿堂	er sen mun daon
+兒孫自有兒孫福	er sen zy yeu er sen foq
+兒戲	er shi
+兒時	er zy
+兒歌	er kou
+兒男	er nEI
+兒皇帝	er waon ti
+兒科	er khou
+兒科醫生	er khou i sen
+兒童	er don
+兒童圖書	er don du syu
+兒童圖書館	er don du syu kun
+兒童團	er don doe
+兒童基金會	er don ci cin wei
+兒童心理	er don shin li
+兒童心理學	er don shin li yuq
+兒童教育	er don ciau yuq
+兒童文學	er don ven yuq
+兒童期	er don ji
+兒童樂園	er don loq yu
+兒童權利公約	er don jiu li kon iaq
+兒童玩具	er don wae jiu
+兒童畫	er don wo
+兒童節	er don ciq
+兒童節目	er don ciq moq
+兒童臺	er don de
+兒童讀物	er don doq vaq
+兒童醫院	er don i yu
+兒茶	er dzo
+兒茶素	er dzo su
+兒茶酚	er dzo fen
+兒郎	er laon
+兒馬	er mo
+兔子尾巴長不了	thu tsy mi po jian paq liau
+兔子尾巴長勿了	thu tsy mi po jian vaq liau
+兔子尾巴長弗了	thu tsy mi po jian vaq liau
+兔死狐悲	thu sy wu pei
+兔死狗烹	thu sy keu phan
+党太尉	taon tha uei
+兜攬生意	teu lae san i
+兜率天	teu saq thi
+兜率天宮	teu saq thi kon
+兜生意	teu san i
+兜着	teu dzoq
+兜着	teu zyuq
+兜着走	teu dzoq tseu
+兜着走	teu zyuq tseu
+兢兢	cin cin
+兢兢業業	cin cin gniq gniq
+入世	zyuq syu
+入伍生	zyuq wu san
+入伏	zyuq voq
+入國問俗	zyuq koq men dzoq
+入圍	zyuq wei
+入地無門	zyuq di vu men
+入地無門	zyuq di Wu men
+入境問俗	zyuq cin men dzoq
+入夢	zyuq mon
+入學	zyuq ghoq
+入學年齡	zyuq ghoq gni lin
+入學校	zyuq ghoq yau
+入學率	zyuq ghoq saq
+入學考試	zyuq ghoq khau sy
+入射波	zyuq zhiq pou
+入教	zyuq ciau
+入朝	zyuq jiau
+入木三分	zyuq moq sae fen
+入水管	zyuq syu kun
+入耳	zyuq er
+入股分紅	zyuq ku fen ghon
+內人	nei zyun
+內伸	nei shin
+內傳	nei dzOE
+內分	nei fen
+內分泌	nei fen pi
+內分泌腺	nei fen pi shi
+內務	nei vu
+內務府	nei vu fu
+內務櫃	nei vu guei
+內務部	nei vu bu
+內務	nei Wu
+內務府	nei Wu fu
+內務櫃	nei Wu guei
+內務部	nei Wu bu
+內勤人員	nei jin zyun yu
+內參	nei tshae
+內在聯繫	nei dze li shi
+內地人	nei di gnin
+內外交困	nei nga ciau khuen
+內學	nei yuq
+內家	nei cia
+內容和形式	nei yon ghou yin shiq
+內容搭形式	nei yon taq yin shiq
+內容簡介	nei yon ci ka
+內寄生	nei ci sen
+內布拉斯加	nei pu lha sy cia
+內布拉斯加州	nei pu lha sy cia cieu
+內幕交易	nei mou ciau yiq
+內心世界	nei shin syu ka
+內掌櫃	nei tsaon guei
+內政部長	nei cin bu cian
+內水	nei syu
+內爆	nei pau
+內生的	nei sen tiq
+內生個	nei sen goq
+內生個	nei sen ghoq
+內當家	nei taon ko
+內省	nei shin
+內省性	nei shin shin
+內省法	nei shin faq
+內神通外鬼	nei zyun thon nga ciu
+內科學	nei khou yuq
+內科醫生	nei khou i sen
+內線交易	nei shi ciau yiq
+內耳	nei er
+內耳道	nei er dau
+內蒙古大學	nei mon ku da ghoq
+內蒙古自治區	nei mon ku zy dzyu chiu
+內行	nei ghaon
+內行話	nei ghaon wo
+內賈德	nei cia taq
+內部矛盾	nei bu mau den
+內部聯繫	nei bu li shi
+內部鬥爭	nei bu teu tsen
+內閣大臣	nei koq da jin
+內閣總理大臣	nei koq tson li da jin
+內防	nei vaon
+內降	nei ciaon
+內鬼	nei kuei
+全世界	dzoe syu ka
+全世界無產者聯合起來	dzoe syu ka vu tshae tse li ghaq chi le
+全世界無產者聯合起來	dzoe syu ka Wu tshae tse li ghaq chi le
+全世界第一	dzoe syu ka di iq
+全乾	dzoe kI
+全人	dzoe gnin
+全人類	dzoe zyun lei
+全仗綠葉扶持	dzoe cian loq yiq vu dzy
+全仗綠葉扶持	dzoe cian loq yiq vu ji
+全傳	dzoe dzoe
+全出去	dzoe tshyuq chi
+全去	dzoe chiu
+全國人大	dzoe koq zyun da
+全國人大代表	dzoe koq zyun da de piau
+全國人大常委會	dzoe koq zyun da dzaon uei wei
+全國人大會議	dzoe koq zyun da wei gni
+全國人民	dzoe koq zyun min
+全國人民代表大會	dzoe koq zyun min de piau da wei
+全國代表大會	dzoe koq de piau da wei
+全國各大	dzoe koq koq da
+全國各族人民	dzoe koq koq dzoq zyun min
+全國大會黨	dzoe koq da wei taon
+全國最大	dzoe koq tsei dou
+全國頂大	dzoe koq tin dou
+全國範圍	dzoe koq vae wei
+全套教材	dzoe thau ciau dze
+全家	dzoe cia
+全家	dzoe ko
+全家人	dzoe cia gnin
+全家人	dzoe ko gnin
+全家樂	dzoe cia loq
+全家樂	dzoe ko loq
+全家福	dzoe cia foq
+全新世	dzoe shin syu
+全日	dzoe zyuq
+全日	dzoe gniq
+全日制	dzoe zyuq tsyu
+全日空	dzoe zyuq khon
+全材	dzoe ze
+全校同學	dzoe yau don ghoq
+全校學生	dzoe yau ghoq san
+全校師生	dzoe yau sy san
+全權大使	dzoe jiu da sy
+全武行	dzoe Wu ghaon
+全殲	dzoe ci
+全民皆兵	dzoe min cie pin
+全民義務植樹日	dzoe min gni vu jiq zyu zyuq
+全民義務植樹日	dzoe min gni Wu jiq zyu zyuq
+全無	dzoe vu
+全無心肝	dzoe vu shin kI
+全無準備	dzoe vu tsyun bei
+全無	dzoe Wu
+全無心肝	dzoe Wu shin kI
+全無準備	dzoe Wu tsyun bei
+全然不解	dzoe zoe paq cia
+全班同學	dzoe pae don yuq
+全班學生	dzoe pae ghoq san
+全球最大	dzoe jieu tsei dou
+全球頂大	dzoe jieu tin dou
+全球發展中心	dzoe jieu faq ci tson shin
+全球發展中心	dzoe jieu faq tsoe tson shin
+全球範圍	dzoe jieu vae wei
+全球華人	dzoe jieu wo gnin
+全生育期	dzoe san yuq ji
+全盛	dzoe zhin
+全盛時期	dzoe zhin zy ji
+全盤皆輸	dzoe bun cie syu
+全省	dzoe san
+全真教	dzoe cin ciau
+全程參加	dzoe jin tshae ko
+全範圍	dzoe vae wei
+全脂奶粉	dzoe tsy na fen
+全自動	dzoe zy don
+全軍覆沒	dzoe ciun foq maq
+全速進行	dzoe soq cin yin
+全長	dzoe jian
+全集	dzoe jiq
+全面包圍	dzoe mi pau wei
+全面推行	dzoe mi thei yin
+全面進行	dzoe mi cin yin
+全額交割	dzoe ngaq ciau kaq
+全額交割股	dzoe ngaq ciau kaq ku
+全額獎學金	dzoe ngaq cian yuq cin
+全體人員	dzoe thi zyun yu
+全體同仁	dzoe thi don zyun
+全體師生	dzoe thi sy san
+兩不誤	lian paq nu
+兩不誤	lian paq wu
+兩人三腳	lian gnin sae ciaq
+兩個中國	lian goq tson koq
+兩個女人	lian goq gniu gnin
+兩個字	lian goq zy
+兩個孩子	lian goq ghe tsy
+兩個小人	lian goq shiau gnin
+兩個或兩個以上	lian goq ghoq lian goq yi zaon
+兩個或更多	lian goq ghoq ken tou
+兩個文明	lian goq ven min
+兩個方面	lian goq faon mi
+兩個男人	lian goq nEI gnin
+兩個中國	lian ghoq tson koq
+兩個女人	lian ghoq gniu gnin
+兩個字	lian ghoq zy
+兩個孩子	lian ghoq ghe tsy
+兩個小人	lian ghoq shiau gnin
+兩個或兩個以上	lian ghoq ghoq lian ghoq yi zaon
+兩個或更多	lian ghoq ghoq ken tou
+兩個文明	lian ghoq ven min
+兩個方面	lian ghoq faon mi
+兩個男人	lian ghoq nEI gnin
+兩千人	lian chi gnin
+兩千個	lian chi goq
+兩千個	lian chi ghoq
+兩可之間	lian khou tsy ci
+兩國之間	lian koq tsy ci
+兩國人民	lian koq zyun min
+兩地分居	lian di fen ciu
+兩家	lian ko
+兩家人	lian ko gnin
+兩小無猜	lian shiau vu tshe
+兩小無猜	lian shiau Wu tshe
+兩尾	lian vi
+兩岸人民關係條例	lian nge zyun min kuae shi diau li
+兩性之間	lian shin tsy ci
+兩性差距	lian shin tsho jiu
+兩性生殖	lian shin sen jiq
+兩性間	lian shin ci
+兩日份	lian gniq ven
+兩架	lian cia
+兩架	lian ko
+兩極分化	lian jiq fen huo
+兩權分立	lian jiu fen liq
+兩歲	lian syu
+兩派人馬	lian pha zyun mo
+兩生類	lian sen lei
+兩用人才	lian yon zyun dze
+兩省	lian san
+兩種人	lian tson gnin
+兩耳	lian er
+兩耳不聞窗外事	lian er paq ven tshaon nga zy
+兩耳勿聞窗外事	lian er vaq ven tshaon nga zy
+兩耳弗聞窗外事	lian er vaq ven tshaon nga zy
+兩虎相爭	lian fu shian tsen
+兩行	lian ghan
+兩軍人馬	lian ciun zyun mo
+兩部分	lian bu ven
+兩間	lian kae
+兩面不是人	lian mi paq zy gnin
+兩面勿是人	lian mi vaq zy gnin
+兩面弗是人	lian mi vaq zy gnin
+八七水災	paq chiq syu tse
+八世	paq syu
+八世紀	paq syu ci
+八二三炮戰	paq er sae phau ci
+八二三炮戰	paq er sae phau tsoe
+八個	paq goq
+八個月	paq goq yuq
+八個	paq ghoq
+八個月	paq ghoq yuq
+八分	paq fen
+八分之一	paq fen tsy iq
+八分書	paq fen syu
+八分熟	paq fen zoq
+八分鐘	paq fen tson
+八分音符	paq fen in vu
+八千里路雲和月	paq chi li lu yun ghou yuq
+八大	paq da
+八大工業國組織	paq da kon gniq koq tsu ciq
+八大明王	paq da min waon
+八大胡同	paq da wu don
+八大部	paq da bu
+八大金剛	paq da cin kaon
+八字沒一撇	paq zy maq iq phiq
+八字嘸沒一撇	paq zy mhiq iq phiq
+八字眉	paq zy mei
+八字眉毛	paq zy mi mau
+八字還沒一撇	paq zy wa maq iq phiq
+八字還嘸沒一撇	paq zy wa mhiq iq phiq
+八家	paq cia
+八岐大蛇	paq ji da dzo
+八帶魚	paq ta yu
+八拜之交	paq pa tsy ciau
+八擡大轎	paq de da jiau
+八日	paq gniq
+八日上午	paq gniq zaon wu
+八日下午	paq gniq gho wu
+八號上半日	paq ghau zaon pun gniq
+八號下半日	paq ghau gho pun gniq
+八歲	paq syu
+八歲時	paq syu zy
+八爪魚	paq tsau yu
+八竿子打不着	paq kI tsy tan paq dzoq
+八竿子打不着	paq kI tsy tan paq zyuq
+八竿子打勿着	paq kI tsy tan vaq dzoq
+八竿子打勿着	paq kI tsy tan vaq zyuq
+八竿子打弗着	paq kI tsy tan vaq dzoq
+八竿子打弗着	paq kI tsy tan vaq zyuq
+八色鳥	paq saq gniau
+八萬大藏經	paq vae da dzaon cin
+八號分機	paq ghau fen ci
+八行書	paq ghaon syu
+八集	paq jiq
+八風吹不動	paq fon tshei paq don
+八風吹勿動	paq fon tshei vaq don
+八風吹弗動	paq fon tshei vaq don
+公之於世	kon tsy yu syu
+公之於衆	kon tsy yu tson
+公了	kon liau
+公交	kon ciau
+公交公司	kon ciau kon sy
+公交站	kon ciau dzae
+公交線路	kon ciau shi lu
+公交車	kon ciau tsho
+公人	kon gnin
+公休日	kon shieu gniq
+公佈於衆	kon pu yu tson
+公侯伯子男	kon gheu paq tsy nEI
+公保大樓	kon pau da leu
+公假	kon cia
+公共事務	kon gon zy vu
+公共事務	kon gon zy Wu
+公共交通	kon gon ciau thon
+公共假期	kon gon ko ji
+公共服務	kon gon voq vu
+公共服務	kon gon voq Wu
+公共行政	kon gon yin cin
+公共衛生	kon gon wei sen
+公共責任	kon gon tsaq zyun
+公分	kon fen
+公分母	kon fen meu
+公制單位	kon tsyu tae wei
+公務	kon vu
+公務人員	kon vu zyun yu
+公務員	kon vu yu
+公務員法	kon vu yu faq
+公務艙	kon vu tshaon
+公司業務	kon sy gniq vu
+公務	kon Wu
+公務人員	kon Wu zyun yu
+公務員	kon Wu yu
+公務員法	kon Wu yu faq
+公務艙	kon Wu tshaon
+公司業務	kon sy gniq Wu
+公司生產	kon sy sen tshae
+公司簡介	kon sy ci ka
+公孫大娘	kon sen da gnian
+公安人員	kon EI zyun yu
+公安分局	kon EI fen jiuq
+公安局長	kon EI jiuq cian
+公家	kon cia
+公家機構	kon cia ci keu
+公家機關	kon cia ci kuae
+公寓大樓	kon gniu da leu
+公差	kon tsho
+公差費	kon tsha fi
+公平交易	kon bin ciau yiq
+公平競爭	kon bin jin tsen
+公平貿易	kon bin meu yiq
+公廣集團	kon kuaon jiq doe
+公才公望	kon dze kon vaon
+公撮	kon tshaq
+公教	kon ciau
+公教人員	kon ciau zyun yu
+公文旅行	kon ven li yin
+公正不阿	kon cin paq ou
+公海自由	kon he zy yeu
+公爵夫人	kon ciaq fu gnin
+公爾忘私	kon er vaon sy
+公爾忘私	kon er maon sy
+公用交換電話網	kon yon ciau wun di wo maon
+公私不分	kon sy paq fen
+公私勿分	kon sy vaq fen
+公私弗分	kon sy vaq fen
+公私交迫	kon sy ciau paq
+公私分明	kon sy fen min
+公立學校	kon liq ghoq yau
+公羊傳	kon yan dzoe
+公而忘私	kon er vaon sy
+公職人員	kon ciq zyun yu
+公衆人物	kon tson zyun vaq
+公衆參與	kon tson tshae yu
+公衆集會	kon tson jiq wei
+公設辯護人	kon shiq bi wu gnin
+公訴人	kon su gnin
+公認	kon gnin
+公認是	kon gnin zy
+公認爲	kon gnin wei
+公諸於世	kon tsyu yu syu
+公證人	kon cin gnin
+公貓	kon mae
+公費生	kon fi san
+公費留學	kon fi lieu ghoq
+公路個人賽	kon lu kou gnin se
+公路自行車	kon lu zy yin tsho
+公門之中好修行	kon men tsy tson hau shieu yin
+公門修行	kon men shieu yin
+公開發行	kon khe faq yin
+六一兒童節	loq iq er don ciq
+六一國際兒童節	loq iq koq ci er don ciq
+六世	loq syu
+六世紀	loq syu ci
+六人	loq gnin
+六人份	loq gnin ven
+六個	loq goq
+六個人	loq goq gnin
+六個月	loq goq yuq
+六個	loq ghoq
+六個人	loq ghoq gnin
+六個月	loq ghoq yuq
+六億人	loq i gnin
+六六大順	loq loq da zyun
+六分	loq fen
+六分之一	loq fen tsy iq
+六分儀	loq fen gni
+六分儀座	loq fen gni zou
+六分鐘	loq fen tson
+六千人	loq chi gnin
+六千個	loq chi goq
+六千個	loq chi ghoq
+六口之家	loq kheu tsy cia
+六和	loq ghou
+六妹	loq mei
+六家	loq cia
+六尾	loq vi
+六度萬行	loq du vae yin
+六日	loq gniq
+六日戰爭	loq gniq ci tsen
+六日戰爭	loq gniq tsoe tsen
+六朝	loq jiau
+六朝四大家	loq jiau sy da cia
+六朝時代	loq jiau zy de
+六歲	loq syu
+六歲時	loq syu zy
+六甲	loq ciaq
+六甲鄉	loq ciaq shian
+六百人	loq paq gnin
+六百個	loq paq goq
+六百個	loq paq ghoq
+六盤水	loq bun syu
+六盤水市	loq bun syu zy
+六神無主	loq zyun vu tsyu
+六神無主	loq zyun Wu tsyu
+六萬人	loq vae gnin
+六萬個	loq vae goq
+六萬個	loq vae ghoq
+六親不認	loq chin paq gnin
+六親勿認	loq chin vaq gnin
+六親弗認	loq chin vaq gnin
+六親無靠	loq chin vu khau
+六親無靠	loq chin Wu khau
+六集	loq jiq
+六龜	loq kuei
+六龜鄉	loq kuei shian
+共乘	gon jin
+共分	gon fen
+共去	gon chi
+共同感覺	gon don kI ciuq
+共同被告人	gon don bi kau gnin
+共和	gon ghou
+共和制	gon ghou tsyu
+共和國	gon ghou koq
+共和政體	gon ghou cin thi
+共和曆	gon ghou liq
+共和歷史	gon ghou liq sy
+共和派	gon ghou pha
+共和縣	gon ghou yu
+共和軍	gon ghou ciun
+共和黨	gon ghou taon
+共和黨人	gon ghou taon gnin
+共和黨籍	gon ghou taon zhiq
+共商大計	gon saon da ci
+共學	gon ghoq
+共從	gon dzon
+共樂	gon loq
+共生	gon sen
+共生死	gon sen sy
+共產集團	gon tshae jiq doe
+共產黨人	gon tshae taon gnin
+共背	gon pei
+共虧	gon chiu
+共襄盛舉	gon shian zhin ciu
+共降	gon ciaon
+兵出無名	pin tshyuq vu min
+兵出無名	pin tshyuq Wu min
+兵學	pin yuq
+兵家	pin cia
+兵家大忌	pin cia da ji
+兵家常事	pin cia dzaon zy
+兵家必爭	pin cia piq tsen
+兵家必爭之地	pin cia piq tsen tsy di
+兵甲	pin ciaq
+兵諫	pin ci
+兵貴神速	pin kuei zyun soq
+兵車行	pin tsho ghan
+兵馬未動	pin mo vi don
+其二	ji er
+其二	ji gni
+其他人	ji tha gnin
+其他品牌	ji tha phin ba
+其他國家	ji tha koq cia
+其他行業	ji tha ghaon gniq
+其味無窮	ji vi vu jion
+其味無窮	ji vi Wu jion
+其它問題	ji tha ven di
+其從如雲	ji dzon zyu yun
+其樂不窮	ji loq paq jion
+其樂無窮	ji loq vu jion
+其樂無窮	ji loq Wu jion
+其自身	ji zy shin
+其間	ji ci
+具爾	jiu er
+具體問題	jiu thi ven di
+典型人物	ti yin zyun vaq
+典獄長	ti yuq cian
+典範長存	ti vae jian dzen
+兼了	ci liau
+兼任教師	ci zyun ciau sy
+兼任教師	ci gnin ciau sy
+兼差	ci tsha
+兼行	ci yin
+冀望	ci vaon
+冀朝鑄	ci jiau tsyu
+冉冉	zoe zoe
+冉冉上升	zoe zoe zaon shin
+冉冉上昇	zoe zoe zaon shin
+冉有	zoe yeu
+冉有僕	zoe yeu boq
+冊府元龜	tshaq fu gniu kuei
+再上去	tse zaon chi
+再下去	tse gho chi
+再落去	tse loq chi
+再不去	tse paq chi
+再勿去	tse vaq chi
+再世	tse syu
+再也	tse gha
+再也不	tse gha paq
+再也勿	tse gha vaq
+再也弗	tse gha vaq
+再也𣍐	tse gha vei
+再也不是	tse gha paq zy
+再也不會	tse gha paq wei
+再也不肯	tse gha paq khen
+再也不能	tse gha paq nen
+再也勿是	tse gha vaq zy
+再也勿會	tse gha vaq wei
+再也勿肯	tse gha vaq khen
+再也勿能	tse gha vaq nen
+再也弗是	tse gha vaq zy
+再也弗會	tse gha vaq wei
+再也弗肯	tse gha vaq khen
+再也弗能	tse gha vaq nen
+再也沒有	tse gha maq yeu
+再也嘸沒	tse gha mhiq
+再也	tse ya
+再也不	tse ya paq
+再也勿	tse ya vaq
+再也弗	tse ya vaq
+再也𣍐	tse ya vei
+再也不是	tse ya paq zy
+再也不會	tse ya paq wei
+再也不肯	tse ya paq khen
+再也不能	tse ya paq nen
+再也勿是	tse ya vaq zy
+再也勿會	tse ya vaq wei
+再也勿肯	tse ya vaq khen
+再也勿能	tse ya vaq nen
+再也弗是	tse ya vaq zy
+再也弗會	tse ya vaq wei
+再也弗肯	tse ya vaq khen
+再也弗能	tse ya vaq nen
+再也沒有	tse ya maq yeu
+再也嘸沒	tse ya mhiq
+再乾一杯	tse kI iq pei
+再來一個	tse le iq goq
+再來一個	tse le iq ghoq
+再傳	tse dzOE
+再出去	tse tshyuq chi
+再加	tse ko
+再去	tse chi
+再問	tse ven
+再回去	tse wei chi
+再大	tse dou
+再好也不過	tse hau gha paq kou
+再好也勿過	tse hau gha vaq kou
+再好也弗過	tse hau gha vaq kou
+再學	tse ghoq
+再從	tse dzon
+再拿	tse na
+再馱	tse dou
+再教育	tse ciau yuq
+再於	tse yu
+再沒	tse maq
+再沒有	tse maq yeu
+再嘸沒	tse mhiq
+再生	tse sen
+再生不良性貧血	tse sen paq lian shin bin shiuq
+再生制動	tse sen tsyu don
+再生水	tse sen syu
+再生燃料	tse sen zoe liau
+再生父母	tse sen vu meu
+再生產	tse sen tshae
+再生紙	tse sen tsy
+再生緣	tse sen yu
+再生纖維	tse sen shi vi
+再生能源	tse sen nen gniu
+再生資源	tse sen tsy gniu
+再發生	tse faq sen
+再行	tse yin
+再說下去	tse syuq gho chi
+再講落去	tse kaon loq chi
+再進去	tse cin chi
+再過去	tse kou chi
+再降	tse ciaon
+再頂	tse tin
+冑甲	jieu ciaq
+冒上去	mau zaon chi
+冒了	mau lei
+冒了	mau laq
+冒名頂替	mau min tin thi
+冒名頂替者	mau min tin thi tse
+冒大不韙	mau da paq wei
+冒天下之大不韙	mau thi gho tsy da paq wei
+冒牌	mau ba
+冒牌貨	mau ba hou
+冒生命危險	mau sen min wei shi
+冒着	mau dzoq
+冒着	mau zyuq
+冒勒	mau laq
+冒着危險	mau dzoq wei shi
+冒着生命危險	mau dzoq sen min wei shi
+冒着危險	mau zyuq wei shi
+冒着生命危險	mau zyuq sen min wei shi
+冒勒危險	mau laq wei shi
+冒勒生命危險	mau laq sen min wei shi
+冒險家	mau shi cia
+冒頂	mau tin
