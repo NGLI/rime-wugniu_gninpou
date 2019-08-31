@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.08.28"
+version: "2019.08.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2772,6 +2772,7 @@ use_preset_vocabulary: true
 ⿸尸查	dza
 ⿸尸咋	dza
 撒	dza	1%
+射	dza	6%
 𠑞	dza
 ⿱寨	dza
 耍	sa
@@ -23295,13 +23296,78 @@ use_preset_vocabulary: true
 眼𥈊毛	ngae saq mau	418
 雞𥈊覺	ci saq kau	418
 ⿸尸查屙樸	dza ou phoq	418
+⿸尸查涴樸	dza ou phoq	418
 ⿸尸查尿樸	dza syu phoq	418
 尿⿸尸查	syu dza	418
 ⿸尸查屁	dza phi	418
 屙⿸尸查出	ou dza tshyuq	418
+⿸尸查涴出	dza ou tshyuq	418
+涴⿸尸查出	ou dza tshyuq	418
 ⿸尸查尿出	dza syu tshyuq	418
 尿⿸尸查出	syu dza tshyuq	418
 ⿸尸查爛薄屙	dza lae boq ou	418
+⿸尸查爛涴	dza lae ou	418
+⿸尸查爛薄涴	dza lae boq ou	418
+撒屙樸	dza ou phoq	418
+撒涴樸	dza ou phoq	418
+撒尿樸	dza syu phoq	418
+尿撒	syu dza	418
+撒屙	dza ou	418
+撒尿	dza syu	418
+撒屁	dza phi	418
+撒屙出	dza ou tshyuq	418
+屙撒出	ou dza tshyuq	418
+撒涴出	dza ou tshyuq	418
+涴撒出	ou dza tshyuq	418
+撒尿出	dza syu tshyuq	418
+尿撒出	syu dza tshyuq	418
+肚皮撒	du bi dza	418
+撒肚皮	dza du bi	418
+撒爛屙	dza lae ou	418
+撒爛薄屙	dza lae boq ou	418
+撒爛涴	dza lae ou	418
+撒爛薄涴	dza lae boq ou	418
+撒痢疾	dza li jiq	418
+射屙樸	dza ou phoq	418
+射涴樸	dza ou phoq	418
+射尿樸	dza syu phoq	418
+尿射	syu dza	418
+射屙	dza ou	418
+射尿	dza syu	418
+射屁	dza phi	418
+射屙出	dza ou tshyuq	418
+屙射出	ou dza tshyuq	418
+射涴出	dza ou tshyuq	418
+涴射出	ou dza tshyuq	418
+射尿出	dza syu tshyuq	418
+尿射出	syu dza tshyuq	418
+肚皮射	du bi dza	418
+射肚皮	dza du bi	418
+射爛屙	dza lae ou	418
+射爛薄屙	dza lae boq ou	418
+射爛涴	dza lae ou	418
+射爛薄涴	dza lae boq ou	418
+射痢疾	dza li jiq	418
+𠑞屙樸	dza ou phoq	418
+𠑞涴樸	dza ou phoq	418
+𠑞尿樸	dza syu phoq	418
+尿𠑞	syu dza	418
+𠑞屙	dza ou	418
+𠑞尿	dza syu	418
+𠑞屁	dza phi	418
+𠑞屙出	dza ou tshyuq	418
+屙𠑞出	ou dza tshyuq	418
+𠑞涴出	dza ou tshyuq	418
+涴𠑞出	ou dza tshyuq	418
+𠑞尿出	dza syu tshyuq	418
+尿𠑞出	syu dza tshyuq	418
+肚皮𠑞	du bi dza	418
+𠑞肚皮	dza du bi	418
+𠑞爛屙	dza lae ou	418
+𠑞爛薄屙	dza lae boq ou	418
+𠑞爛涴	dza lae ou	418
+𠑞爛薄涴	dza lae boq ou	418
+𠑞痢疾	dza li jiq	418
 鹹𪉨蟹	ghae chian ha	418
 紅膏𪉨蟹	ghon kau chian ha	418
 燥㸆飯	sau khau vae	418
@@ -23391,10 +23457,8 @@ use_preset_vocabulary: true
 啥幹	sou khI	418
 啥幹	so khI	418
 豬涴	tsyu ou	418
-⿸尸查爛涴	dza lae ou	418
 ⿸尸查涴	dza ou	418
 ⿸尸查涴撲	dza ou phoq	418
-⿸尸查涴出	dza ou tshyuq	418
 ⿸尸咋涴撲	dza ou phoq	418
 老虎涴	lau fu ou	418
 把涴	po ou	418
@@ -23462,6 +23526,20 @@ use_preset_vocabulary: true
 ⿸尸咋屁蟲	dza phi dzon	418
 ⿸尸咋尿撲	dza syu phoq	418
 ⿸尸咋屙撲	dza ou phoq	418
+痢疾撒	li jiq dza	418
+撒	dza	418
+撒屁蟲	dza phi dzon	418
+撒尿撲	dza syu phoq	418
+撒屙撲	dza ou phoq	418
+痢疾射	li jiq dza	418
+射	dza	418
+射屁蟲	dza phi dzon	418
+射尿撲	dza syu phoq	418
+射屙撲	dza ou phoq	418
+𠑞	dza	418
+𠑞屁蟲	dza phi dzon	418
+𠑞尿撲	dza syu phoq	418
+𠑞屙撲	dza ou phoq	418
 譬如弗得	phi zy vaq taq	418
 氣耐弗牢	chi ne vaq lau	418
 疑惑弗決	gni ghoq vaq ciuq	418
@@ -26593,6 +26671,166 @@ use_preset_vocabulary: true
 紅布頭		418
 白布頭		418
 撳撳塞塞一罐頭		418
+以前
+以後
+以內
+以外
+靠順手半邊		418
+靠借手半邊		418
+靠裏半邊		418
+靠外半邊		418
+靠十		418
+靠廿		418
+靠百		418
+再好嘸沒𡀂	tse hau mhiq lei	418
+再寫意嘸沒𡀂	tse shia i mhiq lei	418
+再罪過嘸沒𡀂	tse zei kou mhiq lei	418
+再體汰嘸沒𡀂	tse thi tha mhiq lei	418
+再好嘸沒了	tse hau mhiq lei	418
+再寫意嘸沒了	tse shia i mhiq lei	418
+再罪過嘸沒了	tse zei kou mhiq lei	418
+再體汰嘸沒了	tse thi tha mhiq lei	418
+亂講三千		418
+亂打三千		418
+多講連帳		418
+多算連帳		418
+多煩連帳		418
+左右
+過去	kou chiu
+過去	kou chi
+睏過去	khuen kou chi	418
+吃過去	chioq kou chi	418
+喫過去	chioq kou chi	418
+諫過去	gae kou chi	418
+煩過去	vae kou chi	418
+等過去	ten kou chi	418
+嘔過去	eu kou chi	418
+弄過去	lon kou chi	418
+懶過去	lae kou chi	418
+頭兩		418
+頭兩個	deu lian goq	418
+頭兩個	deu lian ghoq	418
+頭兩隻		418
+喫勿來		418
+喫弗來	chioq vaq le	418
+吃弗來	chioq vaq le	418
+去勿來	chi vaq le	418
+去弗來	chi vaq le	418
+弄勿來		418
+弄弗來	lon vaq le	418
+睏勿過		418
+囥勿過		418
+坐勿過		418
+比勿過		418
+比我勿過		418
+比爾勿過	pi ng vaq kou	418
+比俉勿過		418
+比其勿過	pi ji vaq kou	418
+比渠勿過	pi ji vaq kou	418
+打勿過		418
+打俉勿過		418
+打爾勿過	tan ng vaq kou	418
+打其勿過	tan ji vaq kou	418
+打渠勿過	tan ji vaq kou	418
+慢勿過		418
+多勿過		418
+睏弗過	khuen vaq kou	418
+囥弗過	khaon vaq kou	418
+坐弗過	zou vaq kou	418
+比弗過	pi vaq kou	418
+比我弗過	pi ngo vaq kou	418
+比爾弗過	pi ng vaq kou	418
+比俉弗過	pi ng vaq kou	418
+比其弗過	pi ji vaq kou	418
+比渠弗過	pi ji vaq kou	418
+打弗過	tan vaq kou	418
+打俉弗過	tan ng vaq kou	418
+打爾弗過	tan ng vaq kou	418
+打其弗過	tan ji vaq kou	418
+打渠弗過	tan ji vaq kou	418
+慢弗過	mae vaq kou	418
+多弗過	tou vaq kou	418
+話勿相似	wo vaq shian zy	418
+話弗相似	wo vaq shian zy	418
+着勿樣	ciq vaq yan	418
+講勿樣		418
+做勿樣		418
+弄勿樣		418
+着勿相樣	ciq vaq shian yan	418
+講勿相樣	kaon vaq shian yan	418
+做勿相樣	tsou vaq shian yan	418
+弄勿相樣	lon vaq shian yan	418
+着勿相相	ciq vaq shian shian	418
+講勿相相	kaon vaq shian shian	418
+做勿相相	tsou vaq shian shian	418
+弄勿相相	lon vaq shian shian	418
+着弗樣	ciq vaq yan	418
+講弗樣	kaon vaq yan	418
+做弗樣	tsou vaq yan	418
+弄弗樣	lon vaq yan	418
+着弗相樣	ciq vaq shian yan	418
+講弗相樣	kaon vaq shian yan	418
+做弗相樣	tsou vaq shian yan	418
+弄弗相樣	lon vaq shian yan	418
+着弗相相	ciq vaq shian shian	418
+講弗相相	kaon vaq shian shian	418
+做弗相相	tsou vaq shian shian	418
+弄弗相相	lon vaq shian shian	418
+碰勿得		418
+動着勿得	don zyuq vaq taq	418
+動着勿得	don dzoq vaq taq	418
+𧮙眼勿得		418
+輕仔勿得		418
+重仔勿得		418
+碰弗得	ban vaq taq	418
+動着弗得	don zyuq vaq taq	418
+動着弗得	don dzoq vaq taq	418
+𧮙眼弗得	zoq ngae vaq taq	418
+輕仔弗得	chin tsy vaq taq	418
+重仔弗得	dzon tsy vaq taq	418
+睏勒過		418
+囥勒過		418
+坐勒過		418
+比勒過		418
+比我勒過		418
+比爾勒過	pi ng laq kou	418
+比俉勒過		418
+比其勒過	pi ji laq kou	418
+比渠勒過	pi ji laq kou	418
+打勒過		418
+打俉勒過		418
+打爾勒過	tan ng laq kou	418
+打其勒過	tan ji laq kou	418
+打渠勒過	tan ji laq kou	418
+着勒樣	ciq laq yan	418
+講勒樣		418
+做勒樣		418
+弄勒樣		418
+着勒相樣	ciq laq shian yan	418
+講勒相樣	kaon laq shian yan	418
+做勒相樣	tsou laq shian yan	418
+弄勒相樣	lon laq shian yan	418
+着勒相相	ciq laq shian shian	418
+講勒相相	kaon laq shian shian	418
+做勒相相	tsou laq shian shian	418
+弄勒相相	lon laq shian shian	418
+一頭
+祟氣不剌	sei chi paq laq	418
+回生	wei sen
+亨麥冷打		418
+亨麥冷		418
+兩架生	lian ko san	418
+漆紫	tshaq tsy	418
+漆漆烏	tshaq tshaq u	418
+漆漆暗	tshaq tshaq EI	418
+漆暗薄龍	tshaq EI boq lon	418
+漆漆黑	tshaq tshaq haq	418
+溼溼澾澾	saq saq daq daq	418
+釋雪	saq syuq	418
+別烏采		418
+別烏蕩		418
+別烏態		418
+別烏頭		418
 寧波市	gnin pou zy
 寧波	gnin pou
 寧波	gnin poq
@@ -27275,28 +27513,46 @@ use_preset_vocabulary: true
 挖鼻頭涴	uaq baq deu ou	418
 ⿸尸咋涴胡嚨癢	dza ou wu lon yan	418
 ⿸尸查涴胡嚨癢	dza ou wu lon yan	418
+撒涴胡嚨癢	dza ou wu lon yan	418
+射涴胡嚨癢	dza ou wu lon yan	418
+𠑞涴胡嚨癢	dza ou wu lon yan	418
 涴急造茅坑		418
 尿涴屋裏⿸尸咋	syu ou oq li dza	418
+尿涴屋裏⿸尸查	syu ou oq li dza	418
+尿涴屋裏撒	syu ou oq li dza	418
+尿涴屋裏射	syu ou oq li dza	418
+尿涴屋裏𠑞	syu ou oq li dza	418
 涴缸邊頭罰願		418
 涴掃帚成筋	ou sau cieu jin cin	418
 涴掃帚成精	ou sau cieu jin cin	418
 邱隘鹹齏涴缸做		418
 ⿸尸咋涴估堆頭	dza ou ku tei deu	418
 ⿸尸查涴估堆頭	dza ou ku tei deu	418
+撒涴估堆頭	dza ou ku tei deu	418
+射涴估堆頭	dza ou ku tei deu	418
+𠑞涴估堆頭	dza ou ku tei deu	418
 𠞭耳朵涴	lheu gni to ou	418
 𠞭耳朵涴	lheu ng to ou	418
 鏤耳朵涴	lheu gni to ou	418
 鏤耳朵涴	lheu ng to ou	418
 涴缸越㧕越臭		418
-尿涴屋裏⿸尸查	syu ou oq li dza	418
 一⿸尸咋涴	iq dza ou	418
 一⿸尸查涴	iq dza ou	418
+一撒涴	iq dza ou	418
+一射涴	iq dza ou	418
+一𠑞涴	iq dza ou	418
 涴急喪命	ou ciq saon min	418
 鼻頭涴結嗝	baq deu ou ciq kaq	418
 ⿸尸咋涴壅伸草	dza ou ion shin tshau	418
 ⿸尸查涴壅伸草	dza ou ion shin tshau	418
+撒涴壅伸草	dza ou ion shin tshau	418
+射涴壅伸草	dza ou ion shin tshau	418
+𠑞涴壅伸草	dza ou ion shin tshau	418
 ⿸尸咋涴筆篤	dza ou piq toq	418
 ⿸尸查涴筆篤	dza ou piq toq	418
+撒涴筆篤	dza ou piq toq	418
+射涴筆篤	dza ou piq toq	418
+𠑞涴筆篤	dza ou piq toq	418
 爛涴賊臭		418
 房間裏向	vaon kae li shian	418
 衣櫥裏向		418
@@ -27332,6 +27588,42 @@ use_preset_vocabulary: true
 ⿸尸查屙壅伸草	dza ou ion shin tshau	418
 ⿸尸查屙筆篤	dza ou piq toq	418
 ⿸尸查尿哚哚響	dza syu do do shian	418
+撒屁賴賴	dza phi la la	418
+撒屙胡嚨癢	dza ou wu lon yan	418
+尿屙屋裏撒	syu ou oq li dza	418
+一人撒尿出	iq gnin dza syu tshyuq	418
+撒屙估堆頭	dza ou ku tei deu	418
+一撒尿	iq dza syu	418
+一撒屙	iq dza ou	418
+捏勒卵子勿撒尿	gniaq laq loe tsy vaq dza syu	418
+撒屁賴	dza phi la	418
+撒屙壅伸草	dza ou ion shin tshau	418
+撒屙筆篤	dza ou piq toq	418
+撒尿哚哚響	dza syu do do shian	418
+射屁賴賴	dza phi la la	418
+射屙胡嚨癢	dza ou wu lon yan	418
+尿屙屋裏射	syu ou oq li dza	418
+一人射尿出	iq gnin dza syu tshyuq	418
+射屙估堆頭	dza ou ku tei deu	418
+一射尿	iq dza syu	418
+一射屙	iq dza ou	418
+捏勒卵子勿射尿	gniaq laq loe tsy vaq dza syu	418
+射屁賴	dza phi la	418
+射屙壅伸草	dza ou ion shin tshau	418
+射屙筆篤	dza ou piq toq	418
+射尿哚哚響	dza syu do do shian	418
+𠑞屁賴賴	dza phi la la	418
+𠑞屙胡嚨癢	dza ou wu lon yan	418
+尿屙屋裏𠑞	syu ou oq li dza	418
+一人𠑞尿出	iq gnin dza syu tshyuq	418
+𠑞屙估堆頭	dza ou ku tei deu	418
+一𠑞尿	iq dza syu	418
+一𠑞屙	iq dza ou	418
+捏勒卵子勿𠑞尿	gniaq laq loe tsy vaq dza syu	418
+𠑞屁賴	dza phi la	418
+𠑞屙壅伸草	dza ou ion shin tshau	418
+𠑞屙筆篤	dza ou piq toq	418
+𠑞尿哚哚響	dza syu do do shian	418
 早鱟弗過晝	tsau heu vaq kou cieu	418
 高頭弗來	kau deu vaq le	418
 低頭弗去	ti deu vaq chi	418
@@ -27432,6 +27724,9 @@ use_preset_vocabulary: true
 弗好落夜	vaq hau loq ya	418
 捏勒卵子弗⿸尸咋尿	gniaq laq loe tsy vaq dza syu	418
 捏勒卵子弗⿸尸查尿	gniaq laq loe tsy vaq dza syu	418
+捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu	418
+捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu	418
+捏勒卵子弗𠑞尿	gniaq laq loe tsy vaq dza syu	418
 惀頭弗到	len deu vaq tau	418
 防弗到	baon vaq tau	418
 調一弗歡喜	diau iq vaq hun shi	418
@@ -27494,7 +27789,6 @@ use_preset_vocabulary: true
 穿弗及	tshOE vaq ji	418
 吃弗及	chioq vaq ji	418
 穿弗來	tshOE vaq le	418
-吃弗來	chioq vaq le	418
 過日腳弗來	kou gniq ciaq vaq le	418
 做弗像	tsou vaq zhian	418
 講弗像	kaon vaq zhian	418
@@ -27502,9 +27796,6 @@ use_preset_vocabulary: true
 做弗相像	tsou vaq shian zhian	418
 講弗相像	kaon vaq shian zhian	418
 弄弗相像	lon vaq shian zhian	418
-做弗相相	tsou vaq shian shian	418
-講弗相相	kaon vaq shian shian	418
-弄弗相相	lon vaq shian shian	418
 窮弗搭富鬥	jion vaq taq fu teu	418
 富弗搭官鬥	fu vaq taq kun teu	418
 做出事體三弗像	tsou tshyuq zy thi sae vaq zhian	418
@@ -27570,15 +27861,27 @@ use_preset_vocabulary: true
 唔唔	nk nk	418
 ⿸尸查唔唔	dza nk nk	418
 ⿸尸咋唔唔	dza nk nk	418
+撒唔唔	dza nk nk	418
+射唔唔	dza nk nk	418
+𠑞唔唔	dza nk nk	418
 㕶㕶	nk nk	418
 ⿸尸查㕶㕶	dza nk nk	418
 ⿸尸咋㕶㕶	dza nk nk	418
+撒㕶㕶	dza nk nk	418
+射㕶㕶	dza nk nk	418
+𠑞㕶㕶	dza nk nk	418
 尿尿	syu syu
 ⿸尸查尿尿	dza syu syu	418
 ⿸尸咋尿尿	dza syu syu	418
+撒尿尿	dza syu syu	418
+射尿尿	dza syu syu	418
+𠑞尿尿	dza syu syu	418
 哚哚尿	to to syu	418
 ⿸尸查哚哚尿	dza to to syu	418
 ⿸尸咋哚哚尿	dza to to syu	418
+撒哚哚尿	dza to to syu	418
+射哚哚尿	dza to to syu	418
+𠑞哚哚尿	dza to to syu	418
 手手		418
 ⿰氵丈手手	jian shieu shieu	418
 滰手手		418
