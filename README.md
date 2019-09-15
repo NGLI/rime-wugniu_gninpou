@@ -6,7 +6,7 @@
 
 含寧波城區及鄞縣鍾公廟（鄞縣中區，今鄞州區鍾公廟街道）兩種口音的輸入方案。
 
-拼音方案爲[吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案)。
+拼音方案爲[吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案)，同時兼容[吳語協會](http://wu-chinese.com/romanization/)式拼音。
 
 使用以下項目：
 
