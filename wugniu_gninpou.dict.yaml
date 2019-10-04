@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2019.10.03"
+version: "2019.10.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1429,7 +1429,7 @@ use_preset_vocabulary: true
 畸	ji
 錡	ji
 祈	ji
-其	ji
+其	ji	59071
 期	ji
 棋	ji
 棊	ji
@@ -1513,7 +1513,8 @@ use_preset_vocabulary: true
 苧	ji
 芧	ji
 惎	ji
-渠	ji
+其	ji	608894
+渠	ji	304447
 厩	ji
 廐	ji
 廄	ji
@@ -2882,7 +2883,7 @@ use_preset_vocabulary: true
 埋	mha	5%
 媽	mha
 孟	mha	0%
-𠲎	va
+𠲎	va	110540
 帶	ta
 㯂	ta
 戴	ta
@@ -3263,7 +3264,7 @@ use_preset_vocabulary: true
 卯	mau
 夘	mau
 茆	mau
-莫	mau
+莫	mau	12192
 鉚	mau
 昴	mau
 冒	mau
@@ -3279,7 +3280,7 @@ use_preset_vocabulary: true
 耄	mau
 芼	mau
 眊	mau
-莫	mhau
+莫	mhau	36576
 貓	mhau	0%
 猫	mhau	0%
 毛	mhau	0%
@@ -3786,7 +3787,7 @@ use_preset_vocabulary: true
 稍	so
 蓑	so
 簑	so
-啥	so
+啥	so	73981
 奢	so
 畲	so
 舍	so
@@ -4275,7 +4276,7 @@ use_preset_vocabulary: true
 䅿	wo
 活	wo	5%
 踝	wo
-話	wo
+話	wo	228952
 諙	wo
 樺	wo
 畫	wo
@@ -4392,7 +4393,7 @@ use_preset_vocabulary: true
 罱	ne
 奶	nhe
 嬭	nhe
-來	le
+來	le	1209309
 萊	le
 徠	le
 唻	le
@@ -4457,7 +4458,7 @@ use_preset_vocabulary: true
 塞	se	5%
 裁	ze
 材	ze
-該	ke
+該	ke	49284
 陔	ke
 垓	ke
 賅	ke
@@ -6222,10 +6223,10 @@ use_preset_vocabulary: true
 䴱	thou
 妥	thou
 橢	thou
-忒	thou
+忒	thou	48020
 #太	thou
 墮	dou
-馱	dou
+馱	dou	39456
 駄	dou
 䭾	dou
 駝	dou
@@ -6259,7 +6260,7 @@ use_preset_vocabulary: true
 挪	nou	6%
 㑚	nou
 娜	nou
-儂	nou
+儂	nou	775056
 糯	nou
 穤	nou
 稬	nou
@@ -6329,7 +6330,7 @@ use_preset_vocabulary: true
 𩊮	sou
 䤬	sou
 傞	sou
-啥	sou
+啥	sou	9247
 鎖	sou
 鎻	sou
 瑣	sou
@@ -6715,11 +6716,11 @@ use_preset_vocabulary: true
 堠	gheu
 歐	eu
 甌	eu
-嘔	eu
+嘔	eu	56532
 區	eu	5%
 漚	eu
 毆	eu
-謳	eu
+謳	eu	56532
 鷗	eu
 饇	eu
 瞘	eu
@@ -7211,7 +7212,7 @@ use_preset_vocabulary: true
 盪	daon
 碭	daon
 𥸈	daon
-宕	daon
+宕	daon	90888
 趤	daon
 菪	daon
 凼	daon
@@ -7404,7 +7405,7 @@ use_preset_vocabulary: true
 茳	kaon
 罡	kaon
 牨	kaon
-講	kaon
+講	kaon	170166
 港	kaon
 槓	kaon	0%
 杠	kaon	0%
@@ -7925,7 +7926,7 @@ use_preset_vocabulary: true
 瞋	tshen
 嗔	tshen
 琛	tshen
-忖	tshen
+忖	tshen	142577
 刌	tshen
 蹭	tshen
 谶	tshen
@@ -8653,7 +8654,7 @@ use_preset_vocabulary: true
 澠	zhin
 乘	zhin	5%
 晴	zhin
-尋	zhin
+尋	zhin	78886
 潯	zhin
 撏	zhin
 樳	zhin
@@ -9209,7 +9210,7 @@ use_preset_vocabulary: true
 壠	lon
 儱	lon
 躘	lon
-弄	lon
+弄	lon	40736
 挵	lon
 𢙱	lon
 哢	lon
@@ -9547,7 +9548,7 @@ use_preset_vocabulary: true
 掰	paq
 不	paq
 鈈	paq
-撥	paq
+撥	paq	331919
 癶	paq
 鱍	paq
 蹳	paq
@@ -9673,17 +9674,17 @@ use_preset_vocabulary: true
 罰	vaq
 罸	vaq
 伐	vaq
-𠲎	vaq
+𠲎	vaq	110540
 筏	vaq
 栰	vaq
 閥	vaq
 𤇰	vaq
 茷	vaq
 垡	vaq
-勿	vaq
+勿	vaq	295400
 物	vaq
 伆	vaq
-弗	vaq
+弗	vaq	590801
 佛	vaq
 鉘	vaq
 妲	taq
@@ -9699,7 +9700,7 @@ use_preset_vocabulary: true
 啄	taq	5%
 答	taq
 荅	taq
-搭	taq
+搭	taq	831253
 溚	taq
 嗒	taq
 㿯	taq
@@ -9744,7 +9745,7 @@ use_preset_vocabulary: true
 禿	thaq
 秃	thaq
 鵚	thaq
-忒	thaq
+忒	thaq	24009
 鋱	thaq
 忑	thaq
 慝	thaq
@@ -9807,7 +9808,7 @@ use_preset_vocabulary: true
 ⿰舟巤	laq
 攔	laq	0%
 迾	laq
-勒	laq
+勒	laq	45114
 了	laq
 嘞	laq
 鰳	laq
@@ -10674,7 +10675,7 @@ use_preset_vocabulary: true
 倏	soq
 式	soq	0%
 什	soq	0%
-啥	soq
+啥	soq	263257
 爍	soq
 鑠	soq
 叔	soq
@@ -10750,7 +10751,7 @@ use_preset_vocabulary: true
 酷	khoq
 牿	khoq
 殼	khoq
-個	goq
+個	goq	1607642
 箇	goq
 个	goq
 擱	goq
@@ -10822,7 +10823,7 @@ use_preset_vocabulary: true
 㬦	ghoq
 彠	ghoq
 矱	ghoq
-個	ghoq
+個	ghoq	3215286
 箇	ghoq
 个	ghoq
 屋	oq
@@ -11424,7 +11425,7 @@ use_preset_vocabulary: true
 䖨	zhiq
 𦁎	zhiq
 襲	zhiq
-該	kiq
+該	kiq	452555
 頁	yiq
 枼	yiq
 葉	yiq
@@ -11784,16 +11785,16 @@ use_preset_vocabulary: true
 耳	ng
 午	ng	0%
 尾	ng
-爾	ng
+爾	ng	243244
 你	ng	5%
 妳	ng	5%
 伱	ng	5%
-俉	ng
+俉	ng	121622
 孲	nk
 嗯	nk
 唔	nk
 㕶	nk
-嘸沒	mhiq
+嘸沒	mhiq	296233
 
 # 《阿拉宁波话(修订版)》
 
