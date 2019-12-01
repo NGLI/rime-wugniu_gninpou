@@ -54,7 +54,7 @@ https://www.wugniu.com/
 
 Electric Sheep：
 
-- 郵箱：1613023143@qq.com
+- 郵箱：shinzoqchiuq@outlook.com
 
 [吳語學堂](https://www.wugniu.com/)：
 
