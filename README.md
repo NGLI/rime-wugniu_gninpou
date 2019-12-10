@@ -20,11 +20,11 @@
 
 ### 安裝方法
 
-- [Windows](https://ngli.github.io/rime-wugniu/安装方法/Windows.html)
-- [macOS](https://ngli.github.io/rime-wugniu/安装方法/macOS.html)
-- [Linux](https://ngli.github.io/rime-wugniu/安装方法/Linux.html)
-- [Android](https://ngli.github.io/rime-wugniu/安装方法/Android.html)
-- [iOS](https://ngli.github.io/rime-wugniu/安装方法/iOS.html)
+- [Windows](https://ngli.github.io/安装方法/Windows.html)
+- [macOS](https://ngli.github.io/安装方法/macOS.html)
+- [Linux](https://ngli.github.io/安装方法/Linux.html)
+- [Android](https://ngli.github.io/安装方法/Android.html)
+- [iOS](https://ngli.github.io/安装方法/iOS.html)
 
 ### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用)
 
