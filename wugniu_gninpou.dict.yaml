@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.01.04"
+version: "2020.01.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2371,7 +2371,7 @@ use_preset_vocabulary: true
 愫	su
 訴	su
 愬	su
-塑	su
+塑	su	1%
 溯	su
 蔬	su
 孤	ku
@@ -2427,7 +2427,7 @@ use_preset_vocabulary: true
 袴	khu
 秙	khu
 跍	gu
-咕	gu
+咕	gu	1%
 和	wu	1%
 喖	wu
 胡	wu
@@ -7934,7 +7934,7 @@ use_preset_vocabulary: true
 等	ten
 戥	ten
 躉	ten
-頂	ten	5%
+頂	ten	1%
 盹	ten
 頓	ten
 訰	ten
@@ -7954,7 +7954,7 @@ use_preset_vocabulary: true
 庉	den
 吨	den
 窀	den
-停	den	5%
+停	den	1%
 囤	den
 飩	den
 魨	den
@@ -28211,6 +28211,8 @@ use_preset_vocabulary: true
 東錢湖
 雅戈爾動物園	ia kaq er don vaq yu
 雅戈爾	ia kaq er
+雅戈爾動物園	ia kou er don vaq yu
+雅戈爾	ia kou er
 莫枝	moq tsy
 東吳鎮
 東吳
@@ -28790,6 +28792,7 @@ use_preset_vocabulary: true
 未嘗	vi dzaon
 放映	faon ian
 傴背	on pei
+塑子	su tsy
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -29060,7 +29063,6 @@ VCD	vi shi di
 一隻鑊裏吃飯個	iq tsaq ghoq li chioq vae goq
 一隻頭兩隻大	iq tsaq deu lian tsaq dou
 一隻鼻孔出氣	iq tsaq biq khon tshyuq chi
-一倡百和	iq tshaon paq ghou
 一億人	iq i gnin
 一償宿願	iq dzaon soq gniu
 一出去	iq tshyuq chi
@@ -29088,15 +29090,12 @@ VCD	vi shi di
 一口吸盡西江水	iq kheu shiq jin shi kaon syu
 一吹	iq tshyu
 一味	iq vi
-一和	iq ghou
 一哄而上	iq ghon er zaon
 一哄而起	iq ghon er chi
 一員大將	iq yu da cian
-一唱一和	iq tshaon iq ghou
 一回去	iq wei chi
 一回生	iq wei san
 一回生兩回熟	iq wei san lian wei zoq
-一團和氣	iq doe ghou chi
 一報還一報	iq pau wae iq pau
 一場夢	iq jian mon
 一場春夢	iq jian tshyun mon
@@ -29225,7 +29224,6 @@ VCD	vi shi di
 一覺睏到大天亮	iq kau khuen tau dou thi lian
 一觸即爆	iq tshoq ciq bau
 一言一行	iq yi iq yin
-一言不和	iq yi paq ghou
 一走了之	iq tseu liau tsy
 一辭莫贊	iq dzy moq tsae
 一進去	iq cin chi
@@ -29293,7 +29291,6 @@ VCD	vi shi di
 七十二行	chiq zyuq gni ghaon
 七十兩行	chiq zyuq lian ghaon
 七千人	chiq chi gnin
-七和絃	chiq ghou yi
 七國集團	chiq koq jiq doe
 七堵區	chiq tu chiu
 七大	chiq da
@@ -29388,8 +29385,6 @@ VCD	vi shi di
 三句話勿離本行	sae ciu wo vaq li pen ghaon
 三句話弗離本行	sae ciu wo vaq li pen ghaon
 三呼萬歲	sae fu vae sei
-三和絃	sae ghou yi
-三和路	sae ghou lu
 三商行	sae saon ghaon
 三圍	sae wei
 三大	sae da
@@ -29428,7 +29423,6 @@ VCD	vi shi di
 三更	sae kan
 三更半夜	sae kan pun ya
 三朝元老	sae jiau gniu lau
-三杯和萬事	sae pei ghou vae zy
 三樂	sae loq
 三權分立	sae jiu fen liq
 三歲	sae syu
@@ -29680,7 +29674,6 @@ VCD	vi shi di
 弗做虧心事	vaq tsou khuei shin zy
 勿停	vaq din
 弗停	vaq din
-不傷和氣	paq saon ghou chi
 勿傷和氣	vaq saon ghou chi
 弗傷和氣	vaq saon ghou chi
 不共戴天	paq gon te thi
@@ -29759,7 +29752,6 @@ VCD	vi shi di
 不同日月	paq don zyuq yuq
 不同顏色	paq don ngae saq
 不吝賜教	paq lin sy ciau
-不和	paq ghou
 不問	paq men
 不問前因後果	paq men zhi in gheu kou
 不問好歹	paq men hau te
@@ -29944,8 +29936,6 @@ VCD	vi shi di
 勿成材	vaq jin dze
 弗成問題	vaq jin ven di
 弗成材	vaq jin dze
-不戰不和	paq ci paq ghou
-不戰不和	paq tsoe paq ghou
 不戴	paq ta
 勿戴	vaq ta
 弗戴	vaq ta
@@ -30282,7 +30272,6 @@ VCD	vi shi di
 勿誤	vaq wu
 弗誤	vaq wu
 不說自明	paq syuq zy min
-不調和	paq diau ghou
 勿調和	vaq diau ghou
 弗調和	vaq diau ghou
 不請自來	paq chin zy le
@@ -30365,8 +30354,6 @@ VCD	vi shi di
 不食人間煙火	paq zhiq zyun ci i hou
 勿限於	vaq ghae yu
 弗限於	vaq ghae yu
-不飽和	paq pau ghou
-不飽和脂肪酸	paq pau ghou tsy faon soe
 勿飽和	vaq pau ghou
 勿飽和脂肪酸	vaq pau ghou tsy faon soe
 弗飽和	vaq pau ghou
@@ -30648,10 +30635,6 @@ VCD	vi shi di
 中原大學	tson gniu da ghoq
 中原標準時間	tson gniu piau tsyun zy ci
 中古世紀	tson ku syu ci
-中和	tson ghou
-中和劑	tson ghou ci
-中和力	tson ghou liq
-中和市	tson ghou zy
 中國交通建設	tson koq ciau thon ci shiq
 中國交通運輸協會	tson koq ciau thon yun syu yaq wei
 中國人	tson koq gnin
@@ -30847,7 +30830,6 @@ VCD	vi shi di
 中間體	tson ci thi
 中隊長	tson dei jian
 中集	tson jiq
-中非共和國	tson fi gon ghou koq
 中非國家	tson fi koq cia
 丰姿綽約	fon tsy tshoq iaq
 丰神綽約	fon zyun tshoq iaq
@@ -30867,9 +30849,6 @@ VCD	vi shi di
 主任委員	tsyu gnin uei yu
 主任醫師	tsyu gnin i sy
 主使人	tsyu sy gnin
-主和	tsyu ghou
-主和派	tsyu ghou pha
-主和絃	tsyu ghou yi
 主婚人	tsyu huen gnin
 主幹家庭	tsyu kI cia din
 主從	tsyu dzon
@@ -30992,7 +30971,6 @@ VCD	vi shi di
 九頭鳥	cieu deu gniau
 乞人	chiq gnin
 乞伏	chiq voq
-乞和	chiq ghou
 乞降	chiq ghaon
 也嘸沒	gha mhiq
 也嘸沒	ya mhiq
@@ -32431,8 +32409,6 @@ VCD	vi shi di
 人名	zyun min
 人君	zyun ciun
 人呢	gnin gni
-人和	gnin ghou
-人和	zyun ghou
 人和事	gnin ghou zy
 人搭事	gnin taq zy
 人品	zyun phin
@@ -32947,8 +32923,6 @@ VCD	vi shi di
 其出去	ji tshyuq chi
 他加祿語	tha cia loq gniu
 他化自在天	tha huo zy dze thi
-他和	tha ghou
-他和她	tha ghou tha
 他家	tha cia
 他日	tha zyuq
 他自己	tha zy ci
@@ -33008,7 +32982,6 @@ VCD	vi shi di
 仙樂	shi yuq
 代人	de gnin
 代償	de dzaon
-代數和	de su ghou
 代數學	de su yuq
 代數學基本定理	de su yuq ci pen din li
 代數幾何學	de su ci ghou yuq
@@ -34006,7 +33979,6 @@ VCD	vi shi di
 來華訪問	le wo faon ven
 來蘇水	le su syu
 來龍去脈	le lon chiu maq
-侈談和平	tshy dae ghou bin
 例行	li yin
 例行公事	li yin kon zy
 例行工作	li yin kon tsoq
@@ -34124,7 +34096,6 @@ VCD	vi shi di
 保留勒	pau lieu laq
 保羅三世	pau lou sae syu
 保薦人	pau ci gnin
-保衛和平	pau wei ghou bin
 保衛國家	pau wei koq cia
 保證人	pau cin gnin
 保護人	pau wu gnin
@@ -34164,7 +34135,6 @@ VCD	vi shi di
 信貸衍生產品	shin the yi sen tshae phin
 信貸衍生產品	shin de yi sen tshae phin
 信鳥	shin gniau
-修和	shieu ghou
 修指甲	shieu tsy khaq
 修水	shieu syu
 修水利	shieu syu li
@@ -34554,8 +34524,6 @@ VCD	vi shi di
 偏勒	phi laq
 偏長	phi jian
 偕行	ye yin
-做一天和尚	tsou iq thi ghou zaon
-做一天和尚撞一天鐘	tsou iq thi ghou zaon dzaon iq thi tson
 做一日和尚	tsou iq gniq ghou zaon
 做一日和尚撞一日鐘	tsou iq gniq ghou zaon dzaon iq gniq tson
 做下去	tsou gho chi
@@ -34610,8 +34578,6 @@ VCD	vi shi di
 停屍	din sy
 停屍房	din sy vaon
 停屍間	din sy kae
-停戰和約	din ci ghou iaq
-停戰和約	din tsoe ghou iaq
 停放勒	din faon laq
 停業處分	din gniq tshyu ven
 停止落來	din tsy loq le
@@ -35103,7 +35069,6 @@ VCD	vi shi di
 元長	gniu cian
 元長鄉	gniu cian shian
 元雜劇	gniu dzaq jiq
-元音和諧	gniu in ghou ye
 元魚	gniu ng
 兄妹	shion mei
 兄弟二人	shion di er gnin
@@ -35185,7 +35150,6 @@ VCD	vi shi di
 光化學	kuaon huo yuq
 光化學煙霧	kuaon huo yuq i vu
 光去	kuaon chi
-光和	kuaon ghou
 光圈範圍	kuaon chiu vae wei
 光大	kuaon da
 光大起來	kuaon da chi le
@@ -35258,7 +35222,6 @@ VCD	vi shi di
 克洛爾	khaq loq er
 克爾	khaq er
 克爾白	khaq er baq
-克羅地亞共和國	khaq lou di ia gon ghou koq
 克羅埃	khaq lou e
 克羅埃西亞	khaq lou e shi ia
 克耳文	khaq er ven
@@ -35377,7 +35340,6 @@ VCD	vi shi di
 內外交困	nei nga ciau khuen
 內學	nei yuq
 內家	nei cia
-內容和形式	nei yon ghou yin shiq
 內容搭形式	nei yon taq yin shiq
 內容簡介	nei yon ci ka
 內寄生	nei ci sen
@@ -35553,7 +35515,6 @@ VCD	vi shi di
 八分熟	paq fen zoq
 八分鐘	paq fen tson
 八分音符	paq fen in vu
-八千里路雲和月	paq chi li lu yun ghou yuq
 八大	paq da
 八大工業國組織	paq da kon gniq koq tsu ciq
 八大明王	paq da min waon
@@ -35685,7 +35646,6 @@ VCD	vi shi di
 六千個	loq chi goq
 六千個	loq chi ghoq
 六口之家	loq kheu tsy cia
-六和	loq ghou
 六妹	loq mei
 六家	loq cia
 六尾	loq vi
@@ -35714,18 +35674,7 @@ VCD	vi shi di
 共去	gon chi
 共同感覺	gon don kI ciuq
 共同被告人	gon don bi kau gnin
-共和	gon ghou
-共和制	gon ghou tsyu
-共和國	gon ghou koq
-共和政體	gon ghou cin thi
-共和曆	gon ghou liq
-共和歷史	gon ghou liq sy
-共和派	gon ghou pha
-共和縣	gon ghou yu
-共和軍	gon ghou ciun
-共和黨	gon ghou taon
 共和黨人	gon ghou taon gnin
-共和黨籍	gon ghou taon zhiq
 共商大計	gon saon da ci
 共從	gon dzon
 共樂	gon loq
@@ -36916,7 +36865,6 @@ VCD	vi shi di
 剛回去	kaon wei chi
 剛從	kaon dzon
 剛愎自用	kaon biq zy yon
-剛果民主共和國	kaon kou min tsyu gon ghou koq
 剛正不阿	kaon cin paq ou
 剛直不阿	kaon jiq paq ou
 剛背	kaon pei
@@ -37576,7 +37524,6 @@ VCD	vi shi di
 勵行	li yin
 勸世歌	chiu syu kou
 勸出去	chiu tshyuq chi
-勸和	chiu ghou
 勸回去	chiu wei chi
 勸學	chiu yuq
 勸學篇	chiu yuq phi
@@ -37714,7 +37661,6 @@ VCD	vi shi di
 北京語言大學	poq cin gniu yi da ghoq
 北京車展	poq cin tsho tsoe
 北京銀行	poq cin gnin ghaon
-北京鴨	poq cin ae
 北人	poq gnin
 北伐戰爭	poq vaq ci tsen
 北伐戰爭	poq vaq tsoe tsen
@@ -38087,8 +38033,6 @@ VCD	vi shi di
 卓爾不羣	tsoq er paq jiun
 卓著	tsoq tsyu
 協助人	yaq dzu gnin
-協和	yaq ghou
-協和醫院	yaq ghou i yu
 協方差	yaq faon tsha
 協會會長	yaq wei wei cian
 協洽	yaq chiaq
@@ -38110,12 +38054,8 @@ VCD	vi shi di
 南北戰爭	nEI poq ci tsen
 南北戰爭	nEI poq tsoe tsen
 南北朝	nEI poq jiau
-南北議和	nEI poq gni ghou
 南北長	nEI poq jian
 南去	nEI chi
-南和	nEI ghou
-南和縣	nEI ghou yu
-南喬治亞島和南桑威奇	nEI jiau dzyu ia tau ghou nEI saon uei ji
 南大	nEI da
 南宋人	nEI son gnin
 南山人壽	nEI sae zyun zhieu
@@ -38153,7 +38093,6 @@ VCD	vi shi di
 南長區	nEI jian chiu
 南門二	nEI men er
 南開大學	nEI khe da ghoq
-南非共和國	nEI fi gon ghou koq
 南非國家	nEI fi koq cia
 南魚座	nEI ng zou
 博世	poq syu
@@ -38358,3 +38297,817 @@ VCD	vi shi di
 厲行	li yin
 厲行節約	li yin ciq iaq
 厲鬼	li kuei
+去不了	chi paq liau
+去不得	chi paq taq
+去不成	chi paq jin
+去勿了	chi vaq liau
+去勿成	chi vaq jin
+去弗了	chi vaq liau
+去弗成	chi vaq jin
+去世	chiu syu
+去了	chi lei
+去任	chiu zyun
+去住	chi dzyu
+去你的	chiu gni tiq
+去信	chiu shin
+去借	chi cia
+去做	chi tsou
+去僞存真	chiu wei dzen cin
+去光水	chiu kuaon syu
+去其糟粕	chiu ji tsau phoq
+去函	chiu ghEI
+去到	chi tau
+去勢	chiu syu
+去北京	chi poq cin
+去去	chi chi
+去去就來	chi chi jieu le
+去取	chi tshyu
+去取之間	chi tshyu tsy ci
+去吃	chi chioq
+去向	chiu shian
+去向不明	chiu shian paq min
+去吧	chi pa
+去吸	chi shiq
+去哪	chi nha
+去哪裏	chi nha li
+去啊	chi gha
+去問	chi men
+去嗎	chi ma
+去𠲎	chi va
+去𠲎	chi vaq
+去弗	chi vaq
+去勿	chi vaq
+去國外	chi koq nga
+去垢劑	chiu keu ci
+去官	chiu kun
+去就	chi jieu
+去尾	chiu vi
+去年	chiu gni
+去年今天	chiu gni cin thi
+去年同期	chiu gni don ji
+去年底	chiu gni ti
+去年度	chiu gni du
+去年此時	chiu gni tshy zy
+去幹	chi kI
+去往	chi uaon
+去後	chi gheu
+去得	chi taq
+去得快	chi taq khua
+去念	chi nE
+去惡從善	chiu oq dzon zoe
+去想	chi shian
+去愛	chi e
+去打	chi tan
+去找	chi tsau
+去把	chi po
+去抓	chi tsa
+去拿	chi no
+去掉	chiu diau
+去接	chi ciq
+去換	chi wun
+去搜	chi seu
+去救	chi cieu
+去日	chi zyuq
+去日本	chi zyuq pen
+去暑	chiu syu
+去查	chi dzo
+去核	chiu ghaq
+去歲	chiu sei
+去死	chi sy
+去死吧	chi sy pa
+去死皮	chiu sy bi
+去殼	chiu khoq
+去氧核糖核酸	chiu yan ghaq daon ghaq soe
+去污	chiu u
+去污力	chiu u liq
+去污粉	chiu u fen
+去洗	chi shi
+去滰	chi jian
+去火	chiu hou
+去無蹤	chiu vu tson
+去無蹤	chiu Wu tson
+去煮	chi tsy
+去玩	chi wae
+去留	chiu lieu
+去病	chiu bin
+去的	chi tiq
+去個	chi goq
+去個	chi ghoq
+去皮	chiu bi
+去看	chi khI
+去睡	chi zei
+去睏	chi khuen
+去粗取精	chiu tshu tshyu cin
+去給	chi ciq
+去撥	chi paq
+去美國	chi mei koq
+去職	chiu ciq
+去聽	chi thin
+去臺	chi de
+去臺人員	chi de zyun yu
+去蕪存菁	chiu vu dzen cin
+去見	chi ci
+去角質	chiu koq ciq
+去買	chi ma
+去跟	chi ken
+去路	chiu lu
+去辦	chi bae
+去追	chi tsei
+去逛	chi guaon
+去趤	chi dan
+去逝	chiu zy
+去過	chi kou
+去那	chi nha
+去那裏	chi nha li
+去除	chiu dzyu
+去雄	chiu yon
+去雜去劣	chiu dzaq chiu liaq
+去面對	chi mi tei
+去頭	chiu deu
+去頭去尾	chiu deu chiu vi
+去香港	chi shian kaon
+去騎	chi ji
+參予	tshae yu
+參事	tshae zy
+參伍	tshae wu
+參佐	tshae tsou
+參保	tshae pau
+參假	tshae cia
+參兩院	tshae lian yu
+參前落後	tshae zhi loq gheu
+參加	tshae ko
+參加人	tshae ko gnin
+參加國	tshae ko koq
+參加完	tshae ko wun
+參加工作	tshae ko kon tsoq
+參加會議	tshae ko wei gni
+參加活動	tshae ko waq don
+參加爲	tshae ko wei
+參加獎	tshae ko cian
+參加者	tshae ko tse
+參加高考	tshae ko kau khau
+參劾	tshae ghaq
+參半	tshae pun
+參合	tshae ghaq
+參同契	tshae don chi
+參商	sen saon
+參團	tshae doe
+參堂	tshae daon
+參場	tshae jian
+參天	tshae thi
+參奏	tshae tseu
+參孫	tshae sen
+參宿	sen soq
+參宿七	sen soq chiq
+參將	tshae cian
+參展	tshae ci
+參展企業	tshae ci chi gniq
+參展商	tshae ci saon
+參展團	tshae ci doe
+參展企業	tshae tsoe chi gniq
+參展商	tshae tsoe saon
+參展團	tshae tsoe doe
+參差不齊	tshen tshy paq ji
+參差錯落	tshen tshy tshou loq
+參度	tshae du
+參悟	tshae nu
+參悟	tshae wu
+參戰	tshae ci
+參戰國	tshae ci koq
+參戰	tshae tsoe
+參戰國	tshae tsoe koq
+參拍	tshae phaq
+參拜	tshae pa
+參政	tshae cin
+參政權	tshae cin jiu
+參政議政	tshae cin gni cin
+參數	tshae su
+參會	tshae wei
+參朝	tshae ciau
+參本	tshae pen
+參校	tshae kau
+參演	tshae yi
+參照	tshae ciau
+參照卡	tshae ciau kha
+參照實行	tshae ciau zyuq yin
+參照物	tshae ciau vaq
+參照系	tshae ciau shi
+參看	tshae khI
+參知政事	tshae tsyu cin zy
+參破	tshae phou
+參禪	tshae zoe
+參綜	tshae tson
+參考	tshae khau
+參考值	tshae khau jiq
+參考價	tshae khau ko
+參考價值	tshae khau ko jiq
+參考價格	tshae khau ko kaq
+參考參考	tshae khau tshae khau
+參考座標	tshae khau zou piau
+參考性	tshae khau shin
+參考手冊	tshae khau shieu tshaq
+參考文獻	tshae khau ven shi
+參考書	tshae khau syu
+參考書目	tshae khau syu moq
+參考材料	tshae khau dze liau
+參考法	tshae khau faq
+參考消息	tshae khau shiau shiq
+參考系	tshae khau shi
+參考資料	tshae khau tsy liau
+參股	tshae ku
+參與	tshae yu
+參與人員	tshae yu zyun yu
+參與制	tshae yu tsyu
+參與度	tshae yu du
+參與感	tshae yu kI
+參與權	tshae yu jiu
+參與率	tshae yu liq
+參與者	tshae yu tse
+參茸	tshae dzon
+參薯	tshae zyu
+參衆兩院	tshae tson lian yu
+參見	tshae ci
+參見注	tshae ci tsyu
+參觀	tshae kun
+參觀券	tshae kun chiu
+參觀參觀	tshae kun tshae kun
+參觀團	tshae kun doe
+參觀團體	tshae kun doe thi
+參觀完	tshae kun wun
+參觀者	tshae kun tse
+參訂	tshae tin
+參訓	tshae shiun
+參訪	tshae faon
+參訪團	tshae faon doe
+參評	tshae bin
+參話頭	tshae wo deu
+參詳	tshae jian
+參請	tshae chin
+參謀	tshae meu
+參謀總部	tshae meu tson bu
+參謀總長	tshae meu tson cian
+參謀部	tshae meu bu
+參謀長	tshae meu cian
+參謁	tshae aq
+參譚	tshae dae
+參議	tshae gni
+參議員	tshae gni yu
+參議會	tshae gni wei
+參議院	tshae gni yu
+參變量	tshae pi lian
+參賽	tshae se
+參賽國	tshae se koq
+參賽權	tshae se jiu
+參賽片	tshae se phi
+參賽者	tshae se tse
+參賽資格	tshae se tsy kaq
+參賽選手	tshae se soe shieu
+參贊	tshae tsae
+參軍	tshae ciun
+參辰	sen zyun
+參辰卯酉	sen zyun mau yeu
+參辰日月	sen zyun zyuq yuq
+參透	tshae theu
+參道	tshae dau
+參選	tshae soe
+參選人	tshae soe gnin
+參酌	tshae ciaq
+參量	tshae lian
+參錯	tshae tshou
+參閱	tshae yuq
+參院	tshae yu
+參雜	tshae dzaq
+參靈	tshae lin
+參革	tshae kaq
+參預	tshae yu
+參頭	tshae deu
+參驗	tshae nE
+又乾又硬	yeu kI yeu ngan
+又乾又硬	yi kI yi ngan
+又來了	yeu le lei
+又來了	yi le lei
+又來了	yeu le laq
+又來了	yi le laq
+又去	yeu chi
+又去	yi chi
+又問	yeu men
+又問	yi men
+又回來了	yeu wei le lei
+又回來了	yeu wei le laq
+又回來了	yi wei le lei
+又回來了	yi wei le laq
+又大	yeu dou
+又大	yi dou
+又從	yeu dzon
+又從	yi dzon
+又是一個	yeu zy iq goq
+又是一個	yeu zy iq ghoq
+又是一個	yi zy iq goq
+又是一個	yi zy iq ghoq
+又沒	yeu maq
+又沒	yi maq
+又嘸沒	yeu mhiq
+又嘸沒	yi mhiq
+又被	yeu bei
+又被	yi bei
+又該	yeu ke
+又該	yi ke
+又進去	yeu cin chi
+又進去	yi cin chi
+及時行樂	jiq zy yin loq
+友好訪問	yeu hau faon ven
+友誼地久天長	yeu gni di cieu thi jian
+友誼天長地久	yeu gni thi jian di cieu
+友誼萬歲	yeu gni vae sei
+反了	fae laq
+反了	fae lei
+反人道罪	fae zyun dau zei
+反人道罪行	fae zyun dau zei yin
+反人類	fae zyun lei
+反人類罪	fae zyun lei zei
+反傳算法	fae dzOE soe faq
+反共宣傳	fae gon soe dzOE
+反其道而行	fae ji dau er yin
+反其道而行之	fae ji dau er yin tsy
+反分裂法	fae fen liq faq
+反動分子	fae don ven tsy
+反厄爾尼諾現象	fae aq er gni noq yi zhian
+反叛分子	fae bun ven tsy
+反右派鬥爭	fae yeu pha teu tsen
+反向而行	fae shian er yin
+反圍剿	fae wei jiau
+反圍攻	fae wei kon
+反射波	fae zhiq pou
+反射率	fae zhiq liq
+反差	fae tsho
+反應時間	fae in zy ci
+反托拉斯	fae thoq lha sy
+反托拉斯法案	fae thoq lha sy faq EI
+反日	fae zyuq
+反水	fae syu
+反照率	fae ciau liq
+反猶太	fae yeu tha
+反猶太主義	fae yeu tha tsyu gni
+反生	fae sen
+反生物戰	fae sen vaq ci
+反生物戰	fae sen vaq tsoe
+反省	fae shin
+反省起來	fae shin chi le
+反社會行爲	fae dzo wei ghan wei
+反科學	fae khou yuq
+反空降	fae khon ciaon
+反老還童	fae lau wae don
+反袁鬥爭	fae yu teu tsen
+反被	fae bei
+反訴狀	fae su zaon
+反躬自省	fae kon zy shin
+反間	fae ci
+反間計	fae ci ci
+反間諜	fae ci diaq
+反面人物	fae mi zyun vaq
+反面教員	fae mi ciau yu
+反面教材	fae mi ciau dze
+反革命分子	fae kaq min ven tsy
+反革命宣傳	fae kaq min soe dzOE
+反革命宣傳煽動罪	fae kaq min soe dzOE shi don zei
+反顏相向	fae yi shian shian
+叔丈人	soq jian gnin
+叔于田	soq iu di
+叔于田	soq yu di
+叔伯	soq paq
+叔伯	soq pan
+取了	tshyu laq
+取信於人	tshyu shin yu gnin
+取值範圍	tshyu jiq vae wei
+取去	tshyu chi
+取回去	tshyu wei chi
+取得大學學位	tshyu taq da ghoq yuq wei
+取得聯繫	tshyu taq li shi
+取捨之間	tshyu so tsy ci
+取材	tshyu dze
+取材於	tshyu dze yu
+取材自	tshyu dze zy
+取樂	tshyu loq
+取水	tshyu syu
+取自	tshyu zy
+取長補短	tshyu jian pu toe
+受不了	zhieu paq liau
+受勿了	zhieu vaq liau
+受弗了	zhieu vaq liau
+受之有愧	zhieu tsy yeu khuei
+受了	zhieu laq
+受人	zhieu gnin
+受人之託	zhieu gnin tsy thoq
+受任	zhieu zyun
+受保人	zhieu pau gnin
+受傷了	zhieu saon liau
+受刑人	zhieu yin gnin
+受制於	zhieu tsyu yu
+受制於人	zhieu tsyu yu gnin
+受命于天	zhieu min yu thi
+受夠了	zhieu keu laq
+受孕率	zhieu yun liq
+受害人	zhieu ghe gnin
+受得了	zhieu taq liau
+受損率	zhieu sen liq
+受教	zhieu ciau
+受教育	zhieu ciau yuq
+受益人	zhieu iq gnin
+受着	zhieu dzoq
+受着	zhieu zyuq
+受勒	zhieu laq
+受禮人	zhieu li gnin
+受胎率	zhieu the liq
+受自	zhieu zy
+受訓人	zhieu shiun gnin
+受託人	zhieu thoq gnin
+受贈人	zhieu dzen gnin
+受降	zhieu ghaon
+受降儀式	zhieu ghaon gni shiq
+受降典禮	zhieu ghaon ti li
+受難日	zhieu nae gniq
+叛亂分子	bun loe ven tsy
+叛教	bun ciau
+叢生	dzon sen
+叢生葉	dzon sen yiq
+叢集	dzon jiq
+叢雜	dzon dzaq
+口乾	kheu kI
+口乾舌燥	kheu kI zhiq sau
+口交	kheu ciau
+口傳	kheu dzOE
+口傳心授	kheu dzOE shin zhieu
+口味	kheu vi
+口味淡	kheu vi dae
+口味重	kheu vi dzon
+口水	kheu syu
+口水戰	kheu syu ci
+口水戰	kheu syu tsoe
+口水直流	kheu syu jiq lieu
+口燥脣乾	kheu sau zyun kI
+口生蓮花	kheu san li huo
+口碑流傳	kheu pei lieu dzOE
+口耳	kheu er
+口耳相傳	kheu er shian dzOE
+口腔衛生	kheu chian wei sen
+口舌之爭	kheu zhiq tsy tsen
+口血未乾	kheu shiuq vi kI
+口頭文學	kheu deu ven yuq
+口鼻	kheu biq
+口齒生香	kheu tshy sen shian
+古交	ku ciau
+古交市	ku ciau zy
+古人	ku gnin
+古人類	ku zyun lei
+古代人	ku de gnin
+古傑拉爾	ku jiq lha er
+古傑拉特邦	ku jiq lha daq paon
+古典學派	ku ti yuq pha
+古典文學	ku ti ven yuq
+古典樂	ku ti yuq
+古典音樂	ku ti in yuq
+古吉拉特	ku ciq lha daq
+古吉拉特邦	ku ciq lha daq paon
+古埃及	ku e jiq
+古天樂	ku thi loq
+古屋傳奇	ku oq dzOE ji
+古巴人	ku po gnin
+古文字學	ku ven zy yuq
+古文學	ku ven yuq
+古新世	ku shin syu
+古早人	ku tsau gnin
+古根海姆	ku ken he m
+古樂	ku yuq
+古氣候學	ku chi gheu yuq
+古爾班通古特沙漠	ku er pae thon ku daq so moq
+古爾邦節	ku er paon ciq
+古生代	ku sen de
+古生物	ku sen vaq
+古生物學	ku sen vaq yuq
+古生物學家	ku sen vaq yuq cia
+古盜鳥	ku dau gniau
+古龍水	ku lon syu
+句型分析	ciu yin fen shiq
+句型練習	ciu yin li zhiq
+句子成分	ciu tsy jin ven
+句法分析	ciu faq fen shiq
+另一個	lin iq goq
+另一個	lin iq ghoq
+另一個人	lin iq goq gnin
+另一個人	lin iq ghoq gnin
+另加	lin ko
+另成一家	lin jin iq cia
+另行	lin yin
+另行安排	lin yin EI ba
+另行通知	lin yin thon tsyu
+另開生面	lin khe sen mi
+叨咕	tau gu
+叨任	thau zyun
+叨光	thau kuaon
+叨名	thau min
+叨在知己	thau dze tsyu ci
+叨擾	thau zhiau
+叨攬	thau lae
+叨教	thau ciau
+叨沓	thau daq
+叨濫	thau lae
+叨竊	thau chiq
+叨被	thau bei
+叨貼	thau thiaq
+叨賴	thau lae
+叨陪	thau bei
+叨餂	thau thi
+只借不還	ciq cia paq wae
+只借勿還	ciq cia vaq wae
+只借弗還	ciq cia vaq wae
+只停	ciq din
+只傳	ciq dzOE
+只傳出	ciq dzOE tshyuq
+只分	ciq fen
+只加	ciq ko
+只加到	ciq ko tau
+只占卜	ciq ci poq
+只去	ciq chi
+只可意會不可言傳	ciq khou i wei paq khou yi dzOE
+只和	ciq ghou
+只問	ciq men
+只問	ciq ven
+只回去	ciq wei chi
+只好去	ciq hau chi
+只學	ciq ghoq
+只學到	ciq ghoq tau
+只學會	ciq ghoq wei
+只屬於	ciq dzoq yu
+只差	ciq tsho
+只從	ciq dzon
+只怕有心人	ciq pho yeu shin gnin
+只想去	ciq shian chi
+只戴	ciq ta
+只支持	ciq tsy dzy
+只教	ciq kau
+只於	ciq yu
+只是個	ciq zy goq
+只是個	ciq zy ghoq
+只是爲了	ciq zy wei laq
+只有出的氣沒有進的氣	ciq yeu tshyuq tiq chi maq yeu cin tiq chi
+只此一家別無分店	ciq tshy iq cia biq vu fen ti
+只此一家別無分店	ciq tshy iq cia biq Wu fen ti
+只求無過	ciq jieu vu kou
+只求無過	ciq jieu Wu kou
+只求自保	ciq jieu zy pau
+只爭旦夕	ciq tsan tae zhiq
+只爭朝夕	ciq tsan ciau zhiq
+只爲了	ciq wei laq
+只知其一不知其二	ciq tsyu ji iq paq tsyu ji gni
+只知有己不知有人	ciq tsyu yeu ci paq tsyu yeu gnin
+只管去	ciq kun chi
+只肯去	ciq khen chi
+只被	ciq bei
+只覺	ciq ciuq
+只覺得	ciq koq taq
+只覺着	ciq koq dzoq
+只覺着	ciq koq zyuq
+只認錢不認人	ciq gnin ji paq gnin gnin
+只過去	ciq kou chi
+只重衣衫不重人	ciq dzon i sae paq dzon gnin
+只防	ciq vaon
+只防	ciq baon
+只降	ciq ciaon
+只降到	ciq ciaon tau
+只限於	ciq ghae yu
+叫上去	ciau zaon chi
+叫下去	ciau gho chi
+叫落去	ciau loq chi
+叫了	ciau lei
+叫了	ciau laq
+叫人	ciau gnin
+叫個	ciau goq
+叫個	ciau ghoq
+叫出去	ciau tshyuq chi
+叫去	ciau chi
+叫回去	ciau wei chi
+叫牌	ciau ba
+叫着	ciau dzoq
+叫着	ciau zyuq
+叫勒	ciau laq
+叫的	ciau tiq
+叫進去	ciau cin chi
+叫過去	ciau kou chi
+叫鬼	ciau ciu
+召開大會	zhiau khe da wei
+召集	zhiau jiq
+召集人	zhiau jiq gnin
+召集令	zhiau jiq lin
+叮人	tin gnin
+可上去	khou zaon chi
+可下去	khou gho chi
+可不行	khou paq yin
+可也	khou gha
+可也沒	khou gha maq
+可也沒有	khou gha maq yeu
+可也	khou ya
+可也沒	khou ya maq
+可也沒有	khou ya maq yeu
+可乾製	khou kI tsyu
+可了不得	khou liau paq taq
+可以分爲	khou yi fen wei
+可以增加	khou yi tsen ko
+可以拿	khou yi no
+可以理解	khou yi li cia
+可以用於	khou yi yon yu
+可以申請	khou yi syun chin
+可供參考	khou kon tshae khau
+可信任	khou shin zyun
+可傳	khou dzOE
+可先去	khou shi chi
+可免於	khou mi yu
+可再生	khou tse sen
+可再生原	khou tse sen gniu
+可再生資源	khou tse sen tsy gniu
+可分	khou fen
+可分爲	khou fen wei
+可加	khou ko
+可加可減	khou ko khou kae
+可口可樂	khou kheu khou loq
+可口可樂公司	khou kheu khou loq kon sy
+可嘉	khou cia
+可執行	khou ciq yin
+可大	khou da
+可大可小	khou da khou shiau
+好大	hau dou
+好大好小	hau dou hau shiau
+可好了	khou hau lei
+可學	khou ghoq
+可小可大	khou shiau khou da
+好小好大	hau shiau hau dou
+可少不了	khou shiau paq liau
+可從	khou dzon
+可數集	khou su jiq
+可更新資源	khou ken shin tsy gniu
+可曾	khou dzen
+可望	khou vaon
+可望不可即	khou vaon paq khou ciq
+可望取勝者	khou vaon tshyu shin tse
+可望在	khou vaon dze
+可望而不可即	khou vaon er paq khou ciq
+可望而不可及	khou vaon er paq khou jiq
+可樂	khou loq
+可樂餅	khou loq pin
+可沒	khou maq
+可沒有	khou maq yeu
+可申請	khou syun chin
+可疑人物	khou gni zyun vaq
+可着	khou ciq
+可耕地	khou kan di
+可能沒有	khou nen maq yeu
+嘸數嘸沒	mh su mhiq
+可能發生	khou nen faq sen
+可行	khou yin
+可行之道	khou yin tsy dau
+可行性	khou yin shin
+可行性研究	khou yin shin GNi cieu
+可被	khou bei
+可裂變材料	khou liq pi dze liau
+可解	khou ka
+可貴	khou kuei
+可貴性	khou kuei shin
+可造之材	khou zau tsy dze
+可進去	khou cin chi
+可過去	khou kou chi
+可長可短	khou jian khou toe
+可防	khou vaon
+可防	khou baon
+可隨着	khou zei dzoq
+可隨着	khou zei zyuq
+可隨勒	khou zei laq
+好隨勒	hau zei laq
+好乾製	hau kI tsyu
+好分爲	hau fen wei
+好增加	hau tsen ko
+好拿	hau no
+好理解	hau li cia
+好理解	hau li ka
+好用於	hau yon yu
+好申請	hau syun chin
+好信任	hau shin zyun
+好先去	hau shi chi
+好免於	hau mi yu
+好分	hau fen
+好加	hau ko
+好加好減	hau ko hau kae
+好去	hau chi
+好去	hau chiu
+好執行	hau ciq yin
+好學	hau ghoq
+好從	hau dzon
+好着	hau ciq
+好解	hau ka
+好進去	hau cin chi
+好過去	hau kou chi
+好長好短	hau jian hau toe
+好防	hau vaon
+好防	hau baon
+叱吒樂壇	chiq tso loq dae
+史丹佛大學	sy tae vaq da ghoq
+史丹福大學	sy tae foq da ghoq
+史傳	sy dzOE
+史傳小說	sy dzOE shiau syuq
+史前人	sy zhi gnin
+史學	sy yuq
+史學家	sy yuq cia
+史學界	sy yuq ka
+史家	sy cia
+史家莊	sy cia tsaon
+史托姆	sy thoq m
+史蒂文生	sy ti ven sen
+右傾分子	yeu chin ven tsy
+右派分子	yeu pha ven tsy
+右眉	yeu mei
+右耳	yeu er
+右行	yeu yin
+右鍵菜單	yeu ji tshe tae
+司務長	sy vu cian
+司務長	sy Wu cian
+司司長	sy sy cian
+司售人員	sy jieu zyun yu
+司法人員	sy faq zyun yu
+司法行政	sy faq yin cin
+司法解釋	sy faq ka shiq
+司法部長	sy faq bu cian
+司法院長	sy faq yu cian
+司長	sy cian
+司馬遼太郎	sy mo liau tha laon
+叼着	tiau dzoq
+叼着	tiau zyuq
+叼勒	tiau laq
+吁了	shiu laq
+吃一塹長一智	chioq iq chi cian iq tsyu
+吃下去	chioq gho chi
+吃落去	chioq loq chi
+吃不了	chioq paq liau
+吃不了兜着走	chioq paq liau teu dzoq tseu
+吃不了兜着走	chioq paq liau teu zyuq tseu
+吃勿了	chioq vaq liau
+吃勿了兜勒走	chioq vaq liau teu laq tseu
+吃弗了	chioq vaq liau
+吃弗了兜勒走	chioq vaq liau teu laq tseu
+吃勿落	chioq vaq loq
+吃勿落兜勒走	chioq vaq loq teu laq tseu
+吃弗落	chioq vaq loq
+吃弗落兜勒走	chioq vaq loq teu laq tseu
+吃乾了	chioq kI liau
+吃乾醋	chioq kI tshu
+吃了	chioq laq
+吃了定心丸	chioq laq din shin wun
+吃了秤砣	chioq laq chin dou
+吃了飯	chioq laq vae
+吃人	chioq gnin
+吃人不吐骨頭	chioq gnin paq thu kuaq deu
+吃人勿吐骨頭	chioq gnin vaq thu kuaq deu
+吃人弗吐骨頭	chioq gnin vaq thu kuaq deu
+吃人蟲	chioq gnin dzon
+吃來吃去	chioq le chioq chi
+吃個	chioq goq
+吃個	chioq ghoq
+吃傷了	chioq saon lei
+吃去	chioq chi
+吃吧	chioq pa
+吃吶	chioq naq
+吃啞巴虧	chioq o po khuei
+吃喝玩樂	chioq haq wae loq
+吃壞	chioq ua
+吃多了	chioq tou lei
+吃大戶	chioq da wu
+吃大虧	chioq dou khuei
+吃大鍋飯	chioq da kou vae
+吃奶	chioq na
+吃奶之力	chioq na tsy liq
+吃奶的力氣	chioq na tiq liq chi
+吃奶的氣力	chioq na tiq chi liq
+吃奶個力氣	chioq na goq liq chi
+吃奶個氣力	chioq na goq chi liq
+吃奶個力氣	chioq na ghoq liq chi
+吃奶個氣力	chioq na ghoq chi liq
+吃幾碗乾飯	chioq ci un kI vae
+吃得了	chioq taq liau
+吃敗仗	chioq ba cian
+吃水果	chioq syu kou
+吃水線	chioq syu shi
+吃水量	chioq syu lian
+吃眼前虧	chioq ngae zhi khuei
+吃虧	chioq khuei
+吃虧上當	chioq khuei zaon taon
+吃虧就是佔便宜	chioq khuei jieu zy ci bi gni
+吃豆乾	chioq deu kI
+吃豆人	chioq deu gnin
+吃長齋	chioq jian tsa
+吃飯時間	chioq vae zy ci
+吃飽了	chioq pau laq
+吃飽了	chioq pau lei
+吃飽了飯撐的	chioq pau laq vae tshan tiq
+吃飽撐着	chioq pau tshan dzoq
+吃飽撐着	chioq pau tshan zyuq
+吃飽撐勒	chioq pau tshan laq
+吃飽沒事幹	chioq pau maq zy kI
+吃魚	chioq ng
+吃鴨蛋	chioq aq dae
