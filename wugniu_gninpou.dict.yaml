@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.01.12"
+version: "2020.01.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10599,6 +10599,7 @@ use_preset_vocabulary: true
 馥	foq
 輹	foq
 複	foq
+復	foq
 㠅	foq
 覆	foq
 𥷱	foq
