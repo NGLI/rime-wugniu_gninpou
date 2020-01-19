@@ -9,12 +9,12 @@
 #
 # 使用以下項目：
 #
-# - 寧波方言資料整理 (CC BY 4.0)
-#   https://github.com/shinzoqchiuq/gninpou-dialect
-# - 寧波話字表 (Apache 2.0)
-#   https://github.com/shinzoqchiuq/gninpou-dictionary
+# - 甬江小片方言資料整理 (CC BY 4.0)
+#   https://github.com/ionkaon/data
+# - 甬江話字表 (Apache 2.0)
+#   https://github.com/ionkaon/dictionary
 # - 寧波話【八股文】 (LGPLv3)
-#   https://github.com/shinzoqchiuq/gninpou-essay
+#   https://github.com/ionkaon/gninpou-essay
 
 ---
 name: wugniu_gninpou
