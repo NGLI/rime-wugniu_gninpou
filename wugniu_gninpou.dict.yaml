@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.01.19"
+version: "2020.01.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -585,6 +585,7 @@ use_preset_vocabulary: true
 箄	pi
 吡	pi
 芘	pi
+彼	pi	5%
 扁	pi
 匾	pi
 鯿	pi
@@ -1151,6 +1152,8 @@ use_preset_vocabulary: true
 姿	ci	0%
 枝	ci	0%
 几	ci
+机	ci
+幾	ci
 譏	ci
 肌	ci
 機	ci
@@ -1230,7 +1233,6 @@ use_preset_vocabulary: true
 鷄	ci
 鶏	ci
 鳮	ci
-幾	ci
 蟣	ci
 己	ci
 𠮯	ci
@@ -1394,6 +1396,7 @@ use_preset_vocabulary: true
 𥉻	chi
 覷	chi	0%
 䀙	chi
+砌	chi
 契	chi
 碶	chi
 氣	chi
@@ -1436,7 +1439,6 @@ use_preset_vocabulary: true
 畤	ji
 前	ji	0%
 奇	ji
-崎	ji
 琦	ji
 騎	ji
 敧	ji
@@ -1542,6 +1544,7 @@ use_preset_vocabulary: true
 𠲹	ji
 跽	ji
 𢺵	ji
+崎	ji
 健	ji
 踺	ji
 荐	ji
@@ -1892,6 +1895,7 @@ use_preset_vocabulary: true
 訁	yi
 炎	yi
 沿	yi
+鉛	yi	0%
 阽	yi
 雁	yi
 鴈	yi
@@ -1909,9 +1913,9 @@ use_preset_vocabulary: true
 鳶	yi
 演	yi
 縯	yi
+豔	yi
 艷	yi
 豓	yi
-豔	yi
 涯	yi
 崖	yi
 冶	yi
@@ -1992,6 +1996,7 @@ use_preset_vocabulary: true
 腌	i
 醃	i
 懨	i
+燕	i
 椅	i
 猗	i
 倚	i
@@ -2031,7 +2036,6 @@ use_preset_vocabulary: true
 宴	i
 讌	i
 醼	i
-燕	i
 鷰	i
 咽	i
 嚥	i
@@ -2071,6 +2075,7 @@ use_preset_vocabulary: true
 鯆	bu
 䩉	bu
 莆	bu
+荸	bu	5%
 部	bu
 篰	bu
 蔀	bu
@@ -2218,7 +2223,7 @@ use_preset_vocabulary: true
 兎	thu
 菟	thu
 堍	thu
-唾	thu
+唾	thu	5%
 芏	thu
 徒	du
 屠	du
@@ -2305,7 +2310,7 @@ use_preset_vocabulary: true
 艣	lu
 樐	lu
 氌	lu
-賂	lu
+賂	lu	5%
 輅	lu
 路	lu
 潞	lu
@@ -2712,7 +2717,7 @@ use_preset_vocabulary: true
 輭	gniu
 語	gniu
 馭	gniu	1%
-芋	gniu	5%
+芋	gniu	1%
 靴	shiu
 鞾	shiu
 虛	shiu
@@ -2899,6 +2904,7 @@ use_preset_vocabulary: true
 襬	pa
 把	pa	5%
 拜	pa
+垻	pa
 爸	pa
 伯	pa	0%
 派	pha
@@ -3006,7 +3012,7 @@ use_preset_vocabulary: true
 釵	tsha
 扠	tsha
 攃	tsha
-插	tsha	0%
+# 插	tsha	0%
 扯	tsha	0%
 撦	tsha	0%
 蔡	tsha
@@ -3068,7 +3074,7 @@ use_preset_vocabulary: true
 外	nga
 𤘅	nga
 伢	nga
-雁	nga
+雁	nga	5%
 鴈	nga
 𩂢	nga
 𤘅	nka
@@ -3083,7 +3089,7 @@ use_preset_vocabulary: true
 鞋	gha
 合	gha	0%
 鞵	gha
-還	gha
+還	gha	10%
 啊	gha
 也	gha
 捱	a
@@ -3466,6 +3472,7 @@ use_preset_vocabulary: true
 竈	tsau
 灶	tsau
 罩	tsau
+躁	tsau
 抄	tshau
 鈔	tshau
 操	tshau
@@ -3663,9 +3670,9 @@ use_preset_vocabulary: true
 㑃	au
 媼	au
 襖	au
+懊	au
 奧	au
 澳	au
-懊	au
 燠	au
 墺	au
 𩼈	au
@@ -3692,7 +3699,6 @@ use_preset_vocabulary: true
 膀	po	0%
 霸	po
 壩	po
-垻	po
 𩨜	po
 灞	po
 𩈆	pho
@@ -3722,10 +3728,12 @@ use_preset_vocabulary: true
 蟆	mo
 蟇	mo
 媽	mo	0%
+嬤	mo
 馬	mo
 碼	mo
 螞	mo
 瑪	mo
+嗎	mo
 鰢	mo
 獁	mo
 駡	mo
@@ -3757,7 +3765,7 @@ use_preset_vocabulary: true
 朶	do	0%
 哚	do	5%
 大	do	0%
-唾	do
+唾	do	5%
 哪	no
 囡	no	0%
 拿	no
@@ -3849,7 +3857,7 @@ use_preset_vocabulary: true
 𧋊	so
 硰	so
 賒	so
-稍	so
+稍	so	10%
 蓑	so
 簑	so
 啥	so	73981
@@ -3896,6 +3904,7 @@ use_preset_vocabulary: true
 邷	ngo
 砑	ngo
 啞	nko	0%
+霞	gho	0%
 厦	gho
 廈	gho
 下	gho
@@ -3903,6 +3912,7 @@ use_preset_vocabulary: true
 嗄	gho
 ⿰飠夏	gho
 夏	gho
+暇	gho	1%
 丫	o
 吖	o
 椏	o
@@ -4136,7 +4146,7 @@ use_preset_vocabulary: true
 鍬	chiau
 鍫	chiau
 帩	chiau
-鞘	chiau	5%
+鞘	chiau	1%
 敲	chiau	6%
 橇	chiau
 磽	chiau
@@ -4290,6 +4300,7 @@ use_preset_vocabulary: true
 斆	yau
 斅	yau
 燿	yau
+要	iau
 腰	iau
 闄	iau
 葽	iau
@@ -4305,7 +4316,6 @@ use_preset_vocabulary: true
 窅	iau
 窈	iau
 鷕	iau
-要	iau
 瓜	kuo
 胍	kuo
 媧	kuo
@@ -5200,8 +5210,8 @@ use_preset_vocabulary: true
 顓	tsoe
 篅	tsoe
 𩤚	tsoe
-纂	tsoe
 朘	tsoe
+纂	tsoe
 篹	tsoe
 纘	tsoe
 籫	tsoe
@@ -5343,6 +5353,7 @@ use_preset_vocabulary: true
 州	cieu
 洲	cieu
 揪	cieu
+啾	cieu
 盩	cieu
 肘	cieu
 鳩	cieu
@@ -5636,7 +5647,7 @@ use_preset_vocabulary: true
 陂	pei
 貝	pei
 唄	pei
-彼	pei	5%
+彼	pei
 俾	pei
 髀	pei
 背	pei
@@ -6072,7 +6083,7 @@ use_preset_vocabulary: true
 桂	kuei
 癐	kuei
 鄶	kuei
-逵	kuei
+逵	kuei	5%
 貴	kuei
 憒	kuei
 鱖	kuei
@@ -6145,6 +6156,7 @@ use_preset_vocabulary: true
 昬	huei	0%
 睢	huei
 倠	huei
+詼	huei
 悔	huei
 毀	huei
 毁	huei
@@ -6456,6 +6468,7 @@ use_preset_vocabulary: true
 堝	kou
 蝸	kou
 柯	kou	1%
+過	kou
 果	kou
 菓	kou
 蜾	kou
@@ -6464,7 +6477,6 @@ use_preset_vocabulary: true
 錁	kou
 餜	kou
 管	kou	0%
-過	kou
 個	kou	6%
 箇	kou	6%
 个	kou	6%
@@ -6814,7 +6826,6 @@ use_preset_vocabulary: true
 瘊	gheu
 睺	gheu
 骺	gheu
-魟	ghon
 厚	gheu
 後	gheu
 后	gheu
@@ -6899,7 +6910,7 @@ use_preset_vocabulary: true
 睜	tsan
 撑	tsan	5%
 撐	tsan	5%
-掙	tsan
+掙	tsan	5%
 㬹	tsan
 撑	tshan
 撐	tshan
@@ -7074,7 +7085,7 @@ use_preset_vocabulary: true
 譲	gnian
 𥽬	gnian
 亮	gnian	0%
-樣	gnian	0%
+樣	gnian	1%
 様	gnian	0%
 商	shian	5%
 相	shian
@@ -7326,7 +7337,7 @@ use_preset_vocabulary: true
 鏜	daon
 膛	daon
 摚	daon
-蕩	daon
+蕩	daon	90888
 盪	daon
 碭	daon
 𥸈	daon
@@ -7429,9 +7440,9 @@ use_preset_vocabulary: true
 牕	tshaon
 窓	tshaon
 窻	tshaon
+創	tshaon
 惝	tshaon
 闖	tshaon
-創	tshaon
 剏	tshaon
 剙	tshaon
 賶	tshaon
@@ -7795,7 +7806,7 @@ use_preset_vocabulary: true
 鋎	wun
 𧚁	wun
 緩	wun
-援	wun	0%
+援	wun	5%
 換	wun
 逭	wun
 漶	wun
@@ -7810,7 +7821,7 @@ use_preset_vocabulary: true
 盌	un
 琬	un
 踠	un
-涴	un
+涴	un	0%
 皖	un
 莞	un
 烏	un	1%
@@ -8119,12 +8130,14 @@ use_preset_vocabulary: true
 哽	ken
 亙	ken
 亘	ken
+庚	ken	5%
 賡	ken
 鶊	ken
 耿	ken	6%
 鯁	ken	6%
 㾘	ken
 綆	ken
+梗	ken	5%
 茛	ken
 𣈶	ken
 暅	ken
@@ -8132,6 +8145,7 @@ use_preset_vocabulary: true
 硜	khen
 誙	khen
 㰢	khen
+坑	khen	0%
 肯	khen
 肎	khen
 啃	khen
@@ -8212,7 +8226,7 @@ use_preset_vocabulary: true
 砰	phin
 品	phin
 聘	phin
-併	phin	5%
+併	phin	1%
 娉	phin
 平	bin
 評	bin
@@ -8431,12 +8445,6 @@ use_preset_vocabulary: true
 佂	cin
 砧	cin
 碪	cin
-珍	cin
-珎	cin
-診	cin
-真	cin
-眞	cin
-禛	cin
 甄	cin
 薽	cin
 精	cin
@@ -8450,6 +8458,12 @@ use_preset_vocabulary: true
 晶	cin
 旌	cin
 搢	cin
+珍	cin
+珎	cin
+診	cin
+真	cin
+眞	cin
+禛	cin
 金	cin
 釒	cin
 今	cin
@@ -8481,6 +8495,12 @@ use_preset_vocabulary: true
 𤇏	cin
 巹	cin
 姫	cin
+寖	cin
+井	cin
+肼	cin
+盡	cin	0%
+儘	cin	0%
+堇	cin
 疹	cin
 胗	cin
 畛	cin
@@ -8488,12 +8508,6 @@ use_preset_vocabulary: true
 袗	cin
 紾	cin
 抮	cin
-寖	cin
-井	cin
-肼	cin
-盡	cin	0%
-儘	cin	0%
-堇	cin
 儆	cin
 警	cin
 緊	cin
@@ -8581,7 +8595,7 @@ use_preset_vocabulary: true
 卿	chin
 岑	jin
 忱	jin
-沈	jin
+沈	jin	5%
 沉	jin
 霃	jin
 𩂸	jin
@@ -8709,6 +8723,7 @@ use_preset_vocabulary: true
 姙	gnin
 賃	gnin
 佞	gnin
+仍	gnin
 擰	gnin
 齗	gnin
 認	gnin
@@ -8763,6 +8778,7 @@ use_preset_vocabulary: true
 昕	shin
 忻	shin
 歆	shin
+興	shin
 審	shin
 嬸	shin
 瀋	shin
@@ -8789,7 +8805,6 @@ use_preset_vocabulary: true
 姓	shin
 信	shin
 囟	shin
-興	shin
 盛	zhin
 繩	zhin
 澠	zhin
@@ -8975,6 +8990,7 @@ use_preset_vocabulary: true
 睏	khuen
 𦄐	khuen
 壼	khuen
+潰	guen	1%
 滾	guen	0%
 滚	guen	0%
 昏	huen
@@ -9465,7 +9481,7 @@ use_preset_vocabulary: true
 従	dzon
 叢	dzon
 崇	dzon
-戎	dzon
+戎	dzon	10%
 𥬪	dzon
 茙	dzon
 駥	dzon
@@ -9562,6 +9578,7 @@ use_preset_vocabulary: true
 紅	ghon
 洪	ghon
 虹	ghon
+魟	ghon
 宏	ghon
 紘	ghon
 㢬	ghon
@@ -9620,6 +9637,7 @@ use_preset_vocabulary: true
 蛩	jion
 煢	jion
 睘	jion
+戎	gnion
 絨	gnion
 羢	gnion
 毧	gnion
@@ -9706,7 +9724,7 @@ use_preset_vocabulary: true
 柏	paq
 栢	paq
 伯	paq
-泊	paq	0%
+# 泊	paq	0%
 袹	paq
 𦯉	paq
 掰	paq
@@ -9736,6 +9754,7 @@ use_preset_vocabulary: true
 珀	phaq
 泊	phaq
 舶	phaq
+迫	phaq	1%
 蘗	phaq
 𤖼	phaq
 擘	phaq
@@ -9920,6 +9939,7 @@ use_preset_vocabulary: true
 鋱	thaq
 忑	thaq
 慝	thaq
+拓	thaq	5%
 突	thaq	5%
 搭	thaq	5%
 踏	daq
@@ -9977,8 +9997,8 @@ use_preset_vocabulary: true
 擸	laq
 爉	laq
 ⿰舟巤	laq
-攔	laq	0%
 迾	laq
+攔	laq	0%
 勒	laq	45114
 了	laq
 嘞	laq
@@ -10455,6 +10475,7 @@ use_preset_vocabulary: true
 矻	khuaq
 環	guaq	0%
 搰	guaq
+刮	guaq	0%
 忽	huaq
 惚	huaq
 笏	huaq
@@ -10574,6 +10595,7 @@ use_preset_vocabulary: true
 模	moq	0%
 鏌	moq
 瘼	moq
+膜	moq	5%
 目	moq
 苜	moq
 鉬	moq
@@ -10589,6 +10611,7 @@ use_preset_vocabulary: true
 楘	moq
 麻	moq	0%
 摩	moq	0%
+麼	moq
 福	foq
 幅	foq
 蝠	foq
@@ -10777,7 +10800,7 @@ use_preset_vocabulary: true
 䃚	tshoq
 嗾	tshoq
 閦	tshoq
-撮	tshoq
+撮	tshoq	10%
 矠	tshoq
 臅	tshoq
 𠭴	tshoq
@@ -10941,7 +10964,7 @@ use_preset_vocabulary: true
 酷	khoq
 牿	khoq
 殼	khoq
-個	goq	1607642
+個	goq	3215286
 箇	goq
 个	goq
 擱	goq
@@ -11014,7 +11037,7 @@ use_preset_vocabulary: true
 㬦	ghoq
 彠	ghoq
 矱	ghoq
-個	ghoq	3215286
+個	ghoq	1607642
 箇	ghoq
 个	ghoq
 屋	oq
@@ -11385,6 +11408,7 @@ use_preset_vocabulary: true
 䜉	chiq
 㯃	chiq
 赤	chiq
+尺	chiq	0%
 斥	chiq
 戚	chiq
 慼	chiq
@@ -11685,6 +11709,7 @@ use_preset_vocabulary: true
 益	iq
 縊	iq
 溢	iq
+隘	iq
 壹	iq
 噎	iq
 揖	iq
@@ -28898,6 +28923,12 @@ use_preset_vocabulary: true
 翬翟	huei diq
 要塞	iau se
 句讀	ciu deu
+虛與委蛇	shiu yu uei yi
+鉛山	yi sae
+通通樣樣	thon thon gnian gnian
+統統樣樣	thon thon gnian gnian
+像模像樣	zhian moq zhian yan
+拓碑	thaq pei
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
