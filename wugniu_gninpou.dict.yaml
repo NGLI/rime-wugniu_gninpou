@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.08"
+version: "2020.02.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7062,7 +7062,7 @@ use_preset_vocabulary: true
 象	jian	0%
 丈	jian
 杖	jian
-張	jian	5%
+張	jian	1%
 滰	jian
 ⿰氵丈	jian
 犟	jian
@@ -25791,15 +25791,24 @@ use_preset_vocabulary: true
 一幢箱子
 一幢碗
 一幢書
-一張紙頭
-兩張紙頭
-三張紙頭
-一張眠牀
-兩張眠牀
-三張眠牀
-一張桌凳
-兩張桌凳
-三張桌凳
+一張紙頭	iq jian tsy deu
+兩張紙頭	lian jian tsy deu
+三張紙頭	sae jian tsy deu
+一張眠牀	iq jian mi zaon
+兩張眠牀	lian jian mi zaon
+三張眠牀	sae jian mi zaon
+一張桌凳	iq jian a ten
+兩張桌凳	lian jian a ten
+三張桌凳	sae jian a ten
+一張紙頭	iq cian tsy deu
+兩張紙頭	lian cian tsy deu
+三張紙頭	sae cian tsy deu
+一張眠牀	iq cian mi zaon
+兩張眠牀	lian cian mi zaon
+三張眠牀	sae cian mi zaon
+一張桌凳	iq cian a ten
+兩張桌凳	lian cian a ten
+三張桌凳	sae cian a ten
 一潮鵝
 一潮蜂
 手一搖
@@ -25941,12 +25950,18 @@ use_preset_vocabulary: true
 該幢箱子
 該幢碗
 該幢書
-該張紙頭
-該兩張紙頭
-該張眠牀
-該兩張眠牀
-該張桌凳
-該兩張桌凳
+該張紙頭	kiq jian tsy deu
+該兩張紙頭	kiq lian jian tsy deu
+該張眠牀	kiq jian mi zaon
+該兩張眠牀	kiq lian jian mi zaon
+該張桌凳	kiq jian tsoq ten
+該兩張桌凳	kiq lian jian tsoq ten
+該張紙頭	kiq cian tsy deu
+該兩張紙頭	kiq lian cian tsy deu
+該張眠牀	kiq cian mi zaon
+該兩張眠牀	kiq lian cian mi zaon
+該張桌凳	kiq cian tsoq ten
+該兩張桌凳	kiq lian cian tsoq ten
 該一繃繃子
 該一畈田
 該一餅豆腐
@@ -26036,9 +26051,12 @@ use_preset_vocabulary: true
 該一幢箱子
 該一幢碗
 該一幢書
-該一張紙頭
-該一張眠牀
-該一張桌凳
+該一張紙頭	kiq iq jian tsy deu
+該一張眠牀	kiq iq jian mi zaon
+該一張桌凳	kiq iq jian tsoq ten
+該一張紙頭	kiq iq cian tsy deu
+該一張眠牀	kiq iq cian mi zaon
+該一張桌凳	kiq iq cian tsoq ten
 看戲文
 戲文假	shi ven ko
 情節真
@@ -26565,6 +26583,7 @@ use_preset_vocabulary: true
 黃狗遊河	waon kI yeu ghou
 黃狗遊河	waon keu yeu ghou
 出張嘴巴	tshyuq jian tsyu po
+出張嘴巴	tshyuq cian tsyu po
 六月六
 黃狗貓⿰氵丈肉	wu kI mae jian gnioq
 黃狗貓⿰氵丈肉	waon kI mae jian gnioq
@@ -28816,6 +28835,74 @@ use_preset_vocabulary: true
 放映	faon ian
 傴背	on pei
 塑子	su tsy
+一張	iq jian
+一張張	iq jian jian
+兩張	lian jian
+三張	sae jian
+四張	sy jian
+五張	ng jian
+六張	loq jian
+七張	chiq jian
+八張	paq jian
+九張	cieu jian
+十張	zyuq jian
+一百張	iq paq jian
+兩百張	lian paq jian
+半張	pun jian
+單張	tae jian
+單張頭	tae jian deu
+多張	tou jian
+一張照片	iq jian ciau phi
+兩張照片	lian jian ciau phi
+該張照片	kiq jian ciau phi
+該一張照片	kiq iq jian ciau phi
+該兩張照片	kiq lian jian ciau phi
+做張	tsou jian
+各張	koq jian
+幾張	ci jian
+多少張	tou shiau jian
+整張	cin jian
+整張頭	cin jian deu
+每張	mei jian
+每一張	mei iq jian
+該張	kiq jian
+該一張	kiq iq jian
+該兩張	kiq lian jian
+蕩張	daon jian
+一張	iq cian
+一張張	iq cian cian
+兩張	lian cian
+三張	sae cian
+四張	sy cian
+五張	ng cian
+六張	loq cian
+七張	chiq cian
+八張	paq cian
+九張	cieu cian
+十張	zyuq cian
+一百張	iq paq cian
+兩百張	lian paq cian
+半張	pun cian
+單張	tae cian
+單張頭	tae cian deu
+多張	tou cian
+一張照片	iq cian ciau phi
+兩張照片	lian cian ciau phi
+該張照片	kiq cian ciau phi
+該一張照片	kiq iq cian ciau phi
+該兩張照片	kiq lian cian ciau phi
+做張	tsou cian
+各張	koq cian
+幾張	ci cian
+多少張	tou shiau cian
+整張	cin cian
+整張頭	cin cian deu
+每張	mei cian
+每一張	mei iq cian
+該張	kiq cian
+該一張	kiq iq cian
+該兩張	kiq lian cian
+蕩張	daon cian
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -40079,7 +40166,6 @@ VCD	vi shi di
 單元頻率	tae gniu bin liq
 單名數	tae min su
 單向行駛	tae shian yin sy
-單張	tae jian
 單張匯票	tae jian wei phiau
 單從	tae dzon
 單循環	tae zyun wae
