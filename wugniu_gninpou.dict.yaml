@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.11"
+version: "2020.02.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -621,6 +621,7 @@ use_preset_vocabulary: true
 偏	phi
 篇	phi
 甂	phi
+蝙	phi	20%
 否	phi	0%
 庀	phi
 圮	phi
@@ -28903,6 +28904,29 @@ use_preset_vocabulary: true
 該一張	kiq iq cian
 該兩張	kiq lian cian
 蕩張	daon cian
+柯橋	kou jiau
+柯橋	khou jiau
+柯橋區	kou jiau chiu
+柯橋區	khou jiau chiu
+放映	faon in
+鴨梨	aq li
+參差	tshen tshy
+墨翟	moq diq
+翟子悲	diq tsy pei
+翬翟	huei diq
+要塞	iau se
+句讀	ciu deu
+虛與委蛇	shiu yu uei yi
+鉛山	yi sae
+通通樣樣	thon thon gnian gnian
+統統樣樣	thon thon gnian gnian
+像模像樣	zhian moq zhian yan
+拓碑	thaq pei
+虧煞	tshu saq
+蝙蝠老鼠	phi foq lau tsy
+蝙蝠	phi foq
+蝙蝠老鼠開會𡀂	phi foq lau tsy khe wei lei
+蝙蝠老鼠開會了	phi foq lau tsy khe wei lei
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -28995,24 +29019,6 @@ use_preset_vocabulary: true
 下工夫	gho kon fu
 下本	gho pen
 養生	ian sen
-柯橋	kou jiau
-柯橋	khou jiau
-柯橋區	kou jiau chiu
-柯橋區	khou jiau chiu
-放映	faon in
-鴨梨	aq li
-參差	tshen tshy
-墨翟	moq diq
-翟子悲	diq tsy pei
-翬翟	huei diq
-要塞	iau se
-句讀	ciu deu
-虛與委蛇	shiu yu uei yi
-鉛山	yi sae
-通通樣樣	thon thon gnian gnian
-統統樣樣	thon thon gnian gnian
-像模像樣	zhian moq zhian yan
-拓碑	thaq pei
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
