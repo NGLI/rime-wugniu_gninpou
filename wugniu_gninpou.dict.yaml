@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.19"
+version: "2020.02.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4967,6 +4967,7 @@ use_preset_vocabulary: true
 暫	dzae
 站	dzae
 賺	dzae
+𧸖	dzae
 綻	dzae
 棧	dzae
 㻵	dzae
@@ -42250,6 +42251,7 @@ VCD	vi shi di
 大客車	dou khaq tsho
 大宴	da i
 大宴賓客	da i pin khaq
+大家	da cia
 大家一起	do ko iq chi
 大家一淘	do ko iq dau
 大家分享	do ko fen shian
