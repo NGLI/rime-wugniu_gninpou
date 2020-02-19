@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.18"
+version: "2020.02.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -28115,6 +28115,7 @@ use_preset_vocabulary: true
 中河街道
 飛虹新村
 永達路
+宋詔橋	son theu jiau
 宋詔橋	son thei jiau
 飛虹立交橋	fi ghon liq ciau jiau
 鄞州汽車總站
@@ -37160,6 +37161,10 @@ VCD	vi shi di
 加沙	ko so
 加沙	cia so
 加沙地帶	cia so di ta
+加油	cia yeu
+加油吧	cia yeu pa
+加油啊	cia yeu gha
+加油啊	cia yeu a
 加油	ko yeu
 加油吧	ko yeu pa
 加油啊	ko yeu gha
