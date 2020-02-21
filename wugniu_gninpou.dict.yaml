@@ -3068,7 +3068,7 @@ use_preset_vocabulary: true
 嘎	ga
 嘠	ga
 茄	ga
-懈	ga
+懈	ga	0%
 解	ga	1%
 𨮂	ga
 捱	nga
@@ -4663,7 +4663,7 @@ use_preset_vocabulary: true
 冶	ye	5%
 娾	ye
 械	ye
-懈	ye	5%
+懈	ye	10%
 邂	ye
 䉏	ye
 廨	ye
@@ -29959,9 +29959,6 @@ VCD	vi shi di
 不愧不怍	paq khuei paq dzoq
 不愧是	paq khuei zy
 不愧爲	paq khuei wei
-不懈	paq ye
-不懈努力	paq ye nu liq
-不懈怠	paq ye de
 不應該	paq in ke
 勿應該	vaq in ke
 弗應該	vaq in ke
@@ -30887,10 +30884,8 @@ VCD	vi shi di
 主從	tsyu dzon
 主打品牌	tsyu tan phin ba
 主抓	tsyu tsa
-主持	tsyu dzy
+主持人	tsyu ji gnin
 主持人	tsyu dzy gnin
-主持會議	tsyu dzy wei gni
-主持正義	tsyu dzy cin gni
 主教	tsyu ciau
 主教團	tsyu ciau doe
 主教練	tsyu ciau li
@@ -34073,18 +34068,17 @@ VCD	vi shi di
 保家	pau cia
 保家衛國	pau cia wei koq
 保密防諜	pau miq vaon diaq
-保持	pau dzy
-保持一致	pau dzy iq tsy
-保持剋制	pau dzy khaq tsyu
-保持原貌	pau dzy gniu mau
-保持在	pau dzy dze
+保持來	pau ji le
 保持來	pau dzy le
+保持勒	pau ji laq
 保持勒	pau dzy laq
-保持有	pau dzy yeu
+保持着	pau ji dzoq
+保持着	pau ji zyuq
 保持着	pau dzy dzoq
 保持着	pau dzy zyuq
+保持聯繫	pau ji li shi
 保持聯繫	pau dzy li shi
-保持警惕	pau dzy cin thiq
+保持身材	pau ji shin dze
 保持身材	pau dzy shin dze
 保教	pau ciau
 保爾	pau er
@@ -34983,7 +34977,9 @@ VCD	vi shi di
 僱人	ku gnin
 僱個	ku goq
 僱個	ku ghoq
-僵持	cian dzy
+僵持不下	cian ji paq gho
+僵持勿落	cian ji vaq loq
+僵持弗落	cian ji vaq loq
 僵持不下	cian dzy paq gho
 僵持勿落	cian dzy vaq loq
 僵持弗落	cian dzy vaq loq
@@ -37636,7 +37632,6 @@ VCD	vi shi di
 匠人	zhian gnin
 匡時濟世	khuaon zy ci syu
 匪人	fi gnin
-匪懈	fi ye
 匯出行	wei tshyuq ghaon
 匯差	wei tsha
 匯業財經集團	wei gniq dze cin jiq doe
@@ -38745,7 +38740,6 @@ VCD	vi shi di
 只怕有心人	ciq pho yeu shin gnin
 只想去	ciq shian chi
 只戴	ciq ta
-只支持	ciq tsy dzy
 只教	ciq kau
 只於	ciq yu
 只是個	ciq zy goq
@@ -40348,6 +40342,7 @@ VCD	vi shi di
 四仁	sy zyun
 四伏	sy voq
 四個人	sy goq gnin
+四個堅持	sy goq ci ji
 四個堅持	sy goq ci dzy
 四個字	sy goq zy
 四個月	sy goq yuq
@@ -41267,19 +41262,16 @@ VCD	vi shi di
 堂妹	daon mei
 堂姐妹	daon cia mei
 堅守自盜	ci shieu zy dau
-堅持	ci dzy
+堅持下去	ci ji gho chi
 堅持下去	ci dzy gho chi
+堅持落去	ci ji loq chi
 堅持落去	ci dzy loq chi
-堅持不下	ci dzy paq gho
-堅持不懈	ci dzy paq ye
-堅持不懈	ci dzy paq ya
-堅持不渝	ci dzy paq yu
-堅持到底	ci dzy tau ti
-堅持己見	ci dzy ci ci
+堅持着	ci ji dzoq
+堅持着	ci ji zyuq
 堅持着	ci dzy dzoq
 堅持着	ci dzy zyuq
+堅持勒	ci ji laq
 堅持勒	ci dzy laq
-堅持走	ci dzy tseu
 堅甲利兵	ci ciaq li pin
 堆上去	tei zaon chi
 堆了	tei laq
@@ -41683,8 +41675,6 @@ VCD	vi shi di
 外長	nga cian
 外防	nga vaon
 外高加索	nga kau cia soq
-夙夜匪懈	soq ya fi ye
-夙夜匪懈	soq ya fi ya
 夙日	soq zyuq
 夙願以償	soq gniu yi dzaon
 多了	tou laq
@@ -41963,7 +41953,6 @@ VCD	vi shi di
 大力加強	da liq cia jian
 大力士	da liq zy
 大力推進	da liq thei cin
-大力支持	da liq tsy dzy
 大力發展	da liq faq ci
 大力發展	da liq faq tsoe
 大力神	da liq zyun
