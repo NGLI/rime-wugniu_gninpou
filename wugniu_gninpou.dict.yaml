@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.20"
+version: "2020.02.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17543,7 +17543,7 @@ use_preset_vocabulary: true
 屯頭	den deu
 聚隊	zyu dei	578
 屯隊	den dei	55
-大家	doq ko
+大家	doq ko	578
 躉注	ten tsyu	578
 侅煞	khI saq	55
 侅煞	khe saq	55
@@ -20008,7 +20008,7 @@ use_preset_vocabulary: true
 螞蟥	mo waon
 螞蟻	mo gni
 朵辮子	to bi tsy	55
-大家	do ko
+大家	do ko	68020
 拿周	no cieu	55
 拿穩	no uen
 鷓鴣	tso ku
@@ -28929,6 +28929,7 @@ use_preset_vocabulary: true
 蝙蝠	phi foq
 蝙蝠老鼠開會𡀂	phi foq lau tsy khe wei lei
 蝙蝠老鼠開會了	phi foq lau tsy khe wei lei
+大家	da cia	55
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -42251,7 +42252,6 @@ VCD	vi shi di
 大客車	dou khaq tsho
 大宴	da i
 大宴賓客	da i pin khaq
-大家	da cia
 大家一起	do ko iq chi
 大家一淘	do ko iq dau
 大家分享	do ko fen shian
