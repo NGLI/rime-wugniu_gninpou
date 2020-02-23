@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.21"
+version: "2020.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -29052,6 +29052,7 @@ use_preset_vocabulary: true
 興寧橋燒雞
 片片鴨	phi phi ae
 缸鴨狗	kaon aq keu
+樓茂記	leu meu ci
 趙大有	jiau da yeu
 撥我	paq ngo
 撥我	poq ngo
@@ -40848,7 +40849,6 @@ VCD	vi shi di
 圖像用戶介面	du zhian yon wu cia mi
 圖利他人	du li tha zyun
 圖拉	du lha
-圖文並茂	du ven bin mau
 圖書館學	du syu kun yuq
 圖爾	du er
 圖爾庫	du er khu
