@@ -2551,8 +2551,8 @@ use_preset_vocabulary: true
 莒	ciu
 車	ciu	5%
 硨	ciu
-龜	ciu
-亀	ciu
+龜	ciu	1%
+亀	ciu	1%
 琚	ciu
 裾	ciu
 椐	ciu
@@ -6048,8 +6048,8 @@ use_preset_vocabulary: true
 鮭	kuei
 硅	kuei
 邽	kuei
-龜	kuei	6%
-亀	kuei	6%
+龜	kuei
+亀	kuei
 歸	kuei
 帰	kuei
 巋	kuei
@@ -29137,6 +29137,7 @@ use_preset_vocabulary: true
 淒咽	chi iq
 聲絲氣咽	shin sy chi iq
 闐咽	di iq
+龜茲	chieu dzy
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -30633,8 +30634,6 @@ VCD	vi shi di
 勿飽和脂肪酸	vaq pau ghou tsy faon soe
 弗飽和	vaq pau ghou
 弗飽和脂肪酸	vaq pau ghou tsy faon soe
-不龜手藥	paq kuei shieu yaq
-不龜藥	paq kuei yaq
 丑日	chieu gniq
 且聽下回分解	chie thin gho wei fen ka
 且聽下回分解	chie thin gho wei fen cia
@@ -31219,7 +31218,6 @@ VCD	vi shi di
 九大	cieu da
 九大行星	cieu da yin shin
 九官鳥	cieu kun gniau
-九尾龜	cieu vi kuei
 九嶷山	cieu gni sae
 九日	cieu gniq
 九歲	cieu syu
@@ -35864,8 +35862,6 @@ VCD	vi shi di
 六萬個	loq vae goq
 六親不認	loq chin paq gnin
 六集	loq jiq
-六龜	loq kuei
-六龜鄉	loq kuei shian
 共分	gon fen
 共去	gon chi
 共同感覺	gon don kI ciuq
@@ -35916,7 +35912,6 @@ VCD	vi shi di
 冉冉上昇	zoe zoe zaon shin
 冉有	zoe yeu
 冉有僕	zoe yeu boq
-冊府元龜	tshaq fu gniu kuei
 再上去	tse zaon chi
 再下去	tse gho chi
 再落去	tse loq chi
