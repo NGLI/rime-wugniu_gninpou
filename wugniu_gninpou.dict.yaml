@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.23"
+version: "2020.02.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11715,6 +11715,7 @@ use_preset_vocabulary: true
 壹	iq
 噎	iq
 揖	iq
+咽	iq	5%
 邑	iq
 唈	iq
 挹	iq
@@ -28930,6 +28931,22 @@ use_preset_vocabulary: true
 蝙蝠老鼠開會𡀂	phi foq lau tsy khe wei lei
 蝙蝠老鼠開會了	phi foq lau tsy khe wei lei
 大家	da cia	55
+乾咽	kI iq
+人物闐咽	zyun vaq di iq
+凝咽	gnin iq
+哽咽	ken iq
+哽哽咽咽	ken ken iq iq
+啞咽	o iq
+嗚咽	u iq
+嗚嗚咽咽	u u iq iq
+填咽	di iq
+幽咽	ieu iq
+悲咽	pei iq
+抽咽	chieu iq
+氣咽聲絲	chi iq shin sy
+淒咽	chi iq
+聲絲氣咽	shin sy chi iq
+闐咽	di iq
 奧魚	au ng
 肉肉	knion knion
 襖襖
