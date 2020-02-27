@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.25"
+version: "2020.02.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -29342,6 +29342,103 @@ use_preset_vocabulary: true
 野狐臉	ya wu li	418
 孲𤘅	nk nka	578
 魚鰓	ng se
+吳語
+吳語學堂	wu gniu ghoq daon
+吳語協會
+吳協
+拼音方案
+通用吳語拼音
+吳語拼音
+吳拼
+協會式
+學堂式	ghoq daon shiq
+協會式吳語拼音
+學堂式吳語拼音	ghoq daon shiq wu gniu phin in
+協會式吳拼
+學堂式吳拼	ghoq daon shiq wu phin
+輸入法
+輸入方案
+吳語拼音輸入法
+吳語拼音輸入方案
+吳拼輸入法
+吳拼輸入方案
+太湖片
+北部吳語
+北吳
+毗陵小片
+毗陵
+蘇滬嘉小片
+蘇滬嘉
+上海言話	zaon he ghae wo
+上海閒話
+苕溪小片
+杭州小片
+臨紹小片
+臨紹
+南部吳語
+南吳
+台州片
+甌江片
+金衢片
+上麗片
+宣州吳語
+宣吳
+宣州片
+甬江小片
+明州小片
+甬江言話
+甬江閒話
+寧波話
+寧波言話	gnin pou ghae wo
+寧波閒話
+寧波言話	gnin poq ghae wo
+寧波閒話	gnin poq ghae wo
+官話
+北方方言
+普通言話	phu thon ghae wo
+普通閒話
+東北官話
+東北言話	ton poq ghae wo
+東北閒話
+膠遼官話
+冀魯官話
+中原官話
+蘭銀官話
+西南官話
+四川言話	sy tshoe ghae wo
+四川閒話
+江淮官話
+晉語
+南方方言
+閩語
+閩南語
+閩南話
+潮汕話
+潮汕言話	jiau sae ghae wo
+潮汕閒話
+燕話
+閩東語
+閩東話
+閩北語
+閩北話
+閩中語
+莆仙語
+莆仙話
+粵語
+廣東言話	kuaon ton ghae wo
+廣東閒話
+平話
+湘語
+贛語
+客家話
+客家言話	khaq cia ghae wo
+客家閒話
+外國言話	nga koq ghae wo
+外國閒話
+日本言話	zyuq pen ghae wo
+日本閒話
+韓國言話	ghEI koq ghae wo
+韓國閒話
 K	khe
 k	khe
 老K牌	lau k ba
