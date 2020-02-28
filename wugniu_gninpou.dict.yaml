@@ -5750,7 +5750,7 @@ use_preset_vocabulary: true
 眛	mei
 沬	mei
 𩎟	mei
-妹	mhei
+妹	mhei	5%
 𣍐	vei
 浮	vei	0%
 堆	tei
@@ -10199,7 +10199,7 @@ use_preset_vocabulary: true
 袼	kaq
 𪄎	kaq
 介	kaq
-溢	kaq
+溢	kaq	5%
 革	kaq
 緙	kaq
 𢯹	kaq
@@ -29029,6 +29029,102 @@ use_preset_vocabulary: true
 放映	faon ian
 傴背	on pei
 塑子	su tsy
+柯橋	kou jiau
+柯橋	khou jiau
+柯橋區	kou jiau chiu
+柯橋區	khou jiau chiu
+放映	faon in
+鴨梨	aq li
+參差	tshen tshy
+墨翟	moq diq
+翟子悲	diq tsy pei
+翬翟	huei diq
+要塞	iau se
+句讀	ciu deu
+虛與委蛇	shiu yu uei yi
+鉛山	yi sae
+通通樣樣	thon thon gnian gnian
+統統樣樣	thon thon gnian gnian
+像模像樣	zhian moq zhian yan
+拓碑	thaq pei
+虧煞	tshu saq
+蝙蝠老鼠	phi foq lau tsy
+蝙蝠	phi foq
+蝙蝠老鼠開會𡀂	phi foq lau tsy khe wei lei
+蝙蝠老鼠開會了	phi foq lau tsy khe wei lei
+大家	da cia	55
+乾咽	kI iq
+人物闐咽	zyun vaq di iq
+凝咽	gnin iq
+哽咽	ken iq
+哽哽咽咽	ken ken iq iq
+啞咽	o iq
+嗚咽	u iq
+嗚嗚咽咽	u u iq iq
+填咽	di iq
+幽咽	ieu iq
+悲咽	pei iq
+抽咽	chieu iq
+氣咽聲絲	chi iq shin sy
+淒咽	chi iq
+聲絲氣咽	shin sy chi iq
+闐咽	di iq
+龜茲	chieu dzy
+溢出	kaq tshyuq
+溢出來	kaq tshyuq le
+溢出來𡀂	kaq tshyuq le lei
+溢出來了	kaq tshyuq le lei
+溢出𡀂	kaq tshyuq lei
+溢出了	kaq tshyuq lei
+溢進	kaq cin
+溢進咋	kaq cin dza
+奧魚	au ng
+肉肉	knion knion
+襖襖
+茶茶	go go
+飯飯	mhan mhan
+𩜠𩜠	mhan mhan
+喫飯飯	chioq mhan mhan
+喫𩜠𩜠	chioq mhan mhan
+唔唔	nk nk
+⿸尸查唔唔	dza nk nk
+⿸尸咋唔唔	dza nk nk
+撒唔唔	dza nk nk
+射唔唔	dza nk nk
+𠑞唔唔	dza nk nk
+㕶㕶	nk nk
+⿸尸查㕶㕶	dza nk nk
+⿸尸咋㕶㕶	dza nk nk
+撒㕶㕶	dza nk nk
+射㕶㕶	dza nk nk
+𠑞㕶㕶	dza nk nk
+尿尿	syu syu
+⿸尸查尿尿	dza syu syu
+⿸尸咋尿尿	dza syu syu
+撒尿尿	dza syu syu
+射尿尿	dza syu syu
+𠑞尿尿	dza syu syu
+哚哚尿	to to syu
+⿸尸查哚哚尿	dza to to syu
+⿸尸咋哚哚尿	dza to to syu
+撒哚哚尿	dza to to syu
+射哚哚尿	dza to to syu
+𠑞哚哚尿	dza to to syu
+手手
+⿰氵丈手手	jian shieu shieu
+滰手手
+嘎嘎鴨	ga ga ae
+嘵嘵豬	gniau gniau tsyu
+咩咩羊
+汪汪狗
+爬爬蟲
+啞啞船	nko nko ZOE
+棚棚船
+𠺢𠺢雞	ko ko ci
+𠺢𠺢嗡	ko ko on
+喵嗚貓
+娘胡貓
+阿旺牛
 一張	iq jian
 一張張	iq jian jian
 兩張	lian jian
@@ -29097,94 +29193,6 @@ use_preset_vocabulary: true
 該一張	kiq iq cian
 該兩張	kiq lian cian
 蕩張	daon cian
-柯橋	kou jiau
-柯橋	khou jiau
-柯橋區	kou jiau chiu
-柯橋區	khou jiau chiu
-放映	faon in
-鴨梨	aq li
-參差	tshen tshy
-墨翟	moq diq
-翟子悲	diq tsy pei
-翬翟	huei diq
-要塞	iau se
-句讀	ciu deu
-虛與委蛇	shiu yu uei yi
-鉛山	yi sae
-通通樣樣	thon thon gnian gnian
-統統樣樣	thon thon gnian gnian
-像模像樣	zhian moq zhian yan
-拓碑	thaq pei
-虧煞	tshu saq
-蝙蝠老鼠	phi foq lau tsy
-蝙蝠	phi foq
-蝙蝠老鼠開會𡀂	phi foq lau tsy khe wei lei
-蝙蝠老鼠開會了	phi foq lau tsy khe wei lei
-大家	da cia	55
-乾咽	kI iq
-人物闐咽	zyun vaq di iq
-凝咽	gnin iq
-哽咽	ken iq
-哽哽咽咽	ken ken iq iq
-啞咽	o iq
-嗚咽	u iq
-嗚嗚咽咽	u u iq iq
-填咽	di iq
-幽咽	ieu iq
-悲咽	pei iq
-抽咽	chieu iq
-氣咽聲絲	chi iq shin sy
-淒咽	chi iq
-聲絲氣咽	shin sy chi iq
-闐咽	di iq
-龜茲	chieu dzy
-奧魚	au ng
-肉肉	knion knion
-襖襖
-茶茶	go go
-飯飯	mhan mhan
-𩜠𩜠	mhan mhan
-喫飯飯	chioq mhan mhan
-喫𩜠𩜠	chioq mhan mhan
-唔唔	nk nk
-⿸尸查唔唔	dza nk nk
-⿸尸咋唔唔	dza nk nk
-撒唔唔	dza nk nk
-射唔唔	dza nk nk
-𠑞唔唔	dza nk nk
-㕶㕶	nk nk
-⿸尸查㕶㕶	dza nk nk
-⿸尸咋㕶㕶	dza nk nk
-撒㕶㕶	dza nk nk
-射㕶㕶	dza nk nk
-𠑞㕶㕶	dza nk nk
-尿尿	syu syu
-⿸尸查尿尿	dza syu syu
-⿸尸咋尿尿	dza syu syu
-撒尿尿	dza syu syu
-射尿尿	dza syu syu
-𠑞尿尿	dza syu syu
-哚哚尿	to to syu
-⿸尸查哚哚尿	dza to to syu
-⿸尸咋哚哚尿	dza to to syu
-撒哚哚尿	dza to to syu
-射哚哚尿	dza to to syu
-𠑞哚哚尿	dza to to syu
-手手
-⿰氵丈手手	jian shieu shieu
-滰手手
-嘎嘎鴨	ga ga ae
-嘵嘵豬	gniau gniau tsyu
-咩咩羊
-汪汪狗
-爬爬蟲
-啞啞船	nko nko ZOE
-棚棚船
-𠺢𠺢雞	ko ko ci
-𠺢𠺢嗡	ko ko on
-喵嗚貓
-娘胡貓
-阿旺牛
 借借看	cia cia khe
 停停看	din din khe
 動動看	don don khe
@@ -29224,6 +29232,62 @@ use_preset_vocabulary: true
 相相看	shian shian khe
 䞁䞁看	i i khe
 派派看	pha pha khe
+忒弗
+忒弗像話
+忒弗像樣
+忒勿
+忒勿像樣
+忒燥
+忒低
+忒呆
+忒冷
+忒厚
+忒壞
+忒多
+忒大	thou dou
+忒大	thaq dou
+忒好	thou hau
+忒小
+忒少
+忒尖
+忒推板
+忒忙
+忒快
+忒急
+忒忖
+忒歡喜
+忒慢
+忒懶
+忒早
+忒晏
+忒油
+忒深
+忒淺
+忒溼
+忒熱
+忒瘦
+忒短
+忒笨
+忒着力
+忒緊
+忒老
+忒胖
+忒苦
+忒貴	thou ciu
+忒貴	thaq ciu
+忒近
+忒遠
+忒遲
+忒重
+忒長	thou jian
+忒長	thaq jian
+忒閒
+忒陡
+忒難
+忒飽
+忒高
+忒鬆
+忒鹹
 明朝	min jiau
 肚子	du tsy
 生活	sen waq
@@ -29718,7 +29782,6 @@ VCD	vi shi di
 七大	chiq da
 七大工業國集團	chiq da kon gniq koq jiq doe
 七大洲	chiq da cieu
-七姊妹星團	chiq ci mei shin doe
 七層架構	chiq zen cia keu
 七帶石斑魚	chiq ta zaq pae ng
 七扭八歪	chiq gnieu paq hua
@@ -29749,7 +29812,6 @@ VCD	vi shi di
 三人行必有我師	sae zyun yin piq yeu ngo sy
 三仁	sae zyun
 三伏天	sae voq thi
-三保太監	sae pau tha kae
 三個世界	sae goq syu ka
 三個人	sae goq gnin
 三個代表	sae goq de piau
@@ -31294,8 +31356,6 @@ VCD	vi shi di
 乘間	jin ci
 乙丙橡膠	iq pin zhian ciau
 乙二醇	iq er zyun
-乙太	iq tha
-乙太網路	iq tha maon lu
 乙未	iq vi
 乙狀結腸	iq dzaon ciq jian
 乙種維生素	iq tson vi sen su
@@ -32287,16 +32347,7 @@ VCD	vi shi di
 亞利安娜	ia li EI na
 亞力山大帝	ia liq sae da ti
 亞哈斯	ia ha sy
-亞太	ia tha
-亞太區	ia tha chiu
 亞太國家	ia tha koq cia
-亞太地區	ia tha di chiu
-亞太營運中心	ia tha yin yun tson shin
-亞太經合會	ia tha cin ghaq wei
-亞太經合組織	ia tha cin ghaq tsu ciq
-亞太經濟合作會議	ia tha cin ci ghaq tsoq wei gni
-亞太經濟合作組織	ia tha cin ci ghaq tsoq tsu ciq
-亞太金融中心	ia tha cin yon tson shin
 亞拉巴馬	ia lha pa ma
 亞拉巴馬州	ia lha pa ma cieu
 亞歐大陸	ia eu da loq
@@ -32309,11 +32360,8 @@ VCD	vi shi di
 亞洲人	ia cieu gnin
 亞洲國家	ia cieu koq cia
 亞洲大學	ia cieu da ghoq
-亞洲太平洋地區	ia cieu tha bin yan di chiu
 亞洲最大	ia cieu tsei da
 亞洲頂大	ia cieu ten da
-亞洲與太平洋	ia cieu yu tha bin yan
-亞洲與太平洋地區	ia cieu yu tha bin yan di chiu
 亞洲開發銀行	ia cieu khe faq gnin ghaon
 亞特蘭大	ia daq lae da
 亞米拿達	ia mi na daq
@@ -32328,7 +32376,6 @@ VCD	vi shi di
 亞齊省	ia ji san
 亡了	vaon liau
 亡了	vaon lei
-亡妹	vaon mei
 交上	kau zaon
 交上來	kau zaon le
 交上去	kau zaon chi
@@ -33350,7 +33397,6 @@ VCD	vi shi di
 令儂	lin nou
 令出必行	lin tshyuq piq yin
 令出惟行	lin tshyuq vi yin
-令妹	lin mei
 令尊大人	lin tsen da zyun
 令望	lin vaon
 令牌	lin ba
@@ -33368,10 +33414,6 @@ VCD	vi shi di
 以和爲貴	yi ghou wei kuei
 以埃	yi e
 以天下爲己任	yi thi gho wei ci zyun
-以太	yi tha
-以太網	yi tha maon
-以太網絡	yi tha maon loq
-以太網絡端口	yi tha maon loq toe kheu
 以寡擊衆	yi kua ciq tson
 以寡敵衆	yi kua diq tson
 以小人之心	yi shiau zyun tsy shin
@@ -33793,7 +33835,6 @@ VCD	vi shi di
 作鬼臉	tsoq kuei li
 作鳥獸散	tsoq gniau shieu sae
 佞人	gnin gnin
-你太	gni tha
 你是爲了	gni zy wei liau
 你死	gni sy
 你死我活	gni sy ngo waq
@@ -35376,7 +35417,6 @@ VCD	vi shi di
 元代人	gniu de gnin
 元任	gniu zyun
 元嘉	gniu cia
-元太祖	gniu tha tsu
 元旦假期	gniu tae ko ji
 元智大學	gniu tsyu da ghoq
 元曲四大家	gniu chiuq sy da cia
@@ -35389,10 +35429,8 @@ VCD	vi shi di
 元長鄉	gniu cian shian
 元雜劇	gniu dzaq jiq
 元魚	gniu ng
-兄妹	shion mei
 兄弟二人	shion di er gnin
 兄弟兩人	shion di lian gnin
-兄弟姐妹	shion di cia mei
 兄弟姊妹	shion di ci mei
 兄長	shion cian
 充分	tshon ven
@@ -35407,7 +35445,6 @@ VCD	vi shi di
 充塞着	tshon saq zyuq
 充斥	tshon chiq
 充斥市面	tshon chiq zy mi
-充溢	tshon iq
 充滿希望	tshon mun shi vaon
 充滿着	tshon mun dzoq
 充滿着	tshon mun zyuq
@@ -35616,7 +35653,6 @@ VCD	vi shi di
 兔子尾巴長不了	thu tsy mi po jian paq liau
 兔死狐悲	thu sy wu pei
 兔死狗烹	thu sy keu phan
-党太尉	taon tha uei
 兜攬生意	teu lae san i
 兜率天	teu saq thi
 兜率天宮	teu saq thi kon
@@ -35941,7 +35977,6 @@ VCD	vi shi di
 六千人	loq chi gnin
 六千個	loq chi goq
 六口之家	loq kheu tsy cia
-六妹	loq mei
 六家	loq cia
 六尾	loq vi
 六度萬行	loq du vae yin
@@ -36243,7 +36278,6 @@ VCD	vi shi di
 出外人	tshyuq nga gnin
 出大差	tshyuq dou tsha
 出大恭	tshyuq dou kon
-出太陽	tshyuq tha yan
 出差	tshyuq tsha
 出差費	tshyuq tsha fi
 出差錯	tshyuq tsha tshou
@@ -36913,8 +36947,6 @@ VCD	vi shi di
 別去	biq chi
 別問	biq men
 別嚇人	biq haq gnin
-別太	biq tha
-別太客氣	biq tha khaq chi
 莫嚇人	mau haq gnin
 莫忒	mau thaq
 莫忒客氣	mau thaq khaq chi
@@ -38009,7 +38041,6 @@ VCD	vi shi di
 十三個	zyuq sae goq
 十三個月	zyuq sae kou yuq
 十三分	zyuq sae fen
-十三太保	zyuq sae tha pau
 十三日	zyuq sae gniq
 十三歲	zyuq sae syu
 十三轍	zyuq sae ciq
@@ -38120,8 +38151,6 @@ VCD	vi shi di
 十大塊	zyuq da khuei
 十大建設	zyuq da ci shiq
 十大類	zyuq da lei
-十妹	zyuq mei
-十姊妹	zyuq ci mei
 十字架	zyuq zy cia
 十字架刑	zyuq zy cia yin
 十家	zyuq ko
@@ -38887,8 +38916,6 @@ VCD	vi shi di
 反托拉斯法案	fae thoq lha sy faq EI
 反日	fae zyuq
 反照率	fae ciau liq
-反猶太	fae yeu tha
-反猶太主義	fae yeu tha tsyu gni
 反生	fae sen
 反生物戰	fae sen vaq ci
 反生物戰	fae sen vaq tsoe
@@ -39267,7 +39294,6 @@ VCD	vi shi di
 司法部長	sy faq bu cian
 司法院長	sy faq yu cian
 司長	sy cian
-司馬遼太郎	sy mo liau tha laon
 叼着	tiau dzoq
 叼着	tiau zyuq
 叼勒	tiau laq
@@ -39540,7 +39566,6 @@ VCD	vi shi di
 同等學力	don ten ghoq liq
 同等學歷	don ten ghoq liq
 同聲傳譯	don shin dzOE yiq
-同胞兄妹	don pau shion mei
 同胞雙生	don pau saon san
 同舍生	don so sen
 同行	don ghaon
@@ -39752,7 +39777,6 @@ VCD	vi shi di
 吾生也有涯	NU sen ye yeu yi
 吾生也有涯	WU sen ye yeu yi
 呂塞爾斯海姆	li saq er sy he m
-呂太后的筵席	li tha gheu tiq yi zhiq
 呆了	nge laq
 呆了	nge lei
 呆了一呆	nge laq iq nge
@@ -39991,7 +40015,6 @@ VCD	vi shi di
 哇啦	ua lha
 哈代	ha de
 哈伯	ha paq
-哈伯太空望遠鏡	ha paq tha khon vaon yu cin
 哈伯瑪斯	ha paq mo sy
 哈佛	ha vaq
 哈佛大學	ha vaq da ghoq
@@ -40195,8 +40218,6 @@ VCD	vi shi di
 唐古拉山	daon ku lha sae
 唐古拉山脈	daon ku lha sae maq
 唐古拉峯	daon ku lha fon
-唐太宗	daon tha tson
-唐太宗李衛公問對	daon tha tson li wei kon ven tei
 唐宋八大家	daon son paq da cia
 唐家	daon cia
 唐家山	daon cia sae
@@ -40743,7 +40764,6 @@ VCD	vi shi di
 四海之內皆兄弟	sy he tsy nei cie shion di
 四海爲家	sy he wei cia
 四海皆準	sy he cie tsyun
-四溢	sy iq
 四濺	sy ci
 四百人	sy paq gnin
 四百個	sy paq goq
@@ -41595,8 +41615,6 @@ VCD	vi shi di
 基里巴斯共和國	ci li po sy gon ghou koq
 基隆人	ci lon gnin
 堂伯叔	daon paq soq
-堂妹	daon mei
-堂姐妹	daon cia mei
 堅守自盜	ci shieu zy dau
 堅持下去	ci ji gho chi
 堅持下去	ci dzy gho chi
@@ -41970,7 +41988,6 @@ VCD	vi shi di
 外圍地區	nga wei di chiu
 外圍設備	nga wei shiq bei
 外圍賽	nga wei se
-外太空	nga tha khon
 外奶奶	nga na na
 外學	nga yuq
 外家	nga cia
@@ -41986,7 +42003,6 @@ VCD	vi shi di
 外架	nga ko
 外校學生	nga yau ghoq san
 外水	nga syu
-外溢	nga iq
 外生	nga sen
 外生殖器	nga sen jiq chi
 外甥	nga san
@@ -42081,7 +42097,6 @@ VCD	vi shi di
 多財善賈	tou dze zoe ku
 多邊貿易	tou pi meu yiq
 多邊貿易談判	tou pi meu yiq dae phun
-多那太羅	tou nha tha lou
 多重人格	tou dzon zyun kaq
 多錢善賈	tou ji zoe ku
 多長	tou jian
@@ -42512,8 +42527,8 @@ VCD	vi shi di
 大好時光	da hau zy kuaon
 大好時機	da hau zy ci
 大好機會	da hau ci wei
-大妹	da mei
-大妹夫	da mei fu
+大妹	dou mei
+大妹夫	dou mei fu
 大姆指	da m tsy
 大姆指頭	da m tsy deu
 大姐姐	dou cia cia
@@ -43575,6 +43590,7 @@ VCD	vi shi di
 大陸型	da loq yin
 大陸塊	da loq khuei
 大陸妹	da loq mei
+大陸妹	da loq mhei
 大陸委員會	da loq uei yu wei
 大陸性	da loq shin
 大陸性氣候	da loq shin chi gheu
@@ -43718,3 +43734,125 @@ VCD	vi shi di
 大龍峒	da lon don
 大龍街	da lon ka
 大龍郵票	da lon yeu phiau
+天上人間	thi zaon zyun ci
+天下一家	thi gho iq cia
+天下大亂	thi gho da loe
+天下沒有	thi gho maq yeu
+天下沒有白喫的午餐	thi gho maq yeu baq chioq tiq wu tshae
+天下烏鴉一般黑	thi gho u ia iq pae haq
+天下無難事只怕有心人	thi gho vu nae zy ciq pho yeu shin gnin
+天下無難事只怕有心人	thi gho Wu nae zy ciq pho yeu shin gnin
+天下爲家	thi gho wei cia
+天下雜誌	thi gho dzaq tsy
+天主教	thi tsyu ciau
+天主教堂	thi tsyu ciau daon
+天主教徒	thi tsyu ciau du
+天主教會	thi tsyu ciau wei
+天主教派	thi tsyu ciau pha
+天乾物燥	thi kI vaq sau
+天人	thi zyun
+天人之分	thi zyun tsy fen
+天人之際	thi zyun tsy ci
+天人交戰	thi zyun ciau ci
+天人交戰	thi zyun ciau tsoe
+天人合一	thi zyun ghaq iq
+天人永別	thi zyun ion biq
+天人永隔	thi zyun ion kaq
+天人菊	thi zyun ciuq
+天倫之樂	thi len tsy loq
+天倫樂	thi len loq
+天冬苯丙二肽酯	thi ton pen pin er tha tsy
+天分	thi fen
+天哪	thi nha
+天啊	thi gha
+天啊	thi a
+天問	thi ven
+天地間	thi di ci
+天堂鳥	thi daon gniau
+天大	thi da
+天奪之魄	thi daq tsy phaq
+天崖	thi ya
+天差地別	thi tsho di biq
+天差地遠	thi tsho di yu
+天師教	thi sy ciau
+天從人願	thi dzon zyun gniu
+天怒人怨	thi nu zyun iu
+天才兒童	thi dze er don
+天才出自勤奮	thi dze tshyuq zy jin fen
+天才教育	thi dze ciau yuq
+天文學	thi ven yuq
+天文學大成	thi ven yuq da jin
+天文學家	thi ven yuq cia
+天文望遠鏡	thi ven vaon yu cin
+天日之表	thi zyuq tsy piau
+天朝	thi jiau
+天水地區	thi syu di chiu
+天水市	thi syu zy
+天水街	thi syu ka
+天津人	thi cin gnin
+天津大學	thi cin da ghoq
+天津師範大學	thi cin sy vae da ghoq
+天涯雜談	thi ya dzaq dae
+天涯雜談	thi yi dzaq dae
+天清日晏	thi chin zyuq ae
+天災人禍	thi tse zyun ghou
+天無二日	thi vu er zyuq
+天無絕人	thi vu dzyuq gnin
+天無絕人之路	thi vu dzyuq gnin tsy lu
+天無二日	thi Wu er zyuq
+天無絕人	thi Wu dzyuq gnin
+天無絕人之路	thi Wu dzyuq gnin tsy lu
+天然更新	thi zoe ken shin
+天然橡膠	thi zoe zhian ciau
+天然雜交	thi zoe dzaq ciau
+天理人情	thi li zyun jin
+天理教	thi li ciau
+天生	thi san
+天生一對	thi san iq tei
+天生一對寶	thi san iq tei pau
+天生幹	thi san kI
+天生的一對	thi san tiq iq tei
+天盛	thi zhin
+天耳通	thi er thon
+天與人歸	thi yu zyun kuei
+天花亂墜	thi huo loe dzei
+天行	thi yin
+天行赤眼	thi yin tshaq ngae
+天要下雨孃要嫁人	thi iau gho yu gnian iau ko gnin
+天貓座	thi mhau zou
+天賦人權	thi fu zyun jiu
+天長	thi jian
+天長地久	thi jian di cieu
+天長市	thi jian zy
+天長日久	thi jian zyuq cieu
+天降	thi ciaon
+天馬行空	thi mo yin khon
+天體力學	thi thi liq yuq
+天體物理學	thi thi vaq li yuq
+天體物理學家	thi thi vaq li yuq cia
+太公釣魚	tha kon tiau ng
+太公釣魚願者上鉤	tha kon tiau ng gniu tse zaon keu
+太原師範學院	tha gniu sy vae yuq yu
+太古洋行	tha ku yan ghaon
+太子舍人	tha tsy so zyun
+太學	tha yuq
+太平盛世	tha bin zhin syu
+太平間	tha bin kae
+太歲	tha sei
+太歲爺	tha sei ya
+太歲爺上動土	tha sei ya zaon don thu
+太歲頭上	tha sei deu zaon
+太歲頭上動土	tha sei deu zaon don thu
+太空人	tha khon gnin
+太空行走	tha khon yin tseu
+太空被	tha khon bi
+太行	tha ghaon
+太行山	tha ghaon sae
+太過分	tha kou ven
+太長	tha jian
+太阿倒持	tha ou tau ji
+太阿倒持	tha ou tau dzy
+太陽照在桑乾河上	tha yan ciau dze saon kI ghou zaon
+太陽能電池	tha yan nen di ji
+太陽電池	tha yan di ji
+太陽電池板	tha yan di ji pae
