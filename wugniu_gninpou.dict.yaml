@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.02.28"
+version: "2020.02.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -29010,6 +29010,8 @@ use_preset_vocabulary: true
 介貌寫	kaq mau shia
 延來延去撥儂還	yi le yi chi paq nou wae
 延過	yi kou
+一三時刻	iq sae zy khaq
+一三時刻	iq sae sy khaq
 鴉片	a phi
 阿彌陀佛	o mi dou vaq
 彌勒活大翹	mi laq waq da jiau
