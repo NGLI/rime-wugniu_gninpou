@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.02"
+version: "2020.03.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2311,7 +2311,7 @@ use_preset_vocabulary: true
 艣	lu
 樐	lu
 氌	lu
-賂	lu	5%
+賂	lu	10%
 輅	lu
 路	lu
 潞	lu
@@ -4543,7 +4543,7 @@ use_preset_vocabulary: true
 賽	se
 塞	se	1%
 裁	ze
-材	ze
+材	ze	1%
 該	ke	49284
 陔	ke
 垓	ke
@@ -6949,7 +6949,7 @@ use_preset_vocabulary: true
 亨	han
 哼	han
 夯	han
-行	ghan	20%
+行	ghan	6%
 桁	ghan
 杏	ghan
 阿	an	0%
@@ -7275,7 +7275,7 @@ use_preset_vocabulary: true
 放	faon
 妨	faon
 房	vaon
-防	vaon
+防	vaon	20%
 罔	vaon
 惘	vaon
 輞	vaon
@@ -8744,7 +8744,7 @@ use_preset_vocabulary: true
 昇	shin
 陞	shin
 身	shin
-申	shin
+申	shin	10%
 伸	shin
 珅	shin
 呻	shin
@@ -10384,7 +10384,7 @@ use_preset_vocabulary: true
 餄	ciaq
 雀	chiaq
 鵲	chiaq
-綽	chiaq
+綽	chiaq	1%
 卻	chiaq
 却	chiaq
 洽	chiaq
@@ -10971,7 +10971,7 @@ use_preset_vocabulary: true
 個	goq	3215286
 箇	goq
 个	goq
-擱	goq
+擱	goq	5%
 埆	goq	5%
 岳	ngoq
 嶽	ngoq
@@ -15735,7 +15735,7 @@ use_preset_vocabulary: true
 見情	ci jin	55
 交代勿過	kau de vaq kou	55
 痗心勿過	mei shin vaq kou	55
-心焦	shin ciau	578
+心焦	shin ciau	5765
 壞過	ua kou	55
 難過	nae kou
 勿爽快	vaq saon khua	55
@@ -25789,24 +25789,6 @@ use_preset_vocabulary: true
 一幢箱子
 一幢碗
 一幢書
-一張紙頭	iq jian tsy deu
-兩張紙頭	lian jian tsy deu
-三張紙頭	sae jian tsy deu
-一張眠牀	iq jian mi zaon
-兩張眠牀	lian jian mi zaon
-三張眠牀	sae jian mi zaon
-一張桌凳	iq jian a ten
-兩張桌凳	lian jian a ten
-三張桌凳	sae jian a ten
-一張紙頭	iq cian tsy deu
-兩張紙頭	lian cian tsy deu
-三張紙頭	sae cian tsy deu
-一張眠牀	iq cian mi zaon
-兩張眠牀	lian cian mi zaon
-三張眠牀	sae cian mi zaon
-一張桌凳	iq cian a ten
-兩張桌凳	lian cian a ten
-三張桌凳	sae cian a ten
 一潮鵝
 一潮蜂
 手一搖
@@ -26045,12 +26027,6 @@ use_preset_vocabulary: true
 該一幢箱子
 該一幢碗
 該一幢書
-該一張紙頭	kiq iq jian tsy deu
-該一張眠牀	kiq iq jian mi zaon
-該一張桌凳	kiq iq jian tsoq ten
-該一張紙頭	kiq iq cian tsy deu
-該一張眠牀	kiq iq cian mi zaon
-該一張桌凳	kiq iq cian tsoq ten
 看戲文
 戲文假	shi ven ko
 情節真
@@ -27353,11 +27329,6 @@ use_preset_vocabulary: true
 侅好
 侅鬧熱
 侅壞喫
-交關熱	ciau kuae gniq
-交關冷	ciau kuae lan
-交關忙	ciau kuae maon
-交關好	ciau kuae hau
-交關壞	ciau kuae ua
 出格便宜
 出格難做
 出格皮
@@ -28332,8 +28303,8 @@ use_preset_vocabulary: true
 會展中心	wei ci tson shin
 通途路
 東部新城
-海晏北路
-海晏南路
+海晏北路	he i poq lu
+海晏南路	he i nEI lu
 寧波文化廣場	gnin pou ven huo kuaon jian
 寧東路
 河清北路
@@ -29079,6 +29050,23 @@ use_preset_vocabulary: true
 溢進	kaq cin
 溢進咋	kaq cin dza
 鮭菜	yi tshe
+棺材店	kun ze ti
+棺材座子	kun ze zou tsy
+棺材本	kun ze pen
+棺材板	kun ze pae
+棺材楦子	kun ze shiu tsy
+棺材瓤子	kun ze gnian tsy
+棺材裏	kun ze li
+棺材裏伸手	kun ze li shin shieu
+老棺材	lau kun ze
+合棺材	kaq kun ze
+擡棺材	de kun ze
+進棺材	cin kun ze
+蕩岸	daon ne
+蕩岸	daon nei
+塢退	u thei
+綽號	chiaq ghau
+忘八蛋	waon pa dae
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -29148,6 +29136,18 @@ use_preset_vocabulary: true
 該張照片	kiq jian ciau phi
 該一張照片	kiq iq jian ciau phi
 該兩張照片	kiq lian jian ciau phi
+一張紙頭	iq jian tsy deu
+兩張紙頭	lian jian tsy deu
+三張紙頭	sae jian tsy deu
+該一張紙頭	kiq iq jian tsy deu
+一張眠牀	iq jian mi zaon
+兩張眠牀	lian jian mi zaon
+三張眠牀	sae jian mi zaon
+該一張眠牀	kiq iq jian mi zaon
+一張桌凳	iq jian tsoq ten
+兩張桌凳	lian jian tsoq ten
+三張桌凳	sae jian tsoq ten
+該一張桌凳	kiq iq jian tsoq ten
 做張	tsou jian
 各張	koq jian
 幾張	ci jian
@@ -29182,6 +29182,18 @@ use_preset_vocabulary: true
 該張照片	kiq cian ciau phi
 該一張照片	kiq iq cian ciau phi
 該兩張照片	kiq lian cian ciau phi
+一張紙頭	iq cian tsy deu
+兩張紙頭	lian cian tsy deu
+三張紙頭	sae cian tsy deu
+該一張紙頭	kiq iq cian tsy deu
+一張眠牀	iq cian mi zaon
+兩張眠牀	lian cian mi zaon
+三張眠牀	sae cian mi zaon
+該一張眠牀	kiq iq cian mi zaon
+一張桌凳	iq cian tsoq ten
+兩張桌凳	lian cian tsoq ten
+三張桌凳	sae cian tsoq ten
+該一張桌凳	kiq iq cian tsoq ten
 做張	tsou cian
 各張	koq cian
 幾張	ci cian
@@ -29308,6 +29320,332 @@ use_preset_vocabulary: true
 下工夫	gho kon fu
 下本	gho pen
 養生	ian sen
+交關儇	ciau kuae huae
+交關燥	ciau kuae sau
+交關亮	ciau kuae lian
+交關低	ciau kuae ti
+交關呆	ciau kuae nge
+交關像	ciau kuae zhian
+交關兇	ciau kuae shion
+交關冷	ciau kuae lan
+交關厚	ciau kuae gheu
+交關厲害	ciau kuae li ghe
+交關結棍	ciau kuae ciq kuen
+交關可惜	ciau kuae khou shiq
+交關可愛	ciau kuae khou e
+交關歡喜	ciau kuae hun shi
+交關嚴	ciau kuae gni
+交關嚴重	ciau kuae gni dzon
+交關睏	ciau kuae khuen
+交關圓	ciau kuae yu
+交關壞	ciau kuae ua
+交關多	ciau kuae tou
+交關多事體	ciau kuae tou zy thi
+交關多事幹	ciau kuae tou zy kI
+交關多人	ciau kuae tou gnin
+交關多人和總	ciau kuae tou gnin ghou tson
+交關多辰光	ciau kuae tou zyun kuaon
+交關多東西	ciau kuae tou ton shi
+交關多回	ciau kuae tou wei
+交關多回數	ciau kuae tou wei su
+交關大	ciau kuae dou
+交關奇怪	ciau kuae ji kua
+交關好	ciau kuae hau
+交關好個	ciau kuae hau goq
+交關好看	ciau kuae hau khI
+交關好聽	ciau kuae hau thin
+交關容易	ciau kuae yon yi
+交關小	ciau kuae shiau
+交關缺	ciau kuae chiuq
+交關尖	ciau kuae ci
+交關推板	ciau kuae thei pae
+交關㜅	ciau kuae shiuq
+交關廣	ciau kuae kuaon
+交關弱	ciau kuae zhiaq
+交關強	ciau kuae jian
+交關忙	ciau kuae maon
+交關快	ciau kuae khua
+交關快樂	ciau kuae khua loq
+交關怕	ciau kuae pho
+交關急	ciau kuae ciq
+交關怪	ciau kuae kua
+交關悶	ciau kuae mhen
+交關忖	ciau kuae tshen
+交關忖你	ciau kuae tshen ng
+交關忖俉	ciau kuae tshen ng
+交關忖爾	ciau kuae tshen ng
+交關忖儂	ciau kuae tshen nou
+交關愛	ciau kuae e
+交關愛你	ciau kuae e ng
+交關愛俉	ciau kuae e ng
+交關愛爾	ciau kuae e ng
+交關愛儂	ciau kuae e nou
+交關慢	ciau kuae mae
+交關懶	ciau kuae lae
+交關扁	ciau kuae pi
+交關對勿起	ciau kuae tei vaq chi
+交關對弗起	ciau kuae tei vaq chi
+交關對勿住	ciau kuae tei vaq dzyu
+交關對弗住	ciau kuae tei vaq dzyu
+交關挨	ciau kuae a
+交關敢	ciau kuae kI
+交關新	ciau kuae shin
+交關方便	ciau kuae faon bi
+交關早	ciau kuae tsau
+交關早辰光	ciau kuae tsau zyun kuaon
+交關早就	ciau kuae tsau jieu
+交關明顯	ciau kuae min shi
+交關晏	ciau kuae ae
+交關暗	ciau kuae EI
+交關有	ciau kuae yeu
+交關有可能	ciau kuae yeu khou nen
+交關有意思	ciau kuae yeu i sy
+交關讚	ciau kuae tsae
+交關㜺	ciau kuae tsae
+交關正常	ciau kuae cin dzaon
+交關毒	ciau kuae doq
+交關氣	ciau kuae chi
+交關油	ciau kuae yeu
+交關淡	ciau kuae dae
+交關深	ciau kuae shin
+交關清爽	ciau kuae chin saon
+交關準	ciau kuae tsyun
+交關溼	ciau kuae shiq
+交關滿意	ciau kuae mun i
+交關漂亮	ciau kuae phiau lian
+交關濃	ciau kuae gnion
+交關火	ciau kuae hou
+交關心焦	ciau kuae shin ciau
+交關煩	ciau kuae vae
+交關熟	ciau kuae zoq
+交關熱	ciau kuae gniq
+交關爛	ciau kuae lae
+交關爽	ciau kuae saon
+交關狠	ciau kuae hen
+交關甜	ciau kuae di
+交關生氣	ciau kuae san chi
+交關痛	ciau kuae thon
+交關痛苦	ciau kuae thon khu
+交關瘦	ciau kuae seu
+交關直	ciau kuae jiq
+交關短	ciau kuae toe
+交關笨	ciau kuae ben
+交關簡單	ciau kuae ci tae
+交關紅	ciau kuae ghon
+交關着力	ciau kuae jiaq liq
+交關𢜭力	ciau kuae jiaq liq
+交關細	ciau kuae shi
+交關緊	ciau kuae cin
+交關美	ciau kuae mei
+交關老	ciau kuae lau
+交關胖	ciau kuae phaon
+交關自然	ciau kuae zy zoe
+交關舊	ciau kuae jieu
+交關舒服	ciau kuae syu voq
+交關寫意	ciau kuae shia i
+交關苦	ciau kuae khu
+交關薄	ciau kuae boq
+交關貴	ciau kuae ciu
+交關趕	ciau kuae kI
+交關輕	ciau kuae chin
+交關辛苦	ciau kuae shin khu
+交關近	ciau kuae jin
+交關遠	ciau kuae yu
+交關酷	ciau kuae khoq
+交關醜	ciau kuae chieu
+交關重	ciau kuae dzon
+交關重要	ciau kuae dzon iau
+交關長	ciau kuae jian
+交關長辰光	ciau kuae jian zyun kuaon
+交關辰光	ciau kuae zyun kuaon
+交關開心	ciau kuae khe shin
+交關難	ciau kuae nae
+交關難講	ciau kuae nae kaon
+交關香	ciau kuae shian
+交關高	ciau kuae kau
+交關高興	ciau kuae kau shin
+交關鬆	ciau kuae son
+交關鹹	ciau kuae ghae
+交關黑	ciau kuae haq
+何晏	ghou i
+天清日晏	thi chin zyuq i
+宮車晏駕	kon tsho i cia
+彭于晏	ban yu i
+日晏	zyuq i
+晏公老兒下西洋	i kon lau er gho shi yan
+晏如	i zyu
+晏嬰	i in
+晏子	i tsy
+晏子春秋	i tsy tshyun chieu
+晏寢	i chin
+晏平仲	i bin dzon
+晏幾道	i ci dau
+晏御揚揚	i gniu yan yan
+晏晏	i i
+晏晏	ae ae
+晏朝	i jiau
+晏殊	i zyu
+晏然	i zoe
+晏燈	i ten
+晏紫	i tsy
+晏裘	i jieu
+晏開之警	i khe tsy cin
+晏飲	i in
+晏駕	i cia
+歲晏	sei i
+河清海晏	ghou chin he i
+海晏	he i
+海晏河清	he i ghou chin
+海晏縣	he i yu
+管晏	kun i
+簡余晏	ci yu i
+茶遲飯晏	dzo ji vae i
+茶遲飯晏	dzo ji vae ae
+言笑晏晏	yi shiau i i
+忖一忖
+忖上
+忖上來
+忖上去
+忖下來
+忖下去
+忖落來
+忖落去
+忖弗出	tshen vaq tshyuq
+忖勿出
+忖弗出來	tshen vaq tshyuq le
+忖勿出來
+忖弗到	tshen vaq tau
+忖勿到
+忖弗起來	tshen vaq chi le
+忖勿起來
+忖弗透	tshen vaq theu
+忖勿透
+忖弗通	tshen vaq thon
+忖勿通
+忖弗開	tshen vaq khe
+忖勿開
+忖也弗忖	tshen gha vaq tshen
+忖也弗忖	tshen ya vaq tshen
+忖也勿忖
+忖也好甮忖
+忖了	tshen laq
+忖了	tshen lei
+忖了又忖	tshen laq yeu tshen
+忖了忖	tshen laq tshen
+忖啥
+忖庉
+忖你	tshen ng
+忖俉
+忖爾	tshen ng
+忖儂
+忖你了	tshen ng lei
+忖俉了
+忖爾了	tshen ng lei
+忖儂了
+忖來
+忖來忖去
+忖借
+忖做
+忖做到
+忖再
+忖出
+忖出來
+忖出去
+忖動
+忖包
+忖去
+忖受
+忖吃
+忖吐
+忖冒
+忖吸
+忖哭
+忖唱
+忖啊	tshen a
+忖啊	tshen gha
+忖問	tshen men
+忖喝
+忖回
+忖回來
+忖回去
+忖坐
+忖坐勒
+忖報
+忖忒多
+忖好
+忖好仔
+忖學	tshen ghoq
+忖屋落
+忖寫
+忖作啥
+忖勒
+忖勒到
+忖勒得是好
+忖勒起來
+忖勒開
+忖忖
+忖成
+忖成爲
+忖打
+忖尋
+忖尋個	tshen zhin goq
+忖搭
+忖投
+忖抱
+忖接
+忖有
+忖法
+忖法子
+忖滰
+忖爲
+忖嬲和	tshen na wu
+忖嬲和	tshen na ghou
+忖嬲和	tshen na ngou
+忖用
+忖當
+忖的
+忖個	tshen goq
+忖個	tshen ghoq
+忖看
+忖看看
+忖着	tshen dzoq
+忖着	tshen zyuq
+忖睏
+忖瞭解	tshen liau ka
+忖瞭解	tshen liau cia
+忖曉得
+忖穿
+忖笑
+忖約
+忖撥
+忖聽
+忖裝
+忖要
+忖要個	tshen iau goq
+忖見
+忖講
+忖變
+忖讓
+忖買
+忖走
+忖走來
+忖走到
+忖走去
+忖走過
+忖起
+忖起來
+忖跟
+忖送
+忖進
+忖進來
+忖進去
+忖過
+忖過來
+忖過去
+忖錄
+忖開
+忖靠
+忖飛
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
@@ -29360,7 +29698,7 @@ use_preset_vocabulary: true
 陸氏傷科
 雅戈爾	ia kaq er
 雅戈爾	ia kou er
-奧克斯	kau khaq sy
+奧克斯	au khaq sy
 銀億
 杉杉
 廣博
@@ -30179,7 +30517,6 @@ VCD	vi shi di
 不同人	paq don gnin
 不同國家	paq don koq cia
 不同日月	paq don zyuq yuq
-不同顏色	paq don ngae saq
 不吝賜教	paq lin sy ciau
 不問	paq men
 不問前因後果	paq men zhi in gheu kou
@@ -30206,17 +30543,11 @@ VCD	vi shi di
 不在家	paq dze cia
 勿在家	vaq dze cia
 弗在家	vaq dze cia
-不堪	paq khae
-不堪一擊	paq khae iq ciq
 勿堪	vaq khae
 勿堪一擊	vaq khae iq ciq
 弗堪	vaq khae
 弗堪一擊	vaq khae iq ciq
-不堪入目	paq khae zyuq moq
 不堪入耳	paq khae zyuq er
-不堪回首	paq khae wei shieu
-不堪忍受	paq khae zyun zhieu
-不堪設想	paq khae shiq shian
 不墜	paq dzei
 不壞	paq ua
 勿壞	vaq ua
@@ -30351,7 +30682,6 @@ VCD	vi shi di
 弗懷	vaq wae
 弗懷好意	vaq wae hau i
 不成問題	paq jin ven di
-不成材	paq jin dze
 勿成問題	vaq jin ven di
 勿成材	vaq jin dze
 弗成問題	vaq jin ven di
@@ -30433,7 +30763,6 @@ VCD	vi shi di
 勿會忘記	vaq wei maon ci
 弗會忘記	vaq wei maon ci
 𣍐忘記	vei maon ci
-不材	paq dze
 不樂	paq loq
 不樂於	paq loq yu
 不樂觀	paq loq kun
@@ -30462,7 +30791,7 @@ VCD	vi shi di
 弗死弗活	vaq shi vaq waq
 弗死心	vaq sy shin
 不法分子	paq faq ven tsy
-不法行爲	paq faq ghan wei
+不法行爲	paq faq yin wei
 不準確	paq tsyun chiuq
 不爭氣	paq tsan chi
 勿爭氣	vaq tsan chi
@@ -31057,7 +31386,6 @@ VCD	vi shi di
 中國國家環保局	tson koq koq cia wae pau jiuq
 中國國家環境保護總局	tson koq koq cia wae cin pau wu tson jiuq
 中國國家航天局	tson koq koq cia ghaon thi jiuq
-中國國防科技信息中心	tson koq koq vaon khou ji shin shiq tson shin
 中國地球物理學會	tson koq di jieu vaq li yuq wei
 中國地質大學	tson koq di ciq da ghoq
 中國地震局	tson koq di tsyun jiuq
@@ -31149,7 +31477,6 @@ VCD	vi shi di
 中書省	tson syu san
 中書舍人	tson syu so gnin
 中朝	tson jiau
-中材	tson dze
 中東國家	tson ton koq cia
 中歐國家	tson eu koq cia
 中正國民小學	tson cin koq min shiau ghoq
@@ -31189,7 +31516,6 @@ VCD	vi shi di
 中華日報	tson wo zyuq pau
 中華蘇維埃共和國	tson wo su vi e gon ghou koq
 中藥學	tson yaq yuq
-中藥材	tson yaq dze
 中蘇解決懸案大綱協定	tson su ka ciuq yu EI da kaon yaq din
 中行	tson ghaon
 中覺	tson kau
@@ -31197,7 +31523,6 @@ VCD	vi shi di
 中越戰爭	tson yuq ci tsen
 中越戰爭	tson yuq tsoe tsen
 中轉櫃檯	tson tsoe guei de
-中途擱淺	tson du koq chi
 中遠集團	tson yu jiq doe
 中遠香港集團	tson yu shian kaon jiq doe
 中醫學	tson i yuq
@@ -31224,8 +31549,6 @@ VCD	vi shi di
 中隊長	tson dei jian
 中集	tson jiq
 中非國家	tson fi koq cia
-丰姿綽約	fon tsy tshoq iaq
-丰神綽約	fon zyun tshoq iaq
 串上去	tshoe zaon chiu
 串味	tshoe vi
 串哄	tshoe hon
@@ -31251,7 +31574,6 @@ VCD	vi shi di
 主教	tsyu ciau
 主教團	tsyu ciau doe
 主教練	tsyu ciau li
-主材	tsyu dze
 主權國家	tsyu jiu koq cia
 主治大夫	tsyu dzyu da fu
 主治醫生	tsyu dzyu i sen
@@ -32268,7 +32590,6 @@ VCD	vi shi di
 五甲	ng ciaq
 五百人	ng paq gnin
 五百個	ng paq goq
-五短身材	ng toe shin dze
 五穀不分	ng koq paq fen
 五穀雜糧	ng koq dzaq lian
 五色鳥	ng saq gniau
@@ -32290,7 +32611,6 @@ VCD	vi shi di
 五間	ng kae
 五陰世間	ng in syu ci
 五集	ng jiq
-五顏六色	ng ngae loq saq
 五馬分屍	ng mo fen sy
 五鬼	ng kuei
 五鬼鬧判	ng kuei nau phun
@@ -33138,7 +33458,6 @@ VCD	vi shi di
 什麼問題	zyuq mou ven di
 什麼時間	zyuq mou zy ci
 什麼牌子	zyuq mou ba tsy
-什麼顏色	zyuq mou ngae saq
 啥問題	soq ven di
 啥問題	so ven di
 啥問題	sou ven di
@@ -33577,7 +33896,6 @@ VCD	vi shi di
 佈一個	pu iq goq
 佈教	pu ciau
 佈道大會	pu dau da wei
-佈防	pu vaon
 位形空間	wei yin khon ci
 低落去	ti loq chi
 頭低落去	deu ti loq chi
@@ -33590,7 +33908,6 @@ VCD	vi shi di
 低分	ti fen
 低利率	ti li liq
 低尾氣排放	ti vi chi ba faon
-低昂	ti ngaon
 低眉	ti mei
 低着	ti dzoq
 低着	ti zyuq
@@ -33649,7 +33966,6 @@ VCD	vi shi di
 佔耕	tsoe kan
 佔過去	tsoe kou chiu
 何以自處	ghou yi zy tshyu
-何堪	ghou khae
 何曾	ghou dzen
 何樂不爲	ghou loq paq wei
 何樂而不爲	ghou loq er paq wei
@@ -34263,7 +34579,7 @@ VCD	vi shi di
 依靠着	i khau zyuq
 依靠勒	i khau laq
 侯爵夫人	gheu ciaq fu gnin
-侵權行爲	chin jiu ghan wei
+侵權行爲	chin jiu yin wei
 侵犯了您	chin vae liau gnin
 侵犯了您	chin vae laq gnin
 侵犯了俉	chin vae laq ng
@@ -34289,7 +34605,6 @@ VCD	vi shi di
 俄國人	ngou koq gnin
 俄爾	ngou er
 俄羅斯人	ngou lou sy gnin
-俊材	tsyun dze
 俊眼修眉	tsyun ngae shieu mei
 俗世	dzoq syu
 俗世奇人	dzoq syu ji gnin
@@ -34315,7 +34630,6 @@ VCD	vi shi di
 保安責任制	pau EI tsaq zyun tsyu
 保家	pau cia
 保家衛國	pau cia wei koq
-保密防諜	pau miq vaon diaq
 保持來	pau ji le
 保持來	pau dzy le
 保持勒	pau ji laq
@@ -34326,8 +34640,6 @@ VCD	vi shi di
 保持着	pau dzy zyuq
 保持聯繫	pau ji li shi
 保持聯繫	pau dzy li shi
-保持身材	pau ji shin dze
-保持身材	pau dzy shin dze
 保教	pau ciau
 保爾	pau er
 保爾森	pau er sen
@@ -34436,7 +34748,7 @@ VCD	vi shi di
 個人網站	kou gnin maon dzae
 個人能力	kou gnin nen liq
 個人英雄主義	kou gnin in yon tsyu gni
-個人行爲	kou gnin ghan wei
+個人行爲	kou gnin yin wei
 個人衛生	kou gnin wei sen
 個人觀點	kou gnin kun ti
 個人計算機	kou gnin ci soe ci
@@ -34447,6 +34759,7 @@ VCD	vi shi di
 個人賬戶	kou gnin cian wu
 個人賽	kou gnin se
 個人追逐賽	kou gnin tsei dzoq se
+個人防護裝備	kou gnin baon wu tsaon bei
 個人防護裝備	kou gnin vaon wu tsaon bei
 個人隱私	kou gnin in sy
 個人電腦	kou gnin di nau
@@ -34814,9 +35127,7 @@ VCD	vi shi di
 健美先生	ji mei shi san
 健行	ji yin
 健行工專	ji yin kon tsoe
-側撞防護系統	tshaq dzaon vaon wu shi thon
 側耳	tshaq er
-偵防	cin vaon
 偶人	ngeu gnin
 偶像人物	ngeu zhian zyun vaq
 偶然之間	ngeu zoe tsy ci
@@ -35200,7 +35511,6 @@ VCD	vi shi di
 儀仗隊	gni jian dei
 億人	i gnin
 億個	i goq
-儉以防匱	ji yi vaon guei
 儉學	ji yuq
 儉省	ji san
 儒勒凡爾納	zyu laq vae er naq
@@ -35488,7 +35798,6 @@ VCD	vi shi di
 入耳	zyuq er
 入股分紅	zyuq ku fen ghon
 內人	nei zyun
-內伸	nei shin
 內傳	nei dzOE
 內分	nei fen
 內分泌	nei fen pi
@@ -35533,7 +35842,6 @@ VCD	vi shi di
 內部鬥爭	nei bu teu tsen
 內閣大臣	nei koq da jin
 內閣總理大臣	nei koq tson li da jin
-內防	nei vaon
 內降	nei ciaon
 內鬼	nei kuei
 全世界	dzoe syu ka
@@ -35955,7 +36263,6 @@ VCD	vi shi di
 冬日裏	ton zyuq li
 冬烘先生	ton hon shi san
 冬耕	ton kan
-冬防	ton vaon
 冰了	pin lei
 冰了	pin laq
 冰橇	pin chiau
@@ -35965,7 +36272,6 @@ VCD	vi shi di
 冰窖	pin ciau
 冶金學	ye cin yuq
 冶金學	yi cin yuq
-冷不防	lan paq vaon
 冷了	lan lei
 冷了	lan laq
 冷凍櫃	lan ton guei
@@ -35981,7 +36287,6 @@ VCD	vi shi di
 准不准你	tsyun paq tsyun gni
 准假	tsyun ko
 准普爾	tsyun phu er
-凌亂不堪	lin loe paq khae
 凌人	lin gnin
 凌晨時分	lin zyun zy fen
 凌氣逼人	lin chi piq gnin
@@ -36108,7 +36413,7 @@ VCD	vi shi di
 出言無狀	tshyuq yi Wu dzaon
 出豁	tshyuq huaq
 出資人	tshyuq tsy gnin
-出軌行爲	tshyuq kuei ghan wei
+出軌行爲	tshyuq kuei yin wei
 出錘	tshyuq zei
 出頭之日	tshyuq deu tsy zyuq
 出頭日子	tshyuq deu gniq tsy
@@ -36770,7 +37075,7 @@ VCD	vi shi di
 刨根問底	bau ken ven ti
 利人	li gnin
 利人利己	li gnin li ci
-利他行爲	li tha ghan wei
+利他行爲	li tha yin wei
 利伯維爾	li paq vi er
 利勒哈默爾	li laq ha maq er
 利大於弊	li da yu bi
@@ -36997,7 +37302,6 @@ VCD	vi shi di
 劇評人	jiq bin gnin
 劇集	jiq jiq
 劈哩啪啦	phiq lhi phaq lha
-劈材	phiq ze
 劈里啪啦	phiq li phaq lha
 劉先生	lieu shi san
 劉姥姥進大觀園	lieu meu meu cin da kun yu
@@ -37478,7 +37782,6 @@ VCD	vi shi di
 動植物分類	don jiq vaq fen lei
 動物分類	don vaq fen lei
 動物學家	don vaq yuq cia
-動物防疫	don vaq vaon yuq
 動狀詞	don dzaon dzy
 動覺	don ciuq
 動魄	don phaq
@@ -37570,7 +37873,6 @@ VCD	vi shi di
 包紮着	pau tsaq dzoq
 包紮着	pau tsaq zyuq
 包被	pau bi
-包裝材料	pau tsaon dze liau
 包間	pau kae
 匆促之間	tshon tshoq tsy ci
 匆促間	tshon tshoq ci
@@ -37617,7 +37919,6 @@ VCD	vi shi di
 化學方程式	huo yuq faon jin shiq
 化學武器	huo yuq Wu chi
 化學武器儲備	huo yuq Wu chi zyu bei
-化學武器防護	huo yuq Wu chi vaon wu
 化學比色法	huo yuq pi saq faq
 化學治療	huo yuq dzyu liau
 化學激光器	huo yuq ciq kuaon chi
@@ -37819,7 +38120,6 @@ VCD	vi shi di
 十分	zyuq fen
 十分之一	zyuq fen tsy iq
 十分乾	zyuq fen kI
-交關燥	ciau kuae sau
 十分寮	zyuq fen liau
 十分肯定	zyuq fen khen din
 十分重要	zyuq fen dzon iau
@@ -38001,7 +38301,6 @@ VCD	vi shi di
 協調世界時	yaq diau syu ka zy
 協調人	yaq diau gnin
 協辦人	yaq bae gnin
-協防	yaq vaon
 南丁格爾	nEI tin kaq er
 南二中	nEI gni tson
 南京人	nEI cin gnin
@@ -38099,7 +38398,6 @@ VCD	vi shi di
 卡拉揚	kha lha yan
 卡拉膠	kha lha ciau
 卡拉馬佐夫兄弟	kha lha ma tsou fu shion di
-卡昂	kha ngaon
 卡桑德拉	kha saon taq lha
 卡樂星	kha loq shin
 卡死	kha sy
@@ -38216,7 +38514,6 @@ VCD	vi shi di
 原子學	gniu tsy yuq
 原子科學家	gniu tsy khou yuq cia
 原於	gniu yu
-原材料	gniu dze liau
 原核生物	gniu ghaq sen vaq
 原核生物界	gniu ghaq sen vaq ka
 原核細胞型微生物	gniu ghaq shi pau yin vi sen vaq
@@ -38532,7 +38829,7 @@ VCD	vi shi di
 反生物戰	fae sen vaq tsoe
 反省	fae shin
 反省起來	fae shin chi le
-反社會行爲	fae dzo wei ghan wei
+反社會行爲	fae dzo wei yin wei
 反科學	fae khou yuq
 反空降	fae khon ciaon
 反老還童	fae lau wae don
@@ -38561,8 +38858,6 @@ VCD	vi shi di
 取得大學學位	tshyu taq da ghoq yuq wei
 取得聯繫	tshyu taq li shi
 取捨之間	tshyu so tsy ci
-取材	tshyu dze
-取材於	tshyu dze yu
 取材自	tshyu dze zy
 取樂	tshyu loq
 取自	tshyu zy
@@ -38814,14 +39109,10 @@ VCD	vi shi di
 可行性	khou yin shin
 可行性研究	khou yin shin GNi cieu
 可被	khou bei
-可裂變材料	khou liq pi dze liau
 可解	khou ka
 可貴	khou kuei
 可貴性	khou kuei shin
-可造之材	khou zau tsy dze
 可長可短	khou jian khou toe
-可防	khou vaon
-可防	khou baon
 可隨着	khou zei dzoq
 可隨着	khou zei zyuq
 可隨勒	khou zei laq
@@ -38845,8 +39136,6 @@ VCD	vi shi di
 好着	hau ciq
 好解	hau ka
 好長好短	hau jian hau toe
-好防	hau vaon
-好防	hau baon
 叱吒樂壇	chiq tso loq dae
 史丹佛大學	sy tae vaq da ghoq
 史丹福大學	sy tae foq da ghoq
@@ -39262,7 +39551,6 @@ VCD	vi shi di
 吸着	shiq zyuq
 吸勒	shiq laq
 吸的	shiq tiq
-吸聲材料	shiq shin dze liau
 吸菸率	shiq i liq
 吸血鬼	shiq shiuq kuei
 吹落去	tshyu loq chi
@@ -39813,7 +40101,7 @@ VCD	vi shi di
 商朝人	saon jiau gnin
 商業專科學校	saon gniq tsoe khou ghoq yau
 商業職業學校	saon gniq ciq gniq ghoq yau
-商業行爲	saon gniq ghan wei
+商業行爲	saon gniq yin wei
 商業銀行	saon gniq gnin ghaon
 商水	saon syu
 商水縣	saon syu yu
@@ -40115,9 +40403,6 @@ VCD	vi shi di
 噗嗤一聲	phoq tshy iq shin
 噙齒戴髮	jin tshy ta faq
 噢噢	au au
-器宇軒昂	chi yu shi ngaon
-器材	chi dze
-器材店	chi dze ti
 器材行	chi dze ghaon
 器樂	chi yuq
 噩耗傳來	ngoq hau dzOE le
@@ -40159,6 +40444,7 @@ VCD	vi shi di
 嚴加	gni cia
 嚴加戒備	gni cia ka bei
 嚴加管教	gni cia kun ciau
+嚴加防範	gni cia baon vae
 嚴加防範	gni cia vaon vae
 嚴家淦	gni cia kI
 嚴斥	gni chiq
@@ -40317,7 +40603,6 @@ VCD	vi shi di
 回背	wei pei
 回覆日期	wei foq zyuq ji
 回還	wei wae
-回防	wei vaon
 回頭率	wei deu liq
 回顧過去	wei ku kou chiu
 因人	in zyun
@@ -40332,7 +40617,6 @@ VCD	vi shi di
 因於	in yu
 因日	in zyuq
 因日而異	in zyuq er yi
-因材	in dze
 因材施教	in dze sy ciau
 因病請假	in bin chin ko
 因紐特人	in gnieu daq gnin
@@ -40549,32 +40833,22 @@ VCD	vi shi di
 國華人壽	koq wo zyun zhieu
 國計民生	koq ci min sen
 國語日報	koq gniu zyuq pau
-國防	koq vaon
-國防利益	koq vaon li iq
-國防力量	koq vaon liq lian
+國防大學	koq baon da ghoq
 國防大學	koq vaon da ghoq
-國防委員	koq vaon uei yu
-國防委員會	koq vaon uei yu wei
-國防工業	koq vaon kon gniq
-國防役	koq vaon yuq
+國防教育	koq baon ciau yuq
 國防教育	koq vaon ciau yuq
-國防現代化	koq vaon yi de huo
+國防生	koq baon san
 國防生	koq vaon san
-國防科工委	koq vaon khou kon uei
-國防科技	koq vaon khou ji
-國防科技工業委員會	koq vaon khou ji kon gniq uei yu wei
-國防管理	koq vaon kun li
+國防管理學院	koq baon kun li yuq yu
 國防管理學院	koq vaon kun li yuq yu
+國防語言學院	koq baon gniu yi yuq yu
 國防語言學院	koq vaon gniu yi yuq yu
-國防論	koq vaon len
-國防費	koq vaon fi
-國防軍	koq vaon ciun
-國防部	koq vaon bu
+國防部長	koq baon bu cian
 國防部長	koq vaon bu cian
+國防醫學	koq baon i yuq
 國防醫學	koq vaon i yuq
+國防醫學院	koq baon i yuq yu
 國防醫學院	koq vaon i yuq yu
-國防預算	koq vaon yu soe
-國防體制	koq vaon thi tsyu
 國際事務	koq ci zy vu
 國際事務	koq ci zy Wu
 國際交流	koq ci ciau lieu
@@ -40920,7 +41194,6 @@ VCD	vi shi di
 垃圾車	laq saq tsho
 垃圾郵件	laq saq yeu ji
 垃圾電郵	laq saq di yeu
-型材	yin dze
 型狀	yin dzaon
 型糖尿病	yin daon gniau bin
 垛口	to kheu
@@ -41015,8 +41288,6 @@ VCD	vi shi di
 城步苗族自治縣	jin bu miau dzoq zy dzyu yu
 城鄉差距	jin shian tsha jiu
 城鎮化水平	jin tsyun huo sei bin
-城防	jin vaon
-城防工事	jin vaon kon zy
 域名交易	yuq min ciau yiq
 域名解析	yuq min ka shiq
 域名解析	yuq min cia shiq
@@ -41093,12 +41364,8 @@ VCD	vi shi di
 堆的	tei tiq
 堤圍	di wei
 堤拉米蘇	di lha mi su
-堤防	di vaon
 堪培拉	khae bei lha
-堪察加	khae tshaq cia
-堪察加半島	khae tshaq cia pun tau
 堪爲表率	khae wei piau saq
-堪輿家	khae yu cia
 堯天舜日	gniau thi syun zyuq
 報償	pau dzaon
 報分	pau fen
@@ -41176,6 +41443,7 @@ VCD	vi shi di
 塗鴨	du aq
 塞內加爾	se nei cia er
 塞拉利昂	se lha li ngaon
+塞拉利昂	se lha li ghaon
 塞爾	se er
 塞爾南	se er nEI
 塞爾提克	se er di khaq
@@ -41242,7 +41510,6 @@ VCD	vi shi di
 增長率	tsen cian liq
 增長速度	tsen cian soq du
 增長點	tsen cian ti
-增防	tsen vaon
 墨家	moq cia
 墨水匣	moq sei ghaq
 墨水瓶	moq syu bin
@@ -41440,7 +41707,6 @@ VCD	vi shi di
 外邦人	nga paon gnin
 外鄉人	nga shian gnin
 外長	nga cian
-外防	nga vaon
 外高加索	nga kau cia soq
 夙日	soq zyuq
 夙願以償	soq gniu yi dzaon
@@ -41464,14 +41730,12 @@ VCD	vi shi di
 多大	tou dou
 多大點事	tou dou ti zy
 多媒體雜誌	tou mei thi dzaq tsy
-多孔材料	tou khon dze liau
 多學科	tou yuq khou
 多家	tou cia
 多少人	tou shiau gnin
 多少分	tou shiau fen
 多少時間	tou shiau zy ci
 多層大廈	tou zen da gho
-多層材	tou zen dze
 多年生	tou gni sen
 多年生植物	tou gni sen jiq vaq
 多快好省	tou khua hau san
@@ -41509,7 +41773,6 @@ VCD	vi shi di
 多錢善賈	tou ji zoe ku
 多長	tou jian
 多長時間	tou jian zy ci
-多防	tou vaon
 夜以繼日	ya yi ci zyuq
 夜大	ya da
 夜大學	ya da ghoq
@@ -42293,7 +42556,6 @@ VCD	vi shi di
 大本涅槃經	dou pen gniaq bun cin
 大本營	da pen yin
 大本鐘	da pen tson
-大材小用	da dze shiau yon
 大村	da tshen
 大村鄉	da tshen shian
 大杯	dou pei
@@ -42746,7 +43008,7 @@ VCD	vi shi di
 大荔	da li
 大荔縣	da li yu
 大華	da wo
-大華中學	da wo tson yuq
+大華中學	da wo tson ghoq
 大華技術學院	da wo ji zyuq yuq yu
 大華晚報	da wo vae pau
 大菱鮃	da lin bin
@@ -43197,7 +43459,6 @@ VCD	vi shi di
 天津師範大學	thi cin sy vae da ghoq
 天涯雜談	thi ya dzaq dae
 天涯雜談	thi yi dzaq dae
-天清日晏	thi chin zyuq ae
 天災人禍	thi tse zyun ghou
 天無二日	thi vu er zyuq
 天無絕人	thi vu dzyuq gnin
@@ -43413,6 +43674,8 @@ VCD	vi shi di
 奴兒干都司	nu er kI tu sy
 奴化教育	nu huo ciau yuq
 奴家	nu cia
+奴顏婢膝	nu yi pi shiq
+奴顏媚骨	nu yi mei kuaq
 奸同鬼蜮	kae don kuei ghoq
 她也	tha gha
 她也	tha ya
@@ -43734,7 +43997,6 @@ VCD	vi shi di
 婚介所	huen ka so
 婚假	huen ko
 婚前性行爲	huen zhi shin yin wei
-婚前性行爲	huen zhi shin ghan wei
 婚姻介紹所	huen in ka zhiau so
 婚姻狀況	huen in dzaon huaon
 婚姻生活	huen in sen waq
@@ -44189,8 +44451,6 @@ VCD	vi shi di
 安全座椅	EI dzoe zou i
 安全教育	EI dzoe ciau yuq
 安全生產	EI dzoe sen tshae
-安全防範	EI dzoe vaon vae
-安全防護	EI dzoe vaon wu
 安分	EI ven
 安分守己	EI ven shieu ci
 安卡拉	EI kha lha
@@ -44246,7 +44506,6 @@ VCD	vi shi di
 安道爾共和國	EI dau er gon ghou koq
 安閒自在	EI ghae zy dze
 安閒自得	EI ghae zy taq
-安防	EI vaon
 安靜落去	EI zhin loq chi
 宋人	son gnin
 宋代人	son de gnin
@@ -44571,8 +44830,8 @@ VCD	vi shi di
 家貧如洗	cia bin zyu shi
 家資	cia tsy
 家賊	cia zaq
-家賊難防	cia zaq nae vaon
 家賊難防	cia zaq nae baon
+家賊難防	cia zaq nae vaon
 家轎	cia jiau
 家道	cia dau
 家道中落	cia dau tson loq
@@ -44612,6 +44871,10 @@ VCD	vi shi di
 容積效率	yon ciq yau liq
 容積率	yon ciq liq
 容量分析	yon lian fen shiq
+容顏	yon yi
+容顏	yon ngae
+容顏失色	yon yi syuq saq
+容顏失色	yon ngae syuq saq
 宿分	soq fen
 宿務	soq vu
 宿務	soq Wu
@@ -44794,7 +45057,6 @@ VCD	vi shi di
 寬洪大度	khun ghon da du
 寬洪大量	khun ghon da lian
 寬甸滿族自治縣	khun di mun dzoq zy dzyu yu
-寬綽	khun tshoq
 寬膠帶	khun kau ta
 寬衣解帶	khun i ka ta
 寬解	khun ka
@@ -44835,7 +45097,6 @@ VCD	vi shi di
 射電頻率	zhiq di bin liq
 射鵰英雄傳	zhiq tiau in yon dzoe
 將假當真	cian ko taon cin
-將材	cian dze
 將樂	cian loq
 將樂縣	cian loq yu
 將煞	cian saq
@@ -44904,6 +45165,7 @@ VCD	vi shi di
 尊師重教	tsen sy dzon ciau
 尊貴	tsen kuei
 尊重人才	tsen dzon zyun dze
+尊顏	tsen yi
 尊長	tsen cian
 尋事生非	zhin zy sen fi
 尋人	zhin gnin
@@ -45043,7 +45305,6 @@ VCD	vi shi di
 小時了了大未必佳	shiau zy liau liau da vi piq cia
 小朝廷	shiau jiau din
 小本生意	shiau pen san i
-小材大用	shiau dze da yon
 小架	shiau ko
 小矮凳	shiau a ten
 小橋流水	shiau jiau lieu syu
@@ -45125,7 +45386,6 @@ VCD	vi shi di
 就任典禮	jieu zyun ti li
 就任演說	jieu zyun yi syuq
 就喫乾	jieu chioq kI
-就地取材	jieu di tshyu dze
 就地解決	jieu di ka ciuq
 就地解決	jieu di cia ciuq
 就夠了	jieu keu laq
@@ -45295,8 +45555,6 @@ VCD	vi shi di
 居里夫人	ciu li fu gnin
 居間	ciu ci
 屆人大	ka zyun da
-屈一伸萬	chiuq iq shin vae
-屈伸	chiuq shin
 屈膝投降	chiuq shiq deu ghaon
 屋架	oq ko
 屍體解剖	sy thi ka phou
@@ -45308,6 +45566,8 @@ VCD	vi shi di
 展示櫃	tsoe zy guei
 展轉騰挪	ci tsoe den no
 展轉騰挪	tsoe tsoe den no
+展顏	ci yi
+展顏	tsoe yi
 屢加	lei cia
 屢教不改	lei ciau paq ke
 屢顧爾僕	lei ku er boq
@@ -46146,7 +46406,6 @@ VCD	vi shi di
 庸人自擾	yon gnin zy zhiau
 庸人自擾之	yon zyun zy zhiau tsy
 庸人自擾之	yon gnin zy zhiau tsy
-庸材	yon dze
 廁身其間	tshy shin ji ci
 廈大	gho da
 廈門人	gho men gnin
@@ -46165,3 +46424,979 @@ VCD	vi shi di
 廠牌	chian ba
 廠長	chian cian
 廠長負責制	chian cian veu tsaq tsyu
+廢了	fi laq
+廢了	fi lei
+廢掉了	fi diau lei
+廢人	fi gnin
+廢品率	fi phin liq
+廢水	fi syu
+廢水槽	fi syu zau
+廢水池	fi syu dzy
+廢水池	fi syu ji
+廢水管	fi syu kun
+廢省	fi san
+廣交	kuaon ciau
+廣交會	kuaon ciau wei
+廣傳	kuaon dzOE
+廣告人	kuaon kau gnin
+廣告學	kuaon kau yuq
+廣告宣傳	kuaon kau soe dzOE
+廣告牌	kuaon kau ba
+廣大	kuaon da
+廣大人民	kuaon da zyun min
+廣大客戶	kuaon da khaq wu
+廣大無邊	kuaon da vu pi
+廣大無邊	kuaon da Wu pi
+廣大用戶	kuaon da yon wu
+廣大羣衆	kuaon da jiun tson
+廣大黨員	kuaon da taon yu
+廣州中醫藥大學	kuaon cieu tson i yaq da ghoq
+廣州人	kuaon cieu gnin
+廣州日報	kuaon cieu zyuq pau
+廣州美術學院	kuaon cieu mei zyuq yuq yu
+廣廈萬間	kuaon gho vae ci
+廣東人	kuaon ton gnin
+廣東海洋大學	kuaon ton he yan da ghoq
+廣東省	kuaon ton san
+廣東科學技術職業學院	kuaon ton khou yuq ji zyuq ciq gniq yuq yu
+廣東藥學院	kuaon ton yaq yuq yu
+廣東醫學院	kuaon ton i yuq yu
+廣水	kuaon syu
+廣水市	kuaon syu zy
+廣西人	kuaon shi gnin
+廣西壯族自治區	kuaon shi tsaon dzoq zy dzyu chiu
+廣西師範大學	kuaon shi sy vae da ghoq
+廣西師範學院	kuaon shi sy vae yuq yu
+廣西省	kuaon shi san
+廣西自治區	kuaon shi zy dzyu chiu
+廳長	thin cian
+延平中學	yi bin tson ghoq
+延緩執行	yi wun ciq yin
+延續落去	yi dzoq loq chi
+延邊大學	yi pi da ghoq
+延邊朝鮮族自治州	yi pi jiau shi dzoq zy dzyu cieu
+延長	yi jian
+延長線	yi jian shi
+延長縣	yi jian yu
+廷爭面折	din tsen mi ciq
+廷長	din cian
+建交	ci ciau
+建國中學	ci koq tson ghoq
+建國大綱	ci koq da kaon
+建國科技大學	ci koq khou ji da ghoq
+建國高級中學	ci koq kau ciq tson ghoq
+建安國民小學	ci EI koq min shiau ghoq
+建教合作	ci ciau ghaq tsoq
+建教合作班	ci ciau ghaq tsoq pae
+建材行	ci dze ghaon
+建水	ci syu
+建水縣	ci syu yu
+建立正式外交關係	ci liq cin shiq nga ciau kuae shi
+建立自己	ci liq zy ci
+建築學	ci tsoq yuq
+建築工人	ci tsoq kon gnin
+建蔽率	ci bi liq
+建行	ci ghaon
+建設廳長	ci shiq thin cian
+建設銀行	ci shiq gnin ghaon
+弄乾	lon kI
+弄個	lon goq
+弄壞	lon ua
+弄壞了	lon ua lei
+弄死	lon sy
+弄煞	lon saq
+弄煞死	lon saq shi
+弄潮兒	lon jiau er
+弄神弄鬼	lon zyun lon kuei
+弄鬼	lon kuei
+弓狀	kon dzaon
+弓着	kon dzoq
+弓着	kon zyuq
+弓勒	kon laq
+弓勒仔	kon laq tsy
+弓的	kon tiq
+弓着腰	kon dzoq iau
+弓着腰	kon zyuq iau
+腰弓勒仔	iau kon laq tsy
+腰弓的	iau kon tiq
+弓背	kon pei
+弓腰曲背	kon iau chiuq pei
+弓鋸	kon ciu
+弓長嶺	kon jian lin
+弓長嶺區	kon jian lin chiu
+弔問	tiau ven
+弔喪問疾	tiau saon ven jiq
+弔客眉	tiau khaq mei
+弔者大悅	tiau tse da yuq
+引落去	yin loq chi
+引介	yin ka
+引咎自責	yin jieu zy tsaq
+引導學生	yin dau ghoq san
+引拉	yin lha
+引水	yin syu
+引水人	yin syu gnin
+引水工程	yin syu kon jin
+引水道	yin syu dau
+引火自焚	yin hou zy ven
+引爆	yin bau
+引爆裝置	yin bau tsaon tsyu
+引爆點	yin bau ti
+引申	yin syun
+引申作	yin syun tsoq
+引申義	yin syun gni
+引着	yin dzoq
+引着	yin zyuq
+引着	yin jiaq
+引自	yin zy
+引進人才	yin cin zyun dze
+引風吹火	yin fon tshyu hou
+弗吉尼亞	faq ciq gni ia
+弗吉尼亞州	faq ciq gni ia cieu
+弗塞奇	faq se ji
+弗愛	faq e
+弗拉基米爾	faq lha ci mi er
+弗拉芒	faq lha maon
+弗朗西斯	faq laon shi sy
+弗格森	faq kaq sen
+弗洛伊德	faq loq i taq
+弗洛勒斯島	faq loq laq sy tau
+弗洛姆	faq loq m
+弗洛姆	faq loq meu
+弗洛里斯島	faq loq li sy tau
+弗羅茨瓦夫	faq lou dzy ngo fu
+弗羅里達	faq lou li daq
+弗羅里達州	faq lou li daq cieu
+弗萊福蘭	faq le foq lae
+弗落伊德	faq loq i taq
+弗蘭	faq lae
+弗蘭克	faq lae khaq
+弗蘭格爾	faq lae kaq er
+弗蘭茲	faq lae tsy
+弗蘭西斯	faq lae shi sy
+弗蘭西斯培根	faq lae shi sy bei ken
+弗迪南	faq diq nEI
+弗里得里希	faq li taq li shi
+弗里德里希	faq li taq li shi
+弗里敦	faq li ten
+弗里斯蘭	faq li sy lae
+弗里曼	faq li mae
+弗雷	faq lei
+弗雷德里克	faq lei taq li khaq
+弗雷德里克頓	faq lei taq li khaq ten
+弘一大師	ghon iq da sy
+弘光科技大學	ghon kuaon khou ji da ghoq
+弘大	ghon da
+弦長	yi jian
+弦鳴樂器	yi min yuq chi
+弧線長	wu shi jian
+弧長	wu jian
+弧長參數	wu jian tshae su
+弭忘	mi vaon
+弱國無外交	zhiaq koq vu nga ciau
+弱國無外交	zhiaq koq Wu nga ciau
+弱水三千	zhiaq syu sae chi
+弱水三千只取一瓢	zhiaq syu sae chi ciq tshyu iq biau
+弱水三千只取一瓢	zhiaq syu sae chi tsy tshyu iq biau
+弱水三千只取一瓢飲	zhiaq syu sae chi ciq tshyu iq biau in
+弱水三千只取一瓢飲	zhiaq syu sae chi tsy tshyu iq biau in
+張世傑	cian syu jiq
+張了	cian laq
+張先生	cian shi san
+張冠李戴	cian kun li ta
+張大	cian da
+張大千	cian da chi
+張太雷	cian tha lei
+張娜拉	cian na lha
+張學友	cian yuq yeu
+張學良	cian yuq lian
+張家	cian ko
+張家口	cian cia kheu
+張家口地區	cian cia kheu di chiu
+張家口市	cian cia kheu zy
+張家川回族自治縣	cian cia tshoe wei dzoq zy dzyu yu
+張家港	cian cia kaon
+張家港市	cian cia kaon zy
+張家長	cian ko jian
+張掛着	cian kuo dzoq
+張掛着	cian kuo zyuq
+張易之	cian yi tsy
+張朝陽	cian jiau yan
+張着	cian dzoq
+張着	cian zyuq
+張自忠	cian zy tson
+張誌家	cian tsy cia
+張開着	cian khe dzoq
+張開着	cian khe zyuq
+強中自有強中手	jian tson zy yeu jian tson shieu
+強了	jian laq
+強人	jian gnin
+強人所難	jian gnin so nae
+強制執行	jian tsyu ciq yin
+強制汽車責任保險法	jian tsyu chi tsho tsaq zyun pau shi faq
+強制處分	jian tsyu tshyu ven
+強制認領	jian tsyu zyun lin
+強力膠	jian liq kau
+強加	jian ko
+強加在	jian ko dze
+強加於	jian ko yu
+強加於人	jian ko yu gnin
+強大	jian da
+強姦了	jian kae laq
+強姦了	jian kae lei
+強拉	jian lha
+強權國家	jian jiu koq cia
+強烈願望	jian liq gniu vaon
+強生	jian sen
+強生公司	jian sen kon sy
+強盛	jian zhin
+強盛時期	jian zhin zy ji
+強盛起來	jian zhin chi le
+強省	jian san
+強行	jian yin
+強行軍	jian yin ciun
+強行通過	jian yin thon kou
+強行進入	jian yin cin zyuq
+強迫性性行爲	jian paq shin shin yin wei
+強還原劑	jian wae gniu ci
+強顏	jian yi
+強顏歡笑	jian yi hun shiau
+強馬飲水難	jian mo in syu nae
+彆彆扭扭	piq piq gnieu gnieu
+彆扭	piq gnieu
+彆着	piq dzoq
+彆着	piq zyuq
+彈落去	dae loq chi
+彈了	dae laq
+彈出一個	dae tshyuq iq goq
+彈奏着	dae tseu dzoq
+彈奏着	dae tseu zyuq
+彈射座椅	dae zhiq zou i
+彈布爾	dae pu er
+彈指之間	dae tsy tsy ci
+彈撥樂	dae paq yuq
+彈撥樂器	dae paq yuq chi
+彈斥	dae chiq
+彈淚	dae lei
+彈着	dae dzoq
+彈着	dae zyuq
+彈着點	dae dzoq ti
+彈着點	dae zyuq ti
+彈簧椅	dae waon i
+彈道學	dae dau yuq
+彌天大罪	mi thi da zei
+彌天大謊	mi thi da huaon
+彌望	mi vaon
+彌生文化	mi sen ven huo
+彌綸	mi len
+彌足珍貴	mi tsoq cin kuei
+彎落去	uae loq chi
+彎曲狀	uae chiuq dzaon
+彎曲空間	uae chiuq khon ci
+彎着	uae dzoq
+彎着	uae zyuq
+彎着腰	uae dzoq iau
+彎着腰	uae zyuq iau
+彎腰哈背	uae iau ha pei
+彎腰駝背	uae iau dou pei
+彙集	wei jiq
+形勢逼人	yin syu piq gnin
+形名參同	yin min tshae don
+形學	yin yuq
+形態學	yin the yuq
+形態發生素	yin the faq sen su
+形於顏色	yin yu yi saq
+形於顏色	yin yu ngae saq
+形狀	yin dzaon
+形狀記憶合金	yin dzaon ci i ghaq cin
+形而上學	yin er zaon yuq
+形象大使	yin zhian da sy
+彩券行	tshe chiu ghaon
+彩色世界	tshe saq syu ka
+彩葉芋	tshe yiq yu
+彩雲易散	tshe yun yi sae
+彩鳳隨鴉	tshe von zei ia
+彪個子	piau kou tsy
+彪形大漢	piau yin da he
+彭德懷	ban taq wae
+彭水縣	ban syu yu
+彭水苗族土家族自治縣	ban sei miau dzoq thu cia dzoq zy dzyu yu
+彰化人	tsaon huo gnin
+彰化師範大學	tsaon huo sy vae da ghoq
+彰化銀行	tsaon huo gnin ghaon
+彰明較著	tsaon min ciau tsyu
+影評人	in bin gnin
+影評人週	in bin gnin cieu
+影評家	in bin cia
+影迷大會	in mi da wei
+影集	in jiq
+影響不了	in shian paq liau
+影響弗了	in shian vaq liau
+影響勿了	in shian vaq liau
+彷似	faon zy
+彷彿	faon faq
+彷徉	baon yan
+彷徨	baon waon
+彷徨失措	baon waon syuq tshu
+彼得	pi taq
+彼得一世	pi taq iq syu
+彼得前書	pi taq zhi syu
+彼得堡	pi taq pau
+彼得大帝	pi taq da ti
+彼得後書	pi taq gheu syu
+彼得格勒	pi taq kaq laq
+彼得羅維奇	pi taq lou vi ji
+彼得里皿	pi taq li min
+彼拉多	pi lha tou
+彼此之間	pei tshy tsy ci
+彼此之間	pi tshy tsy ci
+彼此彼此	pei tshy pei tshy
+彼此彼此	pi tshy pi tshy
+彼此間	pei tshy ci
+彼此間	pi tshy ci
+彼爾姆	pi er m
+彼爾姆	pi er meu
+往世	uaon shi
+往世	uaon syu
+往日	uaon zyuq
+往日情懷	uaon zyuq jin wae
+往歲	uaon sei
+往生	uaon sen
+往還	uaon wae
+往還於	uaon wae yu
+待了	de laq
+待在家裏	de dze cia li
+待嫁女兒心	de ko gniu er shin
+待機時間	de ci zy ci
+待着	de dzoq
+待着	de zyuq
+待勒	de laq
+待解	de ka
+待解	de cia
+很久了	hen cieu lei
+很久沒有	hen cieu maq yeu
+很乾	hen kI
+很乾了	hen kI liau
+很壞	hen ua
+很多人	hen tou gnin
+很多人都	hen tou gnin tu
+很大	hen dou
+很大的	hen dou tiq
+很大程度上	hen da jin du zaon
+很容易	hen yon yi
+很差	hen tsho
+很快樂	hen khua loq
+很想你	hen shian gni
+很愛你	hen e gni
+很沒	hen maq
+很生氣	hen san chi
+很自然	hen zy zoe
+很貴	hen kuei
+很長	hen jian
+很長時間	hen jian zy ci
+後世	gheu syu
+後人乘涼	gheu zyun zhin lian
+後人乘涼	gheu gnin zhin lian
+後任	gheu zyun
+後來人	gheu le gnin
+後備軍人	gheu bei ciun gnin
+後傳	gheu dzoe
+後分	gheu fen
+後加	gheu ko
+後加成分	gheu ko jin ven
+後勤人員	gheu jin zyun yu
+後勤學	gheu jin yuq
+後半世	gheu pun shi
+後味	gheu vi
+後天下之樂而樂	gheu thi gho tsy loq er loq
+後學	gheu yuq
+後尾	gheu vi
+後座繫	gheu zou ci
+後悔莫及	gheu huei moq jiq
+後感覺	gheu kI ciuq
+後望鏡	gheu vaon cin
+後梁太祖	gheu lian tha tsu
+後生動物	gheu sen don vaq
+後生可畏	gheu san khou uei
+後生小子	gheu san shiau tsy
+後生小輩	gheu san shiau pei
+後生晚學	gheu san vae yuq
+後甲板	gheu ciaq pae
+後發制人	gheu faq tsyu gnin
+後知後覺	gheu tsyu gheu ciuq
+後級擴大機	gheu ciq khoq da ci
+後腦杓	gheu nau zoq
+後行	gheu yin
+後被	gheu bei
+後覺	gheu ciuq
+後赤壁賦	gheu chiq piq fu
+後集	gheu jiq
+後鼻音	gheu biq in
+徐世昌	zhi syu tshaon
+徐家匯	zhi cia wei
+徐州師範大學	zhi cieu sy vae da ghoq
+徐水	zhi syu
+徐水縣	zhi syu yu
+徐行	zhi yin
+徑自	cin zy
+徑行	cin yin
+徒兒	du er
+徒步健行	du bu ji yin
+徒步旅行	du bu li yin
+徒長	du cian
+徒長枝	du cian tsy
+得不償失	taq paq dzaon syuq
+得不可開交	taq paq khou khe ciau
+得了	taq lei
+得人心	taq zyun shin
+得來不易	taq le paq yi
+得償所願	taq dzaon so gniu
+得分	taq fen
+得分多	taq fen tou
+得分少	taq fen shiau
+得勝回朝	taq shin wei jiau
+得失參半	taq syuq tshae pun
+得意忘形	taq i vaon yin
+得意門生	taq i men sen
+得更	taq ken
+得標人	taq piau gnin
+得爾塔	taq er thaq
+得獎人	taq cian gnin
+得理不饒人	taq li paq gniau gnin
+得着	taq dzoq
+得着	taq zyuq
+得票率	taq phiau liq
+得罪人	taq zei gnin
+得隴望蜀	taq lon vaon dzoq
+得饒人處且饒人	taq gniau zyun tshyu chie gniau zyun
+得饒人處且饒人	taq gniau gnin tshyu chie gniau gnin
+得魚忘筌	taq ng vaon tshoe
+從前人	dzon zhi gnin
+從去年	dzon chiu gni
+從天而降	dzon thi er ciaon
+從小到大	dzon shiau tau dou
+從教	dzon ciau
+從業人員	dzon gniq zyun yu
+從生到死	dzon sen tau sy
+從生到死	dzon san tau shi
+從諫如流	dzon ci zyu lieu
+御世	gniu syu
+御人	gniu gnin
+御仗	gniu jian
+御史大夫	gniu sy da fu
+御狀	gniu dzaon
+復交	voq ciau
+復交	foq ciau
+復任	foq zyun
+復健醫學	foq ji i yuq
+復員軍人	foq yu ciun gnin
+復大	foq da
+復學生	foq yuq san
+復學生	foq ghoq san
+復旦	voq tae
+復旦大學	voq tae da ghoq
+復活日	foq waq gniq
+復牌	foq ba
+復生	foq sen
+復耕	foq kan
+復興中學	foq shin tson ghoq
+復讀生	foq doq sen
+復蹈前轍	foq dau zhi ciq
+復蹈前轍	foq dau zhi chiq
+復魄	foq phaq
+循化撒拉族自治縣	zyun huo saq lha dzoq zy dzyu yu
+循着	zyun dzoq
+循着	zyun zyuq
+微分	vi fen
+微分學	vi fen yuq
+微分幾何	vi fen ci ghou
+微分幾何學	vi fen ci ghou yuq
+微分方程	vi fen faon jin
+微分電路	vi fen di lu
+微差	vi tsho
+微生	vi sen
+微生物	vi sen vaq
+微生物學	vi sen vaq yuq
+微生物學家	vi sen vaq yuq cia
+微積分	vi ciq fen
+微積分基本定理	vi ciq fen ci pen din li
+微積分學	vi ciq fen yuq
+微細加工	vi shi cia kon
+微縮膠捲	vi soq ciau ciu
+微膠囊技術	vi ciau naon ji zyuq
+微行	vi yin
+微觀世界	vi kun syu ka
+微觀經濟學	vi kun cin ci yuq
+微言大義	vi yi da gni
+微電子學	vi di tsy yuq
+徵傳	cin dzOE
+徵收範圍	cin shieu vae wei
+徵集	cin jiq
+徵集令	cin jiq lin
+德令哈	taq lin ha
+德令哈市	taq lin ha zy
+德勒茲	taq laq tsy
+德古拉	taq ku lha
+德國人	taq koq gnin
+德基水庫	taq ci syu khu
+德州人	taq cieu gnin
+德弗札克	taq faq tsaq khaq
+德意志學術交流中心	taq i tsy yuq zyuq ciau lieu tson shin
+德意志銀行	taq i tsy gnin ghaon
+德拉	taq lha
+德拉克洛瓦	taq lha khaq loq ngo
+德拉克羅瓦	taq lha khaq lou ngo
+德拉瓦河	taq lha ngo ghou
+德拉門	taq lha men
+德望	taq vaon
+德爾	taq er
+德爾曼	taq er mae
+德甲	taq ciaq
+德維爾潘	taq vi er phun
+德行	taq yin
+德謨克拉西	taq mou khaq lha shi
+德雷爾	taq lei er
+德高望重	taq kau vaon dzon
+徹夜進行	chiq ya cin yin
+徹底澄清	chiq ti jin chin
+徹底解決	chiq ti ka ciuq
+徹底解決	chiq ti cia ciuq
+徹頭徹尾	chiq deu chiq vi
+心上人	shin zaon gnin
+心中有鬼	shin tson yeu kuei
+心也	shin gha
+心也	shin ya
+心傳	shin dzOE
+心力交疲	shin liq ciau bi
+心力交瘁	shin liq ciau zei
+心如刀絞	shin zyu tau ciau
+心如止水	shin zyu tsy syu
+心如死灰	shin zyu sy huei
+心如死灰	shin zyu shi huei
+心存僥倖	shin dzen ciau yin
+心學	shin yuq
+心宿二	shin soq gni
+心情壞	shin jin ua
+心愛人	shin e gnin
+心懷鬼胎	shin wa kuei the
+心懷鬼胎	shin wae kuei the
+心涼了半截	shin lian laq pun jiq
+心潮起伏	shin jiau chi voq
+心率	shin liq
+心理問題	shin li ven di
+心理學	shin li yuq
+心理學史	shin li yuq sy
+心理學家	shin li yuq cia
+心理學系	shin li yuq shi
+心理狀態	shin li dzaon the
+心理衛生	shin li wei sen
+心理醫生	shin li i san
+心生	shin sen
+心生不滿	shin sen paq mun
+心眼大	shin ngae dou
+心細膽大	shin shi tae da
+心細膽大	shin shi tae dou
+心絞痛	shin ciau thon
+心織筆耕	shin ciq piq kan
+心繫	shin shi
+心耳	shin er
+心肌梗死	shin ci kan sy
+心腸壞	shin jian ua
+心腹大患	shin foq da wae
+心臟學	shin dzaon yuq
+心裏有個譜	shin li yeu goq pu
+心裏有鬼	shin li yeu kuei
+心路文教基金會	shin lu ven ciau ci cin wei
+心長髮短	shin cian faq toe
+心間	shin ci
+心靜自然涼	shin zhin zy zoe lian
+心魄	shin phaq
+必死	piq sy
+必死之心	piq sy tsy shin
+必死之症	piq sy tsy cin
+必爭	piq tsen
+必爭之地	piq tsen tsy di
+忍落去	zyun loq chi
+忍了	zyun laq
+忍受不了	zyun zhieu paq liau
+忍受得了	zyun zhieu taq liau
+忍受着	zyun zhieu dzoq
+忍受着	zyun zhieu zyuq
+忍垢偷生	zyun keu theu sen
+忍痛犧牲	zyun thon shi san
+忍着	zyun dzoq
+忍着	zyun zyuq
+忍辱偷生	zyun zoq theu sen
+志分	tsy fen
+志士仁人	tsy zy zyun zyun
+志學	tsy yuq
+志沖斗牛	tsy tshon teu gnieu
+志行	tsy yin
+忘弗了	maon vaq liau
+忘勿了	maon vaq liau
+忘弗掉	maon vaq diau
+忘勿掉	maon vaq diau
+忘乎	maon fu
+忘乎所以	vaon fu so yi
+忘了	maon laq
+忘其所以	vaon ji so yi
+忘年	vaon gni
+忘年之交	vaon gni tsy ciau
+忘年交	vaon gni ciau
+忘形	vaon yin
+忘性	maon shin
+忘恩	vaon en
+忘恩負義	vaon en veu gni
+忘悼	vaon dau
+忘情	vaon jin
+忘情所以	vaon jin so yi
+忘懷	vaon wae
+忘記	maon ci
+忘記了	maon ci lei
+忘記密碼	maon ci miq mo
+忘記掉	maon ci diau
+忙了手腳	maon laq shieu ciaq
+忙人	maon gnin
+忙得不可開交	maon taq paq khou khe ciau
+忙昏了頭	maon huen laq deu
+忙着	maon dzoq
+忙着	maon zyuq
+忙勒	maon laq
+忠人之托	tson gnin tsy thoq
+忠南大學校	tson nEI da ghoq yau
+忠南大學校	tson nEI dou ghoq yau
+忠心耿耿	tson shin ken ken
+忠於國家	tson yu koq cia
+忠言逆耳	tson yi gniq er
+忠言逆耳利於行	tson yi gniq er li yu yin
+快落去	khua loq chi
+快乾	khua kI
+快乾了	khua kI liau
+快乾裂	khua kI liq
+快了	khua lei
+快停了	khua din lei
+快傳	khua dzOE
+快啊	khua gha
+快啊	khua a
+快好了	khua hau lei
+快完了	khua wun lei
+快快樂樂	khua khua loq loq
+快樂	khua loq
+快樂幸福	khua loq yin foq
+快死了	khua shi lei
+快沒	khua maq
+快沒了	khua maq lei
+快嘸沒了	khua mhiq lei
+快沒有	khua maq yeu
+快滿了	khua mun lei
+快熟了	khua zoq lei
+快盛	khua zhin
+快行道	khua yin dau
+快被	khua bei
+快贏了	khua yin lei
+快速以太網絡	khua soq yi tha maon loq
+快速增長	khua soq tsen cian
+快降	khua ciaon
+快馬加鞭	khua mo cia pi
+念落去	nE loq chi
+念你	nE gni
+念你	nE ng
+念俉	nE ng
+念爾	nE ng
+念儂	nE nou
+念學位	nE yuq wei
+念念不忘	nE nE paq vaon
+念日	nE zyuq
+念生	nE sen
+念着	nE dzoq
+念着	nE zyuq
+念茲在茲	nE tsy dze tsy
+忽大忽小	huaq dou huaq shiau
+忽然之間	huaq zoe tsy ci
+忽然間	huaq zoe ci
+忽長忽短	huaq jian huaq toe
+怎生	tsen sen
+怎行	tsen yin
+怎麼了	tsen mou laq
+怎麼啦	tsen mou laq
+怎麼得了	tsen mou taq liau
+怎麼着	tsen mou dzoq
+怎麼着	tsen mou zyuq
+怎麼解決	tsen mou ka ciuq
+怎麼解決	tsen mou cia ciuq
+怎麼辦啊	tsen mou bae gha
+怎麼辦啊	tsen mou bae a
+怏怏	ian ian
+怏怏不樂	ian ian paq loq
+怏然	ian zoe
+怒斥	nu chiq
+怕了	pho laq
+怕了	pho lei
+怕得罪人	pho taq zei gnin
+怕死	pho shi
+怕死鬼	pho shi kuei
+怕鬼	pho kuei
+思想交流	sy shian ciau lieu
+思想家	sy shian cia
+思想教育	sy shian ciau yuq
+思想認識	sy shian gnin shiq
+思歸鳥	sy kuei gniau
+思潮起伏	sy jiau chi voq
+思而不學則殆	sy er paq yuq tsaq de
+怡人	yi gnin
+怡然自得	yi zoe zy taq
+急中生智	ciq tson sen tsyu
+急人之困	ciq gnin tsy khuen
+急人之難	ciq gnin tsy nae
+急壞	ciq ua
+急性人	ciq shin gnin
+急性闌尾炎	ciq shin lae vi yi
+急死	ciq sy
+急煞	ciq saq
+急水也有回頭浪	ciq syu gha yeu wei deu laon
+急水也有回頭浪	ciq syu ya yeu wei deu laon
+急水溪	ciq syu chi
+急着	ciq dzoq
+急着	ciq zyuq
+急勒	ciq laq
+急行軍	ciq yin ciun
+性交	shin ciau
+性交易	shin ciau yiq
+性交關係	shin ciau kuae shi
+性交高潮	shin ciau kau jiau
+性傳播	shin dzOE pou
+性命交關	shin min ciau kuae
+性問題	shin ven di
+性情中人	shin jin tson zyun
+性情中人	shin jin tson gnin
+性情大變	shin jin da pi
+性教育	shin ciau yuq
+性格小生	shin kaq shiau sen
+性樂	shin loq
+性狀	shin dzaon
+性生活	shin sen waq
+性癮	shin in
+性科學	shin khou yuq
+性荷爾蒙	shin ghou er mon
+性行	shin ghan
+性行爲	shin yin wei
+怨不得人	iu paq taq gnin
+怨望	iu vaon
+怨鬼	iu kuei
+怪了	kua lei
+怪人	kua gnin
+怪你	kua gni
+怪你	kua ng
+怪俉	kua ng
+怪爾	kua ng
+怪儂	kua nou
+怪味	kua vi
+怪着	kua dzoq
+怪着	kua zyuq
+怯生	chiq sen
+怯生生	chiq sen sen
+怯生生地	chiq sen sen di
+怯生生的	chiq sen sen tiq
+恆加速度	ghen ko soq du
+恆毅中學	ghen gni tson ghoq
+恆生	ghen sen
+恆生中資企業指數	ghen sen tson tsy chi gniq tsy su
+恆生指數	ghen sen tsy su
+恆生銀行	ghen sen gnin ghaon
+恆速率	ghen soq liq
+恍如隔世	huaon zyu kaq syu
+恍惚之間	huaon huaq tsy ci
+恍若隔世	huaon zhiaq kaq syu
+恍若隔世	huaon zoq kaq syu
+恐後爭先	khon gheu tsen shi
+恐怖分子	khon pu ven tsy
+恐水病	khon syu bin
+恐水症	khon syu cin
+恐鳥	khon gniau
+恢復原狀	huei foq gniu dzaon
+恣意行樂	tsy i yin loq
+恣行無忌	tsy yin vu ji
+恣行無忌	tsy yin Wu ji
+恨了	ghen laq
+恨人	ghen gnin
+恨死	ghen sy
+恨煞	ghen saq
+恨煞死	ghen saq shi
+恨透了	ghen theu laq
+恩人	en gnin
+恩克巴雅爾	en khaq po ia er
+恩威並行	en uei bin yin
+恩怨分明	en iu fen min
+恩愛有加	en e yeu cia
+恩施土家族苗族自治州	en sy thu cia dzoq miau dzoq zy dzyu cieu
+恩格爾	en kaq er
+恩格爾係數	en kaq er shi su
+恩賈梅納	en cia mei naq
+恭人	kon zyun
+恭候大駕	kon gheu da cia
+恭喜你	kon shi gni
+恭城瑤族自治縣	kon jin yau dzoq zy dzyu yu
+恭從	kon dzon
+恭敬不如從命	kon cin paq zyu dzon min
+息事寧人	shiq zy gnin zyun
+息交絕遊	shiq ciau dzyuq yeu
+息率	shiq liq
+恰如其分	chiaq zyu ji ven
+悄然淚下	chiau zoe lei gho
+悅耳	yuq er
+悅耳動聽	yuq er don thin
+悔之莫及	huei tsy moq jiq
+悔恨交加	huei ghen ciau cia
+悔過自新	huei kou zy shin
+悟解	nu ka
+悟解	nu cia
+悟解	wu ka
+悟解	wu cia
+悠然自得	ieu zoe zy taq
+悠然自適	ieu zoe zy shiq
+悠着	ieu dzoq
+悠着	ieu zyuq
+悠長	ieu jian
+悠閒自在	ieu ghae zy dze
+患了	wae laq
+患難之交	wae nae tsy ciau
+悲不自勝	pei paq zy shin
+悲喜交並	pei shi ciau bin
+悲喜交加	pei shi ciau cia
+悲喜交集	pei shi ciau jiq
+悲天憫人	pei thi min zyun
+悲從中來	pei dzon tson le
+悲慘世界	pei tshae syu ka
+悲懷	pei wae
+悲觀失望	pei kun syuq vaon
+悵望	chian vaon
+悶悶不樂	mhen mhen paq loq
+悶死	mhen sy
+悶煞	mhen saq
+悶煞死	mhen saq shi
+悶着	mhen dzoq
+悶着	mhen zyuq
+悶勒	mhen laq
+悶勒仔	mhen laq tsy
+悶的	mhen tiq
+悶着頭	mhen dzoq deu
+悶着頭	mhen zyuq deu
+頭悶勒	deu mhen laq
+頭悶勒仔	deu mhen laq tsy
+頭悶的	deu mhen tiq
+悻悻而去	yin yin er chiu
+悽切動人	chi chiq don zyun
+情不自勝	jin paq zy shin
+情不自禁	jin paq zy cin
+情人節快樂	jin zyun ciq khua loq
+情人節快樂	jin gnin ciq khua loq
+情侶鸚鵡	jin li in Wu
+情分	jin ven
+情同一家	jin don iq cia
+情同魚水	jin don ng syu
+情同魚水	jin don yu sei
+情同魚水	jin don yu syu
+情味	jin vi
+情報人員	jin pau zyun yu
+情報學	jin pau yuq
+情急了	jin ciq laq
+情急智生	jin ciq tsyu sen
+情急生智	jin ciq sen tsyu
+情景交融	jin cin ciau yon
+情書大全	jin syu da dzoe
+情死	jin sy
+情況分析	jin huaon fen shiq
+情狀	jin dzaon
+情緒狀態	jin zyu dzaon the
+情繫	jin shi
+情長紙短	jin jian tsy toe
+惑人耳目	ghoq zyun er moq
+惟命是從	vi min zy dzon
+惠更斯	wei ken sy
+惠水	wei syu
+惠水縣	wei syu yu
+惡事傳千里	oq zy dzOE chi li
+惡人	oq gnin
+惡人先告狀	oq gnin shi kau zaon
+惡人有惡報	oq gnin yeu oq pau
+惡仗	oq cian
+惡名昭著	oq min ciau tsyu
+惡女阿楚	oq gniu aq tshu
+惡形惡狀	oq yin oq dzaon
+惡性競爭	oq shin jin tsen
+惡水	oq syu
+惡眉惡眼	oq mei oq ngae
+惡臭味	oq chieu vi
+惡臭撲鼻	oq chieu phoq biq
+惡行	oq yin
+惡言傷人	oq yi saon gnin
+惡語傷人	oq gniu saon gnin
+惡馬惡人騎	oq mo oq gnin ji
+惡鬼	oq kuei
+想落去	shian loq chi
+想也不想	shian gha paq shian
+想也不想	shian ya paq shian
+想也別想	shian gha biq shian
+想也別想	shian ya biq shian
+想了	shian laq
+想了又想	shian laq yeu shian
+想了想	shian laq shian
+想你	shian gni
+想你了	shian gni lei
+想個	shian goq
+想個方法	shian goq faon faq
+想個辦法	shian goq bae faq
+想啊	shian gha
+想啊	shian a
+想學	shian ghoq
+想家	shian cia
+想找個	shian tsau goq
+想望	shian vaon
+想死	shian sy
+想當然耳	shian taon zoe er
+想着	shian dzoq
+想着	shian zyuq
+想瞭解	shian liau ka
+想瞭解	shian liau cia
+想認	shian gnin
+想過着	shian kou dzoq
+想過着	shian kou zyuq
+惶恐狀	waon khon dzaon
+惶惶不可終日	waon waon paq khou tson zyuq
+惹事生非	zo zy sen fi
+惹人	zo gnin
+惹人厭	zo gnin i
+惹人心煩	zo gnin shin vae
+惹人注意	zo gnin tsyu i
+惹人注目	zo gnin tsyu moq
+惹人討厭	zo gnin thau i
+惹是生非	zo zy sen fi
+愁懷	zeu wae
+愁滋味	zeu tsy vi
+愁眉	zeu mei
+愁眉不展	zeu mei paq ci
+愁眉不展	zeu mei paq tsoe
+愁眉苦眼	zeu mei khu ngae
+愁眉苦臉	zeu mei khu li
+愁眉鎖眼	zeu mei sou ngae
+愁顏	zeu yi
+意中人	i tson gnin
+意出望外	i tshyuq vaon nga
+意味	i vi
+意味深長	i vi shin jian
+意味着	i vi dzoq
+意味着	i vi zyuq
+意外風波	i nga fon pou
+意大利	i da li
+意大利人	i da li gnin
+意大利直麪	i da li jiq mi
+意大利語	i da li gniu
+意大利隊	i da li dei
+意大利青瓜	i da li chin kuo
+意大利麪	i da li mi
+意式濃縮咖啡	i shiq gnion soq kha fi
+意志消沈	i tsy shiau jin
+意樂	i loq
+意甲	i ciaq
+意見分歧	i ci fen ji
+意謂着	i wei dzoq
+意謂着	i wei zyuq
