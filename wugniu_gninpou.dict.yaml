@@ -960,7 +960,7 @@ use_preset_vocabulary: true
 闐	di
 厗	di
 弟	di
-簟	di
+簟	di	55
 殄	di
 扂	di
 第	di
@@ -1268,7 +1268,7 @@ use_preset_vocabulary: true
 際	ci
 穄	ci
 漈	ci
-𣥼	ci
+𣥼	ci	10000
 霽	ci
 劑	ci
 穧	ci
@@ -1944,7 +1944,7 @@ use_preset_vocabulary: true
 裏	yi	0%
 裡	yi	0%
 異	yi
-勩	yi
+勩	yi	55
 泄	yi	0%
 呭	yi
 貤	yi
@@ -2078,10 +2078,10 @@ use_preset_vocabulary: true
 莆	bu
 荸	bu	5%
 部	bu
-篰	bu
+篰	bu	55
 蔀	bu
 簿	bu
-𥳖	bu
+𥳖	bu	55
 瓿	bu
 步	bu
 歩	bu
@@ -2432,7 +2432,7 @@ use_preset_vocabulary: true
 褲	khu
 袴	khu
 秙	khu
-跍	gu
+跍	gu	1000
 咕	gu	1%
 和	wu	1%
 喖	wu
@@ -2967,7 +2967,7 @@ use_preset_vocabulary: true
 她	tha
 埭	da
 大	da	6%
-𢪂	da
+𢪂	da	55
 𠯈	da
 汏	da
 拿	na
@@ -3162,7 +3162,7 @@ use_preset_vocabulary: true
 ⿰口茄	jia
 弶	jia	1%
 寫	shia
-㕐	shia
+㕐	shia	578
 瀉	shia
 䥱	shia
 𧓺	shia
@@ -3524,7 +3524,7 @@ use_preset_vocabulary: true
 嫂	sau
 少	sau	5%
 潲	sau
-燥	sau
+燥	sau	5000
 𢜶	sau
 皂	zau
 皁	zau
@@ -3831,7 +3831,7 @@ use_preset_vocabulary: true
 𤵾	dzo
 垞	dzo
 茬	dzo
-茶	dzo
+茶	dzo	10000
 𨃓	dzo
 搽	dzo
 𡨀	dzo
@@ -3891,7 +3891,7 @@ use_preset_vocabulary: true
 叚	ko
 嫁	ko
 價	ko
-抲	kho
+抲	kho	8000
 㰤	kho
 咖	go	0%
 茶	go	0%
@@ -3921,7 +3921,7 @@ use_preset_vocabulary: true
 鴉	o
 鵶	o
 下	o	5%
-搲	o
+搲	o	578
 哦	o
 阿	o	0%
 堊	o
@@ -3937,7 +3937,7 @@ use_preset_vocabulary: true
 臕	piau
 脿	piau
 蔈	piau
-滮	piau
+滮	piau	418
 淲	piau
 猋	piau
 飆	piau
@@ -4608,7 +4608,7 @@ use_preset_vocabulary: true
 咍	he
 許	he	5%
 漢	he
-熯	he
+熯	he	55
 暵	he
 𩈣	he
 旰	he
@@ -4921,7 +4921,7 @@ use_preset_vocabulary: true
 贊	tsae
 讚	tsae
 賛	tsae
-㜺	tsae
+㜺	tsae	1000
 灒	tsae
 濺	tsae
 饡	tsae
@@ -5100,14 +5100,14 @@ use_preset_vocabulary: true
 餡	ghae
 限	ghae
 陷	ghae
-揞	ghae	5%
+揞	ghae	418
 鴨	ae
 𩿼	ae
 𪀌	ae
-晏	ae
+晏	ae	10000
 鴳	ae
 鷃	ae
-揞	ae	5%
+揞	ae	418
 關	kuae
 関	kuae
 闗	kuae
@@ -5123,7 +5123,7 @@ use_preset_vocabulary: true
 𫩙	guae
 甩	guae	5%
 摜	guae
-儇	huae
+儇	huae	20000
 嬛	huae
 咺	huae
 甩	huae
@@ -5535,7 +5535,7 @@ use_preset_vocabulary: true
 𥠊	zhieu
 糅	zhieu
 袖	zhieu
-壽	zhieu
+壽	zhieu	3000
 授	zhieu
 綬	zhieu
 由	yeu
@@ -5588,7 +5588,7 @@ use_preset_vocabulary: true
 攸	ieu
 悠	ieu
 滺	ieu
-幽	ieu
+幽	ieu	3418
 呦	ieu
 麀	ieu
 黝	ieu
@@ -5618,13 +5618,13 @@ use_preset_vocabulary: true
 緞	doe
 𩤣	doe
 腶	doe
-囡	noe
+囡	noe	3000
 暖	noe
 煖	noe
 煗	noe
 㬉	noe
 偶	noe	0%
-囡	nhoe
+囡	nhoe	1000
 鸞	loe
 巒	loe
 臠	loe
@@ -5738,7 +5738,7 @@ use_preset_vocabulary: true
 𪎦	mei
 痗	mei
 袂	mei
-煝	mei
+煝	mei	5000
 𤈦	mei
 𤦛	mei
 𮔙	mei
@@ -5754,7 +5754,7 @@ use_preset_vocabulary: true
 𣍐	vei
 浮	vei	0%
 堆	tei
-𠡒	tei
+𠡒	tei	578
 㨃	tei
 對	tei
 対	tei
@@ -5810,7 +5810,7 @@ use_preset_vocabulary: true
 耐	nei	0%
 內	nei
 汭	nei
-𤿏	nei
+𤿏	nei	578
 婻	nEI
 雷	lei
 靁	lei
@@ -5845,7 +5845,7 @@ use_preset_vocabulary: true
 纇	lei
 淚	lei	6%
 泪	lei	6%
-擂	lei
+擂	lei	578
 𢺢	lei
 攂	lei
 洡	lei
@@ -5942,7 +5942,7 @@ use_preset_vocabulary: true
 繐	zei
 粹	zei
 瘁	zei
-睡	zei
+睡	zei	1000
 瑞	zei
 蠶	zEI
 鏨	zEI
@@ -5986,7 +5986,7 @@ use_preset_vocabulary: true
 憾	hEI	0%
 厂	hEI	0%
 漢	hEI	0%
-熯	hEI
+熯	hEI	55
 旰	hEI	0%
 哎	ghEI
 含	ghEI
@@ -6567,7 +6567,7 @@ use_preset_vocabulary: true
 窩	ou
 萵	ou	0%
 渦	ou
-捼	ou
+捼	ou	1000
 𤉦	ou
 撾	ou
 婐	ou
@@ -6577,7 +6577,7 @@ use_preset_vocabulary: true
 污	ou	5%
 汙	ou	5%
 汚	ou	5%
-涴	ou
+涴	ou	2000
 吥	pheu
 秠	pheu
 紑	pheu
@@ -6655,7 +6655,7 @@ use_preset_vocabulary: true
 婾	theu
 斢	theu
 透	theu
-㪗	theu
+㪗	theu	418
 敨	theu
 紏	theu
 䚵	theu
@@ -6921,7 +6921,7 @@ use_preset_vocabulary: true
 𣛟	tshan
 鐺	tshan	2%
 鋥	dzan
-䂻	dzan
+䂻	dzan	55
 瞠	dzan
 生	san
 甥	san
@@ -6941,7 +6941,7 @@ use_preset_vocabulary: true
 䢚	kan
 耿	kan
 坑	khan
-揞	khan
+揞	khan	2000
 鯁	gan
 骾	gan
 硬	ngan
@@ -6958,8 +6958,8 @@ use_preset_vocabulary: true
 鸚	an
 嗯	an
 㿮	an
-㹙	an
-揞	an
+㹙	an	55
+揞	an	2000
 良	lian
 凉	lian
 涼	lian
@@ -7065,7 +7065,7 @@ use_preset_vocabulary: true
 丈	jian
 杖	jian
 張	jian	1%
-滰	jian
+滰	jian	8000
 ⿰氵丈	jian
 犟	jian
 弜	jian
@@ -7378,7 +7378,7 @@ use_preset_vocabulary: true
 落	laon	0%
 浪	laon
 狼	laon
-㫰	laon
+㫰	laon	1000
 𧻴	laon
 閬	laon
 蒗	laon
@@ -7573,7 +7573,7 @@ use_preset_vocabulary: true
 槓	gaon
 杠	gaon
 㽘	gaon
-戇	gaon
+戇	gaon	1000
 卬	ngaon
 昂	ngaon
 炕	haon	0%
@@ -7965,7 +7965,7 @@ use_preset_vocabulary: true
 褪	then
 豚	den
 屯	den
-庉	den
+庉	den	20000
 吨	den
 窀	den
 停	den	1%
@@ -8007,7 +8007,7 @@ use_preset_vocabulary: true
 崘	len
 淪	len
 輪	len
-惀	len
+惀	len	578
 圇	len
 綸	len
 錀	len
@@ -8065,7 +8065,7 @@ use_preset_vocabulary: true
 瞋	tshen
 嗔	tshen
 琛	tshen
-忖	tshen	142577
+忖	tshen	100000
 刌	tshen
 蹭	tshen
 谶	tshen
@@ -8990,7 +8990,7 @@ use_preset_vocabulary: true
 悃	khuen
 緄	khuen
 輥	khuen
-睏	khuen
+睏	khuen	20000
 𦄐	khuen
 壼	khuen
 潰	guen	1%
@@ -9025,7 +9025,7 @@ use_preset_vocabulary: true
 穩	uen
 穏	uen
 渾	uen	0%
-搵	uen
+搵	uen	1000
 揾	uen
 君	ciun
 莙	ciun
@@ -9662,7 +9662,7 @@ use_preset_vocabulary: true
 胸	shion
 胷	shion
 酗	shion	5%
-嗅	shion
+嗅	shion	3000
 榮	yon
 嶸	yon
 蠑	yon
@@ -9759,7 +9759,7 @@ use_preset_vocabulary: true
 舶	phaq
 迫	phaq	1%
 蘗	phaq
-𤖼	phaq
+𤖼	phaq	418
 擘	phaq
 潑	phaq
 鏺	phaq
@@ -9927,7 +9927,7 @@ use_preset_vocabulary: true
 毾	thaq
 𩥑	thaq
 䌈	thaq
-𡍲	thaq
+𡍲	thaq	578
 撻	thaq
 闥	thaq
 貼	thaq	5%
@@ -10166,7 +10166,7 @@ use_preset_vocabulary: true
 石	zaq
 閘	zaq
 牐	zaq
-煠	zaq
+煠	zaq	578
 炸	zaq
 𧾁	zaq
 𧼰	zaq
@@ -10245,7 +10245,7 @@ use_preset_vocabulary: true
 嵑	khaq
 峇	khaq
 𦊪	khaq
-軋	gaq
+軋	gaq	5000
 釓	gaq
 搿	gaq
 䦪	gaq
@@ -10642,7 +10642,7 @@ use_preset_vocabulary: true
 復	voq	5%
 鰒	voq
 篤	toq
-𤒘	toq
+𤒘	toq	418
 督	toq
 𧝴	toq
 𧰵	toq
@@ -10877,7 +10877,7 @@ use_preset_vocabulary: true
 㬘	soq
 夙	soq
 索	soq
-𢱢	soq
+𢱢	soq	55
 𧎳	soq
 𦵫	soq
 𥰼	soq
@@ -10910,7 +10910,7 @@ use_preset_vocabulary: true
 縟	zoq
 嗕	zoq
 鑿	zoq
-𧮙	zoq
+𧮙	zoq	10000
 熟	zoq
 孰	zoq
 塾	zoq	5%
@@ -11279,7 +11279,7 @@ use_preset_vocabulary: true
 𩧂	liq
 䟏	liq
 瓅	liq
-䉭	liq
+䉭	liq	55
 蒚	liq
 裏	liq	0%
 裡	liq	0%
@@ -11621,7 +11621,7 @@ use_preset_vocabulary: true
 鬩	shiq
 䦧	shiq
 吸	shiq
-㽺	shiq
+㽺	shiq	55
 𣣉	shiq
 赥	shiq
 歘	shiq
@@ -11724,7 +11724,7 @@ use_preset_vocabulary: true
 抑	iq
 𨉖	iq
 擪	iq
-𥣘	iq
+𥣘	iq	55
 靨	iq
 曄	iq
 殗	iq
@@ -11822,7 +11822,7 @@ use_preset_vocabulary: true
 欻	shiuq
 畜	shiuq	20%
 蓄	shiuq
-㜅	shiuq
+㜅	shiuq	418
 䙒	shiuq
 𩹱	shiuq
 魆	shiuq
@@ -27746,14 +27746,341 @@ use_preset_vocabulary: true
 漆漆黑	tshaq tshaq haq
 溼溼澾澾	saq saq daq daq
 釋雪	saq syuq
-別烏采
-別烏蕩
-別烏態
-別烏頭
-廠裏
-廠裏人	chian li gnin
-單位裏
-單位裏人	tae wei li gnin
+賴伏雞變鴨	la bu ci pi aq
+對落是涴缸
+眼涴結嗝
+挖鼻頭涴	uaq baq deu ou
+⿸尸咋涴胡嚨癢	dza ou wu lon yan
+⿸尸查涴胡嚨癢	dza ou wu lon yan
+撒涴胡嚨癢	dza ou wu lon yan
+射涴胡嚨癢	dza ou wu lon yan
+𠑞涴胡嚨癢	dza ou wu lon yan
+涴急造茅坑
+尿涴屋裏⿸尸咋	syu ou oq li dza
+尿涴屋裏⿸尸查	syu ou oq li dza
+尿涴屋裏撒	syu ou oq li dza
+尿涴屋裏射	syu ou oq li dza
+尿涴屋裏𠑞	syu ou oq li dza
+涴缸邊頭罰願
+涴掃帚成筋	ou sau cieu jin cin
+涴掃帚成精	ou sau cieu jin cin
+邱隘鹹齏涴缸做
+⿸尸咋涴估堆頭	dza ou ku tei deu
+⿸尸查涴估堆頭	dza ou ku tei deu
+撒涴估堆頭	dza ou ku tei deu
+射涴估堆頭	dza ou ku tei deu
+𠑞涴估堆頭	dza ou ku tei deu
+𠞭耳朵涴	lheu gni to ou
+𠞭耳朵涴	lheu ng to ou
+鏤耳朵涴	lheu gni to ou
+鏤耳朵涴	lheu ng to ou
+涴缸越㧕越臭
+一⿸尸咋涴	iq dza ou
+一⿸尸查涴	iq dza ou
+一撒涴	iq dza ou
+一射涴	iq dza ou
+一𠑞涴	iq dza ou
+涴急喪命	ou ciq saon min
+鼻頭涴結嗝	baq deu ou ciq kaq
+⿸尸咋涴壅伸草	dza ou ion shin tshau
+⿸尸查涴壅伸草	dza ou ion shin tshau
+撒涴壅伸草	dza ou ion shin tshau
+射涴壅伸草	dza ou ion shin tshau
+𠑞涴壅伸草	dza ou ion shin tshau
+⿸尸咋涴筆篤	dza ou piq toq
+⿸尸查涴筆篤	dza ou piq toq
+撒涴筆篤	dza ou piq toq
+射涴筆篤	dza ou piq toq
+𠑞涴筆篤	dza ou piq toq
+爛涴賊臭
+房間裏向	vaon kae li shian
+衣櫥裏向
+教室外向	ciau syuq nga shian
+𥈊記𥈊記
+丫臉覅渠	o li fe ji
+嘔渠倒痰瓶	eu ji tau dae bin
+嘔渠一聲	eu ji iq shin
+話渠一頓	wo ji iq ten
+皇帝老官打渠跔	waon ti lau kun tan ji geu
+皇帝老官打渠𧺤	waon ti lau kun tan ji geu
+䂻進渠肚裏勿得	dzan cin ji du li vaq taq
+䂻進渠肚裏弗得	dzan cin ji du li vaq taq
+渠要怏	ji iau aon
+田要種渠骨敦	di iau tson ji kuaq ten
+字宅宅寫渠快	zy dzaq dzaq shia ji khua
+辣辣話渠一頓	laq laq wo ji iq ten
+嘔渠淘淘米	eu ji dau dau mi
+莫去煩渠	mhau chi vae ji
+莫去煩渠	mau chi vae ji
+莫去睬渠	mhau chi tshe ji
+莫去睬渠	mau chi tshe ji
+巴掌喫渠腐𤒻𤒻	po tsaon chioq ji vu daq daq
+⿸尸查屁賴賴	dza phi la la
+⿸尸查屙胡嚨癢	dza ou wu lon yan
+尿屙屋裏⿸尸查	syu ou oq li dza
+一人⿸尸查尿出	iq gnin dza syu tshyuq
+⿸尸查屙估堆頭	dza ou ku tei deu
+一⿸尸查尿	iq dza syu
+一⿸尸查屙	iq dza ou
+捏勒卵子勿⿸尸查尿	gniaq laq loe tsy vaq dza syu
+⿸尸查屁賴	dza phi la
+⿸尸查屙壅伸草	dza ou ion shin tshau
+⿸尸查屙筆篤	dza ou piq toq
+⿸尸查尿哚哚響	dza syu do do shian
+撒屁賴賴	dza phi la la
+撒屙胡嚨癢	dza ou wu lon yan
+尿屙屋裏撒	syu ou oq li dza
+一人撒尿出	iq gnin dza syu tshyuq
+撒屙估堆頭	dza ou ku tei deu
+一撒尿	iq dza syu
+一撒屙	iq dza ou
+捏勒卵子勿撒尿	gniaq laq loe tsy vaq dza syu
+撒屁賴	dza phi la
+撒屙壅伸草	dza ou ion shin tshau
+撒屙筆篤	dza ou piq toq
+撒尿哚哚響	dza syu do do shian
+射屁賴賴	dza phi la la
+射屙胡嚨癢	dza ou wu lon yan
+尿屙屋裏射	syu ou oq li dza
+一人射尿出	iq gnin dza syu tshyuq
+射屙估堆頭	dza ou ku tei deu
+一射尿	iq dza syu
+一射屙	iq dza ou
+捏勒卵子勿射尿	gniaq laq loe tsy vaq dza syu
+射屁賴	dza phi la
+射屙壅伸草	dza ou ion shin tshau
+射屙筆篤	dza ou piq toq
+射尿哚哚響	dza syu do do shian
+𠑞屁賴賴	dza phi la la
+𠑞屙胡嚨癢	dza ou wu lon yan
+尿屙屋裏𠑞	syu ou oq li dza
+一人𠑞尿出	iq gnin dza syu tshyuq
+𠑞屙估堆頭	dza ou ku tei deu
+一𠑞尿	iq dza syu
+一𠑞屙	iq dza ou
+捏勒卵子勿𠑞尿	gniaq laq loe tsy vaq dza syu
+𠑞屁賴	dza phi la
+𠑞屙壅伸草	dza ou ion shin tshau
+𠑞屙筆篤	dza ou piq toq
+𠑞尿哚哚響	dza syu do do shian
+早鱟弗過晝	tsau heu vaq kou cieu
+高頭弗來	kau deu vaq le
+低頭弗去	ti deu vaq chi
+閒時不節弗做家	ghae zy paq ciq vaq tsou ko
+一生一世喫弗窮	iq san iq shi chioq vaq jion
+少年弗做家	shiau gni vaq tsou ko
+快手勢弗及慢兩爹	khua shieu syu vaq jiq mae lian tia
+做囡弗斷孃家路	tsou noe vaq doe gnian ko lu
+孃勤囡弗懶	gnian jin noe vaq lae
+爹做郎中醫弗好	tia tsou laon tson i vaq hau
+叫花子弗留過夜食	kau huo tsy vaq lieu kou ya zhiq
+自家做做來弗及	zhi ko tsou tsou le vaq ji
+人家做做弗中意	gnin ko tsou tsou vaq tson i
+弗及屋裏	vaq jiq oq li
+犯落丫臉弗認人	vae loq o li vaq gnin gnin
+落雨淋弗着	loq yu lin vaq zyuq
+落雨淋弗着	loq yu lin vaq dzoq
+背脊骨直弗起	pei ciq kuaq jiq vaq chi
+會做也弗難	wei tsou gha vaq nae
+三色弗看	sae saq vaq khI
+活靈弗生	waq lin vaq san
+小苦弗喫	shiau khu vaq chioq
+心網弗定	shin maon vaq din
+喫弗窮	chioq vaq jion
+穿弗窮	tshOE vaq jion
+算着弗好一世窮	soe zyuq vaq hau iq shi jion
+算着弗好一世窮	soe dzoq vaq hau iq shi jion
+一日弗造生㾸𤶁	iq gniq vaq zau san kaq lau
+一弗打和尚	iq vaq tan ghou zaon
+二弗打黃胖	gni vaq tan waon phaon
+出力弗討好	tshyuq liq vaq thau hau
+熱弗退	gniq vaq thei
+只認衣衫弗認人	ciq gnin i sae vaq gnin gnin
+閒賬弗管	ghae cian vaq kun
+只話我養生弗推扳	ciq wo ngo yan san vaq thei pae
+運道來了推弗開	yun dau le laq thei vaq khe
+橋倒壓弗煞差魚	jiau tau aq vaq saq tsho ng
+油鹽弗喫是梅豆	yeu yi vaq chioq zy mei deu
+能使買弗值	nen sy ma vaq jiq
+弗可買喫食	vaq khou ma chioq zhiq
+八月十六等弗到	paq yuq zyuq loq ten vaq tau
+金窠銀窠弗如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou
+閻王奪弗去	gni waon daq vaq chi
+肚飢弗論好羹湯	du ci vaq len hau kan thaon
+瞌𥅻弗論好眠牀	khaq tshon vaq len hau mi zaon
+圖書弗明	du syu vaq min
+單子弗靈	tae tsy vaq lin
+要緊弗得慢	iau cin vaq taq mae
+草蓬腳下弗可坐	tshau bon ciaq gho vaq khou zou
+冬冷弗算冷	ton lan vaq soe lan
+打煞黃狗弗離窠	tan saq wu kI vaq li khou
+打煞黃狗弗離窠	tan saq waon kI vaq li khou
+打煞黃狗弗離窠	tan saq waon keu vaq li khou
+弗是爬就是挖	vaq zy bo jieu zy uaq
+癩𪓿剝皮心弗死	la sy poq bi shin vaq shi
+弗如值鈿樹掙	vaq zyu jiq di zyu tsan
+活靈一眼弗生	waq lin iq ngae vaq san
+弗如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci
+行業弗尋	ghaon gniq vaq zhin
+弗好欠衆家	vaq hau chi tson ko
+和家弗得安	ghou ko vaq taq EI
+細糠喫弗起	shi khaon chioq vaq chi
+丫臉犯落弗認人	o li vae loq vaq gnin gnin
+做人弗能翻白	tsou gnin vaq nen fae baq
+閒話弗能煞潑	ghae wo vaq nen saq phaq
+言話弗能煞潑	ghae wo vaq nen saq phaq
+老人弗掏古	lau gnin vaq dau ku
+討𧮙弗揀日子	thau zoq vaq kae gniq tsy
+弄弗討好	lon vaq thau hau
+果子弗可擇	kou tsy vaq khou dzaq
+閒話弗可扎	ghae wo vaq khou tsaq
+言話弗可扎	ghae wo vaq khou tsaq
+掇凳弗坐討凳坐	taq ten vaq zou thau ten zou
+喫弗論	chioq vaq len
+馱弗肯	dou vaq khen
+小個桌凳撩弗着	shiau goq tsoq ten liau vaq dzoq
+小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq dzoq
+小個桌凳撩弗着	shiau goq tsoq ten liau vaq zyuq
+小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq zyuq
+老個豆腐嚼弗落	lau goq deu vu zhiaq vaq loq
+老個豆腐嚼弗落	lau ghoq deu vu zhiaq vaq loq
+裁縫弗落布	ze von vaq loq pu
+有眼弗識泰山	yeu ngae vaq shiq tha sae
+月裏奶花弗可𢱤	yuq li na hun vaq khou son
+好漢弗上兩	hau he vaq zaon lian
+弗是碰就是別	vaq zy ban jieu zy biq
+嫖賭弗論錢	biau tu vaq len ji
+弗鞔鼓中心	vaq mun ku tson shin
+⿰鬧弗煞草子	nau vaq saq tshau tsy
+壓弗煞婊子	aq vaq saq piau tsy
+有力弗好盡撐	yeu liq vaq hau jin tshan
+有勢弗可盡行	yeu syu vaq khou jin ghan
+弗會寫字多蘸筆	vaq wei shia zy tou tsae piq
+弗會走路多磕跌	vaq wei tseu lu tou khaq tiq
+外婆屋裏去弗來	nga bou oq li chi vaq le
+䂻進其肚裏弗得	dzan cin ji du li vaq taq
+賬軋弗平	cian gaq vaq bin
+弗好落夜	vaq hau loq ya
+捏勒卵子弗⿸尸咋尿	gniaq laq loe tsy vaq dza syu
+捏勒卵子弗⿸尸查尿	gniaq laq loe tsy vaq dza syu
+捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu
+捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu
+捏勒卵子弗𠑞尿	gniaq laq loe tsy vaq dza syu
+惀頭弗到	len deu vaq tau
+防弗到	baon vaq tau
+調一弗歡喜	diau iq vaq hun shi
+儂弗喫	nou vaq chioq
+雷雨弗過江	lei yu vaq kou kaon
+老婆擡弗着	lau bou de vaq zyuq
+老婆擡弗着	lau bou de vaq dzoq
+一世苦弗出	iq shi khu vaq tshyuq
+防賊弗到撥賊笑	baon zaq vaq tau paq zaq shiau
+行行弗落檔	ghaon ghaon vaq loq taon
+弗招怪	vaq ciau kua
+秋前弗擱田	chieu zhi vaq koq di
+兒子弗供爹	ng tsy vaq tson tia
+馬屁弗穿繃	mo phi vaq tshOE pan
+運弗行	yun vaq ghan
+壓弗進	aq vaq cin
+弗怕路翻向	vaq pho lu fae shian
+動雷弗做梅	don lei vaq tsou mei
+做梅弗動雷	tsou mei vaq don lei
+弗是怕老婆	vaq zy pho lau bou
+𢜭力弗賺鈿	jiaq liq vaq dzae di
+着力弗賺鈿	jiaq liq vaq dzae di
+賺鈿弗𢜭力	dzae di vaq jiaq liq
+賺鈿弗着力	dzae di vaq jiaq liq
+上樑弗正	zaon lian vaq cin
+人弄人弄弗煞	gnin lon gnin lon vaq saq
+弗可搭笨人出主意	vaq khou taq ben gnin tshyuq tsyu i
+偷力弗旺	theu liq vaq waon
+饞癆弗壯	dzae lau vaq tsaon
+泥螺弗喫喫蟹醬	gni lou vaq chioq chioq ha cian
+大人弗歡喜	dou gnin vaq hun shi
+裝勒弗認得	tsaon laq vaq gnin taq
+弄弗靈清	lon vaq lin chin
+講弗靈清	kaon vaq lin chin
+面孔好白弗白	mi khon hau baq vaq baq
+屁股好黑弗黑	phi ku hau haq vaq haq
+有鈿弗買疙瘩產	yeu di vaq ma kaq taq tshae
+能使挑弗動	nen sy thiau vaq don
+弗好單頭重	vaq hau tae deu dzon
+屁股坐弗牢	phi ku zou vaq lau
+三日弗喫鹹齏湯	sae gniq vaq chioq ghae ci thaon
+輸勒阿姆阿伯弗認得	syu laq a m aq paq vaq gnin taq
+輸勒阿姆阿伯弗認得	syu laq an m aq paq vaq gnin taq
+債揹勒阿姆阿伯弗認得	tsa pei laq a m aq paq vaq gnin taq
+債揹勒阿姆阿伯弗認得	tsa pei laq an m aq paq vaq gnin taq
+笨勒阿姆阿伯弗認得	ben laq a m aq paq vaq gnin taq
+笨勒阿姆阿伯弗認得	ben laq an m aq paq vaq gnin taq
+壽勒阿姆阿伯弗認得	zhieu laq a m aq paq vaq gnin taq
+壽勒阿姆阿伯弗認得	zhieu laq an m aq paq vaq gnin taq
+忙勒阿姆阿伯弗認得	maon laq a m aq paq vaq gnin taq
+忙勒阿姆阿伯弗認得	maon laq an m aq paq vaq gnin taq
+弗冷弗熱阿講做	vaq lan vaq gniq aq kaon tsou
+弗冷弗熱阿講做	vaq lan vaq gniq oq kaon tsou
+弗可做絕	vaq khou tsou dzyuq
+弗去	vaq chi
+弗相信	vaq shian shin
+會做也弗難
+做弗及	tsou vaq ji
+看弗及	khI vaq ji
+穿弗及	tshOE vaq ji
+喫弗及	chioq vaq ji
+做勒及	tsou laq ji
+看勒及	khI laq ji
+穿勒及	tshOE laq ji
+喫勒及	chioq laq ji
+穿弗來	tshOE vaq le
+過日腳弗來	kou gniq ciaq vaq le
+做弗像	tsou vaq zhian
+講弗像	kaon vaq zhian
+弄弗像	lon vaq zhian
+做弗相像	tsou vaq shian zhian
+講弗相像	kaon vaq shian zhian
+弄弗相像	lon vaq shian zhian
+窮弗搭富鬥	jion vaq taq fu teu
+富弗搭官鬥	fu vaq taq kun teu
+做出事體三弗像	tsou tshyuq zy thi sae vaq zhian
+抲弗着喫巴掌	kho vaq dzoq chioq po tsaon
+抲弗着喫巴掌	kho vaq zyuq chioq po tsaon
+弄勒弗好還要撥領導喫僝頭	lon laq vaq hau wa iau paq lin dau chioq zae deu
+弗來傷陰騭	vaq le saon in ciq
+譬如弗講	phi zyu vaq kaon
+悶咚弗響要生病	mhen ton vaq shian iau san bin
+落雨了	loq yu lei
+打烊了	tan yan lei
+小八癩𪓿開會了	shiau paq la sy khe wei lei
+蝙蝠老鼠開會了	pi foq lau tsy khe wei lei
+玻璃劙腐了	pou li li vu lei
+茭白落腳了	kau baq loq ciaq lei
+扁擔豁掉了	pi tae huaq diau lei
+飯煝焦了	vae mei ciau lei
+儇足了	huae tsoq lei
+寫意足了	shia i tsoq lei
+有趣足了	yeu tshyu tsoq lei
+笨過笨足了	ben kou ben tsoq lei
+快過快足了	khua kou khua tsoq lei
+言話講道理	ghae wo kaon dau li
+會講言話多招怪	wei kaon ghae wo tou ciau kua
+言話勿能煞潑	ghae wo vaq nen saq phaq
+言話勿可扎	ghae wo vaq khou tsaq
+講言話慢他他	kaon ghae wo mae than than
+腳𧺤攏
+頭𧺤進
+𧺤指末頭
+皇帝老官打其𧺤
+鏤洞眼
+鏤番薯
+鏤耳朵屙	lheu gni to ou
+鏤耳朵屙	lheu ng to ou
+鏤種
+着力勿賺鈿	jiaq liq vaq dzae di
+賺鈿勿着力	dzae di vaq jiaq liq
+介貌講	kaq mau kaon
+介貌寫	kaq mau shia
+延來延去撥儂還	yi le yi chi paq nou wae
+延過	yi kou
 寧波市
 寧波	gnin pou
 寧波	gnin poq
@@ -28641,343 +28968,6 @@ use_preset_vocabulary: true
 清水浦大橋	chin syu phu da jiau
 甬江隧道
 招寶山大橋	ciau pau sae da jiau
-賴伏雞變鴨	la bu ci pi aq
-對落是涴缸
-眼涴結嗝
-挖鼻頭涴	uaq baq deu ou
-⿸尸咋涴胡嚨癢	dza ou wu lon yan
-⿸尸查涴胡嚨癢	dza ou wu lon yan
-撒涴胡嚨癢	dza ou wu lon yan
-射涴胡嚨癢	dza ou wu lon yan
-𠑞涴胡嚨癢	dza ou wu lon yan
-涴急造茅坑
-尿涴屋裏⿸尸咋	syu ou oq li dza
-尿涴屋裏⿸尸查	syu ou oq li dza
-尿涴屋裏撒	syu ou oq li dza
-尿涴屋裏射	syu ou oq li dza
-尿涴屋裏𠑞	syu ou oq li dza
-涴缸邊頭罰願
-涴掃帚成筋	ou sau cieu jin cin
-涴掃帚成精	ou sau cieu jin cin
-邱隘鹹齏涴缸做
-⿸尸咋涴估堆頭	dza ou ku tei deu
-⿸尸查涴估堆頭	dza ou ku tei deu
-撒涴估堆頭	dza ou ku tei deu
-射涴估堆頭	dza ou ku tei deu
-𠑞涴估堆頭	dza ou ku tei deu
-𠞭耳朵涴	lheu gni to ou
-𠞭耳朵涴	lheu ng to ou
-鏤耳朵涴	lheu gni to ou
-鏤耳朵涴	lheu ng to ou
-涴缸越㧕越臭
-一⿸尸咋涴	iq dza ou
-一⿸尸查涴	iq dza ou
-一撒涴	iq dza ou
-一射涴	iq dza ou
-一𠑞涴	iq dza ou
-涴急喪命	ou ciq saon min
-鼻頭涴結嗝	baq deu ou ciq kaq
-⿸尸咋涴壅伸草	dza ou ion shin tshau
-⿸尸查涴壅伸草	dza ou ion shin tshau
-撒涴壅伸草	dza ou ion shin tshau
-射涴壅伸草	dza ou ion shin tshau
-𠑞涴壅伸草	dza ou ion shin tshau
-⿸尸咋涴筆篤	dza ou piq toq
-⿸尸查涴筆篤	dza ou piq toq
-撒涴筆篤	dza ou piq toq
-射涴筆篤	dza ou piq toq
-𠑞涴筆篤	dza ou piq toq
-爛涴賊臭
-房間裏向	vaon kae li shian
-衣櫥裏向
-教室外向	ciau syuq nga shian
-𥈊記𥈊記
-丫臉覅渠	o li fe ji
-嘔渠倒痰瓶	eu ji tau dae bin
-嘔渠一聲	eu ji iq shin
-話渠一頓	wo ji iq ten
-皇帝老官打渠跔	waon ti lau kun tan ji geu
-皇帝老官打渠𧺤	waon ti lau kun tan ji geu
-䂻進渠肚裏勿得	dzan cin ji du li vaq taq
-䂻進渠肚裏弗得	dzan cin ji du li vaq taq
-渠要怏	ji iau aon
-田要種渠骨敦	di iau tson ji kuaq ten
-字宅宅寫渠快	zy dzaq dzaq shia ji khua
-辣辣話渠一頓	laq laq wo ji iq ten
-嘔渠淘淘米	eu ji dau dau mi
-莫去煩渠	mhau chi vae ji
-莫去煩渠	mau chi vae ji
-莫去睬渠	mhau chi tshe ji
-莫去睬渠	mau chi tshe ji
-巴掌喫渠腐𤒻𤒻	po tsaon chioq ji vu daq daq
-⿸尸查屁賴賴	dza phi la la
-⿸尸查屙胡嚨癢	dza ou wu lon yan
-尿屙屋裏⿸尸查	syu ou oq li dza
-一人⿸尸查尿出	iq gnin dza syu tshyuq
-⿸尸查屙估堆頭	dza ou ku tei deu
-一⿸尸查尿	iq dza syu
-一⿸尸查屙	iq dza ou
-捏勒卵子勿⿸尸查尿	gniaq laq loe tsy vaq dza syu
-⿸尸查屁賴	dza phi la
-⿸尸查屙壅伸草	dza ou ion shin tshau
-⿸尸查屙筆篤	dza ou piq toq
-⿸尸查尿哚哚響	dza syu do do shian
-撒屁賴賴	dza phi la la
-撒屙胡嚨癢	dza ou wu lon yan
-尿屙屋裏撒	syu ou oq li dza
-一人撒尿出	iq gnin dza syu tshyuq
-撒屙估堆頭	dza ou ku tei deu
-一撒尿	iq dza syu
-一撒屙	iq dza ou
-捏勒卵子勿撒尿	gniaq laq loe tsy vaq dza syu
-撒屁賴	dza phi la
-撒屙壅伸草	dza ou ion shin tshau
-撒屙筆篤	dza ou piq toq
-撒尿哚哚響	dza syu do do shian
-射屁賴賴	dza phi la la
-射屙胡嚨癢	dza ou wu lon yan
-尿屙屋裏射	syu ou oq li dza
-一人射尿出	iq gnin dza syu tshyuq
-射屙估堆頭	dza ou ku tei deu
-一射尿	iq dza syu
-一射屙	iq dza ou
-捏勒卵子勿射尿	gniaq laq loe tsy vaq dza syu
-射屁賴	dza phi la
-射屙壅伸草	dza ou ion shin tshau
-射屙筆篤	dza ou piq toq
-射尿哚哚響	dza syu do do shian
-𠑞屁賴賴	dza phi la la
-𠑞屙胡嚨癢	dza ou wu lon yan
-尿屙屋裏𠑞	syu ou oq li dza
-一人𠑞尿出	iq gnin dza syu tshyuq
-𠑞屙估堆頭	dza ou ku tei deu
-一𠑞尿	iq dza syu
-一𠑞屙	iq dza ou
-捏勒卵子勿𠑞尿	gniaq laq loe tsy vaq dza syu
-𠑞屁賴	dza phi la
-𠑞屙壅伸草	dza ou ion shin tshau
-𠑞屙筆篤	dza ou piq toq
-𠑞尿哚哚響	dza syu do do shian
-早鱟弗過晝	tsau heu vaq kou cieu
-高頭弗來	kau deu vaq le
-低頭弗去	ti deu vaq chi
-閒時不節弗做家	ghae zy paq ciq vaq tsou ko
-一生一世喫弗窮	iq san iq shi chioq vaq jion
-少年弗做家	shiau gni vaq tsou ko
-快手勢弗及慢兩爹	khua shieu syu vaq jiq mae lian tia
-做囡弗斷孃家路	tsou noe vaq doe gnian ko lu
-孃勤囡弗懶	gnian jin noe vaq lae
-爹做郎中醫弗好	tia tsou laon tson i vaq hau
-叫花子弗留過夜食	kau huo tsy vaq lieu kou ya zhiq
-自家做做來弗及	zhi ko tsou tsou le vaq ji
-人家做做弗中意	gnin ko tsou tsou vaq tson i
-弗及屋裏	vaq jiq oq li
-犯落丫臉弗認人	vae loq o li vaq gnin gnin
-落雨淋弗着	loq yu lin vaq zyuq
-落雨淋弗着	loq yu lin vaq dzoq
-背脊骨直弗起	pei ciq kuaq jiq vaq chi
-會做也弗難	wei tsou gha vaq nae
-三色弗看	sae saq vaq khI
-活靈弗生	waq lin vaq san
-小苦弗喫	shiau khu vaq chioq
-心網弗定	shin maon vaq din
-喫弗窮	chioq vaq jion
-穿弗窮	tshOE vaq jion
-算着弗好一世窮	soe zyuq vaq hau iq shi jion
-算着弗好一世窮	soe dzoq vaq hau iq shi jion
-一日弗造生㾸𤶁	iq gniq vaq zau san kaq lau
-一弗打和尚	iq vaq tan ghou zaon
-二弗打黃胖	gni vaq tan waon phaon
-出力弗討好	tshyuq liq vaq thau hau
-熱弗退	gniq vaq thei
-只認衣衫弗認人	ciq gnin i sae vaq gnin gnin
-閒賬弗管	ghae cian vaq kun
-只話我養生弗推扳	ciq wo ngo yan san vaq thei pae
-運道來了推弗開	yun dau le laq thei vaq khe
-橋倒壓弗煞差魚	jiau tau aq vaq saq tsho ng
-油鹽弗喫是梅豆	yeu yi vaq chioq zy mei deu
-能使買弗值	nen sy ma vaq jiq
-弗可買喫食	vaq khou ma chioq zhiq
-八月十六等弗到	paq yuq zyuq loq ten vaq tau
-金窠銀窠弗如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou
-閻王奪弗去	gni waon daq vaq chi
-肚飢弗論好羹湯	du ci vaq len hau kan thaon
-瞌𥅻弗論好眠牀	khaq tshon vaq len hau mi zaon
-圖書弗明	du syu vaq min
-單子弗靈	tae tsy vaq lin
-要緊弗得慢	iau cin vaq taq mae
-草蓬腳下弗可坐	tshau bon ciaq gho vaq khou zou
-冬冷弗算冷	ton lan vaq soe lan
-打煞黃狗弗離窠	tan saq wu kI vaq li khou
-打煞黃狗弗離窠	tan saq waon kI vaq li khou
-打煞黃狗弗離窠	tan saq waon keu vaq li khou
-弗是爬就是挖	vaq zy bo jieu zy uaq
-癩𪓿剝皮心弗死	la sy poq bi shin vaq shi
-弗如值鈿樹掙	vaq zyu jiq di zyu tsan
-活靈一眼弗生	waq lin iq ngae vaq san
-弗如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci
-行業弗尋	ghaon gniq vaq zhin
-弗好欠衆家	vaq hau chi tson ko
-和家弗得安	ghou ko vaq taq EI
-細糠喫弗起	shi khaon chioq vaq chi
-丫臉犯落弗認人	o li vae loq vaq gnin gnin
-做人弗能翻白	tsou gnin vaq nen fae baq
-閒話弗能煞潑	ghae wo vaq nen saq phaq
-言話弗能煞潑	ghae wo vaq nen saq phaq
-老人弗掏古	lau gnin vaq dau ku
-討𧮙弗揀日子	thau zoq vaq kae gniq tsy
-弄弗討好	lon vaq thau hau
-果子弗可擇	kou tsy vaq khou dzaq
-閒話弗可扎	ghae wo vaq khou tsaq
-言話弗可扎	ghae wo vaq khou tsaq
-掇凳弗坐討凳坐	taq ten vaq zou thau ten zou
-喫弗論	chioq vaq len
-馱弗肯	dou vaq khen
-小個桌凳撩弗着	shiau goq tsoq ten liau vaq dzoq
-小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq dzoq
-小個桌凳撩弗着	shiau goq tsoq ten liau vaq zyuq
-小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq zyuq
-老個豆腐嚼弗落	lau goq deu vu zhiaq vaq loq
-老個豆腐嚼弗落	lau ghoq deu vu zhiaq vaq loq
-裁縫弗落布	ze von vaq loq pu
-有眼弗識泰山	yeu ngae vaq shiq tha sae
-月裏奶花弗可𢱤	yuq li na hun vaq khou son
-好漢弗上兩	hau he vaq zaon lian
-弗是碰就是別	vaq zy ban jieu zy biq
-嫖賭弗論錢	biau tu vaq len ji
-弗鞔鼓中心	vaq mun ku tson shin
-⿰鬧弗煞草子	nau vaq saq tshau tsy
-壓弗煞婊子	aq vaq saq piau tsy
-有力弗好盡撐	yeu liq vaq hau jin tshan
-有勢弗可盡行	yeu syu vaq khou jin ghan
-弗會寫字多蘸筆	vaq wei shia zy tou tsae piq
-弗會走路多磕跌	vaq wei tseu lu tou khaq tiq
-外婆屋裏去弗來	nga bou oq li chi vaq le
-䂻進其肚裏弗得	dzan cin ji du li vaq taq
-賬軋弗平	cian gaq vaq bin
-弗好落夜	vaq hau loq ya
-捏勒卵子弗⿸尸咋尿	gniaq laq loe tsy vaq dza syu
-捏勒卵子弗⿸尸查尿	gniaq laq loe tsy vaq dza syu
-捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu
-捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu
-捏勒卵子弗𠑞尿	gniaq laq loe tsy vaq dza syu
-惀頭弗到	len deu vaq tau
-防弗到	baon vaq tau
-調一弗歡喜	diau iq vaq hun shi
-儂弗喫	nou vaq chioq
-雷雨弗過江	lei yu vaq kou kaon
-老婆擡弗着	lau bou de vaq zyuq
-老婆擡弗着	lau bou de vaq dzoq
-一世苦弗出	iq shi khu vaq tshyuq
-防賊弗到撥賊笑	baon zaq vaq tau paq zaq shiau
-行行弗落檔	ghaon ghaon vaq loq taon
-弗招怪	vaq ciau kua
-秋前弗擱田	chieu zhi vaq koq di
-兒子弗供爹	ng tsy vaq tson tia
-馬屁弗穿繃	mo phi vaq tshOE pan
-運弗行	yun vaq ghan
-壓弗進	aq vaq cin
-弗怕路翻向	vaq pho lu fae shian
-動雷弗做梅	don lei vaq tsou mei
-做梅弗動雷	tsou mei vaq don lei
-弗是怕老婆	vaq zy pho lau bou
-𢜭力弗賺鈿	jiaq liq vaq dzae di
-着力弗賺鈿	jiaq liq vaq dzae di
-賺鈿弗𢜭力	dzae di vaq jiaq liq
-賺鈿弗着力	dzae di vaq jiaq liq
-上樑弗正	zaon lian vaq cin
-人弄人弄弗煞	gnin lon gnin lon vaq saq
-弗可搭笨人出主意	vaq khou taq ben gnin tshyuq tsyu i
-偷力弗旺	theu liq vaq waon
-饞癆弗壯	dzae lau vaq tsaon
-泥螺弗喫喫蟹醬	gni lou vaq chioq chioq ha cian
-大人弗歡喜	dou gnin vaq hun shi
-裝勒弗認得	tsaon laq vaq gnin taq
-弄弗靈清	lon vaq lin chin
-講弗靈清	kaon vaq lin chin
-面孔好白弗白	mi khon hau baq vaq baq
-屁股好黑弗黑	phi ku hau haq vaq haq
-有鈿弗買疙瘩產	yeu di vaq ma kaq taq tshae
-能使挑弗動	nen sy thiau vaq don
-弗好單頭重	vaq hau tae deu dzon
-屁股坐弗牢	phi ku zou vaq lau
-三日弗喫鹹齏湯	sae gniq vaq chioq ghae ci thaon
-輸勒阿姆阿伯弗認得	syu laq a m aq paq vaq gnin taq
-輸勒阿姆阿伯弗認得	syu laq an m aq paq vaq gnin taq
-債揹勒阿姆阿伯弗認得	tsa pei laq a m aq paq vaq gnin taq
-債揹勒阿姆阿伯弗認得	tsa pei laq an m aq paq vaq gnin taq
-笨勒阿姆阿伯弗認得	ben laq a m aq paq vaq gnin taq
-笨勒阿姆阿伯弗認得	ben laq an m aq paq vaq gnin taq
-壽勒阿姆阿伯弗認得	zhieu laq a m aq paq vaq gnin taq
-壽勒阿姆阿伯弗認得	zhieu laq an m aq paq vaq gnin taq
-忙勒阿姆阿伯弗認得	maon laq a m aq paq vaq gnin taq
-忙勒阿姆阿伯弗認得	maon laq an m aq paq vaq gnin taq
-弗冷弗熱阿講做	vaq lan vaq gniq aq kaon tsou
-弗冷弗熱阿講做	vaq lan vaq gniq oq kaon tsou
-弗可做絕	vaq khou tsou dzyuq
-弗去	vaq chi
-弗相信	vaq shian shin
-會做也弗難
-做弗及	tsou vaq ji
-看弗及	khI vaq ji
-穿弗及	tshOE vaq ji
-喫弗及	chioq vaq ji
-做勒及	tsou laq ji
-看勒及	khI laq ji
-穿勒及	tshOE laq ji
-喫勒及	chioq laq ji
-穿弗來	tshOE vaq le
-過日腳弗來	kou gniq ciaq vaq le
-做弗像	tsou vaq zhian
-講弗像	kaon vaq zhian
-弄弗像	lon vaq zhian
-做弗相像	tsou vaq shian zhian
-講弗相像	kaon vaq shian zhian
-弄弗相像	lon vaq shian zhian
-窮弗搭富鬥	jion vaq taq fu teu
-富弗搭官鬥	fu vaq taq kun teu
-做出事體三弗像	tsou tshyuq zy thi sae vaq zhian
-抲弗着喫巴掌	kho vaq dzoq chioq po tsaon
-抲弗着喫巴掌	kho vaq zyuq chioq po tsaon
-弄勒弗好還要撥領導喫僝頭	lon laq vaq hau wa iau paq lin dau chioq zae deu
-弗來傷陰騭	vaq le saon in ciq
-譬如弗講	phi zyu vaq kaon
-悶咚弗響要生病	mhen ton vaq shian iau san bin
-落雨了	loq yu lei
-打烊了	tan yan lei
-小八癩𪓿開會了	shiau paq la sy khe wei lei
-蝙蝠老鼠開會了	pi foq lau tsy khe wei lei
-玻璃劙腐了	pou li li vu lei
-茭白落腳了	kau baq loq ciaq lei
-扁擔豁掉了	pi tae huaq diau lei
-飯煝焦了	vae mei ciau lei
-儇足了	huae tsoq lei
-寫意足了	shia i tsoq lei
-有趣足了	yeu tshyu tsoq lei
-笨過笨足了	ben kou ben tsoq lei
-快過快足了	khua kou khua tsoq lei
-言話講道理	ghae wo kaon dau li
-會講言話多招怪	wei kaon ghae wo tou ciau kua
-言話勿能煞潑	ghae wo vaq nen saq phaq
-言話勿可扎	ghae wo vaq khou tsaq
-講言話慢他他	kaon ghae wo mae than than
-腳𧺤攏
-頭𧺤進
-𧺤指末頭
-皇帝老官打其𧺤
-鏤洞眼
-鏤番薯
-鏤耳朵屙	lheu gni to ou
-鏤耳朵屙	lheu ng to ou
-鏤種
-着力勿賺鈿	jiaq liq vaq dzae di
-賺鈿勿着力	dzae di vaq jiaq liq
-介貌講	kaq mau kaon
-介貌寫	kaq mau shia
-延來延去撥儂還	yi le yi chi paq nou wae
-延過	yi kou
-一三時刻	iq sae zy khaq
-一三時刻	iq sae sy khaq
 鴉片	a phi
 阿彌陀佛	o mi dou vaq
 彌勒活大翹	mi laq waq da jiau
@@ -29067,6 +29057,17 @@ use_preset_vocabulary: true
 塢退	u thei
 綽號	chiaq ghau
 忘八蛋	waon pa dae
+一家	iq cia
+一架	iq cia
+毀牙齒	shiu ngo tsy
+拖去	thou chi
+拖去	tha chi
+明朝	min jiau
+肚子	du tsy
+生活	sen waq
+下工夫	gho kon fu
+下本	gho pen
+養生	ian sen
 奧魚	au ng
 肉肉	knion knion
 襖襖
@@ -29314,12 +29315,6 @@ use_preset_vocabulary: true
 忒鬆
 忒鹹
 實在忒
-明朝	min jiau
-肚子	du tsy
-生活	sen waq
-下工夫	gho kon fu
-下本	gho pen
-養生	ian sen
 交關儇	ciau kuae huae
 交關燥	ciau kuae sau
 交關亮	ciau kuae lian
@@ -29822,6 +29817,8 @@ use_preset_vocabulary: true
 平話
 湘語
 贛語
+徽語
+徽嚴片
 客家話	khaq cia wo
 客家語	khaq cia gniu
 客家言話	khaq cia ghae wo
@@ -29858,6 +29855,16 @@ use_preset_vocabulary: true
 孲𤘅	nk nka	578
 宕落	dan loq
 宕落	daon loq
+別烏采
+別烏蕩
+別烏態
+別烏頭
+廠裏
+廠裏人	chian li gnin
+單位裏
+單位裏人	tae wei li gnin
+一三時刻	iq sae zy khaq
+一三時刻	iq sae sy khaq
 K	khe
 k	khe
 老K牌	lau k ba
