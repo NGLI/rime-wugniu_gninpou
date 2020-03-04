@@ -4,7 +4,7 @@
 
 基於 [Rime](https://rime.im/) 的寧波話吳語拼音輸入方案。
 
-含寧波城區及鄞縣鍾公廟（鄞縣中區，今鄞州區鍾公廟街道、首南街道及中河街道的部分區域）兩種口音的輸入方案。
+含寧波（老三區）及鄞州（鍾公廟、首南街道附近）兩種口音的輸入方案。
 
 拼音方案爲 [吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案)，同時兼容 [吳語協會式拼音](http://wu-chinese.com/romanization/)。
 
