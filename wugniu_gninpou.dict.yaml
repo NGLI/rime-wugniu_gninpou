@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.03"
+version: "2020.03.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -979,7 +979,7 @@ use_preset_vocabulary: true
 靛	di
 淀	di
 澱	di
-鈿	di
+鈿	di	10000
 黎	li
 藜	li
 蔾	li
@@ -3020,7 +3020,7 @@ use_preset_vocabulary: true
 礤	tsha
 蠆	tsha
 傺	tsha
-咋	dza
+咋	dza	100000
 咱	dza
 ⿸尸查	dza
 ⿸尸咋	dza
@@ -5751,7 +5751,7 @@ use_preset_vocabulary: true
 沬	mei
 𩎟	mei
 妹	mhei	5%
-𣍐	vei
+𣍐	vei	60000
 浮	vei	0%
 堆	tei
 𠡒	tei	578
@@ -9191,7 +9191,7 @@ use_preset_vocabulary: true
 瞤	zyun
 循	zyun
 楯	zyun
-純	zyun
+純	zyun	10000
 蒓	zyun
 蓴	zyun
 脣	zyun
@@ -9967,7 +9967,7 @@ use_preset_vocabulary: true
 腯	daq
 遝	daq
 陀	daq	0%
-倷	naq
+倷	naq	90000
 捺	naq
 𤷈	naq
 䖧	naq
@@ -12271,7 +12271,7 @@ use_preset_vocabulary: true
 暗手	EI shieu	55
 陰𡍲頭	in thaq deu	55
 陰𡍲頭裏	in thaq deu li	55
-辰光	zyun kuaon	578
+辰光	zyun kuaon	100000
 辰光	jin kuaon	578
 烏龍送	u lon son	55
 烏倫村	u len tshen	55
@@ -12299,7 +12299,7 @@ use_preset_vocabulary: true
 當晝過頭	taon cieu kou deu	55
 點心時	ti shin zy	55
 點心時	te shin zy	55
-下半日	gho pun gniq	55
+下半日	gho pun gniq	25000
 下半日頭	gho pun gniq deu	55
 夜快	ya khua
 靠夜快	khau ya khua	55
@@ -12313,7 +12313,7 @@ use_preset_vocabulary: true
 日裏頭	gniq li deu	418
 天日	thi gniq
 天夜	thi ya	55
-夜到	ya tau	578
+夜到	ya tau	40000
 夜頭	ya deu	578
 # 夜裏廂	ya li shian
 夜到頭	ya tau deu	578
@@ -12329,10 +12329,10 @@ use_preset_vocabulary: true
 一晌記	iq zaon ci	418
 有晌	yeu zaon	418
 時晌	zy zaon	55
-該晌	kiq zaon	578
-該晌	koq zaon	578
-該晌記	kiq zaon ci	578
-該晌記	koq zaon ci	578
+該晌	kiq zaon	100000
+該晌	koq zaon	50000
+該晌記	kiq zaon ci	10000
+該晌記	koq zaon ci	5000
 該晌裏	kiq zaon li	578
 該晌裏	koq zaon li	578
 剛記	kaon ci	55
@@ -12346,9 +12346,9 @@ use_preset_vocabulary: true
 蕩回	daon wei	418
 沃遭	oq tsau	55
 沃遭	oq tsoq	55
-乃遭	nae tsau	55
+乃遭	nae tsau	578
 乃末	nae maq	55
-乃則	nae tsaq	55
+乃則	nae tsaq	578
 乃格	nae kaq	55
 乃間	nae kae	55
 下遭	gho tsau	418
@@ -12360,20 +12360,20 @@ use_preset_vocabulary: true
 下兩回	gho lian wei	55
 日腳	gniq ciaq	578
 今末	ci maq	578
-今末	ciq maq	578
+今末	ciq maq	50000
 今末	ci miq	578
-今末	ciq miq	578
+今末	ciq miq	100000
 今末子	ci maq tsy	578
-今末子	ciq maq tsy	578
+今末子	ciq maq tsy	25000
 今末子	ci miq tsy	578
-今末子	ciq miq tsy	578
+今末子	ciq miq tsy	50000
 今朝	cin ciau
 今密	ciq miq	578
 今密子	ciq miq tsy	578
-昨末	zoq maq	578
-昨末	zaon maq	578
-昨末子	zoq maq tsy	578
-昨末子	zaon maq tsy	578
+昨末	zoq maq	30000
+昨末	zaon maq	3000
+昨末子	zoq maq tsy	8000
+昨末子	zaon maq tsy	800
 昨日	zoq gniq
 昨日	zaon gniq
 昨日子	zoq gniq tsy	418
@@ -12386,19 +12386,19 @@ use_preset_vocabulary: true
 前日子	zhi gniq tsy	55
 頭前日	deu zhi gniq	55
 大前日	dou zhi gniq	55
-明朝	min ciau	578
-明朝	mi ciau	578
+明朝	min ciau	40000
+明朝	mi ciau	4000
 明朝	men ciau	578
-明朝子	min ciau tsy	578
-明朝子	mi ciau tsy	578
+明朝子	min ciau tsy	10000
+明朝子	mi ciau tsy	1000
 明朝子	men ciau tsy	578
-後日	gheu gniq	578
-後日子	gheu gniq tsy	578
+後日	gheu gniq	4000
+後日子	gheu gniq tsy	1000
 頭後日	deu gheu gniq	55
 大後日	dou gheu gniq	418
 頭頭後日	deu deu gheu gniq	55
 大大後日	dou dou gheu gniq	55
-下日	gho gniq	578
+下日	gho gniq	20000
 閒日	ghae gniq	418
 閒兩遭	ghae lian tsau	55
 間日	kae gniq	55
@@ -12517,10 +12517,10 @@ use_preset_vocabulary: true
 老早子	lau tsau tsy	418
 從前子	dzon zhi tsy	55
 前頭	zhi deu
-頭網	deu maon	578
-頭網子	deu maon tsy	578
-頭回	deu wei
-頭回子	deu wei tsy	578
+頭網	deu maon	5000
+頭網子	deu maon tsy	5000
+頭回	deu wei	10000
+頭回子	deu wei tsy	10000
 頭方	deu faon	55
 起頭	chi deu
 開頭	khe deu
@@ -12546,12 +12546,12 @@ use_preset_vocabulary: true
 頂末腳	tin maq ciaq	55
 頂後背	tin gheu pei	55
 篤壁日腳	toq piq gniq ciaq	55
-阿伯	aq paq
+阿伯	aq paq	4000
 阿伯	aq pan
-阿爸	aq paq
+阿爸	aq paq	10000
 阿爹	aq tia
-阿姆	a m	578
-姆媽	mh mha
+阿姆	a m	10000
+姆媽	mh mha	4000
 阿爺	aq ya
 阿孃	aq gnian
 阿太	aq tha	578
@@ -12562,7 +12562,7 @@ use_preset_vocabulary: true
 男人	nEI gnin
 老頭	lau deu
 老頭	lau dei
-老𡢿	lau gnion	578
+老𡢿	lau gnion	8000
 老婆	lau bou
 女人	gniu gnin
 屋裏人	oq li gnin
@@ -12582,7 +12582,7 @@ use_preset_vocabulary: true
 家小	ko shiau
 大人	dou gnin
 大人大碼	dou gnin dou mo
-小人	shiau gnin
+小人	shiau gnin	35000
 兒囡	ng no	418
 兒子囡	ng tsy noe	418
 小娃	shiau uae
@@ -12744,7 +12744,7 @@ use_preset_vocabulary: true
 有身老𡢿	yeu shin lau gnion	55
 生姆孃	san m gnian	55
 出窠孃	tshyuq khou gnian	55
-阿姆	an m	578
+阿姆	an m	1000
 孃姨	gnian yi
 長年	jian gni
 割稻人客	kaq dau gnin khaq	55
@@ -13093,20 +13093,20 @@ use_preset_vocabulary: true
 踮腳	ti ciaq
 我儂	ngo nou	418
 我儂	ngo lou	418
-阿拉	aq laq
+阿拉	aq laq	300000
 俉儂	ng nou	55
 俉倷	ng naq	578
 其儂	ji nou	55
 其拉	ji laq	578
-其拉	jiq laq	578
-啥人	soq gnin	578
-啥人	sou gnin	578
-啥人	so gnin	578
+其拉	jiq laq	100000
+啥人	soq gnin	50000
+啥人	sou gnin	5000
+啥人	so gnin	5000
 孰儂	zyu nou	418
 啥人家	soq gnin ko	578
 啥人家	sou gnin ko	578
 啥人家	so gnin ko	578
-自家	zhi ko
+自家	zhi ko	230000
 別人家	biq gnin ko	578
 有多	yeu tou
 還有	wa yeu
@@ -13116,15 +13116,15 @@ use_preset_vocabulary: true
 別樣	biq gnian
 樣色	yan saq	55
 該樣	kiq yan	578
-該眼	kiq ngae	578
-該𡍲	kiq taq	578
-該底	kiq ti	578
+該眼	kiq ngae	60000
+該𡍲	kiq taq	10000
+該底	kiq ti	40000
 該裏	kiq li	578
 該頭	kiq deu	578
-該面	kiq mi	578
+該面	kiq mi	30000
 # 該廂	kiq shian
 該邊	kiq pi	578
-該岸	kiq nge	578
+該岸	kiq nge	6000
 蕩頭	daon deu	578
 蕩底	daon ti	578
 蕩𡍲	daon taq	578
@@ -13132,32 +13132,32 @@ use_preset_vocabulary: true
 蕩廂	daon shian	578
 蕩面	daon mi	578
 蕩邊	daon pi	578
-格貌	kaq mau	578
-格貌格	kaq mau kaq	418
+格貌	kaq mau	100000
+格貌格	kaq mau kaq	50000
 格式貌	kaq shiq mau	55
 格式貌格	kaq shiq mau kaq	55
 各貌	koq mau	55
 沃貌	oq mau	55
 告格	kau kaq	55
-阿裏	aq li	578
+阿裏	aq li	30000
 阿裏	aq yi	578
-啥西	soq shi	578
+啥西	soq shi	50000
 啥西	shiq shi	578
-啥西	soq shiq	578
-啥西	shiq shiq	578
-阿啥	aq soq	578
-阿啥	aq sou	578
-做啥	tsou soq	578
+啥西	soq shiq	50000
+啥西	shiq shiq	50000
+阿啥	aq soq	40000
+阿啥	aq sou	10000
+做啥	tsou soq	2000
 做啥	tsou sou	578
-作啥	tsoq soq	578
-作啥	tsoq sou	578
+作啥	tsoq soq	10000
+作啥	tsoq sou	2000
 即啥	ciq soq	55
 即啥	ciq sou	55
 作啥幹	tsoq soq kI	578
 作啥幹	tsoq sou kI	578
 則啥	tsaq soq	55
 則啥	tsaq sou	55
-阿啥幹	aq soq kI	578
+阿啥幹	aq soq kI	6000
 阿啥幹	aq sou kI	578
 爲啥道理	wei soq dau li	55
 爲啥道理	wei sou dau li	55
@@ -13178,8 +13178,8 @@ use_preset_vocabulary: true
 咋挔	dza i	578
 咋挔挔	dza i i	578
 咱伊	dza i	55
-咋貌	dza mau	578
-咋貌格	dza mau kaq	578
+咋貌	dza mau	50000
+咋貌格	dza mau kaq	25000
 咋式貌	dza shiq mau	55
 咋式貌格	dza shiq mau kaq	55
 咋話	dza wo	578
@@ -15251,8 +15251,8 @@ use_preset_vocabulary: true
 多星	tou shin
 多兩	tou lian	55
 有兩	yeu lian
-一眼	iq ngae
-一眼	iq nge
+一眼	iq ngae	30000
+一眼	iq nge	3000
 一眼眼	iq ngae ngae	578
 一沰	iq toq	55
 一沰沰	iq toq toq	55
@@ -15290,8 +15290,8 @@ use_preset_vocabulary: true
 生活	san wo
 大工	da kon
 計件工	ci ji kon	55
-事體	zy thi
-事幹	zy kI
+事體	zy thi	50000
+事幹	zy kI	5000
 大事體	dou zy thi	55
 閒賬	ghae cian	55
 場頭	jian deu	55
@@ -15463,7 +15463,7 @@ use_preset_vocabulary: true
 丫臉犯落	o li vae loq	55
 丫臉黑落	o li haq loq	55
 丫臉捋落	o li laq loq	55
-看張	khI cian	578
+看張	khI cian	60000
 遭眼	tsau ngae	55
 暫眼一看	dzae ngae iq khI	55
 失眼	syuq ngae	55
@@ -15597,11 +15597,11 @@ use_preset_vocabulary: true
 打眠鼾	tan mi he	55
 打瞌𥅻	tan khaq tshon	418
 睏晏覺	khuen ae kau	578
-睏覺	khuen kau	578
+睏覺	khuen kau	20000
 睏⿰忄態覺	khuen the kau	55
 打中覺	tan tson kau	55
 睏熟	khuen zoq	55
-調覺	diau kau	55
+調覺	diau kau	1000
 醒覺轉	shin kau tsoe	55
 睏失覺	khuen syuq kau	55
 做亂夢	tsou loe maon	578
@@ -15705,13 +15705,13 @@ use_preset_vocabulary: true
 攪賺	gau dzae	55
 得知	toq tsyu
 有數	yeu su
-嘸數	mh su	55
+嘸數	mh su	100000
 有數目賬	yeu su moq cian	55
 有數目	yeu su moq	55
 有數有目	yeu su yeu moq	55
 嘸數目賬	mh su moq cian	55
 嘸數倒賬	mh su tau cian	55
-覺着	koq dzoq
+覺着	koq dzoq	80000
 接頭	ciq deu
 提頭	di deu
 發心	faq shin
@@ -15947,8 +15947,8 @@ use_preset_vocabulary: true
 曬乾	sa kI
 出白	tshyuq baq	55
 做事體	tsou zy thi	55
-做生活	tsou san waq
-做生活	tsou san wo
+做生活	tsou san waq	55
+做生活	tsou san wo	50000
 做對手	tsou tei shieu	55
 把作	po tsoq	55
 拆短	tshaq toe	55
@@ -17529,7 +17529,7 @@ use_preset_vocabulary: true
 純只	zyun ciq	55
 淨根	zhin ken	55
 刮刮煞煞	kuaq kuaq saq saq	55
-和總	ghou tson	55
+和總	ghou tson	400000
 統整	thon cin	55
 都整	tu cin	55
 都整	thu cin	55
@@ -17549,9 +17549,9 @@ use_preset_vocabulary: true
 躉注	ten tsyu	578
 侅煞	khI saq	55
 侅煞	khe saq	55
-有眼	yeu ngae	55
+有眼	yeu ngae	30000
 時眼	zy ngae	55
-交關	ciau kuae
+交關	ciau kuae	40000
 甮派	ven pha	578
 𣍐好	vei hau	578
 放命	faon min	55
@@ -17618,7 +17618,7 @@ use_preset_vocabulary: true
 三不時	sae paq zy	55
 三日兩頭	sae gniq lian deu	55
 打長	tan jian	55
-時格	zy kaq	55
+時格	zy kaq	50000
 一到	iq tau
 一到裏	iq tau li	55
 一到來	iq tau le	55
@@ -17719,7 +17719,7 @@ use_preset_vocabulary: true
 真道話	cin dau wo	55
 真到話	cin tau wo	55
 認真話	zyun cin wo	55
-正式	cin shiq
+正式	cin shiq	40000
 是會	zy wei	55
 老少無欺	lau shiau vu chi
 老少無欺	lau shiau Wu chi
@@ -17789,8 +17789,8 @@ use_preset_vocabulary: true
 莫大	mhau da
 𣍐咋	vei dza	55
 𣍐大	vei da	55
-好甮	hau ven	55
-覅其	fe ji	55
+好甮	hau ven	6000
+覅其	fe ji	60000
 覅咋	fe dza	55
 嘸沒咋	mhiq dza	55
 嘸沒大	mhiq da	55
@@ -17801,7 +17801,7 @@ use_preset_vocabulary: true
 只勿	ciq vaq	55
 勿結	vaq ciq	55
 勿及	vaq ji	55
-勿來	vaq le	55
+勿來	vaq le	30000
 勿像	vaq zhian	55
 勿相像	vaq shian zhian	55
 勿相相	vaq shian shian	55
@@ -17819,8 +17819,8 @@ use_preset_vocabulary: true
 活被	waq bei	55
 搭仔	taq tsy	55
 爲仔	wei tsy	55
-格末	kaq maq	578
-格勒	kaq laq
+格末	kaq maq	50000
+格勒	kaq laq	50000
 格勒格	kaq laq kaq	55
 介勒	ka laq	55
 格勒話	kaq laq wo	55
@@ -17828,14 +17828,14 @@ use_preset_vocabulary: true
 反即	fae ciq	55
 雖則	sei tsaq
 雖即	sei ciq	55
-勿是	vaq zy	55
+勿是	vaq zy	100000
 勿得	vaq taq	55
 勿生好心	vaq san hau shin	55
 必可	piq khou
 必過	piq kou	55
 竟得	cin taq	55
-如話	zyu wo	418
-是話	zy wo	418
+如話	zyu wo	50000
+是話	zy wo	50000
 篤知	toq tsyu	55
 鐵爬	thiq bo	55
 鐵防	thiq baon	55
@@ -19070,7 +19070,7 @@ use_preset_vocabulary: true
 忌日羹飯	ji gniq kan vae	55
 健健個	ji ji kou	55
 渠儂	ji nou	55
-渠個	ji goq	418
+渠個	ji goq	5000
 渠儂個	ji nou goq	55
 痔漏	ji leu
 痔瘡	ji tshaon
@@ -19572,8 +19572,8 @@ use_preset_vocabulary: true
 ⿸尸查屙撲	dza ou phoq	55
 ⿸尸查屙出	dza ou tshyuq	55
 咋依八𠡒	dza i paq tei	55
-咋貌介	dza mau ka	578
-咋貌介	dza mau kaq	578
+咋貌介	dza mau ka	25000
+咋貌介	dza mau kaq	25000
 咋相貌	dza shian mau	55
 咋相貌介	dza shian mau ka	55
 咋相貌介	dza shian mau kaq	55
@@ -20098,7 +20098,7 @@ use_preset_vocabulary: true
 嫁男人	ko nEI gnin	55
 嫁囡	ko noe	55
 嫁人	ko gnin
-價鈿	ko di	55
+價鈿	ko di	40000
 抲去	kho chi	418
 抲蟹	kho ha	55
 抲筷	kho khuae	418
@@ -20119,7 +20119,7 @@ use_preset_vocabulary: true
 瓦腔	ngo chian	55
 瓦粒	ngo liq	55
 我儂	ngo non	55
-我個	ngo goq	578
+我個	ngo goq	40000
 我儂個	ngo nou goq	55
 下麪	gho mi
 下霧露	gho Wu lu	55
@@ -20328,7 +20328,7 @@ use_preset_vocabulary: true
 小癟三	shiau piq sae
 小練練	shiau li li	55
 小兒子	shiau ng tsy
-曉得	shiau taq
+曉得	shiau taq	100000
 少年白	shiau gni baq	55
 少爺	shiau ya
 孝子	shiau tsy
@@ -20396,7 +20396,7 @@ use_preset_vocabulary: true
 話勿出	wo vaq tshyuq	55
 話劇	wo jiq
 蛙泳	uo ion
-𧟰渠	fe ji	55
+𧟰渠	fe ji	30000
 戴頭蓬	te deu bon	55
 胎記	the ci
 胎裏記認	the li ci gnin	55
@@ -21023,7 +21023,7 @@ use_preset_vocabulary: true
 煤爐	mei lu
 煤灰	mei huei
 妹妹	mhei mhei
-每日	mei gniq
+每日	mei gniq	25000
 妹夫	mei fu
 美人肩	mei gnin ci	55
 美人肩	mei zyun ci	55
@@ -21134,7 +21134,7 @@ use_preset_vocabulary: true
 回轉來	wei tsoe le	55
 回頭人	wei deu gnin
 回訪	wei faon
-回屋落	wei oq loq	55
+回屋落	wei oq loq	20000
 危險八剌	wei shi paq laq	55
 茴香	wei shian
 茴香倭豆	wei shian ou deu	55
@@ -22150,7 +22150,7 @@ use_preset_vocabulary: true
 觀音娘娘	kun in gnian gnian	55
 觀音暴	kun in pau	55
 寬搭搭	khun taq taq	55
-歡喜	hun shi
+歡喜	hun shi	70000
 換身衣裳	wun shin i zaon	55
 緩拖拖	wun thou thou	55
 碗底	un ti	55
@@ -23112,10 +23112,10 @@ use_preset_vocabulary: true
 夾心餅乾	kaq shin pin kI
 疙裏疙得	kaq li kaq taq	55
 格步階	kaq bu kae	55
-格貌介	kaq mau ka	578
+格貌介	kaq mau ka	50000
 格相貌	kaq shian mau	55
 格相貌介	kaq shian mau ka	55
-格貌介	kaq mau kaq	55
+格貌介	kaq mau kaq	50000
 格相貌介	kaq shian mau kaq	55
 割稻	kaq dau
 割早稻	kaq tsau dau	55
@@ -23171,7 +23171,7 @@ use_preset_vocabulary: true
 嚇刮嫩	haq kuaq nen	55
 嚇刮斯嫩	haq kuaq sy nen	55
 阿弟	aq di	578
-阿裏個	aq li goq	578
+阿裏個	aq li goq	10000
 阿裏一個	aq li iq goq	578
 阿裏個	aq li kou	578
 阿裏一個	aq li iq kou	578
@@ -23459,14 +23459,14 @@ use_preset_vocabulary: true
 刷刷平	syuq syuq bin	55
 索格	soq kaq	55
 欶鼻頭	soq baq deu	55
-啥幹	soq kI	578
+啥幹	soq kI	8000
 啥幹	sou kI	578
 啥幹	so kI	578
-啥體	soq thi	578
+啥體	soq thi	8000
 啥體	sou thi	578
 啥體	so thi	578
-啥些	soq shiq	578
-啥西	so shi	578
+啥些	soq shiq	50000
+啥西	so shi	50000
 # 雪麪	soq mi
 雪裏蕻	syuq li hon
 雪裏紅	syuq li ghon
@@ -23486,7 +23486,7 @@ use_preset_vocabulary: true
 擱沙	koq so	55
 擱板	koq pae
 擱登	koq ten	55
-覺着	koq zyuq
+覺着	koq zyuq	10000
 殼貨	khoq hou	55
 殼㝗	khoq laon	55
 霍亂吐瀉	hoq loe thu shia	55
@@ -23495,7 +23495,7 @@ use_preset_vocabulary: true
 學費	ghoq fi
 學生	ghoq san
 學生意	ghoq san i	55
-學堂	ghoq daon
+學堂	ghoq daon	35000
 鑊底	ghoq ti	55
 鑊蓋	ghoq ke	418
 屋契	oq chi	55
@@ -23701,7 +23701,7 @@ use_preset_vocabulary: true
 直直過	jiq jiq kou	55
 直籠統	jiq lon thon	55
 侄囡	jiq noe	55
-渠拉	jiq laq	578
+渠拉	jiq laq	50000
 渠拉兩人	jiq laq lian gnin	578
 渠拉個	jiq laq goq	578
 擲色子	jiq saq tsy	55
@@ -23973,13 +23973,13 @@ use_preset_vocabulary: true
 
 # 《阿拉宁波话(修订版)》 其他寫法
 
-裏向	li shian	578
+裏向	li shian	40000
 外向	nga shian
 正向	cin shian
 夜裏向	ya li shian	578
 年裏向	gni li shian	578
 伏裏向	voq li shian	578
-該向	kiq shian
+該向	kiq shian	6000
 蕩向	daon shian	578
 門裏向	men li shian	578
 滰腳面桶	jian ciaq mi don	418
@@ -24099,7 +24099,7 @@ use_preset_vocabulary: true
 弗知	vaq ciq	55
 弗及	vaq ji	55
 勒及	laq ji	55
-弗來	vaq le	55
+弗來	vaq le	60000
 弗像	vaq zhian	55
 弗相像	vaq shian zhian	55
 弗相相	vaq shian shian	55
@@ -24107,7 +24107,7 @@ use_preset_vocabulary: true
 弗好	vaq hau	55
 弗有	vaq yeu	55
 弗相似	vaq shian zy	55
-弗是	vaq zy	55
+弗是	vaq zy	170000
 弗得	vaq taq	55
 弗生好心	vaq san hau shin	55
 弗啦	vaq laq	55
@@ -24175,8 +24175,8 @@ use_preset_vocabulary: true
 隨便我咋弗咋	zei bi ngo dza vaq dza
 但便我咋弗咋	dae bi ngo dza vaq dza
 乃介	nae kaq	55
-介貌	kaq mau	418
-介貌介	kaq mau kaq	418
+介貌	kaq mau	50000
+介貌介	kaq mau kaq	25000
 介式貌	kaq shiq mau	55
 介式貌介	kaq shiq mau kaq	55
 告介	kau kaq	55
@@ -24186,7 +24186,7 @@ use_preset_vocabulary: true
 介星	kaq shin	55
 啥介	soq kaq	55
 資介	tsy kaq	55
-介貌	kaq maq	418
+介貌	kaq maq	25000
 介勒	kaq laq	55
 介勒介	kaq laq kaq	55
 介勒話	kaq laq wo	55
@@ -24204,7 +24204,7 @@ use_preset_vocabulary: true
 要儂着力了	iau nou jiaq liq lei
 嘔爾着力了	eu ng jiaq liq lei
 要爾着力了	iau ng jiaq liq lei
-言話	ghae wo	578
+言話	ghae wo	10000
 劈直言話	phiq jiq ghae wo	55
 空頭言話	khon deu ghae wo	55
 氣頭言話	chi deu ghae wo	55
@@ -24212,7 +24212,7 @@ use_preset_vocabulary: true
 造孽言話	zau gniq ghae wo	55
 小貨言話	shiau hou ghae wo	55
 出言話	tshyuq ghae wo	55
-講言話	kaon ghae wo	578
+講言話	kaon ghae wo	20000
 言話一句	ghae wo iq ciu	55
 有句言話份	yeu ciu ghae wo ven	55
 有句言話成份	yeu ciu ghae wo jin ven	55
@@ -24255,7 +24255,7 @@ use_preset_vocabulary: true
 惡嬲和	oq na ngou	55
 嬲和嬉頭	na ngou shi deu	55
 作啥幹	tsoq soq khI	578
-阿啥幹	aq soq khI	578
+阿啥幹	aq soq khI	10000
 多𥈊眼	tou saq ngae	418
 眼𥈊毛	ngae saq mau	55
 雞𥈊覺	ci saq kau	55
@@ -24355,7 +24355,7 @@ use_preset_vocabulary: true
 跑龍套個	bau lon thau ghoq	55
 掃垃圾個	sau la shi ghoq	55
 好幾個	hau ci ghoq
-我個	ngo ghoq	578
+我個	ngo ghoq	10000
 我儂個	ngo nou ghoq	55
 下個月	gho ghoq yuq
 燒窯個	shiau yau ghoq	55
@@ -24364,7 +24364,7 @@ use_preset_vocabulary: true
 修行個	shieu ghan ghoq	55
 兌糖個	dei daon ghoq	55
 多少個	tou shiau ghoq
-儂個	nou ghoq	578
+儂個	nou ghoq	40000
 做瓦筒個	tsou ngo don ghoq	55
 個把個	kou po ghoq	55
 走江湖個	tseu kaon wu ghoq	55
@@ -24421,9 +24421,9 @@ use_preset_vocabulary: true
 氽江浮屍	then kaon vei sy	55
 阿啥幹	aq sou khI	578
 作啥幹	tsoq sou khI	578
-啥幹	soq khI	578
-啥幹	sou khI	578
-啥幹	so khI	578
+啥幹	soq khI	12000
+啥幹	sou khI	1000
+啥幹	so khI	1000
 豬涴	tsyu ou	55
 ⿸尸查涴撲	dza ou phoq	55
 ⿸尸咋涴撲	dza ou phoq	55
@@ -24467,7 +24467,7 @@ use_preset_vocabulary: true
 爾儂個	ng nou goq	55
 眼睛𥈊𥈊	ngae cin saq saq	55
 眼睛一𥈊	ngae cin iq saq	55
-其個	ji goq	578
+其個	ji goq	10000
 其儂個	ji nou goq	55
 𧟰其	fe ji	578
 睬其瞎子	tshe ji haq tsy
@@ -29865,6 +29865,23 @@ use_preset_vocabulary: true
 單位裏人	tae wei li gnin
 一三時刻	iq sae zy khaq
 一三時刻	iq sae sy khaq
+該隻	kiq tsaq	100000
+咋貌介	dza maq kaq	25000
+咋貌介	dzaq maq kaq	25000
+咋貌格	dza maq kaq	25000
+咋貌格	dzaq maq kaq	25000
+一記	iq ci	90000
+純是	zyun zy	20000
+和總是	ghou tson zy	5000
+實際上	zyuq ci zaon	20000
+該種	kiq tson	50000
+該種介	kiq tson ka	10000
+該種介	kiq tson kaq	2500
+一回	iq wei	30000
+頭回	daq wei
+頭回子	daq wei tsy
+昨末	zoq miq	10000
+昨末子	zoq miq tsy	2000
 K	khe
 k	khe
 老K牌	lau k ba
