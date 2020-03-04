@@ -5738,8 +5738,8 @@ use_preset_vocabulary: true
 𪎦	mei
 痗	mei
 袂	mei
-煝	mei	5000
-𤈦	mei
+煝	mei
+𤈦	mei	5000
 𤦛	mei
 𮔙	mei
 妹	mei
@@ -21029,8 +21029,8 @@ use_preset_vocabulary: true
 美人肩	mei zyun ci	55
 美人蕉	mei gnin ciau
 美人蕉	mei zyun ciau
-𤈦焦	mei ciau	55
-𤈦糊	mei wu	55
+𤈦焦	mei ciau	418
+𤈦糊	mei wu	418
 𤈦焦泥	mei ciau gni	55
 𠡒布	tei pu	55
 對蝦	tei huo
@@ -28081,6 +28081,10 @@ use_preset_vocabulary: true
 介貌寫	kaq mau shia
 延來延去撥儂還	yi le yi chi paq nou wae
 延過	yi kou
+紙頭𤈦腐		55
+飯𤈦焦𡀂		55
+𤈦香菸		418
+飯𤈦焦了	vae mei ciau lei	55
 寧波市
 寧波	gnin pou
 寧波	gnin poq
@@ -29829,10 +29833,10 @@ use_preset_vocabulary: true
 日本閒話	zyuq pen ghae wo
 韓國言話	ghEI koq ghae wo
 韓國閒話
-急口令	ciq kheu lin
-短袖頭子	toe zhieu deu tsy
+急口令
+短袖頭子
 長袖頭子	jian zhieu deu tsy
-短袖子	toe zhieu tsy
+短袖子
 長袖子	jian zhieu tsy
 一百廿
 合算	kaq soe	578
@@ -29882,6 +29886,18 @@ use_preset_vocabulary: true
 頭回子	daq wei tsy
 昨末	zoq miq	10000
 昨末子	zoq miq tsy	2000
+𤈦掉	mei diau	418
+𤈦煞	mei saq	418
+𤈦腐	mei vu	55
+𤈦焦了	mei ciau lei	418
+𤈦焦𡀂	mei ciau lei	55
+香菸𤈦𤈦	shian i mei mei	55
+煝掉	mei diau
+煝煞	mei saq
+煝焦	mei ciau
+煝焦了	mei ciau lei
+煝焦𡀂	mei ciau lei
+香菸煝煝	shian i mei mei
 K	khe
 k	khe
 老K牌	lau k ba
