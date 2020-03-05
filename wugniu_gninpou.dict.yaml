@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.05"
+version: "2020.03.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -480,7 +480,6 @@ use_preset_vocabulary: true
 鬚	syu	0%
 尿	syu
 姝	syu
-# ⿰口舒	syu
 水	syu
 氵	syu
 暑	syu
@@ -863,7 +862,6 @@ use_preset_vocabulary: true
 帝	ti
 締	ti
 渧	ti
-# 滴	ti	0%
 諦	ti
 碲	ti
 偙	ti
@@ -2186,7 +2184,6 @@ use_preset_vocabulary: true
 阜	vu
 阝	vu
 碔	vu
-# 傅	vu	0%
 腐	vu
 附	vu
 坿	vu
@@ -3013,7 +3010,6 @@ use_preset_vocabulary: true
 釵	tsha
 扠	tsha
 攃	tsha
-# 插	tsha	0%
 扯	tsha	0%
 撦	tsha	0%
 蔡	tsha
@@ -6342,7 +6338,6 @@ use_preset_vocabulary: true
 妥	thou
 橢	thou
 忒	thou	48020
-# 太	thou
 墮	dou
 馱	dou	39456
 駄	dou
@@ -6414,7 +6409,6 @@ use_preset_vocabulary: true
 摞	lou
 儂	lou	0%
 囉	lhou
-# 羅	lhou	0%
 左	tsou
 佐	tsou
 做	tsou
@@ -8114,7 +8108,6 @@ use_preset_vocabulary: true
 胜	sen
 苼	sen
 泩	sen
-# 聲	sen	0%
 損	sen
 矧	sen
 哂	sen
@@ -8207,7 +8200,7 @@ use_preset_vocabulary: true
 秉	pin
 禀	pin
 稟	pin
-屏	pin	5%
+屏	pin	1%
 𩊖	pin
 鉼	pin
 鞞	pin
@@ -8343,7 +8336,6 @@ use_preset_vocabulary: true
 停	din
 婷	din
 𦝞	din
-# 成	din	0%
 凌	din	0%
 梃	din
 鋌	din
@@ -8958,7 +8950,6 @@ use_preset_vocabulary: true
 暎	in
 瀴	in
 窨	in
-# 引	in	0%
 衮	kuen
 袞	kuen
 滾	kuen
@@ -9727,7 +9718,6 @@ use_preset_vocabulary: true
 柏	paq
 栢	paq
 伯	paq
-# 泊	paq	0%
 袹	paq
 𦯉	paq
 掰	paq
@@ -12013,7 +12003,6 @@ use_preset_vocabulary: true
 呣	mh
 姆	mh
 嘸	mh
-# 沒	mh	0%
 你	n	0%
 妳	n	0%
 伱	n	0%
@@ -12089,10 +12078,8 @@ use_preset_vocabulary: true
 落地雷	loq di lei	55
 連底凍	li ti ton	55
 成糖	jin daon	55
-# 成糖	din daon
 天家	thi ko	578
 地腳印	di ciaq in	55
-# 地腳引	di ciaq in
 塢采	u tshe	418
 塢處	u tshyu	55
 塢賽	u se	55
@@ -12190,9 +12177,7 @@ use_preset_vocabulary: true
 借邊	cia pi	55
 順手半邊	zyun shieu pun pi	55
 順邊	zyun pi	55
-# 裏廂	li shian
 裏頭	li deu
-# 外廂	nga shian
 外頭	nga deu
 兜當中	teu taon tson	578
 貼當中	thiaq taon tson	578
@@ -12205,8 +12190,6 @@ use_preset_vocabulary: true
 半勿冷打	pun vaq lan tan	55
 半勿郎當	pun vaq laon taon	55
 半勿拉介	pun vaq la ka	55
-# 正廂	cin shian
-# 反廂	fae shian
 出面相	tshyuq mi shian	55
 眼面前	ngae mi zhi
 後背	gheu pei
@@ -12315,7 +12298,6 @@ use_preset_vocabulary: true
 天夜	thi ya	55
 夜到	ya tau	40000
 夜頭	ya deu	578
-# 夜裏廂	ya li shian
 夜到頭	ya tau deu	578
 夜到晚頭	ya tau mae deu	55
 晚頭	mae deu	55
@@ -12465,7 +12447,6 @@ use_preset_vocabulary: true
 大年夜	dou gni ya
 節肯	ciq khen	55
 節日頭間	ciq gniq deu kae	55
-# 節頭節面	ciq deu ciq mi
 節頭節尾	ciq deu ciq mi	55
 過年過節	kou gni kou ciq	55
 節邊	ciq pi	55
@@ -12690,7 +12671,6 @@ use_preset_vocabulary: true
 後生	gheu san
 學生子	ghoq san tsy	418
 作頭	tsoq deu	55
-# 把作師傅	po tsoq sy vu
 老大	lau da
 阿大	aq dou	418
 阿督	aq toq
@@ -12725,12 +12705,9 @@ use_preset_vocabulary: true
 箍桶	khu don
 箍桶	khou don
 廚工	dzyu kon	418
-# 廚工師傅	dzyu kon sy vu
 幫廚	paon dzyu
-# 飯師傅	vae sy vu
 飯頭腦	vae deu nau	55
 飯烏龜	vae u ciu	55
-# 剃頭師傅	thi deu sy vu
 剃頭	thi deu
 剃頭郎	thi deu laon	55
 水底工	syu ti kon	55
@@ -13012,7 +12989,6 @@ use_preset_vocabulary: true
 回湯豆腐乾	wei thaon deu vu kI	55
 飯鑊頭蒼蠅	vae ghoq deu tshaon in	55
 嘸腳蟹	mh ciaq ha	55
-# 沒腳蟹	mh ciaq ha
 鐵絲揢籮	thiq sy khaq lou	55
 大襟布衫	dou cin pu sae	55
 嘸腳活猻	mh ciaq waq sen	55
@@ -13122,7 +13098,6 @@ use_preset_vocabulary: true
 該裏	kiq li	578
 該頭	kiq deu	578
 該面	kiq mi	30000
-# 該廂	kiq shian
 該邊	kiq pi	578
 該岸	kiq nge	6000
 蕩頭	daon deu	578
@@ -13278,7 +13253,6 @@ use_preset_vocabulary: true
 牙梳	ngo su	55
 拉柴胡子	lha za wu tsy	55
 牙齒	ngo tsy
-# 牙子	ngo tsy
 牙肉	ngo gnioq	578
 淨根牙	zhin ken ngo	55
 上爿	zaon bae	55
@@ -13496,7 +13470,6 @@ use_preset_vocabulary: true
 話頭	wo deu
 話柄	wo pin
 講口	kaon kheu
-# 接口令	ciq kheu lin	55
 死話	shi wo	55
 亂話	loe wo	418
 忮話	ji wo	55
@@ -14500,7 +14473,6 @@ use_preset_vocabulary: true
 機器腳踏車	ci chi ciaq daq tsho
 棚車	ban tsho	55
 火輪	hou len
-# 回聲	wei sen
 地莊船	di tsaon ZOE	55
 抲魚船	kho ng ZOE	55
 ⿰舟巤子	laq tsy	55
@@ -14972,7 +14944,6 @@ use_preset_vocabulary: true
 鷂子	yau tsy
 鷂虻	yau maon	55
 大頭殼子	dou deu khoq tsy	55
-# 野狐狸	ya wu li
 人案頭	gnin e deu	418
 人案	gnin e	418
 木頭人案	moq deu gnin e	55
@@ -17051,8 +17022,6 @@ use_preset_vocabulary: true
 燥迫廿三	sau paq nE sae	55
 乾剝剝	kI poq poq
 溼漬漬	shiq tsaq tsaq	55
-# 溚溚滴	taq taq ti
-# 涾涾滴	daq daq ti
 水出爛糟	syu tshyuq lae tsau	55
 餲𦤣幾糟	aq boq ci tsau	55
 餲𦤣𦤣	aq boq boq	55
@@ -17291,7 +17260,6 @@ use_preset_vocabulary: true
 紅稀稀	ghon shi shi	55
 紫得得	tsy taq taq	55
 紫絳紅	tsy cian ghon	55
-# 鐵繡紅	thiq shieu ghon
 栗殼色	liq khoq saq	55
 松黃	son waon	55
 松松黃	son son waon	55
@@ -17844,10 +17812,8 @@ use_preset_vocabulary: true
 省勒	san laq	55
 省勒	sae laq	55
 單超	tae chiau	55
-# 喌喌	tsoq tsoq
 喌喌	tso tso
 喁喁	gniu gniu
-# 囑囑	tsoq tsoq
 咩咩	mhae mhae
 咪咪	mhi mhi
 的𡀂	tiq lei	55
@@ -20083,7 +20049,6 @@ use_preset_vocabulary: true
 瓜子	kuo tsy
 瓜子臉	kuo tsy li
 瓜子盆	kuo tsy ben	55
-# 瓜瓜雞	ko ko ci
 加肉彩	ko gnioq tshe	55
 傢俱店	ko jiu ti	55
 家口	ko kheu
@@ -20104,10 +20069,7 @@ use_preset_vocabulary: true
 抲筷	kho khuae	418
 抲魚	kho ng	55
 㰤㰤	kho kho	55
-# 牙子屙	ngo tsy ou
 牙屙	ngo ou	55
-# 牙子垽	ngo tsy gnin
-# 牙子縫	ngo tsy von
 牙膏	ngo kau
 牙盤	ngo bun	55
 牙根	ngo ken
@@ -23061,7 +23023,6 @@ use_preset_vocabulary: true
 撮花提簍	tshaq huo di leu	55
 撮牛屙	tshaq ngeu ou	55
 擦米	tshaq mi	55
-# 擦牙子	tshaq ngo tsy
 擦背	tshaq pei
 墨墨暗	moq moq EI	55
 擦煞	tshaq saq	55
@@ -23467,7 +23428,6 @@ use_preset_vocabulary: true
 啥體	so thi	578
 啥些	soq shiq	50000
 啥西	so shi	50000
-# 雪麪	soq mi
 雪裏蕻	syuq li hon
 雪裏紅	syuq li ghon
 雪竇山風景區	syuq deu sae fon cin chiu
@@ -23650,7 +23610,6 @@ use_preset_vocabulary: true
 接生婆	ciq san bou
 接龍	ciq lon
 揭方巾	ciq faon cin	55
-# 結珠	ciq tsyu
 結拜兄弟	ciq pa shion di
 結拜弟兄	ciq pa di shion	55
 結綵	ciq tshe
@@ -23913,14 +23872,12 @@ use_preset_vocabulary: true
 嘸落頭	mh loq deu	55
 嘸說話	mh syuq wo	55
 嘸角菱	mh koq lin	55
-# 嘸出山	mh tshyuq sae
 芋艿	n na
 兒囡	ng noe	418
 魚子	ng tsy
 魚翅	ng tshy
 魚圓	ng yu	55
 魚膠	ng kau
-# 魚腮	ng se
 魚籮	ng lou	55
 魚秧	ng ian
 魚盆	ng ben	55
@@ -29067,6 +29024,36 @@ use_preset_vocabulary: true
 毀牙齒	shiu ngo tsy
 拖去	thou chi
 拖去	tha chi
+屏牢	pin lau
+屏弗牢	pin vaq lau
+屏勿牢	pin vaq lau
+屏勒牢	pin laq lau
+吞聲屏氣	then shin pin chi
+屏居	pin ciu
+屏息	pin shiq
+屏息以待
+屏息凝氣	pin shiq gnin chi
+屏息凝視	pin shiq gnin zy
+屏息靜觀	pin shiq zhin kun
+屏斥	pin chiq
+屏棄	pin chi
+屏氣	pin chi
+屏氣凝神	pin chi gnin zyun
+屏氣攝息	pin chi shiq shiq
+屏氣斂息	pin chi li shiq
+屏營	pin yin
+屏當	pin taon
+屏絕	pin dzyuq
+屏聲息氣	pin shin shiq chi
+屏語	pin gniu
+屏跡	pin ciq
+屏退	pin thei
+屏除	pin dzyu
+屏隱	pin in
+屏黜	pin tshyuq
+放屏	faon pin
+斂聲屏氣	li shin pin chi
+杜門屏跡	du men pin ciq
 明朝	min jiau
 肚子	du tsy
 生活	sen waq
@@ -29899,6 +29886,10 @@ use_preset_vocabulary: true
 煝焦了	mei ciau lei
 煝焦𡀂	mei ciau lei
 香菸煝煝	shian i mei mei
+大懶	dou lae
+小懶	shiau lae
+大懶差小懶	dou lae tsha shiau lae
+小懶差腳板	shiau lae tsha ciaq pae
 K	khe
 k	khe
 老K牌	lau k ba
@@ -37686,7 +37677,8 @@ VCD	vi shi di
 加菜	ko tshe
 加菜金	ko tshe cin
 加菲	cia fi
-加菲貓	cia fi mhau
+加菲貓	cia fi mau
+加菲貓	cia fi mae
 加蓋	ko ke
 加蓬	cia bon
 加薩走廊	cia saq tseu laon
@@ -43524,7 +43516,7 @@ VCD	vi shi di
 天行	thi yin
 天行赤眼	thi yin tshaq ngae
 天要下雨孃要嫁人	thi iau gho yu gnian iau ko gnin
-天貓座	thi mhau zou
+天貓座	thi mau zou
 天賦人權	thi fu zyun jiu
 天長	thi jian
 天長地久	thi jian di cieu
@@ -44152,6 +44144,7 @@ VCD	vi shi di
 孟村回族自治縣	man tshen wei dzoq zy dzyu yu
 季世	ci syu
 季莫申科	ci moq shin khou
+季莫申科	ci moq syun khou
 孤兒	ku er
 孤兒寡婦	ku er kua vu
 孤兒寡母	ku er kua meu
@@ -44865,7 +44858,7 @@ VCD	vi shi di
 家訓	cia shiun
 家訪	cia faon
 家譜	cia pu
-家貓	cia mhau
+家貓	cia mau
 家財	cia dze
 家財萬貫	cia dze vae kun
 家貧如洗	cia bin zyu shi
@@ -45382,7 +45375,7 @@ VCD	vi shi di
 小說家	shiau syuq cia
 小說集	shiau syuq jiq
 小貓	shiau mae
-小貓	shiau mhau
+小貓	shiau mau
 小赤壁	shiau chiq piq
 小超人	shiau chiau gnin
 小部分	shiau bu ven
@@ -47090,7 +47083,6 @@ VCD	vi shi di
 忘悼	vaon dau
 忘情	vaon jin
 忘情所以	vaon jin so yi
-忘懷	vaon wae
 忘記	maon ci
 忘記了	maon ci lei
 忘記密碼	maon ci miq mo
@@ -47276,8 +47268,6 @@ VCD	vi shi di
 恭候大駕	kon gheu da cia
 恭喜你	kon shi gni
 恭城瑤族自治縣	kon jin yau dzoq zy dzyu yu
-恭從	kon dzon
-恭敬不如從命	kon cin paq zyu dzon min
 息事寧人	shiq zy gnin zyun
 息交絕遊	shiq ciau dzyuq yeu
 息率	shiq liq
@@ -47305,9 +47295,7 @@ VCD	vi shi di
 悲喜交加	pei shi ciau cia
 悲喜交集	pei shi ciau jiq
 悲天憫人	pei thi min zyun
-悲從中來	pei dzon tson le
 悲慘世界	pei tshae syu ka
-悲懷	pei wae
 悲觀失望	pei kun syuq vaon
 悵望	chian vaon
 悶悶不樂	mhen mhen paq loq
@@ -47351,7 +47339,6 @@ VCD	vi shi di
 情繫	jin shi
 情長紙短	jin jian tsy toe
 惑人耳目	ghoq zyun er moq
-惟命是從	vi min zy dzon
 惠更斯	wei ken sy
 惠水	wei syu
 惠水縣	wei syu yu
@@ -47411,7 +47398,6 @@ VCD	vi shi di
 惹人注目	zo gnin tsyu moq
 惹人討厭	zo gnin thau i
 惹是生非	zo zy sen fi
-愁懷	zeu wae
 愁滋味	zeu tsy vi
 愁眉	zeu mei
 愁眉不展	zeu mei paq ci
@@ -47441,3 +47427,541 @@ VCD	vi shi di
 意見分歧	i ci fen ji
 意謂着	i wei dzoq
 意謂着	i wei zyuq
+愚人	gniu zyun
+愚人節	gniu zyun ciq
+愚人節快樂	gniu zyun ciq khua loq
+愚妄	gniu vaon
+愚弄人民	gniu lon zyun min
+愛一個人	e iq goq gnin
+愛上一個	e zaon iq goq
+愛了	e laq
+愛人	e gnin
+愛你	e gni
+愛你	e ng
+愛俉	e ng
+愛爾	e ng
+愛儂	e nou
+愛兒	e er
+愛兒心切	e er shin chiq
+愛問	e men
+愛國主義教育	e koq tsyu gni ciau yuq
+愛國人士	e koq zyun zy
+愛國如家	e koq zyu cia
+愛國衛生運動	e koq wei sen yun don
+愛奴人	e nu gnin
+愛家	e cia
+愛屋及鳥	e oq jiq gniau
+愛彌兒	e mi er
+愛彼錶	e pi piau
+愛德華茲	e taq wo tsy
+愛恨交織	e ghen ciau ciq
+愛恨分明	e ghen fen min
+愛惡分明	e u fen min
+愛憎分明	e tsen fen min
+愛戀着	e li dzoq
+愛戀着	e li zyuq
+愛戴	e ta
+愛斯基摩人	e sy ci mou gnin
+愛新覺羅	e shin ciuq lou
+愛普生	e phu sen
+愛校如家	e yau zyu cia
+愛樂	e yuq
+愛樂樂團	e yuq yuq doe
+愛樂社	e yuq dzo
+愛死	e sy
+愛沙尼亞人	e so gni ia gnin
+愛爾蘭	e er lae
+愛爾蘭人	e er lae gnin
+愛爾蘭共和國	e er lae gon ghou koq
+愛爾蘭共和軍	e er lae gon ghou ciun
+愛爾蘭海	e er lae he
+愛爾蘭語	e er lae gniu
+愛現鬼	e yi kuei
+愛生氣	e san chi
+愛生活	e sen waq
+愛的人	e tiq gnin
+愛個人	e goq gnin
+愛個人	e ghoq gnin
+愛着	e dzoq
+愛着	e zyuq
+愛着你	e dzoq gni
+愛着你	e zyuq gni
+愛自己	e zy ci
+愛自家	e zhi ko
+愛莫利維爾	e moq li vi er
+愛莫大於心死	e moq da yu shin sy
+愛莫能助	e moq nen dzu
+愛迪生	e diq sen
+愛阿華州	e a wo cieu
+愛默生	e maq sen
+感人	kI gnin
+感人肺腑	kI gnin fi fu
+感冒了	kI mau laq
+感冒了	kI mau lei
+感性認識	kI shin gnin shiq
+感恩戴德	kI en ta taq
+感情生活	kI jin sen waq
+感愧	kI khuei
+感戴	kI ta
+感染人數	kI gni gnin su
+感染率	kI gni liq
+感激萬分	kI ciq vae fen
+感覺	kI ciuq
+感覺不到	kI ciuq paq tau
+感覺弗到	kI ciuq vaq tau
+感覺勿到	kI ciuq vaq tau
+感覺出	kI ciuq tshyuq
+感覺出來	kI ciuq tshyuq le
+感覺到	kI ciuq tau
+感覺器	kI ciuq chi
+感覺器官	kI ciuq chi kun
+感覺真好	kI ciuq cin hau
+感覺神經	kI ciuq zyun cin
+愣了	len laq
+愣着	len dzoq
+愣着	len zyuq
+慈善家	dzy zoe cia
+慈安太后	dzy EI tha gheu
+慈濟大學	dzy ci da ghoq
+慈眉善目	dzy mei zoe moq
+慈眉善眼	dzy mei zoe ngae
+慈福行動	dzy foq yin don
+慈禧太后	dzy shi tha gheu
+慈禧皇太后	dzy shi waon tha gheu
+慈鳥	dzy gniau
+態疊加	the diaq cia
+慌了	huaon laq
+慌了	huaon lei
+慌了手腳	huaon laq shieu ciaq
+慌忙之間	huaon maon tsy ci
+慎思篤行	zyun sy toq yin
+慎行	zyun yin
+慘無人道	tshae vu zyun dau
+慘無人道	tshae Wu zyun dau
+慘無天日	tshae vu thi zyuq
+慘無天日	tshae Wu thi zyuq
+慘狀	tshae dzaon
+慘痛教訓	tshae thon ciau shiun
+慘絕人寰	tshae dzyuq zyun wae
+慢下去	mae gho chi
+慢了	mae laq
+慢了	mae lei
+慢着	mae dzoq
+慢着	mae zyuq
+慢行	mae yin
+慢行道	mae yin dau
+慢長	mae jian
+慣了	kuae laq
+慣壞	kuae ua
+慰問	wei ven
+慰問信	wei ven shin
+慰問品	wei ven phin
+慰問團	wei ven doe
+慰問金	wei ven cin
+慰問電	wei ven di
+慰藉	wei zhiq
+慶大黴素	chin da mei su
+慶生	chin san
+慶生會	chin san wei
+慶祝大會	chin tsoq da wei
+慷他人之慨	khaon tha zyun tsy khe
+慷慨捐生	khaon khe ciu sen
+慷慨解囊	khaon khe ka naon
+慷慨解囊	khaon khe cia naon
+慾加之罪何患無詞	yuq cia tsy zei ghou wae vu dzy
+慾加之罪何患無詞	yuq cia tsy zei ghou wae Wu dzy
+慾望	yuq vaon
+憂喜參半	ieu shi tshae pun
+憋尿	piq gniau
+憋死	piq sy
+憋煞	piq saq
+憋煞死	piq saq shi
+憋着	piq dzoq
+憋着	piq zyuq
+憋勒	piq laq
+憋勒仔	piq laq tsy
+憋的	piq tiq
+憑仗	bin jian
+憑你	bin gni
+憑你	bin ng
+憑俉	bin ng
+憑爾	bin ng
+憑儂	bin nou
+憑你是誰	bin gni zy zei
+憑你啥人	bin ng soq gnin
+憑俉啥人	bin ng soq gnin
+憑爾啥人	bin ng soq gnin
+憑儂啥人	bin nou soq gnin
+憑單日記	bin tae zyuq ci
+憑單日記帳	bin tae zyuq ci cian
+憑着	bin dzoq
+憑着	bin zyuq
+憑勒	bin laq
+憑藉	bin cia
+憑藉着	bin cia dzoq
+憑藉着	bin cia zyuq
+憤世	ven syu
+憤世嫉俗	ven syu jiq dzoq
+憤然離去	ven zoe li chiu
+憤而行兇	ven er yin shion
+憨豆先生	he deu shi san
+憲法大綱	shi faq da kaon
+懂了	ton lei
+懂人意	ton zyun i
+懂行	ton ghaon
+應付自如	in fu zy zyu
+應分	in fen
+應到人數	in tau gnin su
+應屆生	in ka san
+應屆畢業生	in ka piq gniq san
+應急狀態	in ciq dzaon the
+應采兒	in tshe er
+應收帳款週轉率	in shieu cian khun cieu tsoe liq
+應用力學	in yon liq yuq
+應用數學	in yon su yuq
+應用科學	in yon khou yuq
+應用程式介面	in yon jin shiq cia mi
+應着	in dzoq
+應着	in zyuq
+應考生	in khau san
+應試教育	in sy ciau yuq
+應該	in ke
+應該做	in ke tsou
+應該可以	in ke khou yi
+應該在	in ke dze
+應該如何	in ke zyu ghou
+應該怎樣	in ke tsen yan
+應該怎麼	in ke tsen mou
+應該是	in ke zy
+應該會	in ke wei
+應該有	in ke yeu
+應該注意	in ke tsyu i
+應該用	in ke yon
+應該能	in ke nen
+應該說	in ke syuq
+應運而生	in yun er sen
+應選人	in soe gnin
+懊悔莫及	au huei moq jiq
+懶人	lae gnin
+懶覺	lae kau
+懶貓	lae mae
+懶貓	lae mau
+懷了	wa laq
+懷了	wae laq
+懷仁	wae zyun
+懷仁堂	wae zyun daon
+懷仁縣	wae zyun yu
+懷來	wae le
+懷來縣	wae le yu
+懷俄明	wae ngou min
+懷俄明州	wae ngou min cieu
+懷化	wae huo
+懷化市	wae huo zy
+懷孕期間	wa yun ji ci
+懷孕期間	wae yun ji ci
+懷安	wae EI
+懷安縣	wae EI yu
+懷寧	wae gnin
+懷寧縣	wae gnin yu
+懷帝	wae ti
+懷德	wae taq
+懷德海	wae taq he
+懷念	wae nE
+懷恨	wae ghen
+懷恨在心	wae ghen dze shin
+懷恩	wae en
+懷恩堂	wae en daon
+懷想	wae shian
+懷憂喪志	wae ieu saon tsy
+懷戀	wae li
+懷才不遇	wae dze paq gniu
+懷才抱德	wae dze bau taq
+懷敵意	wae diq i
+懷柔	wae zhieu
+懷柔區	wae zhieu chiu
+懷柔政策	wae zhieu cin tshaq
+懷柔縣	wae zhieu yu
+懷特	wae daq
+懷特海德	wae daq he taq
+懷璧	wae piq
+懷璧其罪	wae piq ji zei
+懷疑	wae gni
+懷疑心	wae gni shin
+懷疑派	wae gni pha
+懷疑者	wae gni tse
+懷疑論	wae gni len
+懷着	wae dzoq
+懷着	wae zyuq
+懷祿	wae loq
+懷素	wae su
+懷舊	wae jieu
+懷舊感	wae jieu kI
+懷遠	wae yu
+懷遠縣	wae yu yu
+懷鄉	wae shian
+懷鄉病	wae shian bin
+懷集	wae jiq
+懷集縣	wae jiq yu
+懸乎	yu fu
+懸壺濟世	yu wu ci syu
+懸掛着	yu kuo dzoq
+懸掛着	yu kuo zyuq
+懸樑自盡	yu lian zy jin
+懸河注水	yu ghou tsyu syu
+懸着	yu dzoq
+懸着	yu zyuq
+懸賞分	yu saon fen
+懾人	shiq gnin
+懿行	yi yin
+戀家	li cia
+戀生惡死	li sen u sy
+戀生惡死	li san u shi
+戈壁大沙漠	kou piq dou so moq
+戈斯拉爾	kou sy lha er
+戈爾	kou er
+戈爾巴喬夫	kou er pa jiau fu
+戈矛	kou mau
+戊申	Wu shin
+戊申	Wu syun
+戎甲	dzon ciaq
+戎行	dzon yin
+戎馬生涯	dzon mo sen ya
+戎馬生涯	dzon mo sen yi
+成一家言	jin iq cia yi
+成三破二	jin sae phou gni
+成不了	jin paq liau
+成弗了	jin vaq liau
+成勿了	jin vaq liau
+成也蕭何	jin gha shiau ghou
+成也蕭何	jin ya shiau ghou
+成也蕭何	jin ye shiau ghou
+成也蕭何敗也蕭何	jin gha shiau ghou ba gha shiau ghou
+成也蕭何敗也蕭何	jin ya shiau ghou ba ya shiau ghou
+成也蕭何敗也蕭何	jin ye shiau ghou ba ye shiau ghou
+成了	jin lei
+成了	jin laq
+成交	jin kau
+成交價	jin kau ko
+成交價格	jin kau ko kaq
+成交總值	jin kau tson jiq
+成交量	jin kau lian
+成交量總量	jin kau lian tson lian
+成交額	jin kau ngaq
+成人	jin gnin
+成人不自在	jin gnin paq zy dze
+成人之美	jin gnin tsy mei
+成人教育	jin gnin ciau yuq
+成人版	jin gnin pae
+成人班	jin gnin pae
+成人病	jin gnin bin
+成人電影	jin gnin di in
+成人高考	jin gnin kau khau
+成倍增加	jin bei tsen cia
+成倍增長	jin bei tsen cian
+成分	jin ven
+成功人士	jin kon zyun zy
+成功大學	jin kon da ghoq
+成功率	jin kon liq
+成名成家	jin min jin cia
+成品率	jin phin liq
+成問題	jin ven di
+成大	jin da
+成婚之日	jin huen tsy zyuq
+成家	jin cia
+成家立業	jin cia liq gniq
+成家立計	jin cia liq ci
+成年人	jin gni gnin
+成效卓著	jin yau tsoq tsyu
+成敗論人	jin ba len zyun
+成教	jin ciau
+成日	jin zyuq
+成日家	jin zyuq cia
+成本效益分析	jin pen yau iq fen shiq
+成活率	jin waq liq
+成熟分裂	jin zoq fen liq
+成爲世界	jin wei syu ka
+成癮	jin in
+成行	jin yin
+成親之日	jin chin tsy zyuq
+成都人	jin tu gnin
+成都體育大學	jin tu thi yuq da ghoq
+成長	jin cian
+成長性	jin cian shin
+成長率	jin cian liq
+成長股	jin cian ku
+成長過程	jin cian kou jin
+我也	ngo gha
+我也不	ngo gha paq
+我也弗	ngo gha vaq
+我也勿	ngo gha vaq
+我也來	ngo gha le
+我也在	ngo gha dze
+我也想	ngo gha shian
+我也是	ngo gha zy
+我也會	ngo gha wei
+我也有	ngo gha yeu
+我也沒	ngo gha maq
+我也嘸沒	ngo gha mhiq
+我也能	ngo gha nen
+我也要	ngo gha iau
+我也好	ngo gha hau
+我乾一杯	ngo kI iq pei
+我了	ngo liau
+我人	ngo gnin
+我們自己	ngo men zy ci
+阿拉自家	aq laq zhi ko
+我去	ngo chi
+我吧	ngo pa
+我告訴你	ngo kau su gni
+我告訴儂	ngo kau su nou
+我哭了	ngo khoq laq
+我哭了	ngo khoq lei
+我啊	ngo gha
+我啊	ngo a
+我問	ngo men
+我學會了	ngo yuq wei laq
+我學會了	ngo yuq wei lei
+我家	ngo cia
+我家人	ngo cia zyun
+阿拉屋落	aq laq oq loq
+阿拉屋裏人	aq laq oq li gnin
+我對你	ngo tei gni
+我對你	ngo tei ng
+我對俉	ngo tei ng
+我對爾	ngo tei ng
+我對儂	ngo tei nou
+我幫你	ngo paon gni
+我幫你	ngo paon ng
+我幫俉	ngo paon ng
+我幫爾	ngo paon ng
+我幫儂	ngo paon nou
+我忖儂	ngo tshen nou
+我忖去	ngo tshen chi
+我愛我家	ngo e ngo cia
+我承認	ngo jin zyun
+我拿	ngo no
+我馱	ngo dou
+我是你	ngo zy gni
+我是你	ngo zy ng
+我是俉	ngo zy ng
+我是爾	ngo zy ng
+我是儂	ngo zy nou
+我是個	ngo zy kou
+我是個	ngo zy goq
+我更	ngo ken
+我曾	ngo dzen
+我有個	ngo yeu kou
+我有個	ngo yeu goq
+我沒	ngo maq
+我沒有	ngo maq yeu
+我嘸沒	ngo mhiq
+我溜	ngo lieu
+我溜到	ngo lieu tau
+我的家	ngo tiq cia
+我省	ngo san
+我看你	ngo khI gni
+我看你	ngo khI ng
+我看俉	ngo khI ng
+我看爾	ngo khI ng
+我看儂	ngo khI nou
+我看着	ngo khI dzoq
+我看着	ngo khI zyuq
+我看勒	ngo khI laq
+我看的	ngo khI tiq
+我知道你	ngo tsyu dau gni
+我曉得你	ngo shiau taq ng
+我曉得俉	ngo shiau taq ng
+我曉得爾	ngo shiau taq ng
+我曉得儂	ngo shiau taq nou
+我等你	ngo ten gni
+我等你	ngo ten ng
+我等俉	ngo ten ng
+我等爾	ngo ten ng
+我等儂	ngo ten nou
+我給你	ngo ciq gni
+我撥你	ngo paq ng
+我撥俉	ngo paq ng
+我撥爾	ngo paq ng
+我撥你	ngo pen
+我撥俉	ngo pen
+我撥爾	ngo pen
+我撥儂	ngo paq nou
+我自己	ngo zy ci
+我自家	ngo zhi ko
+我行	ngo yin
+我行我素	ngo yin ngo su
+我被	ngo bei
+我撥	ngo paq
+我覺得	ngo koq taq
+我覺着	ngo koq dzoq
+我覺着	ngo koq zyuq
+我該	ngo ke
+我該	ngo kiq
+我認	ngo zyun
+我認爲	ngo zyun wei
+我走了	ngo tseu laq
+我走了	ngo tseu lei
+我送你	ngo son gni
+我送你	ngo son ng
+我送俉	ngo son ng
+我送爾	ngo son ng
+我送儂	ngo son nou
+我還	ngo wa
+我還不	ngo wa paq
+我還弗	ngo wa vaq
+我還勿	ngo wa vaq
+我還在	ngo wa dze
+我還來	ngo wa le
+我還來的	ngo wa le tiq
+我還來東	ngo wa le ton
+我還來勒	ngo wa le laq
+我還是	ngo wa zy
+我還會	ngo wa wei
+我還有	ngo wa yeu
+我還沒	ngo wa maq
+我還嘸沒	ngo wa mhiq
+我還能	ngo wa nen
+我錯了	ngo tshou laq
+我錯了	ngo tshou lei
+戒行	ka yin
+或大或小	ghoq dou ghoq shiau
+或然率	ghoq zoe liq
+或繫之牛	ghoq ci tsy ngeu
+或被	ghoq bei
+戚夫人	chiq fu gnin
+戚家軍	chiq cia ciun
+戟狀	ciq dzaon
+截尾	jiq vi
+截止日期	jiq tsy zyuq ji
+截止時間	jiq tsy zy ci
+截止頻率	jiq tsy bin liq
+截長補短	jiq jian pu toe
+戰了	ci laq
+戰了	tsoe laq
+戰個	ci goq
+戰個	tsoe goq
+戰前戰後	ci zhi ci gheu
+戰前戰後	tsoe zhi tsoe gheu
+戰勒	ci laq
+戰勒	tsoe laq
+戰情	ci jin
+戰無不勝攻無不克	ci vu paq shin kon vu paq khaq
+戰無不勝攻無不克	tsoe vu paq shin kon vu paq khaq
+戰無不勝攻無不克	ci Wu paq shin kon Wu paq khaq
+戰無不勝攻無不克	tsoe Wu paq shin kon Wu paq khaq
+戰無不勝攻無不取	ci vu paq shin kon vu paq tshyu
+戰無不勝攻無不取	tsoe vu paq shin kon vu paq tshyu
+戰無不勝攻無不取	ci Wu paq shin kon Wu paq tshyu
+戰無不勝攻無不取	tsoe Wu paq shin kon Wu paq tshyu
+戰爭罪行	ci tsen zei yin
+戰爭罪行	tsoe tsen zei yin
+戰略家	ci liaq cia
+戰略家	tsoe liaq cia
+戰鬥人員	ci teu zyun yu
+戰鬥人員	tsoe teu zyun yu
+戰鬥行爲	ci teu yin wei
+戰鬥行爲	tsoe teu yin wei
+戰鬥轟炸	ci teu hon tso
+戰鬥轟炸	tsoe teu hon tso
+戰鬥轟炸機	ci teu hon tso ci
+戰鬥轟炸機	tsoe teu hon tso ci
