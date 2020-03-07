@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.06"
+version: "2020.03.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2266,7 +2266,7 @@ use_preset_vocabulary: true
 悞	nu
 娛	nu
 娯	nu
-捂	nu
+捂	nu	1%
 晤	nu
 寤	nu
 痦	nu
@@ -2409,7 +2409,7 @@ use_preset_vocabulary: true
 皷	ku
 瞽	ku
 蠱	ku
-賈	ku
+賈	ku	1%
 錮	ku
 痼	ku
 𧛂	ku
@@ -2501,7 +2501,7 @@ use_preset_vocabulary: true
 悞	wu	10%
 娛	wu	10%
 娯	wu	10%
-捂	wu	10%
+捂	wu	1%
 梧	wu	10%
 晤	wu	10%
 寤	wu	10%
@@ -3089,7 +3089,7 @@ use_preset_vocabulary: true
 還	gha	10%
 啊	gha
 也	gha
-捱	a
+捱	a	0%
 挨	a
 啊	a
 錒	a
@@ -5386,7 +5386,7 @@ use_preset_vocabulary: true
 鰍	chieu
 鰌	chieu
 揫	chieu
-揪	chieu
+揪	chieu	0%
 抽	chieu
 𥻤	chieu
 湫	chieu
@@ -5886,7 +5886,7 @@ use_preset_vocabulary: true
 淬	tshei
 倅	tshei
 毳	tshei
-橇	tshei
+橇	tshei	1%
 𢂕	tshei
 湊	tshei	5%
 凑	tshei	5%
@@ -6812,7 +6812,7 @@ use_preset_vocabulary: true
 𤘽	heu
 吽	heu
 鱟	heu
-煦	heu
+煦	heu	5%
 侯	gheu
 喉	gheu
 猴	gheu
@@ -8007,6 +8007,7 @@ use_preset_vocabulary: true
 錀	len
 䑳	len
 蜦	len
+掄	len
 倰	len
 薐	len
 𦼊	len
@@ -8037,7 +8038,7 @@ use_preset_vocabulary: true
 椹	tsen
 爭	tsen	6%
 箏	tsen
-掙	tsen	6%
+掙	tsen
 睜	tsen	6%
 錚	tsen
 猙	tsen
@@ -10037,7 +10038,7 @@ use_preset_vocabulary: true
 賾	tsaq
 拶	tsaq
 隻	tsaq
-著	tsaq
+著	tsaq	0%
 着	tsaq
 眨	tsaq
 𠰏	tsaq
@@ -10350,7 +10351,7 @@ use_preset_vocabulary: true
 酌	ciaq
 圴	ciaq
 彴	ciaq
-著	ciaq
+著	ciaq	0%
 着	ciaq
 辵	ciaq
 碏	ciaq
@@ -10381,7 +10382,7 @@ use_preset_vocabulary: true
 恰	chiaq
 愜	chiaq
 篋	chiaq
-著	jiaq
+著	jiaq	0%
 着	jiaq
 𢜭	jiaq
 臄	jiaq
@@ -10397,7 +10398,7 @@ use_preset_vocabulary: true
 篛	gniaq
 蒻	gniaq
 搦	gniaq
-捻	gniaq
+捻	gniaq	0%
 敜	gniaq
 惗	gniaq
 踗	gniaq
@@ -10742,7 +10743,7 @@ use_preset_vocabulary: true
 𧋥	tsoq
 作	tsoq
 筰	tsoq
-撮	tsoq
+撮	tsoq	0%
 喌	tsoq
 粥	tsoq
 祝	tsoq
@@ -10822,7 +10823,7 @@ use_preset_vocabulary: true
 柞	dzoq	5%
 酢	dzoq
 砟	dzoq
-著	dzoq
+著	dzoq	0%
 着	dzoq
 逐	dzoq
 蓫	dzoq
@@ -11956,7 +11957,7 @@ use_preset_vocabulary: true
 集	zyuq
 隰	zyuq
 踅	zyuq
-著	zyuq
+著	zyuq	0%
 着	zyuq
 兒	er
 児	er
@@ -13238,7 +13239,7 @@ use_preset_vocabulary: true
 塌鼻頭管	thaq baq deu kun	55
 鼻頭樑	baq deu lian	418
 鼻頭樑	baq deu gnian	418
-鼻頭	baq deu
+鼻頭	baq deu	3294
 鼻頭水	baq deu syu	578
 鼻頭屙	baq deu ou	418
 鼻頭紅	baq deu on	418
@@ -13281,8 +13282,8 @@ use_preset_vocabulary: true
 飯鍬骨	vae chiau kuaq	55
 肩胛頭	ci kaq deu	55
 肩胛頭	ci khaq deu	55
-肩胛	ci kaq
-肩胛	ci khaq
+肩胛	ci kaq	2815
+肩胛	ci khaq	55
 胸脘頭	shion kun deu	55
 肺家	fi ko	55
 胃家	wei ko	55
@@ -29062,6 +29063,7 @@ use_preset_vocabulary: true
 養生	ian sen
 奧魚	au ng
 肉肉	knion knion
+肉肉	gnioq gnioq
 襖襖
 茶茶	go go
 飯飯	mhan mhan
@@ -29633,6 +29635,285 @@ use_preset_vocabulary: true
 忖開
 忖靠
 忖飛
+尋上
+尋上來
+尋上去
+尋上門
+尋上門來
+尋弗出	zhin vaq tshyuq
+尋勿出
+尋弗着	zhin vaq dzoq
+尋勿着	zhin vaq dzoq
+尋弗着了	zhin vaq dzoq lei
+尋勿着了	zhin vaq dzoq lei
+尋弗着	zhin vaq zyuq
+尋勿着	zhin vaq zyuq
+尋弗着了	zhin vaq zyuq lei
+尋勿着了	zhin vaq zyuq lei
+尋弗自在	zhin vaq zy dze
+尋勿自在
+尋了	zhin laq
+尋事體
+尋眼
+尋其
+尋渠	zhin ji
+尋你	zhin ng
+尋俉	zhin ng
+尋爾	zhin ng
+尋儂	zhin nou
+尋來
+尋來尋去
+尋個	zhin goq
+尋出
+尋出來
+尋出去
+尋出路
+尋回
+尋回來
+尋回去
+尋好
+尋完
+尋尋
+尋尋出
+尋尋着	zhin zhin dzoq
+尋尋着	zhin zhin zyuq
+尋對頭
+尋工作
+尋我
+尋機會
+尋的
+尋着	zhin dzoq
+尋着	zhin zyuq
+尋勒
+尋竅門
+尋藉口	zhin cia kheu
+尋啥人	shin soq gnin
+尋啥人	shin so gnin
+尋啥人	shin sou gnin
+尋起
+尋起來
+尋進
+尋進來
+尋進去
+尋遍
+尋過
+尋過來
+尋過去
+尋野食
+尋鈔票
+尋門路
+尋開
+尋面子
+尋飯碗
+尋麻煩
+抲上
+抲上來
+抲上去
+抲落
+抲落來
+抲落去
+抲人	kho gnin
+抲來
+抲出
+抲出來
+抲出去
+抲去
+抲回
+抲回來
+抲回去
+抲牢
+抲弗牢	kho vaq lau
+抲勿牢
+抲的
+抲牢弗放	kho lau vaq faon
+抲牢勿放
+抲進
+抲進來
+抲進去
+抲筆
+抲眼
+捉人	tsoq gnin
+捉住
+捉住機會
+捉住機遇
+捉來
+捉來捉去
+捉傷
+捉去
+捉回
+捉回來
+捉回去
+捉壯丁
+捉姦
+捉牢
+捉癢
+捉破
+捉起
+捉起來
+捉周
+捉進
+捉進來
+捉進去
+捉鬮
+捉眼
+挈弗動	chiq vaq don
+挈勿動
+挈勒動
+挈起
+挈勒	chiq laq
+挈的	chiq tiq
+挈上
+挈上來
+挈上去
+挈落
+挈落來
+挈落去
+挈了	chiq laq
+挈來
+挈來挈去
+挈個	chiq goq
+挈出
+挈出來
+挈出去
+挈去
+挈回
+挈回來
+挈回去
+挈勒手裏
+挈進
+挈進來
+挈進去
+挈過
+挈過來
+挈過去
+挈眼
+馱上
+馱上來
+馱上去
+馱落
+馱落來
+馱落去
+馱弗	dou vaq
+馱勿
+馱弗了	dou vaq liau
+馱勿了	dou vaq liau
+馱弗出手	dou vaq tshyuq shieu
+馱勿出手
+馱弗到	dou vaq tau
+馱勿到
+馱弗動	dou vaq don
+馱勿動
+馱弗起來	dou vaq chi le
+馱勿起來
+馱啥
+馱來
+馱來馱去
+馱個	dou goq
+馱出
+馱出來
+馱出去
+馱出算賬
+馱到
+馱去
+馱回
+馱回來
+馱回去
+馱回屋落
+馱的
+馱着	dou dzoq
+馱着	dou zyuq
+馱勒
+馱撥
+馱藥
+馱貨
+馱過
+馱過來
+馱過去
+馱鈔票
+馱開
+馱眼
+撳上
+撳上來
+撳上去
+撳落
+撳落來
+撳落去
+撳了	chin laq
+撳牢
+撳回
+撳回來
+撳回去
+撳的
+撳勒
+撳鈕
+撳鈕開關
+撳鈴
+跌落來	tiq loq le
+跌落來	toq loq le
+跌落去	tiq loq chi
+跌落去	toq loq chi
+跌出	tiq tshyuq
+跌出	toq tshyuq
+跌出來	tiq tshyuq le
+跌出來	toq tshyuq le
+跌勒	tiq laq
+跌勒	toq laq
+跌進	tiq cin
+跌進	toq cin
+跌進來	tiq cin le
+跌進來	toq cin le
+跌進去	tiq cin chi
+跌進去	toq cin chi
+摜落
+摜落來
+摜落去
+摜弗掉
+摜勿掉
+摜了	guae laq
+摜一跤	guae iq kau
+摜了一跤	guae laq iq kau
+磕一跌
+磕了一跌	khaq laq iq tiq
+摜跤
+摜傷
+摜出
+摜到
+摜勒
+摜勒兩架生	guae laq lian ko san
+磕斷
+磕斷了	khaq doe lei
+磕煞
+磕開
+撮了	tshaq laq
+撮着	tshaq dzoq
+撮着	tshaq zyuq
+撮去	tshaq chi
+撮回	tshaq wei
+撮回來	tshaq wei le
+撮回去	tshaq wei chi
+撮現成	tshaq yi jin
+撮球	tshaq jieu
+撮球員	tshaq jieu yu
+撮破爛	tshaq pou lae
+撮起	tshaq chi
+撮起來	tshaq chi le
+撮過	tshaq kou
+撮過來	tshaq kou le
+撮過去	tshaq kou chi
+擋過來
+擋過去
+擋椅	taon i
+擋勒
+擋的
+擋落來
+擋落去
+擋牢
+擋出
+擋出來
+擋出去
+擋去
+擋起
+擋起來
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
@@ -32655,7 +32936,9 @@ VCD	vi shi di
 亞哈斯	ia ha sy
 亞太國家	ia tha koq cia
 亞拉巴馬	ia lha pa ma
+亞拉巴馬	ia lha pa mo
 亞拉巴馬州	ia lha pa ma cieu
+亞拉巴馬州	ia lha pa mo cieu
 亞歐大陸	ia eu da loq
 亞歐大陸橋	ia eu da loq jiau
 亞歐大陸腹地	ia eu da loq foq di
@@ -33680,7 +33963,6 @@ VCD	vi shi di
 仰天一望	gnian thi iq maon
 仰天大笑	gnian thi da shiau
 仰天長嘯	gnian thi jian shiau
-仰屋著書	gnian oq tsyu syu
 仰德大道	gnian taq da dau
 仰望	gnian maon
 仰看着	gnian khI dzoq
@@ -33811,7 +34093,9 @@ VCD	vi shi di
 伊通自然保護區	i thon zy zoe pau wu chiu
 伊頓公學	i ten kon yuq
 伊馬姆	i ma m
+伊馬姆	i mo m
 伊馬姆	i ma meu
+伊馬姆	i mo meu
 伍家崗	wu cia kaon
 伍家崗區	wu cia kaon chiu
 伏下	boq gho
@@ -34511,7 +34795,6 @@ VCD	vi shi di
 佩着	bei zyuq
 佩勒	bei laq
 佩脫拉克	bei thaq lha khaq
-佩魯賈	bei lu cia
 佳世客	cia syu khaq
 佳得樂	cia taq loq
 佳木斯大學	cia moq sy da ghoq
@@ -34631,9 +34914,12 @@ VCD	vi shi di
 俄中朝	ngou tson jiau
 俄人	ngou gnin
 俄克拉何馬	ngou khaq lha ghou ma
-俄克拉何馬城	ngou khaq lha ghou ma jin
+俄克拉何馬	ngou khaq lha ghou mo
+俄克拉何馬城	ngou khaq lha ghou mo jin
 俄克拉何馬州	ngou khaq lha ghou ma cieu
+俄克拉何馬州	ngou khaq lha ghou mo cieu
 俄克拉荷馬州	ngou khaq lha ghou ma cieu
+俄克拉荷馬州	ngou khaq lha ghou mo cieu
 俄國人	ngou koq gnin
 俄爾	ngou er
 俄羅斯人	ngou lou sy gnin
@@ -34718,7 +35004,6 @@ VCD	vi shi di
 信教	shin ciau
 信樂團	shin yuq doe
 信筆塗鴉	shin piq du ia
-信譽卓著	shin yu tsoq tsyu
 信貸衍生產品	shin the yi sen tshae phin
 信貸衍生產品	shin de yi sen tshae phin
 信鳥	shin gniau
@@ -34941,6 +35226,7 @@ VCD	vi shi di
 倫敦帝國理工學院	len ten ti koq li kon ghoq yu
 倭人	ou gnin
 倭馬亞王朝	ou ma ia waon jiau
+倭馬亞王朝	ou mo ia waon jiau
 值得品味	jiq taq phin vi
 值日	jiq gniq
 值日官	jiq gniq kun
@@ -35868,7 +36154,6 @@ VCD	vi shi di
 內蒙古自治區	nei mon ku zy dzyu chiu
 內行	nei ghaon
 內行話	nei ghaon wo
-內賈德	nei cia taq
 內部矛盾	nei bu mau den
 內部聯繫	nei bu li shi
 內部鬥爭	nei bu teu tsen
@@ -36297,7 +36582,6 @@ VCD	vi shi di
 冬耕	ton kan
 冰了	pin lei
 冰了	pin laq
-冰橇	pin chiau
 冰櫃	pin guei
 冰消瓦解	pin shiau ngo ka
 冰消瓦解	pin shiau ngo cia
@@ -36649,6 +36933,7 @@ VCD	vi shi di
 分掉	fen diau
 分排	fen ba
 分揀	fen ci
+分揀	fen kae
 分擔	fen tae
 分擺	fen pa
 分攤	fen thae
@@ -37130,6 +37415,7 @@ VCD	vi shi di
 利益分配	li iq fen phei
 利益集團	li iq jiq doe
 利馬索爾	li ma soq er
+利馬索爾	li mo soq er
 刪了	sae laq
 刪了	sae lei
 刪去	sae chiu
@@ -37190,7 +37476,6 @@ VCD	vi shi di
 刻的	khaq tiq
 刻苦學習	khaq khu ghoq zyuq
 刻苦學習	khaq khu ghoq zhiq
-刻著	khaq tsyu
 剃了	thi laq
 剃了	thi lei
 削了	shiaq laq
@@ -38326,7 +38611,6 @@ VCD	vi shi di
 卒歲	tsaq sei
 卓柏卡布拉	tsoq paq kha pu lha
 卓爾不羣	tsoq er paq jiun
-卓著	tsoq tsyu
 協助人	yaq dzu gnin
 協方差	yaq faon tsha
 協會會長	yaq wei wei cian
@@ -38431,6 +38715,7 @@ VCD	vi shi di
 卡拉揚	kha lha yan
 卡拉膠	kha lha ciau
 卡拉馬佐夫兄弟	kha lha ma tsou fu shion di
+卡拉馬佐夫兄弟	kha lha mo tsou fu shion di
 卡桑德拉	kha saon taq lha
 卡樂星	kha loq shin
 卡死	kha sy
@@ -38448,6 +38733,7 @@ VCD	vi shi di
 卡爾斯魯厄	kha er sy lu aq
 卡爾頓	kha er ten
 卡爾馬克思	kha er ma khaq sy
+卡爾馬克思	kha er mo khaq sy
 卡片櫃	kha phi guei
 卡特彼勒公司	kha daq pi laq kon sy
 卡特爾	kha daq er
@@ -38487,7 +38773,9 @@ VCD	vi shi di
 印行	in ghaon
 印鼻	in biq
 危地馬拉	wei di ma lha
-危地馬拉人	wei di ma lha zyun
+危地馬拉	wei di mo lha
+危地馬拉人	wei di ma lha gnin
+危地馬拉人	wei di mo lha gnin
 危如朝露	wei zyu ciau lu
 危機四伏	wei ci sy voq
 危若朝露	wei zhiaq ciau lu
@@ -38561,8 +38849,6 @@ VCD	vi shi di
 原生質	gniu sen ciq
 原發性進行性失語	gniu faq shin cin yin shin syuq gniu
 原自	gniu zy
-原著	gniu tsyu
-原著者	gniu tsyu tse
 原被告	gniu bei kau
 原鄉人	gniu shian gnin
 原電池	gniu di ji
@@ -39332,8 +39618,6 @@ VCD	vi shi di
 合肥人	ghaq vi gnin
 合肥工業大學	ghaq vi kon gniq da ghoq
 合菜戴帽	ghaq tshe ta mau
-合著	ghaq tsyu
-合著者	ghaq tsyu tse
 合衆銀行	ghaq tson gnin ghaon
 合該	ghaq ke
 合該有事	ghaq ke yeu zy
@@ -39481,7 +39765,6 @@ VCD	vi shi di
 名聞於世	min ven yu syu
 名聲大振	min shin da tsyun
 名臣言行錄	min jin yi yin loq
-名著	min tsyu
 名譽博士學位	min yu poq zy yuq wei
 名譽學位	min yu yuq wei
 名譽會長	min yu wei cian
@@ -39750,7 +40033,6 @@ VCD	vi shi di
 和樂蟹	ghou loq ha
 和氣生財	ghou chi sen dze
 和洽	ghou chiaq
-和煦	ghou shiu
 和爲貴	ghou wei kuei
 和牌	wu ba
 和着	ghou dzoq
@@ -39987,7 +40269,9 @@ VCD	vi shi di
 哈韓	ha ghEI
 哈飛	ha fi
 哈馬斯	ha ma sy
+哈馬斯	ha mo sy
 哈馬爾	ha ma er
+哈馬爾	ha mo er
 哎呀	ghEI ia
 哎呀	EI ia
 哎呀一聲	ghEI ia iq shin
@@ -40318,8 +40602,11 @@ VCD	vi shi di
 喜聞樂見	shi ven loq ci
 喜訊傳來	shi shin dzOE le
 喜馬拉雅	shi ma lha ia
+喜馬拉雅	shi mo lha ia
 喜馬拉雅山	shi ma lha ia sae
+喜馬拉雅山	shi mo lha ia sae
 喜馬拉雅山脈	shi ma lha ia sae maq
+喜馬拉雅山脈	shi mo lha ia sae maq
 喝落去	haq loq chi
 喝乾	haq kI
 喝了	haq laq
@@ -40691,7 +40978,6 @@ VCD	vi shi di
 國內最大	koq nei tsei da
 國內生產	koq nei sen tshae
 國內生產總值	koq nei sen tshae tson jiq
-國內著名	koq nei tsyu min
 國內貿易	koq nei meu yiq
 國分	koq fen
 國務部長	koq vu bu cian
@@ -40907,7 +41193,6 @@ VCD	vi shi di
 國際牌	koq ci ba
 國際競爭	koq ci jin tsen
 國際米蘭足球俱樂部	koq ci mi lae tsoq jieu jiu loq bu
-國際著名	koq ci tsyu min
 國際貿易	koq ci meu yiq
 國際關係學院	koq ci kuae shi yuq yu
 國難日	koq nae zyuq
@@ -41042,8 +41327,6 @@ VCD	vi shi di
 土耳其浴	thu er ji yuq
 土耳其語	thu er ji gniu
 土耳其進行曲	thu er ji cin yin chiuq
-土著	thu tsyu
-土著人	thu tsyu gnin
 土衛二	thu wei gni
 在一定範圍內	dze iq din vae wei nei
 在世	dze syu
@@ -41452,6 +41735,7 @@ VCD	vi shi di
 塔克拉瑪干	thaq khaq lha ma kI
 塔克拉瑪干沙漠	thaq khaq lha ma kI so moq
 塔克拉馬干	thaq khaq lha ma kI
+塔克拉馬干	thaq khaq lha mo kI
 塔加路族語	thaq cia lu dzoq gniu
 塔吉克人	thaq ciq khaq gnin
 塔吉克共和國	thaq ciq khaq gon ghou koq
@@ -41914,6 +42198,7 @@ VCD	vi shi di
 大仁科技大學	da zyun khou ji da ghoq
 大仙	da shi
 大仲馬	da dzon ma
+大仲馬	da dzon mo
 大件	da ji
 大任	da zyun
 大企業	dou chi gniq
@@ -43380,8 +43665,11 @@ VCD	vi shi di
 大馬	dou mo
 大馬	da ma
 大馬哈魚	da ma ha ng
+大馬哈魚	da mo ha ng
 大馬士革	da ma zy kaq
+大馬士革	da mo zy kaq
 大馬士革李	da ma zy kaq li
+大馬士革李	da mo zy kaq li
 大駕	da cia
 大駕光臨	da cia kuaon lin
 大駭	da ghe
@@ -43634,8 +43922,11 @@ VCD	vi shi di
 套着	thau zyuq
 奠基人	di ci gnin
 奢望	so vaon
+奧克拉荷馬	au khaq lha ghou ma
 奧克拉荷馬	au khaq lha ghou mo
+奧克拉荷馬州	au khaq lha ghou ma cieu
 奧克拉荷馬州	au khaq lha ghou mo cieu
+奧克拉荷馬市	au khaq lha ghou ma zy
 奧克拉荷馬市	au khaq lha ghou mo zy
 奧國人	au koq gnin
 奧地利人	au di li gnin
@@ -43659,7 +43950,9 @@ VCD	vi shi di
 奧萬大	au vae da
 奧里薩省	au li saq san
 奧馬哈	au ma ha
+奧馬哈	au mo ha
 奧馬爾	au ma er
+奧馬爾	au mo er
 奪人	daq zyun
 女主人	gniu tsyu gnin
 女主人公	gniu tsyu gnin kon
@@ -45001,7 +45294,6 @@ VCD	vi shi di
 察布查爾	tshaq pu dzo er
 察布查爾縣	tshaq pu dzo er yu
 察布查爾錫伯自治縣	tshaq pu dzo er shiq paq zy dzyu yu
-察微知著	tshaq vi tsyu tsyu
 察爾汗鹽湖	tshaq er ghEI yi wu
 察覺	tshaq ciuq
 察覺出	tshaq ciuq tshyuq
@@ -45172,7 +45464,6 @@ VCD	vi shi di
 專科學校	tsoe khou ghoq yau
 專科生	tsoe khou san
 專職人員	tsoe ciq zyun yu
-專著	tsoe tsyu
 專輯介紹	tsoe chiq ka zhiau
 專長	tsoe jian
 專門人員	tsoe men zyun yu
@@ -45875,7 +46166,9 @@ VCD	vi shi di
 巴勒莫	pa laq moq
 巴哈	pa ha
 巴哈伊	pa ha i
+巴哈馬	pa ha ma
 巴哈馬	pa ha mo
+巴哈馬羣島	pa ha ma jiun tau
 巴哈馬羣島	pa ha mo jiun tau
 巴基斯坦人	pa ci sy thae gnin
 巴塞爾	pa saq er
@@ -45901,13 +46194,20 @@ VCD	vi shi di
 巴拉迪	pa lha diq
 巴拉頓湖	pa lha ten wu
 巴拉馬	pa lha ma
+巴拉馬	pa lha mo
 巴拿芬	pa na fen
 巴拿馬	pa na ma
+巴拿馬	pa na mo
 巴拿馬共和國	pa na ma gon ghou koq
+巴拿馬共和國	pa na mo gon ghou koq
 巴拿馬地峽	pa na ma di ciaq
+巴拿馬地峽	pa na mo di ciaq
 巴拿馬地峽	pa na ma di yaq
+巴拿馬地峽	pa na mo di yaq
 巴拿馬城	pa na ma jin
+巴拿馬城	pa na mo jin
 巴拿馬運河	pa na ma yun ghou
+巴拿馬運河	pa na mo yun ghou
 巴控克什米爾	pa khon khaq zyuq mi er
 巴斯克人	pa sy khaq gnin
 巴斯特爾	pa sy daq er
@@ -45945,8 +46245,8 @@ VCD	vi shi di
 巴顏喀喇山	pa yi khaq la sae
 巴顏喀拉	pa yi khaq lha
 巴馬乾酪	pa ma kI loq
-巴馬瑤族自治縣	pa ma yau dzoq zy dzyu yu
 巴馬乾酪	po mo kI loq
+巴馬瑤族自治縣	pa ma yau dzoq zy dzyu yu
 巴馬瑤族自治縣	po mo yau dzoq zy dzyu yu
 巴高望上	pa kau vaon zaon
 巴黎人	pa li gnin
@@ -46000,6 +46300,7 @@ VCD	vi shi di
 布拉索夫	pu lha soq fu
 布拉謝	pu lha zhia
 布拉迪斯拉發	pu lha diq sy lha faq
+布拉馬普得拉河	pu lha ma phu taq lha ghou
 布拉馬普得拉河	pu lha mo phu taq lha ghou
 布朗大學	pu laon da ghoq
 布望	pu vaon
@@ -46069,6 +46370,7 @@ VCD	vi shi di
 希臘人	shi laq gnin
 希西家	shi shi cia
 帕拉馬里博	phaq lha ma li poq
+帕拉馬里博	phaq lha mo li poq
 帕提亞人	phaq di ia gnin
 帕提儂神廟	phaq di non zyun miau
 帕斯卡爾	phaq sy kha er
@@ -46418,7 +46720,6 @@ VCD	vi shi di
 庫爾斯克	khu er sy khaq
 庫爾曼	khu er mae
 庫蘇古爾湖	khu su ku er wu
-庫賈氏症	khu cia zy cin
 庫里爾臺	khu li er de
 庭外和解	din nga ghou cia
 庭長	din cian
@@ -46450,7 +46751,6 @@ VCD	vi shi di
 廚師沙拉	dzyu sy so lha
 廚師長	dzyu sy cian
 廚櫃	dzyu guei
-廝纏	sy zoe
 廟堂文學	miau daon ven yuq
 廟朝	miau jiau
 廠家	chian ko
@@ -46757,7 +47057,6 @@ VCD	vi shi di
 彰化人	tsaon huo gnin
 彰化師範大學	tsaon huo sy vae da ghoq
 彰化銀行	tsaon huo gnin ghaon
-彰明較著	tsaon min ciau tsyu
 影評人	in bin gnin
 影評人週	in bin gnin cieu
 影評家	in bin cia
@@ -47263,7 +47562,6 @@ VCD	vi shi di
 恩施土家族苗族自治州	en sy thu cia dzoq miau dzoq zy dzyu cieu
 恩格爾	en kaq er
 恩格爾係數	en kaq er shi su
-恩賈梅納	en cia mei naq
 恭人	kon zyun
 恭候大駕	kon gheu da cia
 恭喜你	kon shi gni
@@ -47740,13 +48038,13 @@ VCD	vi shi di
 成也蕭何敗也蕭何	jin ye shiau ghou ba ye shiau ghou
 成了	jin lei
 成了	jin laq
-成交	jin kau
-成交價	jin kau ko
-成交價格	jin kau ko kaq
-成交總值	jin kau tson jiq
-成交量	jin kau lian
-成交量總量	jin kau lian tson lian
-成交額	jin kau ngaq
+成交	jin ciau
+成交價	jin ciau ko
+成交價格	jin ciau ko kaq
+成交總值	jin ciau tson jiq
+成交量	jin ciau lian
+成交量總量	jin ciau lian tson lian
+成交額	jin ciau ngaq
 成人	jin gnin
 成人不自在	jin gnin paq zy dze
 成人之美	jin gnin tsy mei
@@ -47771,7 +48069,6 @@ VCD	vi shi di
 成家立業	jin cia liq gniq
 成家立計	jin cia liq ci
 成年人	jin gni gnin
-成效卓著	jin yau tsoq tsyu
 成敗論人	jin ba len zyun
 成教	jin ciau
 成日	jin zyuq
@@ -47965,3 +48262,2073 @@ VCD	vi shi di
 戰鬥轟炸	tsoe teu hon tso
 戰鬥轟炸機	ci teu hon tso ci
 戰鬥轟炸機	tsoe teu hon tso ci
+戲中人	shi tson gnin
+戲劇家	shi jiq cia
+戲弄着	shi lon dzoq
+戲弄着	shi lon zyuq
+戲水	shi syu
+戲法人人會變	shi faq gnin gnin wei pi
+戴落去	ta loq chi
+戴落去	te loq chi
+戴了	ta laq
+戴了	te laq
+戴了	ta lei
+戴了	te lei
+戴個	ta goq
+戴個	te goq
+戴克	te khaq
+戴克拉克	te khaq lha khaq
+戴克辛	te khaq shin
+戴勝	te shin
+戴勝益	te shin iq
+戴勝通	te shin thon
+戴去	ta chi
+戴反	ta fae
+戴名世	ta min syu
+戴勒	ta laq
+戴勒	te laq
+戴天之仇	te thi tsy jieu
+戴套	ta thau
+戴奧辛	te au shin
+戴好	ta hau
+戴姆勒克萊斯勒	te m laq khaq le sy laq
+戴姆勒克萊斯勒	te meu laq khaq le sy laq
+戴孝	ta hau
+戴孝	te hau
+戴安娜	te EI na
+戴安娜王妃	te EI na waon fi
+戴帽	ta mau
+戴有色眼鏡	ta yeu saq ngae cin
+戴漪	te i
+戴爾	te er
+戴爾公司	te er kon sy
+戴的	ta tiq
+戴眼鏡	ta ngae cin
+戴着	ta dzoq
+戴着	ta zyuq
+戴秉國	te pin koq
+戴笠	te liq
+戴維	te vi
+戴維斯	te vi sy
+戴維斯杯	te vi sy pei
+戴維營	te vi yin
+戴蒙	te mon
+戴蒙德	te mon taq
+戴表元	te piau gniu
+戴錶	ta piau
+戴震	te cin
+戴高樂	te kau loq
+戶長	wu cian
+戽水	fu syu
+房交會	vaon ciau wei
+房屋中介	vaon oq tson ka
+房東太太	vaon ton tha tha
+房產中介	vaon tshae tson ka
+房貸銀行	vaon the gnin ghaon
+房間裏	vaon kae li
+所多瑪與蛾摩拉	so tou ma yu ngou mou lha
+所大學	so da ghoq
+所學	so yuq
+所學校	so ghoq yau
+所得稅率	so taq sei liq
+所所長	so so cian
+所有人	so yeu gnin
+所有人都	so yeu gnin tu
+所有權狀	so yeu jiu dzaon
+所生	so san
+所發生	so faq sen
+所羅巴伯	so lou pa paq
+扇墜	shi dzei
+扇狀	shi dzaon
+手交	shieu ciau
+手包着	shieu pau dzoq
+手包着	shieu pau zyuq
+手包勒	shieu pau laq
+手包的	shieu pau tiq
+手大	shieu dou
+手帕	shieu phaq
+手扶拖拉	shieu vu thou lha
+手扶拖拉機	shieu vu thou lha ci
+手抓羊肉	shieu tsa yan gnioq
+手抱着	shieu bau dzoq
+手抱着	shieu bau zyuq
+手抱勒	shieu bau laq
+手抱的	shieu bau tiq
+手拉	shieu lha
+手拉式	shieu lha shiq
+手拉手	shieu lha shieu
+手拉葫蘆	shieu lha wu lu
+手拿	shieu no
+手拿着	shieu no dzoq
+手拿着	shieu no zyuq
+手馱的	shieu dou tiq
+手裏馱的	shieu li dou tiq
+手馱勒	shieu dou laq
+手持着	shieu dzy dzoq
+手持着	shieu dzy zyuq
+手持着	shieu ji dzoq
+手持着	shieu ji zyuq
+手指甲	shieu tsy khaq
+手握着	shieu oq dzoq
+手握着	shieu oq zyuq
+手機電池	shieu ci di ji
+手無縛雞之力	shieu Wu bou ci tsy liq
+手無縛雞之力	shieu vu bou ci tsy liq
+手牽着	shieu chi dzoq
+手牽着	shieu chi zyuq
+手牽勒仔	shieu chi laq tsy
+手牽的	shieu chi tiq
+手背	shieu pei
+手錘	shieu zei
+才人	dze zyun
+才分	dze fen
+才子佳人	dze tsy cia zyun
+才學	dze yuq
+才學兼優	dze yuq ci ieu
+才望	dze vaon
+才爲世出	dze wei syu tshyuq
+才疏學淺	dze su yuq chi
+才疏志大	dze su tsy dou
+才秀人微	dze shieu zyun vi
+才華蓋世	dze wo ke syu
+才行	dze yin
+才被	dze bei
+才貫二酉	dze kun er yeu
+才降	dze ghaon
+才高行厚	dze kau ghan gheu
+才高行潔	dze kau ghan ciq
+扎落去	tsaq loq chi
+扎乎	tsaq fu
+扎了	tsaq laq
+扎伊爾	tsaq i er
+扎掙	tsaq tsen
+扎爾達里	tsaq er daq li
+扎眉扎眼	tsaq mei tsaq ngae
+扎耳朵	tsaq gni to
+扎耳朵	tsaq ng to
+打了一個悶雷	tan laq iq goq mhen lei
+打了個	tan laq goq
+打了個落花流水	tan laq goq loq huo lieu syu
+打交道	tan ciau dau
+打人	tan gnin
+打仗	tan cian
+打個	tan goq
+打個問號	tan goq ven ghau
+打隻問號	tan tsaq ven ghau
+打個照面	tan goq ciau mi
+打隻照面	tan tsaq ciau mi
+打個花	tan goq huo
+打隻花	tan tsaq huo
+打個電話	tan goq di wo
+打隻電話	tan tsaq di wo
+打出去	tan tshyuq chi
+打分	tan fen
+打分數	tan fen su
+打勝仗	tan shin cian
+打印範圍	tan in vae wei
+打參	tan tshae
+打哈哈	tan ha ha
+打哈欠	tan ha chi
+打問	tan ven
+打問號	tan ven ghau
+打嘴仗	tan tsyu cian
+打圍	tan wei
+打埋伏	tan mAE voq
+打壞	tan ua
+打太極	tan tha jiq
+打太極拳	tan tha jiq jiu
+打字行	tan zy ghaon
+打家劫舍	tan cia ciq so
+打拚	tan phun
+打捱	tan nga
+打掃衛生	tan sau wei sen
+打擊樂	tan ciq yuq
+打擊樂器	tan ciq yuq chi
+打擊率	tan ciq liq
+打攪	tan ciau
+打攪到	tan ciau tau
+打敗仗	tan ba cian
+打更	tan kan
+打架	tan cia
+打死	tan sy
+打煞	tan saq
+打煞死	tan saq shi
+打水仗	tan syu cian
+打水漂	tan syu phiau
+打牌	tan ba
+打狗不看主人面	tan keu paq khI tsyu gnin mi
+打狗也要看主人面	tan keu gha iau khI tsyu gnin mi
+打發時間	tan faq zy ci
+打發辰光	tan faq zyun kuaon
+打盹	tan ten
+打着	tan dzoq
+打着	tan zyuq
+打勒	tan laq
+打破沙鍋問到底	tan phou so kou men tau ti
+打硬仗	tan ngan cian
+打箍	tan khu
+打箍	tan khou
+打罵教育	tan mo ciau yuq
+打羣架	tan jiun cia
+打翻了的牛奶而哭泣	tan fae laq tiq ngeu na er khoq chiq
+打翻身仗	tan fae shin cian
+打老鼠傷了玉瓶	tan lau tsy saon laq gnioq bin
+打耳光	tan gni kuaon
+打耳刮子	tan er kuaq tsy
+打落水狗	tan loq syu keu
+打蛇不死	tan dzo paq sy
+打蛇弗死	tan dzo vaq shi
+打蛇勿死	tan dzo vaq shi
+打赤腳	tan chiq ciaq
+打赤膊	tan chiq poq
+打長工	tan jian kon
+打長途	tan jian du
+打雜	tan dzaq
+打雪仗	tan syuq cian
+打高爾夫	tan kau er fu
+打高爾夫球	tan kau er fu jieu
+打鬼	tan kuei
+打鳥	tan gniau
+打鴨子上架	tan aq tsy zaon ko
+打鹽水	tan yi syu
+揞掉了	an diau lei
+揞掉了	khan diau lei
+揞出去	an tshyuq chi
+揞出去	khan tshyuq chi
+揞去	an chi
+揞去	khan chi
+揞回去	an wei chi
+揞回去	khan wei chi
+托利黨人	thoq li taon gnin
+托勒爾	thoq laq er
+托拉	thoq lha
+托拉博拉	thoq lha poq lha
+托拉斯	thoq lha sy
+托木爾	thoq moq er
+托木爾峯	thoq moq er fon
+托架	thoq ko
+托比麥奎爾	thoq pi maq khuei er
+托爾	thoq er
+托爾斯泰	thoq er sy tha
+托爾金	thoq er cin
+托運行李	thoq yun ghan li
+托鉢人	thoq paq gnin
+托馬斯阿奎納	thoq ma sy a khuei naq
+托馬斯阿奎納	thoq mo sy a khuei naq
+扛落去	kaon loq chi
+扛落去	gaon loq chi
+扛了	kaon laq
+扛了	gaon laq
+扛大樑	kaon da lian
+扛大樑	gaon da lian
+扛扛擡擡	kaon kaon de de
+扛扛擡擡	gaon gaon de de
+扛着	kaon dzoq
+扛着	kaon zyuq
+扛着	gaon dzoq
+扛着	gaon zyuq
+扛長工	kaon jian kon
+扛長工	gaon jian kon
+扛鼎	kaon tin
+扣落去	kheu loq chi
+扣了	kheu laq
+扣你	kheu gni
+扣你	kheu ng
+扣俉	kheu ng
+扣爾	kheu ng
+扣儂	kheu nou
+扣分標準	kheu fen piau tsyun
+扣分法	kheu fen faq
+扣啊	kheu gha
+扣啊	kheu a
+扣問	kheu men
+扣式電池	kheu shiq di ji
+扣牌	kheu ba
+扣率	kheu liq
+扣着	kheu dzoq
+扣着	kheu zyuq
+扣點分數	kheu ti fen su
+扭住	gnieu dzyu
+扭來	gnieu le
+扭傷	gnieu saon
+扭出	gnieu tshyuq
+扭出來	gnieu tshyuq le
+扭出去	gnieu tshyuq chi
+扭別	gnieu biq
+扭到	gnieu tau
+扭力	gnieu liq
+扭動	gnieu don
+扭在	gnieu dze
+扭勒	gnieu laq
+扭怩	gnieu gni
+扭成	gnieu jin
+扭成一團	gnieu jin iq doe
+扭打	gnieu tan
+扭扭	gnieu gnieu
+扭扭捏捏	gnieu gnieu gniaq gniaq
+扭扭樂	gnieu gnieu loq
+扭扭舞	gnieu gnieu Wu
+扭捏	gnieu gniaq
+扭捏作態	gnieu gniaq tsoq the
+扭擺	gnieu pa
+扭斷	gnieu doe
+扭曲	gnieu chiuq
+扭着	gnieu dzoq
+扭着	gnieu zyuq
+扭的	gnieu tiq
+扭矩	gnieu ciu
+扭筋	gnieu cin
+扭結	gnieu ciq
+扭緊	gnieu cin
+扭腰	gnieu iau
+扭角羚	gnieu koq lin
+扭起	gnieu chi
+扭起來	gnieu chi le
+扭身	gnieu shin
+扭轉乾坤	gnieu tsoe ji khuen
+扭轉局勢	gnieu tsoe jiuq syu
+扭轉身	gnieu tsoe shin
+扭轉頹勢	gnieu tsoe dei syu
+扭送	gnieu son
+扭過	gnieu kou
+扭過來	gnieu kou le
+扭過去	gnieu kou chi
+扭過頭	gnieu kou deu
+扭過頭來	gnieu kou deu le
+扭過頭去	gnieu kou deu chi
+扭開	gnieu khe
+扭頭	gnieu deu
+扮演着	pae yi dzoq
+扮演着	pae yi zyuq
+扮着	pae dzoq
+扮着	pae zyuq
+扮勒	pae laq
+扮的	pae tiq
+扮鬼	pae kuei
+扮鬼臉	pae kuei li
+扯落去	tsho loq chi
+扯去	tsho chi
+扯家常	tsho cia dzaon
+扯拉	tsho lha
+扯着	tsho dzoq
+扯着	tsho zyuq
+𠡒勒	tei laq
+扯的	tsho tiq
+𠡒的	tei tiq
+扯篷拉縴	tsho bon lha chi
+扶落去	vu loq chi
+扶了	vu laq
+扶人	vu gnin
+扶去	vu chi
+扶手椅	vu shieu i
+扶手椅裏	vu shieu i li
+扶持着	vu dzy dzoq
+扶持着	vu dzy zyuq
+扶持着	vu ji dzoq
+扶持着	vu ji zyuq
+扶椅	vu i
+扶着	vu dzoq
+扶着	vu zyuq
+批落去	phi loq chi
+批假	phi ko
+批出去	phi tshyuq chi
+批哩啪啦	phi li phaq la
+批哩啪啦	phi lhi phaq lha
+批着	phi dzoq
+批着	phi zyuq
+批評家	phi bin cia
+批評與自我批評	phi bin yu zy ngo phi bin
+批量生產	phi lian sen tshae
+扼喉撫背	aq gheu vu pei
+扼死	aq sy
+扼煞	aq saq
+找不到了	tsau paq tau lei
+找不着	tsau paq dzoq
+找不着	tsau paq zyuq
+找不自在	tsau paq zy dze
+找了	tsau laq
+找人	tsau gnin
+找你	tsau gni
+找個	tsau goq
+找死	tsau sy
+找着	tsau dzoq
+找着	tsau zyuq
+找藉口	tsau cia kheu
+承保人	jin pau gnin
+承包人	jin pau gnin
+承包經營責任制	jin pau cin yin tsaq zyun tsyu
+承受不了	jin zhieu paq liau
+承受弗了	jin zhieu vaq liau
+承受勿了	jin zhieu vaq liau
+承擔責任	jin tae tsaq zyun
+承擔重任	jin tae dzon zyun
+承望	jin vaon
+承租人	jin tsu gnin
+承蒙指教	jin mon tsy ciau
+承襲着	jin zhiq dzoq
+承襲着	jin zhiq zyuq
+承認	jin zyun
+承認在	jin zyun dze
+承認控罪	jin zyun khon zei
+承認是	jin zyun zy
+承認會	jin zyun wei
+承認錯誤	jin zyun tshou nu
+承認錯誤	jin zyun tshou wu
+承辦人	jin bae gnin
+承運人	jin yun gnin
+承銷人	jin shiau gnin
+技工學校	ji kon ghoq yau
+技術交流	ji zyuq ciau lieu
+技術人員	ji zyuq zyun yu
+技術人才	ji zyuq zyun dze
+技術分析	ji zyuq fen shiq
+技術參數	ji zyuq tshae su
+技術問題	ji zyuq ven di
+技術學校	ji zyuq ghoq yau
+技術學院	ji zyuq yuq yu
+技術密集型	ji zyuq miq jiq yin
+技術專科學校	ji zyuq tsoe khou ghoq yau
+技術工人	ji zyuq kon gnin
+技術水平	ji zyuq sei bin
+技術水準	ji zyuq sei tsyun
+技術潛水	ji zyuq ji syu
+技術科學	ji zyuq khou yuq
+技術降落	ji zyuq ciaon loq
+抄落去	tshau loq chi
+抄家	tshau cia
+抄沒	tshau maq
+抄着	tshau dzoq
+抄着	tshau zyuq
+抄勒	tshau laq
+抄的	tshau tiq
+抆淚	ven lei
+把上了	po zaon laq
+把了	po laq
+把人	po gnin
+把你	po gni
+把你幹	po gni kI
+把個	po goq
+把持着	po dzy dzoq
+把持着	po dzy zyuq
+把持着	po ji dzoq
+把持着	po ji zyuq
+把握着	po oq dzoq
+把握着	po oq zyuq
+把水	po syu
+把着	po dzoq
+把着	po zyuq
+抒懷	syu wae
+抒解	syu ka
+抒解	syu cia
+抓上	tsa zaon
+抓上來	tsa zaon le
+抓上去	tsa zaon chi
+抓下	tsa gho
+抓下來	tsa gho le
+抓落去	tsa loq chi
+抓不準	tsa paq tsyun
+抓弗準	tsa vaq tsyun
+抓勿準	tsa vaq tsyun
+抓人	tsa gnin
+抓住	tsa dzyu
+抓住機會	tsa dzyu ci wei
+抓住機遇	tsa dzyu ci gniu
+抓來	tsa le
+抓傷	tsa saon
+抓兵	tsa pin
+抓出	tsa tshyuq
+抓出來	tsa tshyuq le
+抓出去	tsa tshyuq chi
+抓到	tsa tau
+抓力	tsa liq
+抓功夫	tsa kon fu
+抓去	tsa chi
+抓取	tsa tshyu
+抓取程序	tsa tshyu jin zyu
+抓回	tsa wei
+抓回來	tsa wei le
+抓回去	tsa wei chi
+抓圖	tsa du
+抓地	tsa di
+抓地力	tsa di liq
+抓壯丁	tsa tsaon tin
+抓大頭	tsa da deu
+抓好	tsa hau
+抓姦	tsa kae
+抓巖機	tsa ngae ci
+抓工夫	tsa kon fu
+抓彩	tsa tshe
+抓得	tsa taq
+抓手	tsa shieu
+抓拍	tsa phaq
+抓拿	tsa na
+抓捕	tsa bu
+抓撓	tsa nau
+抓準	tsa tsyun
+抓牢	tsa lau
+抓狂	tsa guaon
+抓獲	tsa ghoq
+抓癢	tsa yan
+抓着	tsa dzoq
+抓着	tsa zyuq
+抓着不放	tsa dzoq paq faon
+抓着不放	tsa zyuq paq faon
+抓瞎	tsa haq
+抓破	tsa phou
+抓破臉	tsa phou li
+抓綱治國	tsa kaon dzyu koq
+抓緊	tsa cin
+抓緊學習	tsa cin ghoq zyuq
+抓緊學習	tsa cin ghoq zhiq
+抓緊時間	tsa cin zy ci
+抓耳撓腮	tsa er nau se
+抓舉	tsa ciu
+抓藥	tsa yaq
+抓賊	tsa zaq
+抓賭	tsa tu
+抓走	tsa tseu
+抓起	tsa chi
+抓起來	tsa chi le
+抓辮子	tsa bi tsy
+抓周	tsa cieu
+抓進	tsa cin
+抓進來	tsa cin le
+抓進去	tsa cin chi
+抓革命促生產	tsa kaq min tshoq sen tshae
+抓飯	tsa vae
+抓鬥	tsa teu
+抓鬮	tsa cieu
+抓點	tsa ti
+投落去	deu loq chi
+投了	deu laq
+投井自盡	deu cin zy jin
+投保人	deu pau gnin
+投奔自由	deu pen zy yeu
+投影幾何學	deu in ci ghou yuq
+投懷	deu wa
+投懷送抱	deu wa son bau
+投案自首	deu EI zy shieu
+投標人	deu piau gnin
+投機分子	deu ci ven tsy
+投水	deu syu
+投河自盡	deu ghou zy jin
+投環自盡	deu wae zy jin
+投生	deu sen
+投石問路	deu zaq ven lu
+投票人	deu phiau gnin
+投票率	deu phiau liq
+投稿人	deu kau gnin
+投籃得分	deu lae taq fen
+投繯自縊	deu wae zy iq
+投行	deu ghaon
+投資人	deu tsy gnin
+投資報酬率	deu tsy pau jieu liq
+投資家	deu tsy cia
+投資渠道	deu tsy jiu dau
+投資銀行	deu tsy gnin ghaon
+投資集團	deu tsy jiq doe
+投降	deu ghaon
+投降主義	deu ghaon tsyu gni
+投降書	deu ghaon syu
+抖落去	teu loq chi
+抖了	teu laq
+抖了起來	teu laq chi le
+抖動着	teu don dzoq
+抖動着	teu don zyuq
+抗了	khaon laq
+抗原決定簇	khaon gniu ciuq din tshoq
+抗壞血酸	khaon wa shiuq soe
+抗大	khaon da
+抗抗生素	khaon khaon sen su
+抗拉強度	khaon lha jian du
+抗拒不了	khaon jiu paq liau
+抗拒弗了	khaon jiu vaq liau
+抗拒勿了	khaon jiu vaq liau
+抗日	khaon zyuq
+抗日戰爭	khaon zyuq ci tsen
+抗日戰爭	khaon zyuq tsoe tsen
+抗日救亡	khaon zyuq cieu vaon
+抗日救亡團體	khaon zyuq cieu vaon doe thi
+抗日救亡運動	khaon zyuq cieu vaon yun don
+抗核加固	khaon ghaq cia ku
+抗水	khaon syu
+抗爭	khaon tsen
+抗生素	khaon sen su
+抗着	khaon dzoq
+抗着	khaon zyuq
+抗美援朝	khaon mei yu jiau
+折落去	ciq loq chi
+折價率	ciq ko liq
+折射式望遠鏡	ciq zhiq shiq vaon yu cin
+折射波	ciq zhiq pou
+折射率	ciq zhiq liq
+折扣率	ciq kheu liq
+折損率	ciq sen liq
+折現率	ciq yi liq
+折算率	ciq soe liq
+折舊率	ciq jieu liq
+折莫	ciq moq
+折行	ciq ghaon
+折長補短	ciq jian pu toe
+披星戴月	phi shin te yuq
+披甲	phi ciaq
+披着	phi dzoq
+披着	phi zyuq
+披頭四樂團	phi deu sy yuq doe
+披麻戴孝	phi mo ta hau
+披麻戴孝	phi mo te hau
+抱落去	bau loq chi
+抱回家	bau wei cia
+抱憾終生	bau he tson sen
+抱持着	bau dzy dzoq
+抱持着	bau ji dzoq
+抱持着	bau dzy zyuq
+抱持着	bau ji zyuq
+抱着	bau dzoq
+抱着	bau zyuq
+抱勒	bau laq
+抱勒仔	bau laq tsy
+抱的	bau tiq
+抱着你	bau dzoq gni
+抱着你	bau zyuq gni
+抱勒你	bau laq ng
+抱勒俉	bau laq ng
+抱勒爾	bau laq ng
+抱勒儂	bau laq nou
+抱負水準	bau veu sei tsyun
+抱進去	bau cin chi
+抵了	ti laq
+抵交	ti ciau
+抵償	ti dzaon
+抵制日貨	ti tsyu zyuq hou
+抵擋不了	ti taon paq liau
+抵擋弗了	ti taon vaq liau
+抵擋勿了	ti taon vaq liau
+抵死	ti sy
+抵着	ti dzoq
+抵着	ti zyuq
+抵勒	ti laq
+抵的	ti tiq
+抹一鼻子	maq iq biq tsy
+抹一鼻子灰	maq iq biq tsy huei
+抹落去	maq loq chi
+抹乾	maq kI
+抹了	maq laq
+抹去	maq chiu
+押尾	aq vi
+押櫃	aq guei
+押着	aq dzoq
+押着	aq zyuq
+押勒	aq laq
+押的	aq tiq
+押解	aq ka
+押解	aq cia
+押解到	aq ka tau
+押解到	aq cia tau
+押解回	aq ka wei
+押解回	aq cia wei
+抽乾	chieu kI
+抽問	chieu ven
+抽時間	chieu zy ci
+抽辰光	chieu zyun kuaon
+抽水	chieu syu
+抽水機	chieu syu ci
+抽水泵	chieu syu paon
+抽水站	chieu syu dzae
+抽水馬桶	chieu syu mo don
+抽着	chieu dzoq
+抽着	chieu zyuq
+抽了	chieu laq
+抽長	chieu cian
+抿着	min dzoq
+抿着	min zyuq
+抿勒	min laq
+抿勒仔	min laq tsy
+抿的	min tiq
+抿着嘴	min dzoq tsyu
+抿着嘴	min zyuq tsyu
+抿着嘴笑	min dzoq tsyu shiau
+抿着嘴笑	min zyuq tsyu shiau
+拄着	tsyu dzoq
+拄着	tsyu zyuq
+拄勒	tsyu laq
+拄的	tsyu tiq
+拆落去	tshaq loq chi
+拆了	tshaq laq
+拆分	tshaq fen
+拆解	tshaq ka
+拆解	tshaq cia
+拆遷人	tshaq chi gnin
+拆遷範圍	tshaq chi vae wei
+拇印	meu in
+拇戰	meu ci
+拇戰	meu tsoe
+拇指	meu tsy
+拇指甲	meu tsy khaq
+拇趾	meu tsy
+拉丁	lha tin
+拉丁人	lha tin gnin
+拉丁化	lha tin huo
+拉丁字母	lha tin zy meu
+拉丁文	lha tin ven
+拉丁文字	lha tin ven zy
+拉丁方塊	lha tin faon khuei
+拉丁民族	lha tin min dzoq
+拉丁美洲	lha tin mei cieu
+拉丁舞	lha tin Wu
+拉丁語	lha tin gniu
+拉丁語系	lha tin gniu shi
+拉三扯四	lha sae tsho sy
+拉上	lha zaon
+拉上來	lha zaon le
+拉上去	lha zaon chi
+拉下	lha gho
+拉下來	lha gho le
+拉下去	lha gho chi
+拉落去	lha loq chi
+拉下水	lha gho syu
+拉下臉	lha gho li
+拉下臉來	lha gho li le
+拉下馬	lha gho mo
+拉不動	lha paq don
+拉弗動	lha vaq don
+拉勿動	lha vaq don
+拉了	lha laq
+拉了一把	lha laq iq po
+拉交情	lha ciau jin
+拉人	lha gnin
+拉什卡爾加	lha zyuq kha er cia
+拉什莫爾山	lha zyuq moq er sae
+拉伸	lha shin
+拉伸	lha syun
+拉住	lha dzyu
+拉來	lha le
+拉個手	lha goq shieu
+拉倒	lha tau
+拉傷	lha saon
+拉克替醇	lha khaq thi zyun
+拉入	lha zyuq
+拉出	lha tshyuq
+拉出來	lha tshyuq le
+拉出去	lha tshyuq chi
+拉到	lha tau
+拉制	lha tsyu
+拉力	lha liq
+拉力器	lha liq chi
+拉力賽	lha liq se
+拉動	lha don
+拉包爾	lha pau er
+拉匝祿	lha tsaq loq
+拉卜楞	lha poq len
+拉卜楞寺	lha poq len zy
+拉去	lha chi
+拉各斯	lha koq sy
+拉合爾	lha ghaq er
+拉合爾市	lha ghaq er zy
+拉向	lha shian
+拉回	lha wei
+拉回來	lha wei le
+拉回去	lha wei chi
+拉場子	lha jian tsy
+拉壞	lha ua
+拉多	lha tou
+拉大	lha dou
+拉大	lha da
+拉大便	lha da bi
+拉大旗作虎皮	lha da ji tsoq fu bi
+拉大條	lha da diau
+拉夫	lha fu
+拉夫堡	lha fu pau
+拉夫堡大學	lha fu pau da ghoq
+拉夫桑賈尼	lha fu saon cia gni
+拉夫羅夫	lha fu lou fu
+拉奎拉	lha khuei lha
+拉套	lha thau
+拉奧孔	lha au khon
+拉好	lha hau
+拉姆	lha m
+拉姆	lha meu
+拉姆安拉	lha m EI lha
+拉姆安拉	lha meu EI lha
+拉姆斯菲爾德	lha m sy fi er taq
+拉姆斯菲爾德	lha meu sy fi er taq
+拉孜	lha tsy
+拉孜縣	lha tsy yu
+拉完	lha wun
+拉客	lha khaq
+拉客戶	lha khaq wu
+拉家帶口	lha cia ta kheu
+拉家常	lha cia dzaon
+拉尼娜	lha gni na
+拉尼娜現象	lha gni na yi zhian
+拉尼婭	lha gni ia
+拉尿	lha gniau
+拉屎	lha sy
+拉山頭	lha sae deu
+拉岡	lha kaon
+拉巴	lha pa
+拉巴斯	lha pa sy
+拉巴特	lha pa daq
+拉布	lha pu
+拉布拉	lha pu lha
+拉布拉他	lha pu lha tha
+拉布拉他河	lha pu lha tha ghou
+拉布拉多	lha pu lha tou
+拉布拉多半島	lha pu lha tou pun tau
+拉布拉多寒流	lha pu lha tou ghEI lieu
+拉布拉多犬	lha pu lha tou chiu
+拉帕斯	lha phaq sy
+拉幅	lha foq
+拉幫結夥	lha paon ciq hou
+拉幫結派	lha paon ciq pha
+拉平	lha bin
+拉廣告	lha kuaon kau
+拉弓	lha kon
+拉引	lha yin
+拉往	lha uaon
+拉後腿	lha gheu thei
+拉得	lha taq
+拉德	lha taq
+拉德萬斯卡	lha taq vae sy kha
+拉慣	lha kuae
+拉成	lha jin
+拉托維亞	lha thoq vi ia
+拉扯	lha tsho
+拉拉	lha lha
+拉拉山	lha lha sae
+拉拉扯扯	lha lha tsho tsho
+拉拉隊	lha lha dei
+拉拉隊員	lha lha dei yu
+拉拉隊長	lha lha dei cian
+拉拉雜雜	lha lha dzaq dzaq
+拉拔	lha baq
+拉拖	lha thou
+拉提琴	lha di jin
+拉撒路	lha saq lu
+拉攏	lha lon
+拉攏起來	lha lon chi le
+拉文克勞	lha ven khaq lau
+拉文納	lha ven naq
+拉斐爾	lha fi er
+拉斐特	lha fi daq
+拉斯	lha sy
+拉斯帕爾馬斯	lha sy phaq er ma sy
+拉斯帕爾馬斯	lha sy phaq er mo sy
+拉斯穆森	lha sy moq sen
+拉斯維加斯	lha sy vi cia sy
+拉斷	lha doe
+拉昇	lha shin
+拉普拉斯	lha phu lha sy
+拉普蘭	lha phu lae
+拉曳	lha yi
+拉有	lha yeu
+拉杆	lha kI
+拉架	lha cia
+拉格朗日	lha kaq laon zyuq
+拉格比	lha kaq pi
+拉桿子	lha kI tsy
+拉比	lha pi
+拉沙病毒	lha so bin doq
+拉法格	lha faq kaq
+拉法葉	lha faq yiq
+拉法葉艦	lha faq yiq khae
+拉法蘭	lha faq lae
+拉法赫	lha faq haq
+拉涅里	lha gniaq li
+拉爾維克	lha er vi khaq
+拉牀	lha zaon
+拉特格斯大學	lha daq kaq sy da ghoq
+拉狄克	lha diq khaq
+拉環	lha wae
+拉瓦錫	lha ngo shiq
+拉生意	lha san i
+拉登	lha ten
+拉的	lha tiq
+拉個	lha goq
+拉個	lha ghoq
+拉皮	lha bi
+拉皮手術	lha bi shieu zyuq
+拉皮條	lha bi diau
+拉直	lha jiq
+拉着	lha dzoq
+拉着	lha zyuq
+拉勒	lha laq
+拉祜族	lha wu dzoq
+拉票	lha phiau
+拉科魯尼亞	lha khou lu gni ia
+拉秧	lha ian
+拉稀	lha shi
+拉筋	lha cin
+拉管	lha kun
+拉米夫定	lha mi fu din
+拉納卡	lha naq kha
+拉索	lha soq
+拉絲	lha sy
+拉絲模	lha sy mou
+拉網	lha maon
+拉緊	lha cin
+拉線	lha shi
+拉線開關	lha shi khe kuae
+拉練	lha li
+拉縴	lha chi
+拉繩	lha zhin
+拉美	lha mei
+拉美西斯	lha mei shi sy
+拉肚子	lha du tsy
+拉脫維亞	lha thaq vi ia
+拉腳	lha ciaq
+拉腿	lha thei
+拉茶	lha dzo
+拉莫斯	lha moq sy
+拉蒙	lha mon
+拉蓋爾	lha ke er
+拉薩	lha saq
+拉薩人	lha saq gnin
+拉薩市	lha saq zy
+拉薩條約	lha saq diau iaq
+拉薩爾	lha saq er
+拉貝	lha pei
+拉買賣	lha ma ma
+拉賈帕克薩	lha cia phaq khaq saq
+拉賈斯坦邦	lha cia sy thae paon
+拉賬	lha cian
+拉赫曼尼諾夫	lha haq mae gni noq fu
+拉走	lha tseu
+拉起	lha chi
+拉起來	lha chi le
+拉跑	lha bau
+拉車	lha tsho
+拉辛	lha shin
+拉近	lha jin
+拉近乎	lha jin fu
+拉進	lha cin
+拉進來	lha cin le
+拉進去	lha cin chi
+拉過	lha kou
+拉過來	lha kou le
+拉過去	lha kou chi
+拉達克	lha daq khaq
+拉那烈	lha nha liq
+拉里	lha li
+拉里加尼	lha li cia gni
+拉鉤	lha keu
+拉鋸	lha ciu
+拉鋸戰	lha ciu ci
+拉鋸戰	lha ciu tsoe
+拉鍊	lha li
+拉鍊工程	lha li kon jin
+拉鎖	lha sou
+拉長	lha jian
+拉長臉	lha jian li
+拉門	lha men
+拉開	lha khe
+拉閘	lha zaq
+拉雜	lha dzaq
+拉青格	lha chin kaq
+拉頓	lha ten
+拉風	lha fon
+拉馬特甘	lha mo daq kI
+拉高	lha kau
+拉魯	lha lu
+拉麪	lha mi
+拉麪店	lha mi ti
+拉齊奧	lha ji au
+拋落去	phau loq chi
+拋出去	phau tshyuq chi
+拋去	phau chi
+拋戈棄甲	phau kou chi ciaq
+拌着	bun dzoq
+拌着	bun zyuq
+拌勒	bun laq
+拌的	bun tiq
+拍落去	phaq loq chi
+拍了拍	phaq laq phaq
+拍出去	phaq tshyuq chi
+拍去	phaq chi
+拍打着	phaq tan dzoq
+拍打着	phaq tan zyuq
+拍板成交	phaq pae jin ciau
+拍着	phaq dzoq
+拍着	phaq zyuq
+拍勒	phaq laq
+拍肩膀	phaq ci paon
+拍胸脯	phaq shion bu
+拍賣行	phaq ma ghaon
+拎着	lhin dzoq
+拎着	lhin zyuq
+拎的	lhin tiq
+拎勒	lhin laq
+拏空	no khon
+拏雲	no yun
+拏雲攫石	no yun ciuq zaq
+拐落去	kua loq chi
+拐了	kua laq
+拐人	kua gnin
+拐着	kua dzoq
+拐着	kua zyuq
+拒拿	jiu no
+拒斥	jiu chiq
+拓務省	thoq vu san
+拓務省	thoq Wu san
+拓撲學	thoq phoq yuq
+拓撲空間	thoq phoq khon ci
+拓樸學	thoq phoq yuq
+拔落去	baq loq chi
+拔了	baq laq
+拔了蘿蔔地皮寬	baq laq lou boq di bi khun
+拔個	baq goq
+拔地參天	baq di tshae thi
+拔着	baq dzoq
+拔着	baq zyuq
+拔苗助長	baq miau dzu cian
+拖下水	thou gho syu
+拖乾淨	thou kI zhin
+拖清爽	thou chin saon
+拖了	thou laq
+拖人下水	thou gnin gho syu
+拖兒帶女	thou er ta gniu
+拖宕	thou dan
+拖家帶口	thou cia ta kheu
+拖家帶眷	thou cia ta ciu
+拖尾巴	thou mi po
+拖延時間	thou yi zy ci
+拖延辰光	thou yi zyun kuaon
+拖拉	thou lha
+拖拉機	thou lha ci
+拖拉機手	thou lha ci shieu
+拖拉機站	thou lha ci dzae
+拖拖拉拉	thou thou lha lha
+拖拖沓沓	thou thou thaq thaq
+拖時間	thou zy ci
+拖沓	thou thaq
+拖泥帶水	thou gni ta syu
+拖着	thou dzoq
+拖着	thou zyuq
+拖勒	thou laq
+拖的	thou tiq
+拖長	thou jian
+拘傳	ciu dzOE
+拘拿	ciu na
+拘繫	ciu shi
+拙行	tsyuq yin
+招了	ciau laq
+招人	ciau gnin
+招人喜歡	ciau gnin shi hun
+招人物議	ciau gnin vaq gni
+招呼客人	ciau fu khaq gnin
+招呼人客	ciau fu gnin khaq
+招商銀行	ciau saon gnin ghaon
+招攬生意	ciau lae san i
+招收新生	ciau shieu shin san
+招架	ciau ko
+招架不住	ciau ko paq dzyu
+招架之力	ciau ko tsy liq
+招標人	ciau piau gnin
+招牌動作	ciau ba don tsoq
+招牌戲	ciau ba shi
+招牌歌	ciau ba kou
+招牌菜	ciau ba tshe
+招牌飯	ciau ba vae
+招生	ciau san
+招生簡章	ciau san ci tsaon
+招生考試	ciau san khau sy
+招生計劃	ciau san ci waq
+招生辦	ciau san bae
+招聘協調人	ciau phin yaq diau gnin
+招自	ciau zy
+招行	ciau ghaon
+招降	ciau ghaon
+招降納叛	ciau ghaon naq bun
+招集	ciau jiq
+招風耳	ciau fon er
+風篷耳朵	fon bon gni to
+風篷耳朵	fon bon ng to
+耳朵風篷	gni to fon bon
+耳朵風篷	ng to fon bon
+拜人爲師	pa gnin wei sy
+拜伏	pa voq
+拜師學藝	pa sy ghoq gni
+拜望	pa vaon
+拜火教	pa hou ciau
+拜物教	pa vaq ciau
+拜着	pa dzoq
+拜着	pa zyuq
+拜科努爾	pa khou nu er
+拜科努爾航天發射基地	pa khou nu er ghaon thi faq zhiq ci di
+拜託了	pa thoq lei
+拜跪	pa guei
+拭乾	shiq kI
+拭去	shiq chiu
+拭淚	shiq lei
+拱手行禮	kon shieu yin li
+拱手讓人	kon shieu gnian gnin
+拱狀	kon dzaon
+拱着	kon dzoq
+拱着	kon zyuq
+拱勒	kon laq
+拱勒仔	kon laq tsy
+拱仔	kon tsy
+拱背	kon pei
+拳腳交加	jiu ciaq ciau cia
+拴着	soe dzoq
+拴着	soe zyuq
+拴勒	soe laq
+拴的	soe tiq
+拷問	khau ven
+拼落去	phin loq chi
+拼了	phin laq
+拼了命	phin laq min
+拼板膠	phin pae kau
+拼爭	phin tsan
+拼着	phin dzoq
+拼着	phin zyuq
+拼勒	phin laq
+拽着	yiq dzoq
+拽着	yiq zyuq
+拾人涕唾	zyuq zyun thi thu
+拾人牙慧	zyuq zyun ngo wei
+拾荒老人	zyuq huaon lau gnin
+拾貳	zyuq gni
+拿人	no gnin
+拿人	na gnin
+拿俄米	na ngou mi
+拿個	no goq
+拿個	na goq
+拿喬	na jiau
+拿回家	no wei cia
+拿回家	na wei cia
+拿坡里	na phou li
+拿大	no da
+拿大	na da
+拿大頂	no da tin
+拿大頂	na da tin
+拿手	na shieu
+拿手功夫	na shieu kon fu
+拿手好戲	na shieu hau shi
+拿手戲	na shieu shi
+拿手菜	na shieu tshe
+拿摩溫	na mou uen
+拿撒勒	na saq laq
+拿波里	na pou li
+拿着	no dzoq
+拿着	na dzoq
+拿着	no zyuq
+拿着	na zyuq
+拿着雞毛當令箭	no dzoq ci mau taon lin ci
+拿着雞毛當令箭	na dzoq ci mau taon lin ci
+拿着雞毛當令箭	no zyuq ci mau taon lin ci
+拿着雞毛當令箭	na zyuq ci mau taon lin ci
+拿破侖波拿巴	na phou len pou na pa
+拿破崙	na phou len
+拿破崙帝國	na phou len ti koq
+拿破崙法典	na phou len faq ti
+拿鐵	na thiq
+拿鐵咖啡	na thiq kha fi
+拿騷	na sau
+持分	dzy fen
+持分	ji fen
+持卡人	dzy kha gnin
+持卡人	ji kha gnin
+持家	dzy cia
+持家	ji cia
+持有人	dzy yeu gnin
+持有人	ji yeu gnin
+持票人	dzy phiau gnin
+持票人	ji phiau gnin
+持續增長	dzy dzoq tsen cian
+持續增長	ji dzoq tsen cian
+持續性植物狀態	dzy dzoq shin jiq vaq dzaon the
+持續性植物狀態	ji dzoq shin jiq vaq dzaon the
+持續時間	dzy dzoq zy ci
+持續時間	ji dzoq zy ci
+指了	tsy laq
+指令集	tsy lin jiq
+指天誓日	tsy thi zy zyuq
+指定人	tsy din gnin
+指導人	tsy dau gnin
+指導學生	tsy dau ghoq san
+指導教授	tsy dau ciau zhieu
+指揮家	tsy huei cia
+指教	tsy ciau
+指斥	tsy chiq
+指日	tsy zyuq
+指日可待	tsy zyuq khou de
+指日可數	tsy zyuq khou su
+指日高升	tsy zyuq kau shin
+指望	tsy vaon
+指甲刀	tsy khaq tau
+指甲剪	tsy khaq ci
+指甲油	tsy khaq yeu
+指甲蓋	tsy khaq ke
+指着	tsy dzoq
+指着	tsy zyuq
+指勒	tsy laq
+指示牌	tsy zy ba
+指縫間	tsy von ci
+指路牌	tsy lu ba
+指間	tsy ci
+按落去	EI loq chi
+按了	EI laq
+按勞分配	EI lau fen phei
+按摩人	EI mou gnin
+按摩椅	EI mou i
+按日	EI gniq
+按日計費	EI gniq ci fi
+按日計酬	EI gniq ci jieu
+按時間先後	EI zy ci shi gheu
+按照着	EI ciau dzoq
+按照着	EI ciau zyuq
+按理出牌	EI li tshyuq ba
+按着	EI dzoq
+按着	EI zyuq
+按需分配	EI syu fen phei
+挑落去	thiau loq chi
+挑了	thiau laq
+挑了隻	thiau laq tsaq
+挑大樑	thiau da lian
+挑挑揀揀	thiau thiau ci ci
+挑挑揀揀	thiau thiau kae kae
+挑撥離間	thiau paq li ci
+挑水	thiau syu
+挑着	thiau dzoq
+挑着	thiau zyuq
+挑勒	thiau laq
+挑的	thiau tiq
+挖落去	uaq loq chi
+挖出去	uaq tshyuq chi
+挖大	uaq dou
+挖大一點	uaq dou iq ti
+挖大一眼	uaq dou iq ngae
+挖大眼	uaq dou ngae
+挖水溝	uaq syu keu
+挖耳朵	uaq gni to
+挖耳朵	uaq ng to
+挖鼻子	uaq biq tsy
+挖鼻頭	uaq baq deu
+挨三頂五	a sae tin ng
+挨個	a kou
+挨家	a cia
+挨家挨戶	a cia a wu
+挨拿	a na
+挨着	a dzoq
+挨着	a zyuq
+挨勒	a laq
+挨的	a tiq
+挨肩搭背	a ci taq pei
+挨肩擦背	a ci tshaq pei
+挨肩擦膀	a ci tshaq paon
+挨肩疊背	a ci diaq pei
+挪威人	no uei gnin
+挪威人	nou uei gnin
+振奮人心	tsyun fen zyun shin
+振武學社	tsyun Wu yuq dzo
+挹彼注茲	iq pei tsyu tsy
+挹彼注茲	iq pi tsyu tsy
+挺落去	thin loq chi
+挺了	thin laq
+挺出去	thin tshyuq chi
+挺大	thin dou
+挺着	thin dzoq
+挺着	thin zyuq
+挺勒	thin laq
+挺的	thin tiq
+挽回不了	uae wei paq liau
+挽回弗了	uae wei vaq liau
+挽回勿了	uae wei vaq liau
+挽救不了	uae cieu paq liau
+挽救弗了	uae cieu vaq liau
+挽救勿了	uae cieu vaq liau
+挽救兒童	uae cieu er don
+挽着	uae dzoq
+挽着	uae zyuq
+挽勒	uae laq
+挽的	uae tiq
+挾着	yaq dzoq
+挾着	yaq zyuq
+挾勒	yaq laq
+捂着	u dzoq
+捂着	u zyuq
+捂的	u tiq
+捅了	thon laq
+捆了	khuen laq
+捆着	khuen dzoq
+捆着	khuen zyuq
+捆勒	khuen laq
+捉落去	tsoq loq chi
+捉拿	tsoq na
+捉拿歸案	tsoq na kuei EI
+捉拿犯人	tsoq na vae zyun
+捏了	gniaq laq
+捏了一把冷汗	gniaq laq iq po lan ghEI
+捏了一把汗	gniaq laq iq po ghEI
+捏死	gniaq sy
+捏煞	gniaq saq
+捏着	gniaq dzoq
+捏着	gniaq zyuq
+捏勒	gniaq laq
+捏的	gniaq tiq
+捏仔	gniaq tsy
+捏着鼻子	gniaq dzoq biq tsy
+捏着鼻子	gniaq zyuq biq tsy
+捏勒鼻頭管	gniaq laq baq deu kun
+鼻頭管捏的	baq deu kun gniaq tiq
+捏麪人	gniaq mi gnin
+捐助人	ciu dzu gnin
+捐生	ciu sen
+捐背	ciu pei
+捐血人	ciu shiuq gnin
+捐贈人	ciu dzen gnin
+捕影繫風	bu in shi fon
+捕拿	bu na
+捧着	phon dzoq
+捧着	phon zyuq
+捧腹大笑	phon foq da shiau
+捨下你	so gho gni
+捨去	so chiu
+捨命救人	so min cieu gnin
+捨己從人	so ci dzon gnin
+捨己成人	so ci jin gnin
+捨己救人	so ci cieu gnin
+捨己爲人	so ci wei gnin
+捨本問末	so pen ven maq
+捨死忘生	so sy vaon sen
+捨生	so sen
+捨生取義	so sen tshyu gni
+捨生忘死	so sen vaon sy
+捨短取長	so toe tshyu jian
+捨短從長	so toe dzon jian
+捨短用長	so toe yon jian
+捨短錄長	so toe loq jian
+捨身救人	so shin cieu gnin
+捫住	mhen dzyu
+捫牢	mhen lau
+捫參歷井	men sen liq cin
+捫心	men shin
+捫心無愧	men shin vu khuei
+捫心無愧	men shin Wu khuei
+捫心自問	men shin zy ven
+捫心自問	men shin zy men
+捫診	men cin
+捱了	nga laq
+捱了揍	nga laq tseu
+捱了過來	nga laq kou le
+捱了過去	nga laq kou chi
+捱勒牢	nga laq lau
+捱日子	nga gniq tsy
+捱日腳	nga gniq ciaq
+捱時間	nga zy ci
+捲了	ciu laq
+捲去	ciu chi
+捲尾猴	ciu vi gheu
+捲甲重來	ciu ciaq dzon le
+捷克人	jiq khaq gnin
+捷克斯拉夫	jiq khaq sy lha fu
+捷報頻傳	jiq pau bin dzOE
+捷爾任斯克	jiq er zyun sy khaq
+捷爾梅茲	jiq er mei tsy
+捻神捻鬼	gni zyun gni kuei
+掀了	shi laq
+掀了開來	shi laq khe le
+掀出去	shi tshyuq chi
+掀被	shi bi
+掃乾淨	sau kI zhin
+掃尾	sau vi
+掃眉才子	sau mei dze tsy
+掃瞄	sau miau
+掃瞄器	sau miau chi
+掄材	len dze
+授人以柄	zhieu gnin yi pin
+授人口實	zhieu gnin kheu zyuq
+授人話柄	zhieu gnin wo pin
+授任	zhieu zyun
+授權範圍	zhieu jiu vae wei
+掉了	diau laq
+掉個	diau kou
+掉淚	diau lei
+掉眼淚	diau ngae li
+掉着	diau dzoq
+掉着	diau zyuq
+掌握着	tsaon oq dzoq
+掌握着	tsaon oq zyuq
+掌櫃	tsaon guei
+掌櫃的	tsaon guei tiq
+掌權人	tsaon jiu gnin
+掌狀	tsaon dzaon
+掌狀脈	tsaon dzaon maq
+掌狀複葉	tsaon dzaon foq yiq
+掌璽大臣	tsaon shi da jin
+掌舵人	tsaon dou gnin
+掌門人	tsaon men gnin
+掏耳朵	dau gni to
+掏耳朵	dau ng to
+掐架	khaq cia
+掐死	khaq sy
+掐煞	khaq saq
+掐着	khaq dzoq
+掐着	khaq zyuq
+掐勒	khaq laq
+掐頭去尾	khaq deu chiu vi
+排落去	ba loq chi
+排尾	ba vi
+排尿	ba gniau
+排尿作用	ba gniau tsoq yon
+排尿功能	ba gniau kon nen
+排憂解難	ba ieu ka nae
+排憂解難	ba ieu cia nae
+排斥	ba chiq
+排斥性	ba chiq shin
+排斥異己	ba chiq yi ci
+排架	ba cia
+排水	ba syu
+排水口	ba syu kheu
+排水工程	ba syu kon jin
+排水渠	ba syu jiu
+排水溝	ba syu keu
+排水管	ba syu kun
+排水系統	ba syu shi thon
+排水量	ba syu lian
+排着	ba dzoq
+排着	ba zyuq
+排勒	ba laq
+排行	ba ghaon
+排行榜	ba ghaon paon
+排解	ba ka
+排解	ba cia
+排解糾紛	ba ka cieu fen
+排解糾紛	ba cia cieu fen
+排起長隊	ba chi jian dei
+排難解紛	ba nae ka fen
+排難解紛	ba nae cia fen
+掘去	jiuq chi
+掘墓工人	jiuq mou kon gnin
+掙扎着	tsen tsaq dzoq
+掙扎着	tsen tsaq zyuq
+掛落去	kuo loq chi
+掛了	kuo laq
+掛個	kuo goq
+掛冠求去	kuo kun jieu chiu
+掛冠而去	kuo kun er chiu
+掛墜盒	kuo dzei ghaq
+掛招牌	kuo ciau ba
+掛杯架	kuo pei ko
+掛架	kuo ko
+掛牌	kuo ba
+掛牌匯率	kuo ba wei liq
+掛着	kuo dzoq
+掛着	kuo zyuq
+掛衣架	kuo i ko
+掛記着	kuo ci dzoq
+掛記着	kuo ci zyuq
+掛頭牌	kuo deu ba
+掠人之美	liaq zyun tsy mei
+採落去	tshe loq chi
+採取行動	tshe tshyu yin don
+採回去	tshe wei chi
+採收率	tshe shieu liq
+採樣率	tshe yan liq
+採樵人	tshe jiau gnin
+採水	tshe syu
+採珠人	tshe tsyu gnin
+採用率	tshe yon liq
+採芹人	tshe jin gnin
+採藥人	tshe yaq gnin
+採行	tshe yin
+採認	tshe zyun
+採集	tshe jiq
+採集到	tshe jiq tau
+採集法	tshe jiq faq
+採集起來	tshe jiq chi le
+探了	thei laq
+探個究竟	thei kou cieu cin
+探家	thei cia
+探望	thei maon
+探着	thei dzoq
+探着	thei zyuq
+探親假	thei chin ko
+探長	thei cian
+探險家	thei shi cia
+接落去	ciq loq chi
+接了	ciq laq
+接二連三	ciq er li sae
+接人	ciq gnin
+接任	ciq zyun
+接個	ciq goq
+接受不了	ciq zhieu paq liau
+接受弗了	ciq zhieu vaq liau
+接受勿了	ciq zhieu vaq liau
+接受審問	ciq zhieu shin ven
+接合生殖	ciq ghaq sen jiq
+接棒人	ciq baon gnin
+接洽	ciq chiaq
+接洽人	ciq chiaq gnin
+接班人	ciq pae gnin
+接着	ciq dzoq
+接着	ciq zyuq
+接勒	ciq laq
+接着就是	ciq dzoq jieu zy
+接着就是	ciq zyuq jieu zy
+接落就是	ciq loq jieu zy
+接着是	ciq dzoq zy
+接着是	ciq zyuq zy
+接勒是	ciq laq zy
+接落是	ciq loq zy
+接種率	ciq tson liq
+接管人	ciq kun gnin
+接線生	ciq shi san
+接頭接耳	ciq deu ciq er
+控制不了	khon tsyu paq liau
+控制弗了	khon tsyu vaq liau
+控制勿了	khon tsyu vaq liau
+控制範圍	khon tsyu vae wei
+控告人	khon kau gnin
+控股集團	khon ku jiq doe
+控訴狀	khon su zaon
+控辯交易	khon bi ciau yiq
+推落去	thei loq chi
+推人	thei gnin
+推人犯規	thei gnin vae kuei
+推介	thei ka
+推介會	thei ka wei
+推卸責任	thei shia tsaq zyun
+推問	thei ven
+推宕	thei dan
+推己及人	thei ci jiq zyun
+推拉門	thei lha men
+推拿	thei no
+推拿法	thei no faq
+推推拉拉	thei thei lha lha
+推敲	thei chiau
+推斥	thei chiq
+推斥力	thei chiq liq
+推波助瀾	thei pou dzu lae
+推着	thei dzoq
+推着	thei zyuq
+推勒	thei laq
+推背圖	thei pei du
+推行	thei yin
+掩人耳目	i zyun er moq
+掩埋	i mAE
+掩埋場	i mAE jian
+掩映着	i in dzoq
+掩映着	i in zyuq
+掩沒	i maq
+掩着	i dzoq
+掩着	i zyuq
+掩耳	i er
+掩耳盜鈴	i er dau lin
+掩耳盜鐘	i er dau tson
+掩蓋着	i ke dzoq
+掩蓋着	i ke zyuq
+掩護着	i wu dzoq
+掩護着	i wu zyuq
+掩門而去	i men er chiu
+掩面大哭	i mi da khoq
+掩鼻	i biq
+掩鼻而過	i biq er kou
+措大	tshu da
+掬水	ciuq syu
+掰了	paq laq
+揉捻	gnieu gni
+揉着	gnieu dzoq
+揉着	gnieu zyuq
+揉勒	gnieu laq
+揉雜	gnieu dzaq
+揍了	tseu laq
+揍人	tseu gnin
+揍死	tseu sy
+描了	miau laq
+描着	miau dzoq
+描着	miau zyuq
+提落去	di loq chi
+提了	di laq
+提交	di ciau
+提交日期	di ciau zyuq ji
+提任	di zyun
+提個	di goq
+提出問題	di tshyuq ven di
+提出申請	di tshyuq syun chin
+提前起爆	di zhi chi bau
+提前還貸	di zhi wae de
+提前還貸	di zhi wae the
+提問	di ven
+提子乾	di tsy kI
+提學御史	di yuq gniu sy
+提拉米蘇	di lha mi su
+提摩太	di mou tha
+提摩太前書	di mou tha zhi syu
+提摩太後書	di mou tha gheu syu
+提案人	di EI gnin
+提水工程	di syu kon jin
+提溜	di lieu
+提爾	di er
+提爾市	di er zy
+提琴家	di jin cia
+提着	di dzoq
+提着	di zyuq
+提勒	di laq
+提行	di yin
+提高學生	di kau ghoq san
+提高工作效率	di kau kon tsoq yau liq
+提高效率	di kau yau liq
+提高自己	di kau zy ci
+提高自家	di kau zhi ko
+提高自身	di kau zy shin
+提高認識	di kau zyun shiq
+插落去	tshaq loq chi
+插架	tshaq ko
+插班生	tshaq pae san
+插着	tshaq dzoq
+插着	tshaq zyuq
+插勒	tshaq laq
+插的	tshaq tiq
+揚名世界	yan min syu ka
+揚名全世界	yan min dzoe syu ka
+揚名後世	yan min gheu syu
+揚善去惡	yan zoe chiu oq
+揚州人	yan cieu gnin
+揚揚自得	yan yan zy taq
+揚水	yan syu
+揚眉	yan mei
+揚眉吐氣	yan mei thu chi
+揚長	yan jian
+揚長而去	yan jian er chiu
+揚長避短	yan jian bi toe
+換落去	wun loq chi
+換了	wun laq
+換交	wun ciau
+換人	wun gnin
+換個	wun goq
+換口味	wun kheu vi
+換學	wun yuq
+換手率	wun shieu liq
+換教	wun ciau
+換水	wun syu
+換着	wun dzoq
+換着	wun zyuq
+換勒	wun laq
+換行	wun ghaon
+握落去	oq loq chi
+握着	oq dzoq
+握着	oq zyuq
+揣着	tshoe dzoq
+揣着	tshoe zyuq
+揩乾	kha kI
+揪鬚	cieu syu
+揭人隱私	ciq gnin in sy
+揭牌	ciq ba
+揮之不去	huei tsy paq chiu
+揮之即去	huei tsy ciq chiu
+揮了	huei laq
+揮戈回日	huei kou wei zyuq
+揮斥	huei chiq
+揮淚	huei lei
+揮灑自如	huei sa zy zyu
+揮着	huei dzoq
+揮着	huei zyuq
+揮勒	huei laq
+援交	yu ciau
+援交妹	yu ciau mei
+援交小姐	yu ciau shiau cia
+援助交際	yu dzu ciau ci
+損人	sen gnin
+損人不利己	sen gnin paq li ci
+損人利己	sen gnin li ci
+損人害己	sen gnin ghe ci
+損人益己	sen gnin iq ci
+損壞	sen ua
+損壞率	sen ua liq
+損失率	sen syuq liq
+損害賠償	sen ghe bei dzaon
+損耗率	sen hau liq
+搔頭摸耳	tsau deu moq er
+搖了	yau laq
+搖了一下	yau laq iq gho
+搖尾	yau vi
+搖尾乞憐	yau vi chiq li
+搖尾巴	yau mi po
+搖搖欲墜	yau yau yuq dzei
+搖擺樂	yau pa yuq
+搖旗吶喊	yau ji naq hae
+搖曳生姿	yau yi sen tsy
+搖椅	yau i
+搖滾樂	yau kuen yuq
+搖滾樂團	yau kuen yuq doe
+搖滾樂手	yau kuen yuq shieu
+搖着	yau dzoq
+搖着	yau zyuq
+搖勒	yau laq
+搖着頭	yau dzoq deu
+搖着頭	yau zyuq deu
+搖勒頭	yau laq deu
+搖頭擺尾	yau deu pa vi
+搗亂分子	tau loe ven tsy
+搗鬼	tau kuei
+搜了	seu laq
+搜人	seu gnin
+搜吧	seu pa
+搜啊	seu gha
+搜啊	seu a
+搜爆	seu pau
+搜索範圍	seu soq vae wei
+搜集	seu jiq
+搞了	gau laq
+搞壞	gau ua
+搞死	gau sy
+搞煞	gau saq
+搞雜	gau dzaq
+搞鬼	gau kuei
+搧耳光	shi gni kuaon
+搬了	pun laq
+搬家	pun cia
+搬家公司	pun cia kon sy
+搬着	pun dzoq
+搬着	pun zyuq
+搬勒	pun laq
+搬石頭砸自己的腳	pun zaq deu tsaq zy ci tiq ciaq
+搬起石頭砸自己的腳	pun chi zaq deu tsaq zy ci tiq ciaq
+搭個	taq goq
+搭咕	taq ku
+搭背	taq pei
+搭腳手架	taq ciaq shieu ko
+搭配着	taq phei dzoq
+搭配着	taq phei zyuq
+搭配勒	taq phei laq
+搶落去	chian loq chi
+搶了	chian laq
+搶人	chian gnin
+搶救人質	chian cieu zyun tsy
+搶時間	chian zy ci
+搶生意	chian san i
+搶着	chian dzoq
+搶着	chian zyuq
+搶勒	chian laq
+搶風航行	chian fon ghaon yin
+搽着	dzo dzoq
+搽着	dzo zyuq
+搽勒	dzo laq
+摔落去	saq loq chi
+摔了	saq laq
+摔了一跤	saq laq iq kau
+摔交	saq ciau
+摔壞	saq ua
+摔斷了	saq doe laq
+摔斷了腿	saq doe laq thei
+摔死	saq sy
+摘落去	tsaq loq chi
+摘奸發伏	tsaq kae faq voq
+摘牌	tsaq ba
+摘自	tsaq zy
+摘選自	tsaq soe zy
+摘錄自	tsaq loq zy
+摟着	leu dzoq
+摟着	leu zyuq
+摟勒	leu laq
+摧枯拉朽	tshei khu lha shieu
+摧眉折腰	tshei mei ciq iau
+摩加迪沙	mou cia diq so
+摩卡咖啡	mou kha kha fi
+摩天大廈	mou thi da gho
+摩天大樓	mou thi da leu
+摩尼教	mou gni ciau
+摩托羅拉	mou thoq lou lha
+摩斯拉	mou sy lha
+摩根大通	mou ken da thon
+摩根弗里曼	mou ken faq li mae
+摩爾	mou er
+摩爾人	mou er gnin
+摩爾多瓦	mou er tou ngo
+摩爾多瓦人	mou er tou ngo gnin
+摩爾定律	mou er din liq
+摩爾根	mou er ken
+摩爾達維亞	mou er daq vi ia
+摩耶夫人	mou ya fu gnin
+摩蘇爾	mou su er
+摩蘇爾市	mou su er zy
+摩門教	mou men ciau
+摩門教徒	mou men ciau du
+摩門教會	mou men ciau wei
+摸落去	moq loq chi
+摸不着	moq paq dzoq
+摸不着	moq paq zyuq
+摸弗着	moq vaq dzoq
+摸弗着	moq vaq zyuq
+摸勿着	moq vaq dzoq
+摸勿着	moq vaq zyuq
+摸不着邊	moq paq dzoq pi
+摸不着邊	moq paq zyuq pi
+摸弗着邊	moq vaq dzoq pi
+摸弗着邊	moq vaq zyuq pi
+摸勿着邊	moq vaq dzoq pi
+摸勿着邊	moq vaq zyuq pi
+摸不着邊際	moq paq dzoq pi ci
+摸不着邊際	moq paq zyuq pi ci
+摸弗着邊際	moq vaq dzoq pi ci
+摸弗着邊際	moq vaq zyuq pi ci
+摸勿着邊際	moq vaq dzoq pi ci
+摸勿着邊際	moq vaq zyuq pi ci
+摸不着頭腦	moq paq dzoq deu nau
+摸不着頭腦	moq paq zyuq deu nau
+摸弗着頭腦	moq vaq dzoq deu nau
+摸弗着頭腦	moq vaq zyuq deu nau
+摸勿着頭腦	moq vaq dzoq deu nau
+摸勿着頭腦	moq vaq zyuq deu nau
+摸了	moq laq
+摸吧	moq pa
+摸得着	moq taq dzoq
+摸得着	moq taq zyuq
+摸勒着	moq laq dzoq
+摸勒着	moq laq zyuq
+摸着	moq dzoq
+摸着	moq zyuq
+摸着石頭過河	moq dzoq zaq deu kou ghou
+摸着石頭過河	moq zyuq zaq deu kou ghou
+摹狀	mou dzaon
+摺合椅	ciq ghaq i
+摺椅	ciq i
+摺疊椅	ciq diaq i
+摻假	tshae ko
+摻水	tshae syu
+摻雜	tshae dzaq
+撇去	phiq chiu
+撈乾	lhau kI
+撈着	lhau dzoq
+撈着	lhau zyuq
+撈勒	lhau laq
+撈勒仔	lhau laq tsy
+撈的	lhau tiq
+撐落去	tshan loq chi
+撐弗落去	tshan vaq loq chi
+撐勿落去	tshan vaq loq chi
+撐了	tshan laq
+撐死	tshan sy
+撐煞	tshan saq
+撐煞死	tshan saq shi
+撐着	tshan dzoq
+撐着	tshan zyuq
+撐勒	tshan laq
+撐勒仔	tshan laq tsy
+撐的	tshan tiq
+撒落去	saq loq chi
+撒克遜人	saq khaq sen gnin
+撒切爾	saq chiq er
+撒切爾夫人	saq chiq er fu gnin
+撒哈拉	saq ha lha
+撒哈拉以南	saq ha lha yi nEI
+撒哈拉以南非洲	saq ha lha yi nEI fi cieu
+撒哈拉沙漠	saq ha lha so moq
+撒囈掙	saq gni tsen
+撒尿	saq gniau
+撒尿	dza syu
+撒手人寰	saq shieu zyun wae
+撒拉	saq lha
+撒拉族	saq lha dzoq
+撒拉語	saq lha gniu
+撒拉鐵	saq lha thiq
+撒母耳記上	saq meu er ci zaon
+撒母耳記下	saq meu er ci gho
+撒水	saq syu
+撒都該人	saq tu ke gnin
+撒馬爾幹	saq mo er kI
+撒馬爾罕	saq mo er he
+撒鴨子	saq iaq tsy
+撓率	nau liq
+撕落去	sy loq chi
+撕了	sy laq
+撕去	sy chiu
+撕壞	sy ua
+撞了	dzaon laq
+撞了	dzaon lei
+撞人	dzaon gnin
+撞個滿懷	dzaon goq mun wa
+撞個滿懷	dzaon goq mun wae
+撞壞	dzaon ua
+撞死	dzaon sy
+撞煞	dzaon saq
+撞煞死	dzaon saq shi
+撤落去	chiq loq chi
+撤櫃	chiq guei
+撥交	paq ciau
+撥去	paq chi
+撥回去	paq wei chi
+撥絃樂器	paq yi yuq chi
+撥雲睹日	paq yun tu zyuq
+撥雲見日	paq yun ci zyuq
+撩人	liau gnin
+撩望	liau vaon
+撫梁易柱	vu lian yiq dzyu
+撫躬自問	vu kon zy ven
+撫躬自問	vu kon zy men
+撫養成人	vu ian jin gnin
+撬落去	jiau loq chi
+撬了	jiau laq
+撬壞	jiau ua
+撮到	tshoq tau
+撮到	tshaq tau
+撮口呼	tshoq kheu fu
+撮合	tshoq ghaq
+撮合山	tshoq ghaq sae
+撮和	tshoq ghou
+撮弄	tshoq lon
+撮箕	tshoq ci
+撮要	tshoq iau
+撮起	tshoq chi
+撮起來	tshoq chi le
+撰寫人	dzoe shia gnin
+撰稿人	dzoe kau gnin
+撲上去	phoq zaon chi
+撲落去	phoq loq chi
+撲了	phoq laq
+撲個滿懷	phoq goq mun wa
+撲個滿懷	phoq goq mun wae
+撲個空	phoq goq khon
+撲鼻	phoq biq
+撲鼻而來	phoq biq er le
+撼樹蚍蜉	he zyu bi veu
+撿了	ci laq
+擁兵自衛	ion pin zy wei
+擁兵自重	ion pin zy dzon
+擁戴	ion te
+擁抱着	ion bau dzoq
+擁抱着	ion bau zyuq
+擁着	ion dzoq
+擁着	ion zyuq
+擁勒	ion laq
+擁被而起	ion bi er chi
+擄人勒贖	lou gnin laq dzoq
+擅自	zoe zy
+擅自作主	zoe zy tsoq tsyu
+擅自決定	zoe zy ciuq din
+擅自行動	zoe zy yin don
+擅長	zoe jian
+擅長於	zoe jian yu
+擇交	dzaq ciau
+擇日	dzaq zyuq
+擇日子	dzaq gniq tsy
+擇日腳	dzaq gniq ciaq
+擊墜	ciq dzei
+擊水	ciq syu
+擊沈	ciq jin
+擋不了	taon paq liau
+擋弗了	taon vaq liau
+擋勿了	taon vaq liau
+擋了	taon laq
+擋人	taon gnin
+擋着	taon dzoq
+擋着	taon zyuq
+擋箭牌	taon ci ba
+操作人員	tshau tsoq zyun yu
+操作速率	tshau tsoq soq liq
+操你媽	tshau gni mha
+操着	tshau dzoq
+操着	tshau zyuq
+操勒	tshau laq
+操縱自如	tshau tson zy zyu
+操行	tshau yin
+操行成績	tshau yin jin ciq
+擎天大樓	jin thi da leu
+擒奸摘伏	jin kae tsaq voq
+擒拿	jin na
+擔任	tae zyun
+擔保人	tae pau gnin
+擔架	tae ko
+擔架兵	tae ko pin
+擔架擡	tae ko de
+擔架牀	tae ko zaon
+擔架隊	tae ko dei
+擔水	tae syu
+擔着	tae dzoq
+擔着	tae zyuq
+擔勒	tae laq
+擔的	tae tiq
+擔負着	tae veu dzoq
+擔負着	tae veu zyuq
+據介紹	ciu ka zhiau
+據傳	ciu dzOE
+據傳說	ciu dzOE syuq
+據瞭解	ciu liau ka
+據瞭解	ciu liau cia
+擠落去	ci loq chi
+擠了	ci laq
+擠人	ci gnin
+擠咕	ci ku
+擠死	ci sy
+擠煞	ci saq
+擠眉弄眼	ci mei lon ngae
+擠着	ci dzoq
+擠着	ci zyuq
+擠勒	ci laq
+擡落去	de loq chi
+擡着	de dzoq
+擡着	de zyuq
+擡勒	de laq
+擡的	de tiq
+擤鼻頭	hen baq deu
+擦乾	tshaq kI
+擦乾淨	tshaq kI zhin
+擦了	tshaq liau
+擦去	tshaq chiu
+擦着	tshaq dzoq
+擦着	tshaq zyuq
+擦着	tshaq jiaq
+擬人	gni zyun
+擬人化	gni zyun huo
+擬人法	gni zyun faq
+擱不下	koq paq gho
+擱不下	goq paq gho
+擱弗落	koq vaq loq
+擱弗落	goq vaq loq
+擱勿落	koq vaq loq
+擱勿落	goq vaq loq
+擱不住	koq paq dzyu
+擱不住	goq paq dzyu
+擱弗牢	goq vaq lau
+擱勿牢	goq vaq lau
+擱得住	koq taq dzyu
+擱得住	goq taq dzyu
+擱勒牢	koq laq lau
+擱勒牢	goq laq lau
+擱着	koq dzoq
+擱着	koq zyuq
+擱勒	koq laq
+擱的	koq tiq
+擱着	goq dzoq
+擱着	goq zyuq
+擱勒	goq laq
+擱的	goq tiq
+擱腳板	koq ciaq pae
+擱腳板	goq ciaq pae
+擱起	koq chi
+擱起來	koq chi le
+擱起	goq chi
+擱起來	goq chi le
+擲交	jiq kau
+擲還	jiq wae
+擴大	khoq da
+擴大內需	khoq da nei syu
+擴大再生產	khoq da tse sen tshae
+擴大化	khoq da huo
+擴大器	khoq da chi
+擴大招生	khoq da ciau san
+擴大會議	khoq da wei gni
+擴大機	khoq da ci
+擴大範圍	khoq da vae wei
+擺落去	pa loq chi
+擺了	pa laq
+擺了一道	pa laq iq dau
+擺列着	pa liq dzoq
+擺列着	pa liq zyuq
+擺官架子	pa kun ko tsy
+擺尾	pa vi
+擺尾搖頭	pa vi yau deu
+擺放着	pa faon dzoq
+擺放着	pa faon zyuq
+擺架子	pa ko tsy
+擺着	pa dzoq
+擺着	pa zyuq
+擺空架子	pa khon ko tsy
+擺脫不了	pa thaq paq liau
+擺脫弗了	pa thaq vaq liau
+擺脫勿了	pa thaq vaq liau
+擺花架子	pa huo ko tsy
+擺錘	pa zei
+擺長	pa jian
