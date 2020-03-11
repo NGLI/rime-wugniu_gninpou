@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.10"
+version: "2020.03.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10041,8 +10041,6 @@ use_preset_vocabulary: true
 賾	tsaq
 拶	tsaq
 隻	tsaq
-著	tsaq	0%
-着	tsaq
 眨	tsaq
 𠰏	tsaq
 茁	tsaq
@@ -10355,7 +10353,7 @@ use_preset_vocabulary: true
 圴	ciaq
 彴	ciaq
 著	ciaq	0%
-着	ciaq
+着	ciaq	1%
 辵	ciaq
 碏	ciaq
 脚	ciaq
@@ -10386,7 +10384,7 @@ use_preset_vocabulary: true
 愜	chiaq
 篋	chiaq
 著	jiaq	0%
-着	jiaq
+着	jiaq	5%
 𢜭	jiaq
 臄	jiaq
 醵	jiaq
@@ -11348,7 +11346,6 @@ use_preset_vocabulary: true
 婕	ciq
 摭	ciq
 灼	ciq
-着	ciq	5%
 𢆚	ciq
 指	ciq	0%
 今	ciq	0%
@@ -11961,7 +11958,7 @@ use_preset_vocabulary: true
 隰	zyuq
 踅	zyuq
 著	zyuq	0%
-着	zyuq
+着	zyuq	10%
 兒	er
 児	er
 唲	er
@@ -13436,7 +13433,7 @@ use_preset_vocabulary: true
 情致	jin tsyu
 肚才	du dze	55
 計較	ci kau
-算着	soe ciq	55
+算着	soe ciaq	55
 惀帶	len ta	55
 門檻	men khae
 根腳	ken ciaq
@@ -26392,7 +26389,7 @@ use_preset_vocabulary: true
 鴉鵲做窠搭涼棚	o chiaq tsou khou taq lian ban
 爛泥挭着	na gni kuan dzoq
 爛泥挭着	na gni kuan zyuq
-着象棋	ciq zhian ji
+着象棋	ciaq zhian ji
 彫花臉
 妝面油
 妝防裂膏	tsaon vaon liq kau
@@ -27632,27 +27629,27 @@ use_preset_vocabulary: true
 多弗過	tou vaq kou
 話勿相似	wo vaq shian zy
 話弗相似	wo vaq shian zy
-着勿樣	ciq vaq yan
+着勿樣	ciaq vaq yan
 講勿樣
 做勿樣
 弄勿樣
-着勿相樣	ciq vaq shian yan
+着勿相樣	ciaq vaq shian yan
 講勿相樣	kaon vaq shian yan
 做勿相樣	tsou vaq shian yan
 弄勿相樣	lon vaq shian yan
-着勿相相	ciq vaq shian shian
+着勿相相	ciaq vaq shian shian
 講勿相相	kaon vaq shian shian
 做勿相相	tsou vaq shian shian
 弄勿相相	lon vaq shian shian
-着弗樣	ciq vaq yan
+着弗樣	ciaq vaq yan
 講弗樣	kaon vaq yan
 做弗樣	tsou vaq yan
 弄弗樣	lon vaq yan
-着弗相樣	ciq vaq shian yan
+着弗相樣	ciaq vaq shian yan
 講弗相樣	kaon vaq shian yan
 做弗相樣	tsou vaq shian yan
 弄弗相樣	lon vaq shian yan
-着弗相相	ciq vaq shian shian
+着弗相相	ciaq vaq shian shian
 講弗相相	kaon vaq shian shian
 做弗相相	tsou vaq shian shian
 弄弗相相	lon vaq shian shian
@@ -27682,15 +27679,15 @@ use_preset_vocabulary: true
 打爾勒過	tan ng laq kou
 打其勒過	tan ji laq kou
 打渠勒過	tan ji laq kou
-着勒樣	ciq laq yan
+着勒樣	ciaq laq yan
 講勒樣
 做勒樣
 弄勒樣
-着勒相樣	ciq laq shian yan
+着勒相樣	ciaq laq shian yan
 講勒相樣	kaon laq shian yan
 做勒相樣	tsou laq shian yan
 弄勒相樣	lon laq shian yan
-着勒相相	ciq laq shian shian
+着勒相相	ciaq laq shian shian
 講勒相相	kaon laq shian shian
 做勒相相	tsou laq shian shian
 弄勒相相	lon laq shian shian
@@ -29292,7 +29289,7 @@ use_preset_vocabulary: true
 忒瘦
 忒短
 忒笨
-忒着力
+忒着力	thou jiaq liq
 忒緊
 忒老
 忒胖
@@ -29691,9 +29688,9 @@ use_preset_vocabulary: true
 尋勒
 尋竅門
 尋藉口	zhin cia kheu
-尋啥人	shin soq gnin
-尋啥人	shin so gnin
-尋啥人	shin sou gnin
+尋啥人	zhin soq gnin
+尋啥人	zhin so gnin
+尋啥人	zhin sou gnin
 尋起
 尋起來
 尋進
@@ -29898,7 +29895,7 @@ use_preset_vocabulary: true
 撮現成	tshaq yi jin
 撮球	tshaq jieu
 撮球員	tshaq jieu yu
-撮破爛	tshaq pou lae
+撮破爛	tshaq phou lae
 撮起	tshaq chi
 撮起來	tshaq chi le
 撮過	tshaq kou
@@ -30083,7 +30080,7 @@ use_preset_vocabulary: true
 頂頂下底
 頂頂下面
 頂頂主要
-頂頂主要個	tin tiin tsyu iau goq
+頂頂主要個	tin tin tsyu iau goq
 頂頂主要個	tin tin tsyu iau ghoq
 頂頂低
 頂頂便宜
@@ -30342,12 +30339,12 @@ use_preset_vocabulary: true
 嘸沒藥	mhiq yaq	418
 嘸沒要	mhiq iau	55
 嘸沒見	mhiq ci	55
-嘸沒看見	mhiq khi ci	418
-嘸沒看張	mhiq khi cian	418
+嘸沒看見	mhiq khI ci	418
+嘸沒看張	mhiq khI cian	418
 嘸沒見世面	mhiq ci syu mi	418
 嘸沒見識	mhiq ci shiq	55
-嘸沒看見過	mhiq khi ci kou	418
-嘸沒看張過	mhiq khi cian kou	418
+嘸沒看見過	mhiq khI ci kou	418
+嘸沒看張過	mhiq khI cian kou	418
 嘸沒規矩	mhiq kuei ciu	418
 嘸沒親	mhiq chin	418
 嘸沒討	mhiq thau	55
@@ -30424,7 +30421,7 @@ use_preset_vocabulary: true
 嘸沒安裝	mhiq EI tsaon	418
 嘸沒差別	mhiq tsho biq	418
 嘸沒意義	mhiq i gni	418
-嘸沒辰光	mhiq zyun kaon	418
+嘸沒辰光	mhiq zyun kuaon	418
 嘸沒機會	mhiq ci wei	418
 嘸沒理由	mhiq li yeu	418
 嘸沒生育能力	mhiq sen yuq nen liq	55
@@ -30885,8 +30882,6 @@ VCD	vi shi di
 一百個	iq paq goq
 一百分	iq paq fen
 一目十行	iq moq zyuq ghaon
-一着	iq ciq
-一着不慎	iq ciq paq zyun
 一着	iq ciaq
 一着不慎	iq ciaq paq zyun
 一瞄	iq mhiau
@@ -31238,8 +31233,6 @@ VCD	vi shi di
 下流人士	gho lieu zyun zy
 下班時間	gho pae zy ci
 下班辰光	gho pae zyun kuaon
-下着	gho dzoq
-下着	gho zyuq
 下自	gho zy
 下自成蹊	gho zy jin chi
 下行	gho yin
@@ -31686,11 +31679,7 @@ VCD	vi shi di
 不急	paq ciq
 勿急	vaq ciq
 弗急	vaq ciq
-不着痕跡	paq dzoq ghen ciq
-不着邊際	paq dzoq pi ci
 不着陸飛行	paq dzoq loq fi yin
-不着痕跡	paq zyuq ghen ciq
-不着邊際	paq zyuq pi ci
 不着陸飛行	paq zyuq loq fi yin
 勿着痕跡	vaq dzoq ghen ciq
 勿着邊際	vaq dzoq pi ci
@@ -32178,8 +32167,6 @@ VCD	vi shi di
 並世	bin syu
 並世無雙	bin syu vu saon
 並世無雙	bin syu Wu saon
-並存着	bin dzen dzoq
-並存着	bin dzen zyuq
 並日	bin zyuq
 並日而食	bin zyuq er zhiq
 並肩而行	bin ci er yin
@@ -32489,8 +32476,6 @@ VCD	vi shi di
 乘僞行詐	jin wei yin tso
 乘數	jin su
 乘涼	zhin lian
-乘着	jin dzoq
-乘着	jin zyuq
 乘長風破萬里浪	jin jian fon phou vae li laon
 乘間	jin ci
 乙丙橡膠	iq pin zhian ciau
@@ -33829,8 +33814,6 @@ VCD	vi shi di
 亮了	lian laq
 亮分	lian fen
 亮眼人	lian ngae gnin
-亮着	lian dzoq
-亮着	lian zyuq
 亮的	lian tiq
 亮菌甲素	lian chiun ciaq su
 亹亹	men men
@@ -34424,8 +34407,6 @@ VCD	vi shi di
 付交	fu kau
 付款人	fu khun gnin
 付款日	fu khun gniq
-付着	fu dzoq
-付着	fu zyuq
 付勒	fu laq
 付的	fu tiq
 付諸實行	fu tsyu zyuq yin
@@ -34510,11 +34491,7 @@ VCD	vi shi di
 仰天長嘯	gnian thi jian shiau
 仰德大道	gnian taq da dau
 仰望	gnian maon
-仰看着	gnian khI dzoq
-仰看着	gnian khI zyuq
 仰看勒	gnian khI laq
-仰賴着	gnian la dzoq
-仰賴着	gnian la zyuq
 仰賴勒	gnian la laq
 仰面朝天	gnian mi jiau thi
 仲介	dzon ka
@@ -34721,10 +34698,6 @@ VCD	vi shi di
 伯爾	paq er
 伯爾尼	paq er gni
 伯羅奔尼撒同盟	paq lou pen gni saq don men
-伴着	bun dzoq
-伴隨着	bun zei dzoq
-伴着	bun zyuq
-伴隨着	bun zei zyuq
 伴勒	bun laq
 伴隨勒	bun zei laq
 伸落	shin loq
@@ -34735,8 +34708,6 @@ VCD	vi shi di
 伸手不見五指	shin shieu paq ci ng tsy
 伸手勿見五指	shin shieu vaq ci ng tsy
 伸手弗見五指	shin shieu vaq ci ng tsy
-伸着	shin dzoq
-伸着	shin zyuq
 伸長	shin jian
 似曾	zy dzen
 似曾相識	zy dzen shian shiq
@@ -34770,10 +34741,6 @@ VCD	vi shi di
 低利率	ti li liq
 低尾氣排放	ti vi chi ba faon
 低眉	ti mei
-低着	ti dzoq
-低着	ti zyuq
-低着頭	ti dzoq deu
-低着頭	ti zyuq deu
 低勒	ti laq
 低勒頭	ti laq deu
 頭低勒仔	deu ti laq tsy
@@ -34791,8 +34758,6 @@ VCD	vi shi di
 住宿生	dzyu soq san
 住房問題	dzyu vaon ven di
 住校生	dzyu yau san
-住着	dzyu dzoq
-住着	dzyu zyuq
 住勒	dzyu laq
 庉勒	den laq
 佐世保	tsou syu pau
@@ -34806,8 +34771,6 @@ VCD	vi shi di
 佔率	ci liq
 佔用率	ci yon liq
 佔用空間	ci yon khon ci
-佔着	ci dzoq
-佔着	ci zyuq
 佔勒	ci laq
 佔耕	ci kan
 佔過去	ci kou chiu
@@ -34821,8 +34784,6 @@ VCD	vi shi di
 佔率	tsoe liq
 佔用率	tsoe yon liq
 佔用空間	tsoe yon khon ci
-佔着	tsoe dzoq
-佔着	tsoe zyuq
 佔勒	tsoe laq
 佔耕	tsoe kan
 佔過去	tsoe kou chiu
@@ -34842,8 +34803,6 @@ VCD	vi shi di
 佛教徒	vaq ciau du
 佛教語	vaq ciau gniu
 佛瑞斯特懷特克	vaq zei sy daq wae daq khaq
-佛頭着糞	vaq deu dzoq fen
-佛頭着糞	vaq deu zyuq fen
 作了	tsoq laq
 作交易	tsoq ciau yiq
 作人	tsoq gnin
@@ -35332,12 +35291,8 @@ VCD	vi shi di
 儂還會	nou wa wei
 儂還	nou gha
 儂還會	nou gha wei
-佩帶着	bei ta dzoq
-佩帶着	bei ta zyuq
 佩帶勒	bei ta laq
 佩戴	bei ta
-佩着	bei dzoq
-佩着	bei zyuq
 佩勒	bei laq
 佩脫拉克	bei thaq lha khaq
 佳世客	cia syu khaq
@@ -35424,19 +35379,11 @@ VCD	vi shi di
 依仗	i jian
 依個人	i kou gnin
 依地酸二鈷	i di soe er ku
-依循着	i zyun dzoq
-依循着	i zyun zyuq
 依循勒	i zyun laq
 依法行事	i faq yin zy
 依法行政	i faq yin cin
-依照着	i ciau dzoq
-依着	i dzoq
-依照着	i ciau zyuq
-依着	i zyuq
 依照勒	i ciau laq
 依勒	i laq
-依靠着	i khau dzoq
-依靠着	i khau zyuq
 依靠勒	i khau laq
 侯爵夫人	gheu ciaq fu gnin
 侵權行爲	chin jiu yin wei
@@ -35483,8 +35430,6 @@ VCD	vi shi di
 保加利亞	pau cia li ia
 保增長	pau tsen cian
 保姆	pau meu
-保存着	pau dzen dzoq
-保存着	pau dzen zyuq
 保存勒	pau dzen laq
 保安人員	pau EI zyun yu
 保安大隊	pau EI da dei
@@ -35497,10 +35442,6 @@ VCD	vi shi di
 保持來	pau dzy le
 保持勒	pau ji laq
 保持勒	pau dzy laq
-保持着	pau ji dzoq
-保持着	pau ji zyuq
-保持着	pau dzy dzoq
-保持着	pau dzy zyuq
 保持聯繫	pau ji li shi
 保持聯繫	pau dzy li shi
 保教	pau ciau
@@ -35510,8 +35451,6 @@ VCD	vi shi di
 保甲	pau ciaq
 保甲制度	pau ciaq tsyu du
 保甲法	pau ciaq faq
-保留着	pau lieu dzoq
-保留着	pau lieu zyuq
 保留勒	pau lieu laq
 保羅三世	pau lou sae syu
 保薦人	pau ci gnin
@@ -35735,8 +35674,6 @@ VCD	vi shi di
 倚仗	i jian
 倚望	i maon
 倚欄望月	i lae maon yuq
-倚靠着	i khau dzoq
-倚靠着	i khau zyuq
 倚靠勒	i khau laq
 隑勒	ge laq
 借了	cia laq
@@ -35756,8 +35693,6 @@ VCD	vi shi di
 借方差額	cia faon tsha ngaq
 借款人	cia khun gnin
 借水行舟	cia syu yin cieu
-借着	cia dzoq
-借着	cia zyuq
 借勒	cia laq
 借腹生子	cia foq san tsy
 借酒三分醉	cia cieu sae fen tsei
@@ -35908,8 +35843,6 @@ VCD	vi shi di
 偏微分	phi vi fen
 偏微分方程	phi vi fen faon jin
 偏心率	phi shin liq
-偏着	phi dzoq
-偏着	phi zyuq
 偏勒	phi laq
 偏長	phi jian
 偕行	ye yin
@@ -35938,8 +35871,6 @@ VCD	vi shi di
 做得更好	tsou taq ken hau
 做勒更好	tsou laq ken hau
 做生日	tsou sen gniq
-做着	tsou dzoq
-做着	tsou zyuq
 做自己	tsou zy ci
 做自家	tsou zhi ko
 做鬼	tsou ciu
@@ -35972,8 +35903,6 @@ VCD	vi shi di
 停留勒	din lieu laq
 停留時間	din lieu zy ci
 停留辰光	din lieu zyun kuaon
-停着	din dzoq
-停着	din zyuq
 停酒止樂	din cieu tsy loq
 停靠勒	din khau laq
 停頓落來	din ten loq le
@@ -36009,13 +35938,7 @@ VCD	vi shi di
 偷架	theu ko
 偷溜	theu lhieu
 偷溜走	theu lhieu tseu
-偷着	theu dzoq
-偷着	theu zyuq
 偷勒	theu laq
-偷雞不着	theu ci paq dzoq
-偷雞不着	theu ci paq zyuq
-偷雞不着蝕把米	theu ci paq dzoq zhiq po mi
-偷雞不着蝕把米	theu ci paq zyuq zhiq po mi
 傍人籬壁	baon gnin li piq
 傍人門戶	baon gnin men wu
 傍大款	baon da khun
@@ -36441,8 +36364,6 @@ VCD	vi shi di
 充斥	tshon chiq
 充斥市面	tshon chiq zy mi
 充滿希望	tshon mun shi vaon
-充滿着	tshon mun dzoq
-充滿着	tshon mun zyuq
 充盛	tshon zhin
 充耳不聞	tshon er paq ven
 兆個	zhiau goq
@@ -36513,8 +36434,6 @@ VCD	vi shi di
 光煙霧	kuaon i vu
 光煙霧	kuaon i Wu
 光爆	kuaon pau
-光着	kuaon dzoq
-光着	kuaon zyuq
 光的	kuaon tiq
 頭光的	deu kuaon tiq
 光碟櫃	kuaon diaq guei
@@ -36639,10 +36558,6 @@ VCD	vi shi di
 兜率天	teu saq thi
 兜率天宮	teu saq thi kon
 兜生意	teu san i
-兜着	teu dzoq
-兜着	teu zyuq
-兜着走	teu dzoq tseu
-兜着走	teu zyuq tseu
 兢兢	cin cin
 兢兢業業	cin cin gniq gniq
 入世	zyuq syu
@@ -36846,8 +36761,6 @@ VCD	vi shi di
 八號下半日	paq ghau gho pun gniq
 八歲	paq syu
 八歲時	paq syu zy
-八竿子打不着	paq kI tsy tan paq dzoq
-八竿子打不着	paq kI tsy tan paq zyuq
 八竿子打勿着	paq kI tsy tan vaq dzoq
 八竿子打勿着	paq kI tsy tan vaq zyuq
 八竿子打弗着	paq kI tsy tan vaq dzoq
@@ -37090,12 +37003,8 @@ VCD	vi shi di
 冒牌	mau ba
 冒牌貨	mau ba hou
 冒生命危險	mau sen min wei shi
-冒着	mau dzoq
-冒着	mau zyuq
 冒勒	mau laq
-冒着危險	mau dzoq wei shi
 冒着生命危險	mau dzoq sen min wei shi
-冒着危險	mau zyuq wei shi
 冒着生命危險	mau zyuq sen min wei shi
 冒勒危險	mau laq wei shi
 冒勒生命危險	mau laq sen min wei shi
@@ -37154,8 +37063,6 @@ VCD	vi shi di
 凝膠	gnin ciau
 凝膠體	gnin ciau thi
 凝視時間	gnin zy zy ci
-凝視着	gnin zy dzoq
-凝視着	gnin zy zyuq
 凝視勒	gnin zy laq
 凝集	gnin jiq
 凝集力	gnin jiq liq
@@ -37178,8 +37085,6 @@ VCD	vi shi di
 凶煞	shion saq
 凸狀	daq dzaon
 凸狀物	daq dzaon vaq
-凸着	daq dzoq
-凸着	daq zyuq
 凸的	daq tiq
 凸仔	daq tsy
 凸耳	daq er
@@ -37915,11 +37820,7 @@ VCD	vi shi di
 別省	biq san
 莫省	mau san
 莫省	mhau san
-別着	biq dzoq
-別着	biq zyuq
 別勒	biq laq
-別着急	biq dzoq ciq
-別着急	biq zyuq ciq
 莫急	mhau ciq
 莫急	mau ciq
 別被	biq bei
@@ -37966,8 +37867,6 @@ VCD	vi shi di
 刮剌剌	kuaq laq laq
 刮拉	kuaq lha
 刮涎	kuaq yi
-刮着	kuaq dzoq
-刮着	kuaq zyuq
 刮勒	kuaq laq
 刮骨去毒	kuaq kuaq chiu doq
 刮鼻子	kuaq biq tsy
@@ -38003,15 +37902,11 @@ VCD	vi shi di
 刺煞死	tshy saq shi
 戳煞死	tshoq saq shi
 刺溜	tshy lieu
-刺着	tshy dzoq
-刺着	tshy zyuq
 刺耳	tshy er
 刺鼻	tshy biq
 刻了	khaq laq
 刻個	khaq goq
 刻個	khaq ghoq
-刻着	khaq dzoq
-刻着	khaq zyuq
 刻勒	khaq laq
 刻的	khaq tiq
 刻苦學習	khaq khu ghoq zyuq
@@ -38021,8 +37916,6 @@ VCD	vi shi di
 削了	shiaq laq
 削了	shiaq lei
 削去	shiaq chiu
-削着	shiaq dzoq
-削着	shiaq zyuq
 削仔	shiaq tsy
 剋制不了	khaq tsyu paq liau
 前一段時間	zhi iq doe zy ci
@@ -38066,8 +37959,6 @@ VCD	vi shi di
 剔了	thiq laq
 剔了	thiq lei
 剔去	thiq chiu
-剔着	thiq dzoq
-剔着	thiq zyuq
 剖腹生產	phou foq sen tshae
 剖腹自殺	phou foq zy saq
 剛乾	kaon kI
@@ -38089,8 +37980,6 @@ VCD	vi shi di
 剪個	ci goq
 剪個	ci ghoq
 剪去	ci chiu
-剪着	ci dzoq
-剪着	ci zyuq
 剪勒	ci laq
 副主任	fu tsyu gnin
 副主任委員	fu tsyu gnin uei yu
@@ -38124,8 +38013,6 @@ VCD	vi shi di
 割了	kaq laq
 割去	kaq chiu
 割席絕交	kaq zhiq dzyuq ciau
-割着	kaq dzoq
-割着	kaq zyuq
 割腕自殺	kaq un zy saq
 創世	tshaon syu
 創世紀	tshaon syu ci
@@ -38150,8 +38037,6 @@ VCD	vi shi di
 劃去	waq chiu
 劃地自限	waq di zy ghae
 劃拉	waq lha
-劃着	waq dzoq
-劃着	waq zyuq
 劇中人	jiq tson gnin
 劇作家	jiq tsoq cia
 劇情介紹	jiq jin ka zhiau
@@ -38714,8 +38599,6 @@ VCD	vi shi di
 包落去	pau loq chi
 包乾	pau kI
 包乾制	pau kI tsyu
-包含着	pau ghEI dzoq
-包含着	pau ghEI zyuq
 包圍	pau wei
 包圍住	pau wei dzyu
 包圍圈	pau wei chiu
@@ -38724,10 +38607,6 @@ VCD	vi shi di
 包圍起來	pau wei chi le
 包庇	pau pi
 包爾	pau er
-包着	pau dzoq
-包着	pau zyuq
-包紮着	pau tsaq dzoq
-包紮着	pau tsaq zyuq
 包被	pau bi
 包間	pau kae
 匆促之間	tshon tshoq tsy ci
@@ -39301,8 +39180,6 @@ VCD	vi shi di
 印度鬼椒	in du kuei ciau
 印歐人	in eu gnin
 印江土家族苗族自治縣	in kaon thu cia dzoq miau dzoq zy dzyu yu
-印着	in dzoq
-印着	in zyuq
 印勒	in laq
 印第安人	in di EI gnin
 印行	in ghaon
@@ -39352,10 +39229,6 @@ VCD	vi shi di
 厚生勞動省	gheu sen lau don san
 厚生相	gheu sen shian
 厚生省	gheu sen san
-厚着	gheu dzoq
-厚着	gheu zyuq
-厚着臉皮	gheu dzoq li bi
-厚着臉皮	gheu zyuq li bi
 厚顏	gheu yi
 厚顏無恥	gheu yi vu tshyu
 厚顏無恥	gheu yi Wu tshyu
@@ -39738,8 +39611,6 @@ VCD	vi shi di
 受教	zhieu ciau
 受教育	zhieu ciau yuq
 受益人	zhieu iq gnin
-受着	zhieu dzoq
-受着	zhieu zyuq
 受勒	zhieu laq
 受禮人	zhieu li gnin
 受胎率	zhieu the liq
@@ -39951,7 +39822,6 @@ VCD	vi shi di
 可沒有	khou maq yeu
 可申請	khou syun chin
 可疑人物	khou gni zyun vaq
-可着	khou ciq
 可耕地	khou kan di
 可能沒有	khou nen maq yeu
 嘸數嘸沒	mh su mhiq
@@ -39964,8 +39834,6 @@ VCD	vi shi di
 可貴	khou kuei
 可貴性	khou kuei shin
 可長可短	khou jian khou toe
-可隨着	khou zei dzoq
-可隨着	khou zei zyuq
 可隨勒	khou zei laq
 好隨勒	hau zei laq
 好乾製	hau kI tsyu
@@ -39982,7 +39850,6 @@ VCD	vi shi di
 好去	hau chiu
 好執行	hau ciq yin
 好學	hau ghoq
-好着	hau ciq
 好長好短	hau jian hau toe
 叱吒樂壇	chiq tso loq dae
 史丹佛大學	sy tae vaq da ghoq
@@ -40011,15 +39878,11 @@ VCD	vi shi di
 司法部長	sy faq bu cian
 司法院長	sy faq yu cian
 司長	sy cian
-叼着	tiau dzoq
-叼着	tiau zyuq
 叼勒	tiau laq
 吁了	shiu laq
 喫一塹長一智	chioq iq chi cian iq tsyu
 喫落去	chioq loq chi
 喫不了	chioq paq liau
-喫不了兜着走	chioq paq liau teu dzoq tseu
-喫不了兜着走	chioq paq liau teu zyuq tseu
 喫勿了	chioq vaq liau
 喫勿了兜勒走	chioq vaq liau teu laq tseu
 喫弗了	chioq vaq liau
@@ -40066,8 +39929,6 @@ VCD	vi shi di
 喫飽了	chioq pau laq
 喫飽了	chioq pau lei
 喫飽了飯撐的	chioq pau laq vae tshan tiq
-喫飽撐着	chioq pau tshan dzoq
-喫飽撐着	chioq pau tshan zyuq
 喫飽撐勒	chioq pau tshan laq
 喫飽沒事幹	chioq pau mhaq zy kI
 喫鴨蛋	chioq aq dae
@@ -40187,15 +40048,12 @@ VCD	vi shi di
 吊個	tiau goq
 吊墜	tiau dzei
 吊墜	tiau zei
-吊掛着	tiau kuo dzoq
-吊掛着	tiau kuo zyuq
 吊架	tiau ko
 吊死	tiau sy
 吊死鬼	tiau sy kuei
 吊牌	tiau ba
-吊着	tiau dzoq
-吊着	tiau zyuq
 吊勒	tiau laq
+吊的	tiau tiq
 吊稍	tiau sau
 吊衣架	tiau i ko
 吊車尾	tiau tsho vi
@@ -40309,8 +40167,6 @@ VCD	vi shi di
 吐了	thu laq
 吐了	thu lei
 吐火羅人	thu hou lou gnin
-吐着	thu dzoq
-吐着	thu zyuq
 吐的	thu tiq
 吐絲自縛	thu sy zy bou
 吐蕃王朝	thu vae waon jiau
@@ -40324,8 +40180,6 @@ VCD	vi shi di
 向日	shian zyuq
 向日性	shian zyuq shin
 向火乞	shian hou chiq
-向着	shian dzoq
-向着	shian zyuq
 向勒	shian laq
 向聲背實	shian shin pei zyuq
 向背	shian pei
@@ -40355,8 +40209,6 @@ VCD	vi shi di
 含了	ghEI laq
 含油率	ghEI yeu liq
 含淚	ghEI lei
-含着	ghEI dzoq
-含着	ghEI zyuq
 含的	ghEI tiq
 含血噴人	ghEI shiuq phen gnin
 吳任臣	wu zyun jin
@@ -40376,8 +40228,6 @@ VCD	vi shi di
 吵了	tshau laq
 吵人	tshau gnin
 吵架	tshau cia
-吵着	tshau dzoq
-吵着	tshau zyuq
 吵勒	tshau laq
 吵雜	tshau dzaq
 吶喊	nha hae
@@ -40391,8 +40241,6 @@ VCD	vi shi di
 吸引人	shiq yin gnin
 吸毒成癮	shiq doq jin in
 吸水率	shiq syu liq
-吸着	shiq dzoq
-吸着	shiq zyuq
 吸勒	shiq laq
 吸的	shiq tiq
 吸菸率	shiq i liq
@@ -40419,9 +40267,7 @@ VCD	vi shi di
 吹煉	tshei li
 吹煉	tshyu li
 吹牛大王	tshyu ngeu da waon
-吹着	tshei dzoq
-吹着	tshei zyuq
-吹勒	tshei laq
+吹的	tshyu tiq
 吹管樂	tshyu kun yuq
 吹綿介殼蟲	tshyu mi cia khoq dzon
 吹起	tshyu chi
@@ -40433,10 +40279,6 @@ VCD	vi shi di
 吻俉	ven ng
 吻爾	ven ng
 吻儂	ven nou
-吻着	ven dzoq
-吻着	ven zyuq
-吼着	heu dzoq
-吼着	heu zyuq
 吼勒	heu laq
 吾人	NU gnin
 吾人	WU gnin
@@ -40559,8 +40401,6 @@ VCD	vi shi di
 和洽	ghou chiaq
 和爲貴	ghou wei kuei
 和牌	wu ba
-和着	ghou dzoq
-和着	ghou zyuq
 和諧無間	ghou ye vu ci
 和諧無間	ghou ye Wu ci
 和顏悅色	ghou yi yuq saq
@@ -40609,11 +40449,7 @@ VCD	vi shi di
 咬了一口	ngau laq iq kheu
 咬人	ngau gnin
 咬煞	ngau saq
-咬着	ngau dzoq
-咬着	ngau zyuq
 咬勒	ngau laq
-咬着不放	ngau dzoq paq faon
-咬着不放	ngau zyuq paq faon
 咬勒不放	ngau laq paq faon
 咬耳朵	ngau gni to
 咬耳朵	ngau ng to
@@ -40840,10 +40676,8 @@ VCD	vi shi di
 哭個夠	khoq goq keu
 哭個痛快	khoq goq thon khua
 哭吧	khoq pa
-哭喪着臉	khoq saon dzoq li
 哭天抹淚	khoq thi maq lei
-哭着	khoq dzoq
-哭着	khoq zyuq
+哭勒	khoq laq
 哭聲震天	khoq shin cin thi
 哭鼻子	khoq biq tsy
 哮喘	shiau tshoe
@@ -40863,10 +40697,6 @@ VCD	vi shi di
 哼了	han laq
 哼個	han goq
 哼哈二將	han ha er cian
-哼着	han dzoq
-哼着	han zyuq
-哽着	ken dzoq
-哽着	ken zyuq
 唏哩嘩啦	shi li hua la
 唐人	daon gnin
 唐人街	daon gnin ka
@@ -40896,13 +40726,9 @@ VCD	vi shi di
 唯生產力論	vi sen tshae liq len
 唱了	tshaon laq
 唱個	tshaon goq
-唱着	tshaon dzoq
-唱着	tshaon zyuq
 唸了	nE laq
 唸了一聲	nE laq iq shin
 唸吧	nE pa
-唸着	nE dzoq
-唸着	nE zyuq
 唸勒	nE laq
 唾手可得	thou shieu khou taq
 唾棄	thou chi
@@ -40914,8 +40740,6 @@ VCD	vi shi di
 唾面	thou mi
 唾面自乾	thou mi zy kI
 唾餘	thou yu
-啃着	khen dzoq
-啃着	khen zyuq
 啃勒	khen laq
 啄食	tsoq zhiq
 商人	saon gnin
@@ -41058,6 +40882,7 @@ VCD	vi shi di
 喂着	iu dzoq
 喂着	iu zyuq
 喂勒	iu laq
+喂的	iu tiq
 喃喃自語	nEI nEI zy gniu
 善了	zoe laq
 善人	zoe gnin
@@ -41080,11 +40905,7 @@ VCD	vi shi di
 喉頭發乾	gheu deu faq kI
 喊落去	hae loq chi
 喊了	hae laq
-喊着	hae dzoq
-喊着	hae zyuq
 喊勒	hae laq
-喘着	tshoe dzoq
-喘着	tshoe zyuq
 喘勒	tshoe laq
 喜上眉梢	shi zaon mei sau
 喜不自勝	shi paq zy shin
@@ -41096,8 +40917,6 @@ VCD	vi shi di
 喜怒不形於色	shi nu paq yin yu saq
 喜怒哀樂	shi nu e loq
 喜怒無常	shi nu vu dzaon
-喜愛着	shi e dzoq
-喜愛着	shi e zyuq
 喜憂參半	shi ieu tshae pun
 喜歡你	shi hun gni
 歡喜你	hun shi gni
@@ -41108,8 +40927,6 @@ VCD	vi shi di
 喜歡吵架	shi hun tshau cia
 歡喜吵架	hun shi tshau cia
 歡喜造孽	hun shi zau gniq
-喜歡着	shi hun dzoq
-喜歡着	shi hun zyuq
 喜歡自己	shi hun zy ci
 歡喜自家	hun shi zhi ko
 喜瑪拉雅	shi ma lha ia
@@ -41132,8 +40949,6 @@ VCD	vi shi di
 喝問	haq ven
 喝多了	haq tou lei
 喝斥	haq chiq
-喝着	haq dzoq
-喝着	haq zyuq
 喝勒	haq laq
 喝醉了	haq tsei lei
 喧譁	soe huo
@@ -41177,8 +40992,6 @@ VCD	vi shi di
 嗆鼻	chian biq
 嗎哪	ma nha
 嗔斥	tshen chiq
-嗔着	tshen dzoq
-嗔着	tshen zyuq
 嗚啦	u la
 嗣歲	dzy sei
 嗤之以鼻	tshy tsy yi biq
@@ -41203,8 +41016,6 @@ VCD	vi shi di
 嘔鴉	eu ia
 嘗試錯誤學習	zaon sy tshou nu ghoq zyuq
 嘗試錯誤學習	zaon sy tshou nu ghoq zhiq
-嘟着嘴	tu dzoq tsyu
-嘟着嘴	tu zyuq tsyu
 嘩啦	hua lha
 嘩啦一聲	hua lha iq shin
 嘩啦啦	hua lha lha
@@ -41229,8 +41040,6 @@ VCD	vi shi di
 嘰裏咕嚕	ci li ku lu
 嘻哈	shi ha
 嘻嘻哈哈	shi shi ha ha
-噎着	iq dzoq
-噎着	iq zyuq
 噓寒問暖	shiu ghEI ven noe
 噗嗤	phoq tshy
 噗嗤一聲	phoq tshy iq shin
@@ -41242,10 +41051,6 @@ VCD	vi shi di
 噪雜	tshau dzaq
 噴落去	phen loq chi
 噴濺	phen ci
-噴灑着	phen sa dzoq
-噴灑着	phen sa zyuq
-噴着	phen dzoq
-噴着	phen zyuq
 噴鼻息	phen biq shiq
 嚇不了	haq paq liau
 嚇了	haq laq
@@ -41257,8 +41062,6 @@ VCD	vi shi di
 嚇煞	haq saq
 嚇煞死	haq saq shi
 嚇煞人	haq saq gnin
-嚇着	haq dzoq
-嚇着	haq zyuq
 嚎啕大哭	ghau dau da khoq
 嚐了	zaon laq
 嚐個	zaon goq
@@ -41266,8 +41069,6 @@ VCD	vi shi di
 嚥不了	i paq liau
 嚥了	i laq
 嚥唾	i thu
-嚥着	i dzoq
-嚥着	i zyuq
 嚴加	gni cia
 嚴加戒備	gni cia ka bei
 嚴加管教	gni cia kun ciau
@@ -41282,8 +41083,6 @@ VCD	vi shi di
 嚴謹性	gni cin shin
 嚴重問題	gni dzon ven di
 嚴重破壞	gni dzon phou wa
-嚷着	gnian dzoq
-嚷着	gnian zyuq
 嚼不了	zhiaq paq liau
 嚼舌自盡	zhiaq zhiq zy jin
 囂雜	shiau dzaq
@@ -41423,8 +41222,6 @@ VCD	vi shi di
 回狀	wei dzaon
 回生乏術	wei sen vaq zyuq
 回生起死	wei sen chi sy
-回着	wei dzoq
-回着	wei zyuq
 回答問題	wei taq ven di
 回老家	wei lau cia
 回背	wei pei
@@ -41940,8 +41737,6 @@ VCD	vi shi di
 坐大	zou da
 坐懷不亂	zou wa paq loe
 坐椅	zou i
-坐着	zou dzoq
-坐着	zou zyuq
 坐的	zou tiq
 坐言起行	zou yi chi ghan
 坐領乾薪	zou lin kI shin
@@ -41968,12 +41763,8 @@ VCD	vi shi di
 垂直平分	zei jiq bin fen
 垂直平分線	zei jiq bin fen shi
 垂直於	zei jiq yu
-垂着	zei dzoq
-垂着	zei zyuq
 垂勒	zei laq
 垂的	zei tiq
-垂着頭	zei dzoq deu
-垂着頭	zei zyuq deu
 垂勒頭	zei laq deu
 頭垂的	deu zei tiq
 垂範百世	zei vae paq syu
@@ -42103,8 +41894,6 @@ VCD	vi shi di
 執法人員	ciq faq zyun yu
 執牛耳	ciq gnieu er
 執牛耳	ciq ngeu er
-執着	ciq dzoq
-執着性	ciq dzoq shin
 執筆人	ciq piq gnin
 執行	ciq yin
 執行主席	ciq yin tsyu zhiq
@@ -42159,16 +41948,10 @@ VCD	vi shi di
 堅守自盜	ci shieu zy dau
 堅持落去	ci ji loq chi
 堅持落去	ci dzy loq chi
-堅持着	ci ji dzoq
-堅持着	ci ji zyuq
-堅持着	ci dzy dzoq
-堅持着	ci dzy zyuq
 堅持勒	ci ji laq
 堅持勒	ci dzy laq
 堅甲利兵	ci ciaq li pin
 堆了	tei laq
-堆着	tei dzoq
-堆着	tei zyuq
 堆的	tei tiq
 堤圍	di wei
 堤拉米蘇	di lha mi su
@@ -42199,8 +41982,6 @@ VCD	vi shi di
 堵塞費	tu saq fi
 堵死	tu sy
 堵煞	tu saq
-堵着	tu dzoq
-堵着	tu zyuq
 堵勒	tu laq
 塊狀	khuei dzaon
 塌落去	thaq loq chi
@@ -42243,8 +42024,6 @@ VCD	vi shi di
 塗了	du laq
 塗家	du cia
 塗炭生靈	du thae sen lin
-塗着	du dzoq
-塗着	du zyuq
 塗的	du tiq
 塗膠	du ciau
 塗鴉	du ia
@@ -42272,8 +42051,6 @@ VCD	vi shi di
 塞舌爾羣島	se zhiq er jiun tau
 填了	di laq
 填個	di goq
-填着	di dzoq
-填着	di zyuq
 填鴨	di aq
 填鴨式	di aq shiq
 塵世	jin syu
@@ -42282,8 +42059,8 @@ VCD	vi shi di
 墊落去	di loq chi
 墊了	di laq
 墊個	di goq
-墊着	di dzoq
-墊着	di zyuq
+墊勒	di laq
+墊的	di tiq
 墊背	di pei
 墜下	dzei gho
 墜下來	dzei gho le
@@ -42341,16 +42118,12 @@ VCD	vi shi di
 壓埋	aq mAE
 壓壞	aq wa
 壓寨夫人	aq za fu gnin
-壓抑着	aq iq dzoq
-壓抑着	aq iq zyuq
 壓抑勒	aq iq laq
 壓歲	aq syu
 壓歲錢	aq syu ji
 壓死	aq sy
 壓煞	aq saq
 壓煞死	aq saq shi
-壓着	aq dzoq
-壓着	aq zyuq
 壓縮餅乾	aq soq pin kI
 壘上有人	lei zaon yeu gnin
 壘上無人	lei zaon vu gnin
@@ -42604,8 +42377,6 @@ VCD	vi shi di
 夜闌人靜	ya lae zyun zhin
 夜靜更深	ya zhin kan shin
 夜鳥	ya gniau
-夠不着	keu paq dzoq
-夠不着	keu paq zyuq
 夠勿着	keu vaq dzoq
 夠勿着	keu vaq zyuq
 夠弗着	keu vaq dzoq
@@ -42615,8 +42386,6 @@ VCD	vi shi di
 夠味	keu vi
 夠大	keu dou
 夠學	keu ghoq
-夠得着	keu taq dzoq
-夠得着	keu taq zyuq
 夠勒着	keu laq dzoq
 夠勒着	keu laq zyuq
 夢中人	mon tson gnin
@@ -44339,8 +44108,6 @@ VCD	vi shi di
 失業人員	syuq gniq zyun yu
 失業率	syuq gniq liq
 失物認領	syuq vaq zyun lin
-失着	syuq dzoq
-失着	syuq zyuq
 失職人員	syuq ciq zyun yu
 失誤	syuq nu
 失誤	syuq wu
@@ -44359,8 +44126,6 @@ VCD	vi shi di
 夾人	kaq gnin
 夾個	kaq goq
 夾山國家森林公園	kaq sae koq cia sen lin kon yu
-夾着	kaq dzoq
-夾着	kaq zyuq
 夾着尾巴	kaq dzoq mi po
 夾着尾巴	kaq zyuq mi po
 尾巴夾的	mi po kaq tiq
@@ -44369,8 +44134,6 @@ VCD	vi shi di
 夾起尾巴	kaq chi mi po
 夾雜	kaq dzaq
 夾雜在	kaq dzaq dze
-夾雜着	kaq dzaq dzoq
-夾雜着	kaq dzaq zyuq
 奇幻文學	ji wae ven yuq
 奇形怪狀	ji yin kua dzaon
 奇恥大辱	ji tshyu da zoq
@@ -44383,8 +44146,6 @@ VCD	vi shi di
 奏了	tseu laq
 奏於	tseu yu
 奏樂	tseu yuq
-奏着	tseu dzoq
-奏着	tseu zyuq
 奔行	pen yin
 套落去	thau loq chi
 套中人	thau tson gnin
@@ -44393,8 +44154,6 @@ VCD	vi shi di
 套問	thau ven
 套問出	thau ven tshyuq
 套狀	thau dzaon
-套着	thau dzoq
-套着	thau zyuq
 奠基人	di ci gnin
 奢望	so vaon
 奧克拉荷馬	au khaq lha ghou ma
@@ -44872,15 +44631,11 @@ VCD	vi shi di
 字面解釋	zy mi ka shiq
 存儲空間	dzen zyu khon ci
 存在問題	dzen dze ven di
-存在着	dzen dze dzoq
-存在着	dzen dze zyuq
 存在勒	dzen dze laq
 存款利率	dzen khun li liq
 存款準備率	dzen khun tsyun bei liq
 存款準備金率	dzen khun tsyun bei cin liq
 存活率	dzen waq liq
-存着	dzen dzoq
-存着	dzen zyuq
 存勒	dzen laq
 存的	dzen tiq
 孚衆望	fu tson vaon
@@ -45069,8 +44824,6 @@ VCD	vi shi di
 學的	ghoq tiq
 學個	ghoq goq
 學監	yuq kae
-學着	yuq dzoq
-學着	yuq zyuq
 學社	yuq dzo
 學科	yuq khou
 學科建設	yuq khou ci shiq
@@ -45230,8 +44983,6 @@ VCD	vi shi di
 守望相助	shieu vaon shian dzu
 守望者	shieu vaon tse
 守正不阿	shieu cin paq ou
-守着	shieu dzoq
-守着	shieu zyuq
 守勒	shieu laq
 守的	shieu tiq
 守護人	shieu wu gnin
@@ -45433,8 +45184,6 @@ VCD	vi shi di
 害人蟲	ghe gnin dzon
 害死	ghe sy
 害煞	ghe saq
-害着	ghe dzoq
-害着	ghe zyuq
 害鳥	ghe gniau
 宴樂	i yuq
 宵禁時間	shiau cin zy ci
@@ -45829,8 +45578,6 @@ VCD	vi shi di
 寫生	shia sen
 寫生畫	shia sen wo
 寫真集	shia cin jiq
-寫着	shia dzoq
-寫着	shia zyuq
 寫勒	shia laq
 寫的	shia tiq
 寬了	khun laq
@@ -45998,10 +45745,6 @@ VCD	vi shi di
 對望	tei vaon
 對望一眼	tei vaon iq ngae
 對焦範圍	tei ciau vae wei
-對着	tei dzoq
-對着	tei zyuq
-對着幹	tei dzoq kI
-對着幹	tei zyuq kI
 對稱空間	tei chin khon ci
 對苯二甲酸	tei pen er ciaq soe
 對苯二酚	tei pen er fen
@@ -46115,8 +45858,6 @@ VCD	vi shi di
 小耳朵	shiau gni to
 小耳朵	shiau ng to
 小舍人	shiau so gnin
-小處着手	shiau tshyu dzoq shieu
-小處着手	shiau tshyu zyuq shieu
 小行星	shiau yin shin
 小行星帶	shiau yin shin ta
 小行板	shiau yin pae
@@ -46197,8 +45938,6 @@ VCD	vi shi di
 就死	jieu sy
 就殲	jieu ci
 就沒	jieu mhaq
-就着	jieu dzoq
-就着	jieu zyuq
 就勒	jieu laq
 就行	jieu yin
 就被	jieu bei
@@ -46856,12 +46595,8 @@ VCD	vi shi di
 帶狀	ta dzaon
 帶狀皰疹	ta dzaon phau cin
 帶狀節目	ta dzaon ciq moq
-帶着	ta dzoq
-帶着	ta zyuq
 帶勒	ta laq
 帶的	ta tiq
-帶着孩子	ta dzoq ghe tsy
-帶着孩子	ta zyuq ghe tsy
 帶勒兒子	ta laq ng tsy
 帶勒囡	ta laq noe
 帶勒兒子囡	ta laq ng tsy noe
@@ -46876,8 +46611,6 @@ VCD	vi shi di
 帶薪休假	ta shin shieu ko
 帶路人	ta lu gnin
 帶鋸	ta ciu
-帶領着	ta lin dzoq
-帶領着	ta lin zyuq
 帶頭人	ta deu gnin
 帶髮修行	ta faq shieu yin
 常人	dzaon gnin
@@ -46911,8 +46644,6 @@ VCD	vi shi di
 幫個場子	paon goq jian tsy
 幫助別人	paon dzu biq gnin
 幫助學生	paon dzu ghoq san
-幫着	paon dzoq
-幫着	paon zyuq
 幫勒	paon laq
 干將莫邪	kI cian moq ya
 平了	bin laq
@@ -46969,8 +46700,6 @@ VCD	vi shi di
 平行埠	bin yin bu
 平行線	bin yin shi
 平行葉脈	bin yin yiq maq
-平躺着	bin thaon dzoq
-平躺着	bin thaon zyuq
 平躺的	bin thaon tiq
 平躺勒	bin thaon laq
 平面交叉	bin mi ciau tsho
@@ -47134,8 +46863,6 @@ VCD	vi shi di
 度假村	du cia tshen
 度日	du zyuq
 度日如年	du zyuq zyu gni
-度着	du dzoq
-度着	du zyuq
 座椅	zou i
 座標空間	zou piau khon ci
 庫克船長	khu khaq ZOE cian
@@ -47266,13 +46993,9 @@ VCD	vi shi di
 弄神弄鬼	lon zyun lon kuei
 弄鬼	lon kuei
 弓狀	kon dzaon
-弓着	kon dzoq
-弓着	kon zyuq
 弓勒	kon laq
 弓勒仔	kon laq tsy
 弓的	kon tiq
-弓着腰	kon dzoq iau
-弓着腰	kon zyuq iau
 腰弓勒仔	iau kon laq tsy
 腰弓的	iau kon tiq
 弓背	kon pei
@@ -47364,16 +47087,10 @@ VCD	vi shi di
 張家港	cian cia kaon
 張家港市	cian cia kaon zy
 張家長	cian ko jian
-張掛着	cian kuo dzoq
-張掛着	cian kuo zyuq
 張易之	cian yi tsy
 張朝陽	cian jiau yan
-張着	cian dzoq
-張着	cian zyuq
 張自忠	cian zy tson
 張誌家	cian tsy cia
-張開着	cian khe dzoq
-張開着	cian khe zyuq
 強中自有強中手	jian tson zy yeu jian tson shieu
 強了	jian laq
 強人	jian gnin
@@ -47409,13 +47126,9 @@ VCD	vi shi di
 強顏歡笑	jian yi hun shiau
 彆彆扭扭	piq piq gnieu gnieu
 彆扭	piq gnieu
-彆着	piq dzoq
-彆着	piq zyuq
 彈落去	dae loq chi
 彈了	dae laq
 彈出一個	dae tshyuq iq goq
-彈奏着	dae tseu dzoq
-彈奏着	dae tseu zyuq
 彈射座椅	dae zhiq zou i
 彈布爾	dae pu er
 彈指之間	dae tsy tsy ci
@@ -47423,10 +47136,6 @@ VCD	vi shi di
 彈撥樂器	dae paq yuq chi
 彈斥	dae chiq
 彈淚	dae lei
-彈着	dae dzoq
-彈着	dae zyuq
-彈着點	dae dzoq ti
-彈着點	dae zyuq ti
 彈簧椅	dae waon i
 彈道學	dae dau yuq
 彌天大罪	mi thi da zei
@@ -47438,10 +47147,6 @@ VCD	vi shi di
 彎落去	uae loq chi
 彎曲狀	uae chiuq dzaon
 彎曲空間	uae chiuq khon ci
-彎着	uae dzoq
-彎着	uae zyuq
-彎着腰	uae dzoq iau
-彎着腰	uae zyuq iau
 彎腰哈背	uae iau ha pei
 彎腰駝背	uae iau dou pei
 彙集	wei jiq
@@ -47511,8 +47216,6 @@ VCD	vi shi di
 待在家裏	de dze cia li
 待嫁女兒心	de ko gniu er shin
 待機時間	de ci zy ci
-待着	de dzoq
-待着	de zyuq
 待勒	de laq
 很久了	hen cieu lei
 很久沒有	hen cieu maq yeu
@@ -47601,8 +47304,6 @@ VCD	vi shi di
 得爾塔	taq er thaq
 得獎人	taq cian gnin
 得理不饒人	taq li paq gniau gnin
-得着	taq dzoq
-得着	taq zyuq
 得票率	taq phiau liq
 得罪人	taq zei gnin
 得隴望蜀	taq lon vaon dzoq
@@ -47643,8 +47344,6 @@ VCD	vi shi di
 復蹈前轍	foq dau zhi chiq
 復魄	foq phaq
 循化撒拉族自治縣	zyun huo saq lha dzoq zy dzyu yu
-循着	zyun dzoq
-循着	zyun zyuq
 微分	vi fen
 微分學	vi fen yuq
 微分幾何	vi fen ci ghou
@@ -47755,12 +47454,8 @@ VCD	vi shi di
 忍了	zyun laq
 忍受不了	zyun zhieu paq liau
 忍受得了	zyun zhieu taq liau
-忍受着	zyun zhieu dzoq
-忍受着	zyun zhieu zyuq
 忍垢偷生	zyun keu theu sen
 忍痛犧牲	zyun thon shi sen
-忍着	zyun dzoq
-忍着	zyun zyuq
 忍辱偷生	zyun zoq theu sen
 志分	tsy fen
 志士仁人	tsy zy zyun zyun
@@ -47793,8 +47488,6 @@ VCD	vi shi di
 忙人	maon gnin
 忙得不可開交	maon taq paq khou khe ciau
 忙昏了頭	maon huen laq deu
-忙着	maon dzoq
-忙着	maon zyuq
 忙勒	maon laq
 忠人之托	tson gnin tsy thoq
 忠南大學校	tson nEI da ghoq yau
@@ -47842,8 +47535,6 @@ VCD	vi shi di
 念念不忘	nE nE paq vaon
 念日	nE zyuq
 念生	nE sen
-念着	nE dzoq
-念着	nE zyuq
 念茲在茲	nE tsy dze tsy
 忽大忽小	huaq dou huaq shiau
 忽然之間	huaq zoe tsy ci
@@ -47854,8 +47545,6 @@ VCD	vi shi di
 怎麼了	tsen mou laq
 怎麼啦	tsen mou laq
 怎麼得了	tsen mou taq liau
-怎麼着	tsen mou dzoq
-怎麼着	tsen mou zyuq
 怎麼解決	tsen mou ka ciuq
 怎麼辦啊	tsen mou bae gha
 怎麼辦啊	tsen mou bae a
@@ -47888,8 +47577,6 @@ VCD	vi shi di
 急煞	ciq saq
 急水也有回頭浪	ciq syu gha yeu wei deu laon
 急水也有回頭浪	ciq syu ya yeu wei deu laon
-急着	ciq dzoq
-急着	ciq zyuq
 急勒	ciq laq
 急行軍	ciq yin ciun
 性交	shin ciau
@@ -47923,8 +47610,6 @@ VCD	vi shi di
 怪爾	kua ng
 怪儂	kua nou
 怪味	kua vi
-怪着	kua dzoq
-怪着	kua zyuq
 怯生	chiq sen
 怯生生	chiq sen sen
 怯生生地	chiq sen sen di
@@ -47977,8 +47662,6 @@ VCD	vi shi di
 悔過自新	huei kou zy shin
 悠然自得	ieu zoe zy taq
 悠然自適	ieu zoe zy shiq
-悠着	ieu dzoq
-悠着	ieu zyuq
 悠長	ieu jian
 悠閒自在	ieu ghae zy dze
 患了	wae laq
@@ -47995,13 +47678,9 @@ VCD	vi shi di
 悶死	mhen sy
 悶煞	mhen saq
 悶煞死	mhen saq shi
-悶着	mhen dzoq
-悶着	mhen zyuq
 悶勒	mhen laq
 悶勒仔	mhen laq tsy
 悶的	mhen tiq
-悶着頭	mhen dzoq deu
-悶着頭	mhen zyuq deu
 頭悶勒	deu mhen laq
 頭悶勒仔	deu mhen laq tsy
 頭悶的	deu mhen tiq
@@ -48071,11 +47750,7 @@ VCD	vi shi di
 想望	shian vaon
 想死	shian sy
 想當然耳	shian taon zoe er
-想着	shian dzoq
-想着	shian zyuq
 想認	shian gnin
-想過着	shian kou dzoq
-想過着	shian kou zyuq
 惶恐狀	waon khon dzaon
 惶惶不可終日	waon waon paq khou tson zyuq
 惹事生非	zo zy sen fi
@@ -48098,8 +47773,6 @@ VCD	vi shi di
 意出望外	i tshyuq vaon nga
 意味	i vi
 意味深長	i vi shin jian
-意味着	i vi dzoq
-意味着	i vi zyuq
 意外風波	i nga fon pou
 意大利	i da li
 意大利人	i da li gnin
@@ -48113,8 +47786,6 @@ VCD	vi shi di
 意樂	i loq
 意甲	i ciaq
 意見分歧	i ci fen ji
-意謂着	i wei dzoq
-意謂着	i wei zyuq
 愚人	gniu zyun
 愚人節	gniu zyun ciq
 愚人節快樂	gniu zyun ciq khua loq
@@ -48146,8 +47817,6 @@ VCD	vi shi di
 愛恨分明	e ghen fen min
 愛惡分明	e u fen min
 愛憎分明	e tsen fen min
-愛戀着	e li dzoq
-愛戀着	e li zyuq
 愛戴	e ta
 愛斯基摩人	e sy ci mou gnin
 愛新覺羅	e shin ciuq lou
@@ -48170,10 +47839,6 @@ VCD	vi shi di
 愛的人	e tiq gnin
 愛個人	e goq gnin
 愛個人	e ghoq gnin
-愛着	e dzoq
-愛着	e zyuq
-愛着你	e dzoq gni
-愛着你	e zyuq gni
 愛自己	e zy ci
 愛自家	e zhi ko
 愛莫利維爾	e moq li vi er
@@ -48206,8 +47871,6 @@ VCD	vi shi di
 感覺真好	kI ciuq cin hau
 感覺神經	kI ciuq zyun cin
 愣了	len laq
-愣着	len dzoq
-愣着	len zyuq
 慈善家	dzy zoe cia
 慈安太后	dzy EI tha gheu
 慈濟大學	dzy ci da ghoq
@@ -48234,8 +47897,6 @@ VCD	vi shi di
 慢下去	mae gho chi
 慢了	mae laq
 慢了	mae lei
-慢着	mae dzoq
-慢着	mae zyuq
 慢行	mae yin
 慢行道	mae yin dau
 慢長	mae jian
@@ -48262,8 +47923,6 @@ VCD	vi shi di
 憋死	piq sy
 憋煞	piq saq
 憋煞死	piq saq shi
-憋着	piq dzoq
-憋着	piq zyuq
 憋勒	piq laq
 憋勒仔	piq laq tsy
 憋的	piq tiq
@@ -48280,8 +47939,6 @@ VCD	vi shi di
 憑儂啥人	bin nou soq gnin
 憑單日記	bin tae zyuq ci
 憑單日記帳	bin tae zyuq ci cian
-憑着	bin dzoq
-憑着	bin zyuq
 憑勒	bin laq
 憑藉	bin cia
 憑藉着	bin cia dzoq
@@ -48307,8 +47964,6 @@ VCD	vi shi di
 應用數學	in yon su yuq
 應用科學	in yon khou yuq
 應用程式介面	in yon jin shiq cia mi
-應着	in dzoq
-應着	in zyuq
 應考生	in khau san
 應試教育	in sy ciau yuq
 應該	in ke
@@ -48376,8 +48031,6 @@ VCD	vi shi di
 懷疑派	wae gni pha
 懷疑者	wae gni tse
 懷疑論	wae gni len
-懷着	wae dzoq
-懷着	wae zyuq
 懷祿	wae loq
 懷素	wae su
 懷舊	wae jieu
@@ -48390,11 +48043,7 @@ VCD	vi shi di
 懷集縣	wae jiq yu
 懸乎	yu fu
 懸壺濟世	yu wu ci syu
-懸掛着	yu kuo dzoq
-懸掛着	yu kuo zyuq
 懸樑自盡	yu lian zy jin
-懸着	yu dzoq
-懸着	yu zyuq
 懸賞分	yu saon fen
 懾人	shiq gnin
 懿行	yi yin
@@ -48548,8 +48197,6 @@ VCD	vi shi di
 我看俉	ngo khI ng
 我看爾	ngo khI ng
 我看儂	ngo khI nou
-我看着	ngo khI dzoq
-我看着	ngo khI zyuq
 我看勒	ngo khI laq
 我看的	ngo khI tiq
 我知道你	ngo tsyu dau gni
@@ -48651,8 +48298,6 @@ VCD	vi shi di
 戰鬥轟炸機	tsoe teu hon tso ci
 戲中人	shi tson gnin
 戲劇家	shi jiq cia
-戲弄着	shi lon dzoq
-戲弄着	shi lon zyuq
 戲法人人會變	shi faq gnin gnin wei pi
 戴落去	ta loq chi
 戴落去	te loq chi
@@ -48726,8 +48371,6 @@ VCD	vi shi di
 扇墜	shi dzei
 扇狀	shi dzaon
 手交	shieu ciau
-手包着	shieu pau dzoq
-手包着	shieu pau zyuq
 手包勒	shieu pau laq
 手包的	shieu pau tiq
 手大	shieu dou
@@ -48735,8 +48378,6 @@ VCD	vi shi di
 手扶拖拉	shieu vu thou lha
 手扶拖拉機	shieu vu thou lha ci
 手抓羊肉	shieu tsa yan gnioq
-手抱着	shieu bau dzoq
-手抱着	shieu bau zyuq
 手抱勒	shieu bau laq
 手抱的	shieu bau tiq
 手拉	shieu lha
@@ -48744,23 +48385,13 @@ VCD	vi shi di
 手拉手	shieu lha shieu
 手拉葫蘆	shieu lha wu lu
 手拿	shieu no
-手拿着	shieu no dzoq
-手拿着	shieu no zyuq
 手馱的	shieu dou tiq
 手裏馱的	shieu li dou tiq
 手馱勒	shieu dou laq
-手持着	shieu dzy dzoq
-手持着	shieu dzy zyuq
-手持着	shieu ji dzoq
-手持着	shieu ji zyuq
 手指甲	shieu tsy khaq
-手握着	shieu oq dzoq
-手握着	shieu oq zyuq
 手機電池	shieu ci di ji
 手無縛雞之力	shieu Wu bou ci tsy liq
 手無縛雞之力	shieu vu bou ci tsy liq
-手牽着	shieu chi dzoq
-手牽着	shieu chi zyuq
 手牽勒仔	shieu chi laq tsy
 手牽的	shieu chi tiq
 手背	shieu pei
@@ -48844,8 +48475,6 @@ VCD	vi shi di
 打發時間	tan faq zy ci
 打發辰光	tan faq zyun kuaon
 打盹	tan ten
-打着	tan dzoq
-打着	tan zyuq
 打勒	tan laq
 打破沙鍋問到底	tan phou so kou men tau ti
 打硬仗	tan ngan cian
@@ -48924,8 +48553,8 @@ VCD	vi shi di
 扣式電池	kheu shiq di ji
 扣牌	kheu ba
 扣率	kheu liq
-扣着	kheu dzoq
-扣着	kheu zyuq
+扣的	kheu tiq
+扣勒	kheu laq
 扣點分數	kheu ti fen su
 扭住	gnieu dzyu
 扭來	gnieu le
@@ -48952,8 +48581,6 @@ VCD	vi shi di
 扭擺	gnieu pa
 扭斷	gnieu doe
 扭曲	gnieu chiuq
-扭着	gnieu dzoq
-扭着	gnieu zyuq
 扭的	gnieu tiq
 扭矩	gnieu ciu
 扭筋	gnieu cin
@@ -48977,10 +48604,6 @@ VCD	vi shi di
 扭過頭去	gnieu kou deu chi
 扭開	gnieu khe
 扭頭	gnieu deu
-扮演着	pae yi dzoq
-扮演着	pae yi zyuq
-扮着	pae dzoq
-扮着	pae zyuq
 扮勒	pae laq
 扮的	pae tiq
 扮鬼	pae kuei
@@ -48989,8 +48612,6 @@ VCD	vi shi di
 扯去	tsho chi
 扯家常	tsho cia dzaon
 扯拉	tsho lha
-扯着	tsho dzoq
-扯着	tsho zyuq
 𠡒勒	tei laq
 扯的	tsho tiq
 𠡒的	tei tiq
@@ -49001,20 +48622,12 @@ VCD	vi shi di
 扶去	vu chi
 扶手椅	vu shieu i
 扶手椅裏	vu shieu i li
-扶持着	vu dzy dzoq
-扶持着	vu dzy zyuq
-扶持着	vu ji dzoq
-扶持着	vu ji zyuq
 扶椅	vu i
-扶着	vu dzoq
-扶着	vu zyuq
 批落去	phi loq chi
 批假	phi ko
 批出去	phi tshyuq chi
 批哩啪啦	phi li phaq la
 批哩啪啦	phi lhi phaq lha
-批着	phi dzoq
-批着	phi zyuq
 批評家	phi bin cia
 批評與自我批評	phi bin yu zy ngo phi bin
 批量生產	phi lian sen tshae
@@ -49022,16 +48635,12 @@ VCD	vi shi di
 扼死	aq sy
 扼煞	aq saq
 找不到了	tsau paq tau lei
-找不着	tsau paq dzoq
-找不着	tsau paq zyuq
 找不自在	tsau paq zy dze
 找了	tsau laq
 找人	tsau gnin
 找你	tsau gni
 找個	tsau goq
 找死	tsau sy
-找着	tsau dzoq
-找着	tsau zyuq
 找藉口	tsau cia kheu
 承保人	jin pau gnin
 承包人	jin pau gnin
@@ -49044,8 +48653,6 @@ VCD	vi shi di
 承望	jin vaon
 承租人	jin tsu gnin
 承蒙指教	jin mon tsy ciau
-承襲着	jin zhiq dzoq
-承襲着	jin zhiq zyuq
 承認	jin zyun
 承認在	jin zyun dze
 承認控罪	jin zyun khon zei
@@ -49077,8 +48684,6 @@ VCD	vi shi di
 抄落去	tshau loq chi
 抄家	tshau cia
 抄沒	tshau maq
-抄着	tshau dzoq
-抄着	tshau zyuq
 抄勒	tshau laq
 抄的	tshau tiq
 抆淚	ven lei
@@ -49088,14 +48693,6 @@ VCD	vi shi di
 把你	po gni
 把你幹	po gni kI
 把個	po goq
-把持着	po dzy dzoq
-把持着	po dzy zyuq
-把持着	po ji dzoq
-把持着	po ji zyuq
-把握着	po oq dzoq
-把握着	po oq zyuq
-把着	po dzoq
-把着	po zyuq
 抒懷	syu wae
 抓上	tsa zaon
 抓上來	tsa zaon le
@@ -49146,10 +48743,6 @@ VCD	vi shi di
 抓狂	tsa guaon
 抓獲	tsa ghoq
 抓癢	tsa yan
-抓着	tsa dzoq
-抓着	tsa zyuq
-抓着不放	tsa dzoq paq faon
-抓着不放	tsa zyuq paq faon
 抓瞎	tsa haq
 抓破	tsa phou
 抓破臉	tsa phou li
@@ -49209,8 +48802,6 @@ VCD	vi shi di
 抖落去	teu loq chi
 抖了	teu laq
 抖了起來	teu laq chi le
-抖動着	teu don dzoq
-抖動着	teu don zyuq
 抗了	khaon laq
 抗原決定簇	khaon gniu ciuq din tshoq
 抗壞血酸	khaon wa shiuq soe
@@ -49229,8 +48820,6 @@ VCD	vi shi di
 抗核加固	khaon ghaq cia ku
 抗爭	khaon tsen
 抗生素	khaon sen su
-抗着	khaon dzoq
-抗着	khaon zyuq
 抗美援朝	khaon mei yu jiau
 折落去	ciq loq chi
 折價率	ciq ko liq
@@ -49247,25 +48836,15 @@ VCD	vi shi di
 折長補短	ciq jian pu toe
 披星戴月	phi shin te yuq
 披甲	phi ciaq
-披着	phi dzoq
-披着	phi zyuq
 披頭四樂團	phi deu sy yuq doe
 披麻戴孝	phi mo ta hau
 披麻戴孝	phi mo te hau
 抱落去	bau loq chi
 抱回家	bau wei cia
 抱憾終生	bau he tson sen
-抱持着	bau dzy dzoq
-抱持着	bau ji dzoq
-抱持着	bau dzy zyuq
-抱持着	bau ji zyuq
-抱着	bau dzoq
-抱着	bau zyuq
 抱勒	bau laq
 抱勒仔	bau laq tsy
 抱的	bau tiq
-抱着你	bau dzoq gni
-抱着你	bau zyuq gni
 抱勒你	bau laq ng
 抱勒俉	bau laq ng
 抱勒爾	bau laq ng
@@ -49281,8 +48860,6 @@ VCD	vi shi di
 抵擋弗了	ti taon vaq liau
 抵擋勿了	ti taon vaq liau
 抵死	ti sy
-抵着	ti dzoq
-抵着	ti zyuq
 抵勒	ti laq
 抵的	ti tiq
 抹一鼻子	maq iq biq tsy
@@ -49293,29 +48870,17 @@ VCD	vi shi di
 抹去	maq chiu
 押尾	aq vi
 押櫃	aq guei
-押着	aq dzoq
-押着	aq zyuq
 押勒	aq laq
 押的	aq tiq
 抽乾	chieu kI
 抽問	chieu ven
 抽時間	chieu zy ci
 抽辰光	chieu zyun kuaon
-抽着	chieu dzoq
-抽着	chieu zyuq
 抽了	chieu laq
 抽長	chieu cian
-抿着	min dzoq
-抿着	min zyuq
 抿勒	min laq
 抿勒仔	min laq tsy
 抿的	min tiq
-抿着嘴	min dzoq tsyu
-抿着嘴	min zyuq tsyu
-抿着嘴笑	min dzoq tsyu shiau
-抿着嘴笑	min zyuq tsyu shiau
-拄着	tsyu dzoq
-拄着	tsyu zyuq
 拄勒	tsyu laq
 拄的	tsyu tiq
 拆落去	tshaq loq chi
@@ -49600,25 +49165,17 @@ VCD	vi shi di
 拋出去	phau tshyuq chi
 拋去	phau chi
 拋戈棄甲	phau kou chi ciaq
-拌着	bun dzoq
-拌着	bun zyuq
 拌勒	bun laq
 拌的	bun tiq
 拍落去	phaq loq chi
 拍了拍	phaq laq phaq
 拍出去	phaq tshyuq chi
 拍去	phaq chi
-拍打着	phaq tan dzoq
-拍打着	phaq tan zyuq
 拍板成交	phaq pae jin ciau
-拍着	phaq dzoq
-拍着	phaq zyuq
 拍勒	phaq laq
 拍肩膀	phaq ci paon
 拍胸脯	phaq shion bu
 拍賣行	phaq ma ghaon
-拎着	lhin dzoq
-拎着	lhin zyuq
 拎的	lhin tiq
 拎勒	lhin laq
 拏空	no khon
@@ -49627,8 +49184,6 @@ VCD	vi shi di
 拐落去	kua loq chi
 拐了	kua laq
 拐人	kua gnin
-拐着	kua dzoq
-拐着	kua zyuq
 拒拿	jiu no
 拒斥	jiu chiq
 拓務省	thoq vu san
@@ -49641,8 +49196,6 @@ VCD	vi shi di
 拔了蘿蔔地皮寬	baq laq lou boq di bi khun
 拔個	baq goq
 拔地參天	baq di tshae thi
-拔着	baq dzoq
-拔着	baq zyuq
 拔苗助長	baq miau dzu cian
 拖乾淨	thou kI zhin
 拖清爽	thou chin saon
@@ -49663,8 +49216,6 @@ VCD	vi shi di
 拖拖沓沓	thou thou thaq thaq
 拖時間	thou zy ci
 拖沓	thou thaq
-拖着	thou dzoq
-拖着	thou zyuq
 拖勒	thou laq
 拖的	thou tiq
 拖長	thou jian
@@ -49712,8 +49263,6 @@ VCD	vi shi di
 拜望	pa vaon
 拜火教	pa hou ciau
 拜物教	pa vaq ciau
-拜着	pa dzoq
-拜着	pa zyuq
 拜科努爾	pa khou nu er
 拜科努爾航天發射基地	pa khou nu er ghaon thi faq zhiq ci di
 拜託了	pa thoq lei
@@ -49724,15 +49273,11 @@ VCD	vi shi di
 拱手行禮	kon shieu yin li
 拱手讓人	kon shieu gnian gnin
 拱狀	kon dzaon
-拱着	kon dzoq
-拱着	kon zyuq
 拱勒	kon laq
 拱勒仔	kon laq tsy
 拱仔	kon tsy
 拱背	kon pei
 拳腳交加	jiu ciaq ciau cia
-拴着	soe dzoq
-拴着	soe zyuq
 拴勒	soe laq
 拴的	soe tiq
 拷問	khau ven
@@ -49741,11 +49286,7 @@ VCD	vi shi di
 拼了命	phin laq min
 拼板膠	phin pae kau
 拼爭	phin tsan
-拼着	phin dzoq
-拼着	phin zyuq
 拼勒	phin laq
-拽着	yiq dzoq
-拽着	yiq zyuq
 拾人涕唾	zyuq zyun thi thu
 拾人牙慧	zyuq zyun ngo wei
 拾荒老人	zyuq huaon lau gnin
@@ -49771,14 +49312,6 @@ VCD	vi shi di
 拿摩溫	na mou uen
 拿撒勒	na saq laq
 拿波里	na pou li
-拿着	no dzoq
-拿着	na dzoq
-拿着	no zyuq
-拿着	na zyuq
-拿着雞毛當令箭	no dzoq ci mau taon lin ci
-拿着雞毛當令箭	na dzoq ci mau taon lin ci
-拿着雞毛當令箭	no zyuq ci mau taon lin ci
-拿着雞毛當令箭	na zyuq ci mau taon lin ci
 拿破侖波拿巴	na phou len pou na pa
 拿破崙	na phou len
 拿破崙帝國	na phou len ti koq
@@ -49821,8 +49354,6 @@ VCD	vi shi di
 指甲剪	tsy khaq ci
 指甲油	tsy khaq yeu
 指甲蓋	tsy khaq ke
-指着	tsy dzoq
-指着	tsy zyuq
 指勒	tsy laq
 指示牌	tsy zy ba
 指縫間	tsy von ci
@@ -49837,11 +49368,7 @@ VCD	vi shi di
 按日計費	EI gniq ci fi
 按日計酬	EI gniq ci jieu
 按時間先後	EI zy ci shi gheu
-按照着	EI ciau dzoq
-按照着	EI ciau zyuq
 按理出牌	EI li tshyuq ba
-按着	EI dzoq
-按着	EI zyuq
 按需分配	EI syu fen phei
 挑落去	thiau loq chi
 挑了	thiau laq
@@ -49850,8 +49377,6 @@ VCD	vi shi di
 挑挑揀揀	thiau thiau ci ci
 挑挑揀揀	thiau thiau kae kae
 挑撥離間	thiau paq li ci
-挑着	thiau dzoq
-挑着	thiau zyuq
 挑勒	thiau laq
 挑的	thiau tiq
 挖落去	uaq loq chi
@@ -49869,8 +49394,6 @@ VCD	vi shi di
 挨家	a cia
 挨家挨戶	a cia a wu
 挨拿	a na
-挨着	a dzoq
-挨着	a zyuq
 挨勒	a laq
 挨的	a tiq
 挨肩搭背	a ci taq pei
@@ -49887,8 +49410,6 @@ VCD	vi shi di
 挺了	thin laq
 挺出去	thin tshyuq chi
 挺大	thin dou
-挺着	thin dzoq
-挺着	thin zyuq
 挺勒	thin laq
 挺的	thin tiq
 挽回不了	uae wei paq liau
@@ -49898,20 +49419,12 @@ VCD	vi shi di
 挽救弗了	uae cieu vaq liau
 挽救勿了	uae cieu vaq liau
 挽救兒童	uae cieu er don
-挽着	uae dzoq
-挽着	uae zyuq
 挽勒	uae laq
 挽的	uae tiq
-挾着	yaq dzoq
-挾着	yaq zyuq
 挾勒	yaq laq
-捂着	u dzoq
-捂着	u zyuq
 捂的	u tiq
 捅了	thon laq
 捆了	khuen laq
-捆着	khuen dzoq
-捆着	khuen zyuq
 捆勒	khuen laq
 捉落去	tsoq loq chi
 捉拿	tsoq na
@@ -49922,8 +49435,6 @@ VCD	vi shi di
 捏了一把汗	gniaq laq iq po ghEI
 捏死	gniaq sy
 捏煞	gniaq saq
-捏着	gniaq dzoq
-捏着	gniaq zyuq
 捏勒	gniaq laq
 捏的	gniaq tiq
 捏仔	gniaq tsy
@@ -49939,8 +49450,6 @@ VCD	vi shi di
 捐贈人	ciu dzen gnin
 捕影繫風	bu in shi fon
 捕拿	bu na
-捧着	phon dzoq
-捧着	phon zyuq
 捧腹大笑	phon foq da shiau
 捨下你	so gho gni
 捨去	so chiu
@@ -50005,10 +49514,6 @@ VCD	vi shi di
 掉個	diau kou
 掉淚	diau lei
 掉眼淚	diau ngae li
-掉着	diau dzoq
-掉着	diau zyuq
-掌握着	tsaon oq dzoq
-掌握着	tsaon oq zyuq
 掌櫃	tsaon guei
 掌櫃的	tsaon guei tiq
 掌權人	tsaon jiu gnin
@@ -50023,8 +49528,6 @@ VCD	vi shi di
 掐架	khaq cia
 掐死	khaq sy
 掐煞	khaq saq
-掐着	khaq dzoq
-掐着	khaq zyuq
 掐勒	khaq laq
 掐頭去尾	khaq deu chiu vi
 排落去	ba loq chi
@@ -50037,16 +49540,12 @@ VCD	vi shi di
 排斥異己	ba chiq yi ci
 排架	ba cia
 排水渠	ba syu jiu
-排着	ba dzoq
-排着	ba zyuq
 排勒	ba laq
 排行	ba ghaon
 排行榜	ba ghaon paon
 排起長隊	ba chi jian dei
 掘去	jiuq chi
 掘墓工人	jiuq mou kon gnin
-掙扎着	tsen tsaq dzoq
-掙扎着	tsen tsaq zyuq
 掛落去	kuo loq chi
 掛了	kuo laq
 掛個	kuo goq
@@ -50058,11 +49557,7 @@ VCD	vi shi di
 掛架	kuo ko
 掛牌	kuo ba
 掛牌匯率	kuo ba wei liq
-掛着	kuo dzoq
-掛着	kuo zyuq
 掛衣架	kuo i ko
-掛記着	kuo ci dzoq
-掛記着	kuo ci zyuq
 掛頭牌	kuo deu ba
 掠人之美	liaq zyun tsy mei
 採落去	tshe loq chi
@@ -50085,8 +49580,6 @@ VCD	vi shi di
 探個究竟	thei kou cieu cin
 探家	thei cia
 探望	thei maon
-探着	thei dzoq
-探着	thei zyuq
 探親假	thei chin ko
 探長	thei cian
 探險家	thei shi cia
@@ -50105,14 +49598,8 @@ VCD	vi shi di
 接洽	ciq chiaq
 接洽人	ciq chiaq gnin
 接班人	ciq pae gnin
-接着	ciq dzoq
-接着	ciq zyuq
 接勒	ciq laq
-接着就是	ciq dzoq jieu zy
-接着就是	ciq zyuq jieu zy
 接落就是	ciq loq jieu zy
-接着是	ciq dzoq zy
-接着是	ciq zyuq zy
 接勒是	ciq laq zy
 接落是	ciq loq zy
 接種率	ciq tson liq
@@ -50144,26 +49631,16 @@ VCD	vi shi di
 推斥	thei chiq
 推斥力	thei chiq liq
 推波助瀾	thei pou dzu lae
-推着	thei dzoq
-推着	thei zyuq
 推勒	thei laq
 推背圖	thei pei du
 推行	thei yin
 掩人耳目	i zyun er moq
 掩埋	i mAE
 掩埋場	i mAE jian
-掩映着	i in dzoq
-掩映着	i in zyuq
 掩沒	i maq
-掩着	i dzoq
-掩着	i zyuq
 掩耳	i er
 掩耳盜鈴	i er dau lin
 掩耳盜鐘	i er dau tson
-掩蓋着	i ke dzoq
-掩蓋着	i ke zyuq
-掩護着	i wu dzoq
-掩護着	i wu zyuq
 掩門而去	i men er chiu
 掩面大哭	i mi da khoq
 掩鼻	i biq
@@ -50171,16 +49648,12 @@ VCD	vi shi di
 措大	tshu da
 掰了	paq laq
 揉捻	gnieu gni
-揉着	gnieu dzoq
-揉着	gnieu zyuq
 揉勒	gnieu laq
 揉雜	gnieu dzaq
 揍了	tseu laq
 揍人	tseu gnin
 揍死	tseu sy
 描了	miau laq
-描着	miau dzoq
-描着	miau zyuq
 提落去	di loq chi
 提了	di laq
 提交	di ciau
@@ -50204,8 +49677,6 @@ VCD	vi shi di
 提爾	di er
 提爾市	di er zy
 提琴家	di jin cia
-提着	di dzoq
-提着	di zyuq
 提勒	di laq
 提行	di yin
 提高學生	di kau ghoq san
@@ -50218,8 +49689,6 @@ VCD	vi shi di
 插落去	tshaq loq chi
 插架	tshaq ko
 插班生	tshaq pae san
-插着	tshaq dzoq
-插着	tshaq zyuq
 插勒	tshaq laq
 插的	tshaq tiq
 揚名世界	yan min syu ka
@@ -50242,15 +49711,9 @@ VCD	vi shi di
 換學	wun yuq
 換手率	wun shieu liq
 換教	wun ciau
-換着	wun dzoq
-換着	wun zyuq
 換勒	wun laq
 換行	wun ghaon
 握落去	oq loq chi
-握着	oq dzoq
-握着	oq zyuq
-揣着	tshoe dzoq
-揣着	tshoe zyuq
 揩乾	kha kI
 揪鬚	cieu syu
 揭人隱私	ciq gnin in sy
@@ -50262,8 +49725,6 @@ VCD	vi shi di
 揮斥	huei chiq
 揮淚	huei lei
 揮灑自如	huei sa zy zyu
-揮着	huei dzoq
-揮着	huei zyuq
 揮勒	huei laq
 援交	yu ciau
 援交妹	yu ciau mei
@@ -50293,11 +49754,7 @@ VCD	vi shi di
 搖滾樂	yau kuen yuq
 搖滾樂團	yau kuen yuq doe
 搖滾樂手	yau kuen yuq shieu
-搖着	yau dzoq
-搖着	yau zyuq
 搖勒	yau laq
-搖着頭	yau dzoq deu
-搖着頭	yau zyuq deu
 搖勒頭	yau laq deu
 搖頭擺尾	yau deu pa vi
 搗亂分子	tau loe ven tsy
@@ -50320,8 +49777,6 @@ VCD	vi shi di
 搬了	pun laq
 搬家	pun cia
 搬家公司	pun cia kon sy
-搬着	pun dzoq
-搬着	pun zyuq
 搬勒	pun laq
 搬石頭砸自己的腳	pun zaq deu tsaq zy ci tiq ciaq
 搬起石頭砸自己的腳	pun chi zaq deu tsaq zy ci tiq ciaq
@@ -50329,8 +49784,6 @@ VCD	vi shi di
 搭咕	taq ku
 搭背	taq pei
 搭腳手架	taq ciaq shieu ko
-搭配着	taq phei dzoq
-搭配着	taq phei zyuq
 搭配勒	taq phei laq
 搶落去	chian loq chi
 搶了	chian laq
@@ -50338,12 +49791,8 @@ VCD	vi shi di
 搶救人質	chian cieu zyun tsy
 搶時間	chian zy ci
 搶生意	chian san i
-搶着	chian dzoq
-搶着	chian zyuq
 搶勒	chian laq
 搶風航行	chian fon ghaon yin
-搽着	dzo dzoq
-搽着	dzo zyuq
 搽勒	dzo laq
 摔落去	saq loq chi
 摔了	saq laq
@@ -50359,8 +49808,6 @@ VCD	vi shi di
 摘自	tsaq zy
 摘選自	tsaq soe zy
 摘錄自	tsaq loq zy
-摟着	leu dzoq
-摟着	leu zyuq
 摟勒	leu laq
 摧枯拉朽	tshei khu lha shieu
 摧眉折腰	tshei mei ciq iau
@@ -50387,40 +49834,26 @@ VCD	vi shi di
 摩門教徒	mou men ciau du
 摩門教會	mou men ciau wei
 摸落去	moq loq chi
-摸不着	moq paq dzoq
-摸不着	moq paq zyuq
 摸弗着	moq vaq dzoq
 摸弗着	moq vaq zyuq
 摸勿着	moq vaq dzoq
 摸勿着	moq vaq zyuq
-摸不着邊	moq paq dzoq pi
-摸不着邊	moq paq zyuq pi
 摸弗着邊	moq vaq dzoq pi
 摸弗着邊	moq vaq zyuq pi
 摸勿着邊	moq vaq dzoq pi
 摸勿着邊	moq vaq zyuq pi
-摸不着邊際	moq paq dzoq pi ci
-摸不着邊際	moq paq zyuq pi ci
 摸弗着邊際	moq vaq dzoq pi ci
 摸弗着邊際	moq vaq zyuq pi ci
 摸勿着邊際	moq vaq dzoq pi ci
 摸勿着邊際	moq vaq zyuq pi ci
-摸不着頭腦	moq paq dzoq deu nau
-摸不着頭腦	moq paq zyuq deu nau
 摸弗着頭腦	moq vaq dzoq deu nau
 摸弗着頭腦	moq vaq zyuq deu nau
 摸勿着頭腦	moq vaq dzoq deu nau
 摸勿着頭腦	moq vaq zyuq deu nau
 摸了	moq laq
 摸吧	moq pa
-摸得着	moq taq dzoq
-摸得着	moq taq zyuq
 摸勒着	moq laq dzoq
 摸勒着	moq laq zyuq
-摸着	moq dzoq
-摸着	moq zyuq
-摸着石頭過河	moq dzoq zaq deu kou ghou
-摸着石頭過河	moq zyuq zaq deu kou ghou
 摹狀	mou dzaon
 摺合椅	ciq ghaq i
 摺椅	ciq i
@@ -50429,8 +49862,6 @@ VCD	vi shi di
 摻雜	tshae dzaq
 撇去	phiq chiu
 撈乾	lhau kI
-撈着	lhau dzoq
-撈着	lhau zyuq
 撈勒	lhau laq
 撈勒仔	lhau laq tsy
 撈的	lhau tiq
@@ -50441,8 +49872,6 @@ VCD	vi shi di
 撐死	tshan sy
 撐煞	tshan saq
 撐煞死	tshan saq shi
-撐着	tshan dzoq
-撐着	tshan zyuq
 撐勒	tshan laq
 撐勒仔	tshan laq tsy
 撐的	tshan tiq
@@ -50525,10 +49954,6 @@ VCD	vi shi di
 擁兵自衛	ion pin zy wei
 擁兵自重	ion pin zy dzon
 擁戴	ion te
-擁抱着	ion bau dzoq
-擁抱着	ion bau zyuq
-擁着	ion dzoq
-擁着	ion zyuq
 擁勒	ion laq
 擁被而起	ion bi er chi
 擄人勒贖	lou gnin laq dzoq
@@ -50549,14 +49974,10 @@ VCD	vi shi di
 擋勿了	taon vaq liau
 擋了	taon laq
 擋人	taon gnin
-擋着	taon dzoq
-擋着	taon zyuq
 擋箭牌	taon ci ba
 操作人員	tshau tsoq zyun yu
 操作速率	tshau tsoq soq liq
 操你媽	tshau gni mha
-操着	tshau dzoq
-操着	tshau zyuq
 操勒	tshau laq
 操縱自如	tshau tson zy zyu
 操行	tshau yin
@@ -50571,12 +49992,8 @@ VCD	vi shi di
 擔架擡	tae ko de
 擔架牀	tae ko zaon
 擔架隊	tae ko dei
-擔着	tae dzoq
-擔着	tae zyuq
 擔勒	tae laq
 擔的	tae tiq
-擔負着	tae veu dzoq
-擔負着	tae veu zyuq
 據介紹	ciu ka zhiau
 據傳	ciu dzOE
 據傳說	ciu dzOE syuq
@@ -50587,12 +50004,8 @@ VCD	vi shi di
 擠死	ci sy
 擠煞	ci saq
 擠眉弄眼	ci mei lon ngae
-擠着	ci dzoq
-擠着	ci zyuq
 擠勒	ci laq
 擡落去	de loq chi
-擡着	de dzoq
-擡着	de zyuq
 擡勒	de laq
 擡的	de tiq
 擤鼻頭	hen baq deu
@@ -50648,16 +50061,10 @@ VCD	vi shi di
 擺落去	pa loq chi
 擺了	pa laq
 擺了一道	pa laq iq dau
-擺列着	pa liq dzoq
-擺列着	pa liq zyuq
 擺官架子	pa kun ko tsy
 擺尾	pa vi
 擺尾搖頭	pa vi yau deu
-擺放着	pa faon dzoq
-擺放着	pa faon zyuq
 擺架子	pa ko tsy
-擺着	pa dzoq
-擺着	pa zyuq
 擺空架子	pa khon ko tsy
 擺脫不了	pa thaq paq liau
 擺脫弗了	pa thaq vaq liau
@@ -50668,22 +50075,14 @@ VCD	vi shi di
 擾人	zhiau zyun
 擾人清夢	zhiau zyun chin mon
 攀登架	phae ten ko
-攀着	phae dzoq
-攀着	phae zyuq
 攀勒	phae laq
 攀附權貴	phae vu jiu kuei
 攀高結貴	phae kau ciq kuei
 攔櫃	lae guei
-攔着	lae dzoq
-攔着	lae zyuq
 攔的	lae tiq
 攙假	tshae ko
-攙扶着	tshae vu dzoq
-攙扶着	tshae vu zyuq
 攙雜	tshae dzaq
 攙雜在	tshae dzaq dze
-攙雜着	tshae dzaq dzoq
-攙雜着	tshae dzaq zyuq
 攛哄	tshoe hon
 攜家帶口	yi cia ta kheu
 攜家帶眷	yi cia ta ciu
@@ -50700,8 +50099,6 @@ VCD	vi shi di
 攤了	thae lei
 攤掉了	thae diau lei
 攤牌	thae ba
-攤着	thae dzoq
-攤着	thae zyuq
 攤勒	thae laq
 攤勒仔	thae laq tsy
 攤的	thae tiq
@@ -50712,21 +50109,13 @@ VCD	vi shi di
 支差	tsy tsha
 支持率	tsy dzy liq
 支持率	tsy ji liq
-支持着	tsy dzy dzoq
-支持着	tsy ji dzoq
-支持着	tsy dzy zyuq
-支持着	tsy ji zyuq
 支撐不了	tsy tshan paq liau
 支撐架	tsy tshan cia
-支撐着	tsy tshan dzoq
-支撐着	tsy tshan zyuq
 支支吾吾	tsy tsy NU NU
 支支吾吾	tsy tsy WU WU
 支教	tsy ciau
 支架	tsy ko
 支渠	tsy jiu
-支着	tsy dzoq
-支着	tsy zyuq
 支勒	tsy laq
 支的	tsy tiq
 支行	tsy ghaon
@@ -50755,8 +50144,6 @@ VCD	vi shi di
 收生婆	shieu san bou
 收益率	shieu iq liq
 收盤匯率	shieu bun wei liq
-收着	shieu dzoq
-收着	shieu zyuq
 收勒	shieu laq
 收的	shieu tiq
 收稿人	shieu kau gnin
@@ -50837,14 +50224,8 @@ VCD	vi shi di
 放爆竹	faon pau tsoq
 放牛娃	faon ngeu uae
 放眼望去	faon ngae vaon chi
-放着	faon dzoq
-放着	faon zyuq
 放勒	faon laq
 放的	faon tiq
-放着不用	faon dzoq paq yon
-放着不用	faon zyuq paq yon
-放着不管	faon dzoq paq kun
-放着不管	faon zyuq paq kun
 放羊娃	faon yan uae
 放聲大哭	faon shin da khoq
 放行	faon yin
@@ -50920,10 +50301,6 @@ VCD	vi shi di
 敘利亞人	zyu li ia gnin
 敘家常	zyu cia dzaon
 敘拉古	zyu lha ku
-敘說着	zyu syuq dzoq
-敘說着	zyu syuq zyuq
-敘述着	zyu zyuq dzoq
-敘述着	zyu zyuq zyuq
 教落去	kau loq chi
 教主	ciau tsyu
 教了	kau laq
@@ -51168,8 +50545,6 @@ VCD	vi shi di
 教齡	ciau lin
 敝人	bi zyun
 敝帚自珍	bi cieu zy cin
-敞着	chian dzoq
-敞着	chian zyuq
 敞勒	chian laq
 敞的	chian tiq
 敞胸露懷	chian shion lu wae
@@ -51220,8 +50595,6 @@ VCD	vi shi di
 敲更	khau kan
 敲榨	khau tso
 敲的	khau tiq
-敲着	khau dzoq
-敲着	khau zyuq
 敲勒	khau laq
 敲破	khau phou
 敲碎	khau sei
@@ -51264,8 +50637,6 @@ VCD	vi shi di
 整櫃	cin guei
 整死	cin sy
 整煞	cin saq
-整着	cin dzoq
-整着	cin zyuq
 整行	cin ghaon
 整行字	cin ghaon zy
 整間	cin kae
@@ -51278,13 +50649,9 @@ VCD	vi shi di
 敵我矛盾	diq ngo mau den
 敵特分子	diq daq ven tsy
 敷了	fu laq
-敷着	fu dzoq
-敷着	fu zyuq
 敷的	fu tiq
 敷衍了事	fu yi liau zy
 數一數二	su iq su gni
-數不着	su paq dzoq
-數不着	su paq zyuq
 數弗着	su vaq dzoq
 數弗着	su vaq zyuq
 數勿着	su vaq dzoq
@@ -51304,8 +50671,6 @@ VCD	vi shi di
 數學物理學	su yuq vaq li yuq
 數家	su cia
 數家珍	su cia cin
-數得着	su taq dzoq
-數得着	su taq zyuq
 數勒着	su laq dzoq
 數勒着	su laq zyuq
 數據交換	su ciu ciau wun
@@ -51315,8 +50680,6 @@ VCD	vi shi di
 數據集	su ciu jiq
 數理分析	su li fen shiq
 數百人	su paq gnin
-數着	su dzoq
-數着	su zyuq
 數勒	su laq
 數萬人	su vae gnin
 數量分析	su lian fen shiq
@@ -51419,8 +50782,6 @@ VCD	vi shi di
 斜拉橋	zhia lha jiau
 斜率	zhia liq
 斜眼看人	zhia ngae khI gnin
-斜着	zhia dzoq
-斜着	zhia zyuq
 斜長石	zhia jian zaq
 斟滿	tsen mun
 斟酌	tsen ciaq
@@ -51622,8 +50983,6 @@ VCD	vi shi di
 旅長	li cian
 旋乾轉坤	zoe ji tsoe khuen
 旋渦狀	zoe ou dzaon
-旋繞着	zoe gniau dzoq
-旋繞着	zoe gniau zyuq
 旋轉乾坤	zoe tsoe ji khuen
 旗人	ji gnin
 旗牌	ji ba
@@ -51994,8 +51353,6 @@ VCD	vi shi di
 明尼蘇大學	min gni su da ghoq
 明尼蘇達大學	min gni su daq da ghoq
 明尼阿波利斯	min gni a pou li sy
-明擺着	min pa dzoq
-明擺着	min pa zyuq
 明教	min ciau
 明日	min zyuq
 明日之星	min zyuq tsy shin
@@ -52124,7 +51481,6 @@ VCD	vi shi di
 星際旅行	shin ci li yin
 星際爭霸	shin ci tsen po
 星際飛行	shin ci fi yin
-映着	in tsaq
 春假裏	tshyun ko li
 春分時節	tshyun fen zy ciq
 春分點	tshyun fen ti
@@ -52154,11 +51510,7 @@ VCD	vi shi di
 春風風人	tshyun fon fon zyun
 昧死	mei sy
 昧沒	mei maq
-昧着	mei dzoq
-昧着	mei zyuq
 昧勒	mei laq
-昧着良心	mei dzoq lian shin
-昧着良心	mei zyuq lian shin
 昧勒良心	mei laq lian shin
 昨夜	dzoq ya
 昨夜裏	dzoq ya li
@@ -52332,8 +51684,6 @@ VCD	vi shi di
 智謀過人	tsyu meu kou gnin
 智障人士	tsyu tsaon zyun zy
 晾乾	lian kI
-晾着	lian dzoq
-晾着	lian zyuq
 晾衣架	lian i ko
 暇日	ya zyuq
 暈死	yun sy
@@ -52347,20 +51697,14 @@ VCD	vi shi di
 暗了	EI laq
 暗了下來	EI laq gho le
 暗光鳥	EI kuaon gniau
-暗戀着	EI li dzoq
-暗戀着	EI li zyuq
 暗渠	EI jiu
 暗無天日	EI vu thi zyuq
 暗無天日	EI Wu thi zyuq
-暗示着	EI zy dzoq
-暗示着	EI zy zyuq
 暗箭傷人	EI ci saon gnin
 暗自	EI zy
 暗自流淚	EI zy lieu lei
 暗自神傷	EI zy zyun saon
 暗自竊喜	EI zy chiq shi
-暗藏着	EI dzaon dzoq
-暗藏着	EI dzaon zyuq
 暗藏鬼胎	EI dzaon kuei the
 暗行	EI yin
 暗送秋波	EI son chieu pou
@@ -52889,10 +52233,6 @@ VCD	vi shi di
 有異味	yeu yi vi
 有的人	yeu tiq gnin
 有眉目	yeu mei moq
-有着	yeu dzoq
-有着	yeu zyuq
-有着落	yeu dzoq loq
-有着落	yeu zyuq loq
 有礙通行	yeu nge thon yin
 有種人	yeu tson gnin
 有統計學意義	yeu thon ci yuq i gni
@@ -52946,8 +52286,6 @@ VCD	vi shi di
 服務貿易	voq Wu meu yiq
 服毒自殺	voq doq zy saq
 服毒自盡	voq doq zy jin
-服着	voq dzoq
-服着	voq zyuq
 服勒	voq laq
 朔日	soq zyuq
 朔望	soq vaon
@@ -53168,8 +52506,6 @@ VCD	vi shi di
 朝鮮箏	jiau shi tsen
 朝鮮總督府	jiau shi tson toq fu
 朝鮮語	jiau shi gniu
-期待着	ji de dzoq
-期待着	ji de zyuq
 期日	ji zyuq
 期望	ji vaon
 期望值	ji vaon jiq
@@ -53227,8 +52563,6 @@ VCD	vi shi di
 末日審判	maq zyuq shin phun
 末日論	maq zyuq len
 末末了	maq maq liau
-末着	maq dzoq
-末着	maq zyuq
 末行	maq ghaon
 本世紀	pen syu ci
 本乎	pen fu
@@ -53254,8 +52588,6 @@ VCD	vi shi di
 本生燈	pen sen ten
 本省	pen san
 本省人	pen san gnin
-本着	pen dzoq
-本着	pen zyuq
 本科學歷	pen khou ghoq liq
 本科生	pen khou san
 本篤十六世	pen toq zyuq loq syu
@@ -53430,8 +52762,6 @@ VCD	vi shi di
 板橋中學	pae jiau tson ghoq
 板狀	pae dzaon
 板甲	pae ciaq
-板着臉	pae dzoq li
-板着臉	pae zyuq li
 面孔板勒仔	mi khon pae laq tsy
 板鴨	pae aq
 枉死	uaon sy
@@ -53439,8 +52769,6 @@ VCD	vi shi di
 枉自	uaon zy
 枕戈寢甲	cin kou chin ciaq
 枕狀玄武岩	cin dzaon yu Wu ngae
-枕着	cin dzoq
-枕着	cin zyuq
 枕勒	cin laq
 枕的	cin tiq
 枕藉	cin cia
@@ -53571,8 +52899,6 @@ VCD	vi shi di
 查理四世	dzo li sy syu
 查理大帝	dzo li da ti
 查看更多	dzo khI ken tou
-查着	dzo dzoq
-查着	dzo zyuq
 查覺	dzo ciuq
 查覺到	dzo ciuq tau
 柬埔寨人民黨	ci phu za zyun min taon
@@ -53658,8 +52984,6 @@ VCD	vi shi di
 桃太郎	dau tha laon
 桃花人面	dau huo zyun mi
 框落去	khuaon loq chi
-框着	khuaon dzoq
-框着	khuaon zyuq
 案例分析	EI li fen shiq
 案兵束甲	EI pin soq ciaq
 案甲休兵	EI ciaq shieu pin
@@ -53695,8 +53019,6 @@ VCD	vi shi di
 梅開二度	mei khe er du
 梗死	kan sy
 梗煞	kan saq
-梗着	kan dzoq
-梗着	kan zyuq
 條件概率	diau ji ke liq
 條分縷析	diau fen li shiq
 條條大路通羅馬	diau diau da lu thon lou mo
@@ -53713,8 +53035,7 @@ VCD	vi shi di
 梯狀	thi dzaon
 械繫	ye shi
 梳了	sy laq
-梳着	sy dzoq
-梳着	sy zyuq
+梳隻	sy tsaq
 梵學	vae yuq
 梵教	vae ciau
 棄世	chi syu
@@ -53731,7 +53052,6 @@ VCD	vi shi di
 棉被套	mi bi thau
 棋格狀	ji kaq dzaon
 棋牌	ji ba
-棋高一着	ji kau iq ciq
 棋高一着	ji kau iq ciaq
 棒極了	baon jiq laq
 棒狀桿菌	baon dzaon kI chiun
@@ -53834,8 +53154,6 @@ VCD	vi shi di
 槍打出頭鳥	chian tan tshyuq deu gniau
 槍架	chian ko
 槓牌	kaon ba
-槓着	gaon dzoq
-槓着	gaon zyuq
 槓勒	gaon laq
 槓的	gaon tiq
 槓龜	kaon kuei
@@ -53990,8 +53308,6 @@ VCD	vi shi di
 樓頂上	leu tin zaon
 標落去	piau loq chi
 標出去	piau tshyuq chi
-標榜着	piau paon dzoq
-標榜着	piau paon zyuq
 標準偏差	piau tsyun phi tsha
 標準偏差	piau tsyun phi tsho
 標準大氣	piau tsyun da chi
@@ -54003,8 +53319,6 @@ VCD	vi shi di
 標準狀況	piau tsyun dzaon huaon
 標準間	piau tsyun kae
 標牌	piau ba
-標誌着	piau tsy dzoq
-標誌着	piau tsy zyuq
 標語牌	piau gniu ba
 標間	piau kae
 標題音樂	piau di in yuq
@@ -54083,8 +53397,6 @@ VCD	vi shi di
 橫眉立目	wan mei liq moq
 橫眉豎目	wan mei zyu moq
 橫眉豎眼	wan mei zyu ngae
-橫着	wan dzoq
-橫着	wan zyuq
 橫的	wan tiq
 橫空出世	wan khon tshyuq syu
 橫蠻	wan mae
@@ -54133,11 +53445,7 @@ VCD	vi shi di
 權貴	jiu kuei
 欠了	chi laq
 欠債未還	chi tsa vi wae
-欠着	chi dzoq
-欠着	chi zyuq
 欠勒	chi laq
-欠缺着	chi chiuq dzoq
-欠缺着	chi chiuq zyuq
 欠錢未還	chi ji vi wae
 次一個	tshy iq kou
 次大陸	tshy da loq
@@ -54170,8 +53478,6 @@ VCD	vi shi di
 歇了	shiq lei
 歇伏	shiq voq
 歇洛克福爾摩斯	shiq loq khaq foq er mou sy
-歇着	shiq dzoq
-歇着	shiq zyuq
 歌唱家	kou tshaon cia
 歌行	kou ghaon
 歌集	kou jiq
@@ -54228,14 +53534,10 @@ VCD	vi shi di
 正妹	cin mei
 正妹	cin mhei
 正學	cin yuq
-正對着	cin tei dzoq
-正對着	cin tei zyuq
 正常人	cin dzaon gnin
 正常範圍	cin dzaon vae wei
 正常運行	cin dzaon yun yin
 正弦波	cin yi pou
-正忙着	cin maon dzoq
-正忙着	cin maon zyuq
 正態分佈	cin the fen pu
 正應該	cin in ke
 正教	cin ciau
@@ -54248,8 +53550,6 @@ VCD	vi shi di
 正當行爲	cin taon yin wei
 正當防衛行爲	cin taon vaon wei yin wei
 正當防衛行爲	cin taon baon wei yin wei
-正着	cin dzoq
-正着	cin zyuq
 正確	cin chiuq
 正確對待	cin chiuq tei de
 正確度	cin chiuq du
@@ -54270,8 +53570,6 @@ VCD	vi shi di
 正該	cin ke
 正邪相爭	cin zhia shian tsen
 正長石	cin jian zaq
-正開着	cin khe dzoq
-正開着	cin khe zyuq
 正集團	cin jiq doe
 正面人物	cin mi zyun vaq
 正顏厲色	cin yi li saq
@@ -54311,10 +53609,6 @@ VCD	vi shi di
 歪戴	hua te
 歪歪扭扭	hua hua gnieu gnieu
 歪歪扭扭	ua ua gnieu gnieu
-歪着	hua dzoq
-歪着	hua zyuq
-歪着頭	hua dzoq deu
-歪着頭	hua zyuq deu
 歪纏	hua ji
 歪過去	hua kou chi
 歪鼻	hua biq
@@ -54385,8 +53679,6 @@ VCD	vi shi di
 歸去	kuei chiu
 歸家	kuei cia
 歸省	kuei shin
-歸着	kuei dzoq
-歸着	kuei zyuq
 歸還	kuei wae
 歸還給	kuei wae ciq
 歸還撥	kuei wae paq
@@ -54824,8 +54116,6 @@ VCD	vi shi di
 氣炸	chi tso
 氣狀	chi dzaon
 氣盛	chi zhin
-氣着	chi dzoq
-氣着	chi zyuq
 氣勒	chi laq
 氣衝斗牛	chi tshon teu gnieu
 氣衝牛斗	chi tshon gnieu teu
@@ -54929,8 +54219,6 @@ VCD	vi shi di
 求生不得	jieu sen paq taq
 求生意志	jieu sen i tsy
 求田問舍	jieu di ven so
-求着	jieu dzoq
-求着	jieu zyuq
 求勒	jieu laq
 求解	jieu ka
 求解	jieu cia
@@ -55045,12 +54333,6 @@ VCD	vi shi di
 沉冤莫白	jin iu moq baq
 沉沒	jin maq
 沉沒成本	jin maq jin pen
-沉着	jin dzoq
-沉着	jin zyuq
-沉着應戰	jin dzoq in ci
-沉着應戰	jin zyuq in ci
-沉着應戰	jin dzoq in tsoe
-沉着應戰	jin zyuq in tsoe
 沉降	jin ciaon
 沉降縫	jin ciaon von
 沉降速度	jin ciaon soq du
@@ -55446,16 +54728,12 @@ VCD	vi shi di
 治死	dzyu sy
 醫煞	i saq
 治病救人	dzyu bin cieu gnin
-治着	dzyu dzoq
-治着	dzyu zyuq
 沾了	ci laq
 沾染世俗	ci gni syu dzoq
 沾染習氣	ci gni zhiq chi
 沾沾自喜	ci ci zy shi
 沿河土家族自治縣	yi ghou thu cia dzoq zy dzyu yu
 沿海各省	yi he koq san
-沿着	yi dzoq
-沿着	yi zyuq
 沿勒	yi laq
 沿習	yi zhiq
 況味	huaon vi
@@ -55529,15 +54807,11 @@ VCD	vi shi di
 泛大洋	fae da yan
 泛大陸	fae da loq
 泛泛之交	fae fae tsy ciau
-泛着	fae dzoq
-泛着	fae zyuq
 泛勒	fae laq
 泛自然神論	fae zy zoe zyun len
 泡了	phau laq
 泡吧	phau pa
 泡狀	phau dzaon
-泡着	phau dzoq
-泡着	phau zyuq
 泡勒	phau laq
 泡麪哲學	phau mi ciq yuq
 波動力學	pou don liq yuq
@@ -55584,8 +54858,6 @@ VCD	vi shi di
 泥潦	gni lau
 泥潭	gni dae
 泥足巨人	gni tsoq jiu gnin
-注視着	tsyu zy dzoq
-注視着	tsyu zy zyuq
 注視勒	tsyu zy laq
 泫然欲淚	yi zoe yuq lei
 泯沒	min maq
@@ -55610,8 +54882,6 @@ VCD	vi shi di
 洋洋大篇	yan yan da phi
 洋洋大觀	yan yan da kun
 洋洋自得	yan yan zy taq
-洋溢着	yan iq dzoq
-洋溢着	yan iq zyuq
 洋芋	yan yu
 洋芋片	yan yu phi
 洋蔥味	yan tshon mi
@@ -55628,8 +54898,6 @@ VCD	vi shi di
 洗滌間	shi diq kae
 洗澡間	shi tsau kae
 洗牌	shi ba
-洗着	shi dzoq
-洗着	shi zyuq
 洗耳	shi er
 洗耳恭聽	shi er kon thin
 洗耳諦聽	shi er ti thin
@@ -55672,8 +54940,6 @@ VCD	vi shi di
 活死人	waq sy gnin
 活潑生動	waq phaq sen don
 活生生	waq sen sen
-活着	waq dzoq
-活着	waq zyuq
 活的	waq tiq
 活色生香	waq saq sen shian
 活見鬼	waq ci kuei
@@ -55712,8 +54978,6 @@ VCD	vi shi di
 流涎症	lieu yi cin
 流淚	lieu lei
 流眼淚	lieu ngae li
-流着	lieu dzoq
-流着	lieu zyuq
 流勒	lieu laq
 流着淚	lieu dzoq lei
 流着淚	lieu zyuq lei
@@ -55788,8 +55052,6 @@ VCD	vi shi di
 浮生	vu sen
 浮生六記	vu sen loq ci
 浮皮潦草	vu bi liau tshau
-浮着	veu dzoq
-浮着	veu zyuq
 浮的	veu tiq
 浮腫	vu tson
 浮腫病	vu tson bin
@@ -55980,8 +55242,6 @@ VCD	vi shi di
 深孚衆望	shin fu tson vaon
 深宅大院	shin dzaq da yu
 深山出俊鳥	shin sae tshyuq tsyun gniau
-深愛着	shin e dzoq
-深愛着	shin e zyuq
 深明大義	shin min da gni
 深更	shin kan
 深更半夜	shin kan pun ya
