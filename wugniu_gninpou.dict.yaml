@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.15"
+version: "2020.03.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7471,7 +7471,7 @@ use_preset_vocabulary: true
 臟	dzaon
 臓	dzaon
 撞	dzaon
-⿱串皿	dzaon
+𰤻	dzaon
 霜	saon
 孀	saon
 礵	saon
@@ -10927,7 +10927,7 @@ use_preset_vocabulary: true
 嘓	koq
 閣	koq
 擱	koq
-⿰火閣	koq
+𰟫	koq
 閤	koq
 鉻	koq
 郭	koq
