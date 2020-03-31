@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.31"
+version: "2020.04.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6840,7 +6840,7 @@ use_preset_vocabulary: true
 堠	gheu
 歐	eu
 甌	eu
-嘔	eu	56532
+嘔	eu
 區	eu	1%
 漚	eu
 毆	eu
@@ -15793,7 +15793,7 @@ use_preset_vocabulary: true
 排八字	ba paq zy	55
 關肚仙	kuae du shi	55
 唸阿彌陀佛	nE o mi dou vaq	55
-嘔活靈	eu waq lin	55
+嘔活靈	eu waq lin
 坐夜	zou ya
 送年	son gni	55
 謝年	zhia gni	55
@@ -17826,7 +17826,7 @@ use_preset_vocabulary: true
 的𡀂	tiq lei	55
 仔𡀂	tsy lei	55
 介𡀂	ka lei	55
-勿啦	vaq laq	55
+勿啦	vaq laq	578
 東西	ton shi
 一聲響	iq shin shian	55
 勒其	laq ji	55
@@ -17989,9 +17989,9 @@ use_preset_vocabulary: true
 嘸商量	mh shian lian	55
 嘸清頭	mh chin deu	55
 嘸趣相	mh tshyu shian	55
-嘔勿應	eu vaq in	55
-嘔勒應	eu laq in	55
-嘔嘔其	eu eu ji	55
+嘔勿應	eu vaq in
+嘔勒應	eu laq in
+嘔嘔其	eu eu ji
 話話其	wo wo ji	55
 聽壁腳	thin piq ciaq
 岔夾餅	tsho kaq pin	55
@@ -23958,7 +23958,7 @@ use_preset_vocabulary: true
 怕渠	pho ji	418
 看渠	khI ji	55
 覅渠	fe ji	578
-嘔嘔渠	eu eu ji	55
+嘔嘔渠	eu eu ji
 話話渠	wo wo ji	55
 覅渠甮渠	fe ji ven ji	55
 隨便渠咋弗咋	zei bi ji dza vaq dza	55
@@ -24073,7 +24073,7 @@ use_preset_vocabulary: true
 弗是	vaq zy	170000
 弗得	vaq taq	55
 弗生好心	vaq san hau shin	55
-弗啦	vaq laq	55
+弗啦	vaq laq	1000
 三弗像	sae vaq zhian	55
 弗上課	vaq zaon khou	55
 弗長毛	vaq cian mau	55
@@ -24087,7 +24087,7 @@ use_preset_vocabulary: true
 弗着港	vaq jiaq kaon	55
 弗管賬	vaq kun cian	55
 喫弗落	chioq vaq loq	55
-嘔弗應	eu vaq in	55
+嘔弗應	eu vaq in
 苦弗出	khu vaq tshyuq	55
 杭弗消	ghaon vaq shiau	55
 杭弗住	ghaon vaq dzyu	55
@@ -24302,6 +24302,28 @@ use_preset_vocabulary: true
 鹹𪉨蟹	ghae chian ha	55
 紅膏𪉨蟹	ghon kau chian ha	55
 燥㸆飯	sau khau vae	55
+謳活靈	eu waq lin	55
+謳弗應	eu vaq in	55
+謳勿應	eu vaq in	55
+謳勒應	eu laq in	55
+謳謳其	eu eu ji	55
+謳謳渠	eu eu ji	55
+謳儂疙瘩了	eu ng kaq taq lei
+謳俉疙瘩了	eu ng kaq taq lei
+謳儂着力了	eu ng jiaq liq lei
+謳俉着力了	eu ng jiaq liq lei
+謳爾着力了	eu ng jiaq liq lei
+謳儂𢜭力了	eu ng jiaq liq lei
+謳俉𢜭力了	eu ng jiaq liq lei
+謳爾𢜭力了	eu ng jiaq liq lei
+謳儂疙瘩𡀂	eu ng kaq taq lei
+謳俉疙瘩𡀂	eu ng kaq taq lei
+謳儂着力𡀂	eu ng jiaq liq lei
+謳俉着力𡀂	eu ng jiaq liq lei
+謳爾着力𡀂	eu ng jiaq liq lei
+謳儂𢜭力𡀂	eu ng jiaq liq lei
+謳俉𢜭力𡀂	eu ng jiaq liq lei
+謳爾𢜭力𡀂	eu ng jiaq liq lei
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -28028,6 +28050,23 @@ use_preset_vocabulary: true
 飯𤈦焦𡀂		55
 𤈦香菸		418
 飯𤈦焦了	vae mei ciau lei	55
+丈姆一聲謳	jian m iq shin eu
+看張黃狗謳外公	khI cian wu kI eu nga kon
+看張黃狗謳外公	khI cian wu keu eu nga kon
+看張黃狗謳外公	khI cian waon keu eu nga kon
+謳其倒痰瓶
+喫飯謳嬉䏘
+謳其一聲
+阿婆謳我做人客	aq bou eu ngo tsou gnin khaq
+老公謳我拗腰骨
+環環謳	wae wae eu
+環天倒地來該謳	wae thi tau di le ke eu
+喳喳謳
+謳其淘淘米
+謳過去
+謳渠倒痰瓶	eu ji tau dae bin
+謳渠一聲	eu ji iq shin
+謳渠淘淘米	eu ji dau dau mi
 寧波市	gnin pou zy
 寧波市	gnin poq zy
 寧波	gnin pou
@@ -30597,6 +30636,18 @@ use_preset_vocabulary: true
 啥人又	soq gnin yi
 啥人又	so gnin yi
 啥人又	sou gnin yi
+啥人謳	soq gnin eu
+啥人謳	so gnin eu
+啥人謳	sou gnin eu
+啥人謳俉	soq gnin eu ng
+啥人謳俉	so gnin eu ng
+啥人謳俉	sou gnin eu ng
+啥人謳爾	soq gnin eu ng
+啥人謳爾	so gnin eu ng
+啥人謳爾	sou gnin eu ng
+啥人謳儂	soq gnin eu nou
+啥人謳儂	so gnin eu nou
+啥人謳儂	sou gnin eu nou
 啥人嘔	soq gnin eu
 啥人嘔	so gnin eu
 啥人嘔	sou gnin eu
