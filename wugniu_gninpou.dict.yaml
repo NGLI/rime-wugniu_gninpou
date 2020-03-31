@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.03.24"
+version: "2020.03.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25220,7 +25220,7 @@ use_preset_vocabulary: true
 碗頭蔥烤河鯽魚	un deu tshon khau ghou ci ng
 大泡辣茄	dou phau laq jie
 尖頭辣茄	ci deu laq jie
-黃鼠狼看蒲樣
+黃鼠狼看蒲樣	waon tsy laon khI bu yan
 五月煮蒲羹
 六月乘風涼	loq yuq zhin fon lian
 三月拗烏筍	sae yuq au u syun
@@ -25503,7 +25503,7 @@ use_preset_vocabulary: true
 毛羽欠細巧
 愁水步鴣	zeu syu bu ku
 麻將要囥三日糧	mo cian iau khaon sae gniq lian
-老鼠翻進白米缸
+老鼠翻進白米缸	lau tsy fae cin baq mi kaon
 蝙蝠老鼠開會𡀂	pi foq lau tsy khe wei lei
 夜夜紅
 金蟲矮
@@ -26667,11 +26667,11 @@ use_preset_vocabulary: true
 單超㫰過夜	tae chiau laon kou ya
 摥螄螺
 弶麻將
-弶老鼠
+弶老鼠	jian lau tsy
 弶賊骨頭
 七歲弶八歲	chiq syu jian paq syu
-老鼠弶
-黃鼠狼弶
+老鼠弶	lau tsy jian
+黃鼠狼弶	waon tsy laon jian
 䃗石墈
 䃗海塘
 有福嘸福
@@ -27352,7 +27352,7 @@ use_preset_vocabulary: true
 真真心焦煞
 清清白白
 斷竅苦煞
-斷命老鼠
+斷命老鼠	doe min lau tsy
 斷命老頭
 斷命行爲	doe min ghan wei
 眼眼叫碰着眼眼叫
@@ -30671,6 +30671,9 @@ use_preset_vocabulary: true
 趁汽車
 趁公交車
 趁公共汽車
+趁大巴	chin da pa
+趁班車
+趁校車
 趁出租車
 趁地鐵
 趁電梯
@@ -30701,6 +30704,22 @@ use_preset_vocabulary: true
 跍勒仔
 跍的
 跍一跍
+小老鼠	shiau lau tsy
+大老鼠	dou lau tsy
+白老鼠	baq lau tsy
+貓和老鼠	mae ghou lau tsy
+貓搭老鼠	mae taq lau tsy
+貓拖老鼠	mae tha lau tsy
+貓抲老鼠	mae kho lau tsy
+米奇老鼠	mi ji lau tsy
+米老鼠	mi lau tsy
+老鼠拖木杴	lau tsy thou moq shi
+老鼠會	lau tsy wei
+老鼠洞	lau tsy don
+老鼠過街	lau tsy kou ka
+過街老鼠	kou ka lau tsy
+過街老鼠人人喊打	kou ka lau tsy gnin gnin hae tan
+養老鼠咬布袋	ian lau tsy ngau pu de
 倭豆鹹肉糯米飯
 糯米飯
 倭豆飯
