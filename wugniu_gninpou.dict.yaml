@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.10"
+version: "2020.04.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -424,6 +424,7 @@ use_preset_vocabulary: true
 楮	tshyu
 趣	tshyu
 覷	tshyu
+覰	tshyu
 粢	tshyu
 廚	dzyu
 厨	dzyu
@@ -722,6 +723,7 @@ use_preset_vocabulary: true
 瀰	mi
 彌	mi
 眉	mi
+楣	mi	1%
 眠	mi
 棉	mi
 綿	mi
@@ -729,6 +731,7 @@ use_preset_vocabulary: true
 丏	mi
 宀	mi
 蝒	mi
+櫋	mi
 明	mi	0%
 米	mi
 咪	mi	0%
@@ -1263,6 +1266,7 @@ use_preset_vocabulary: true
 搴	ci
 蹇	ci
 謇	ci
+皽	ci
 囝	ci
 鯽	ci
 祭	ci
@@ -1398,6 +1402,7 @@ use_preset_vocabulary: true
 繾	chi
 𥉻	chi
 覷	chi	0%
+覰	chi	0%
 䀙	chi
 砌	chi
 契	chi
@@ -2652,6 +2657,7 @@ use_preset_vocabulary: true
 蘧	jiu
 籧	jiu
 蜷	jiu
+瘸	jiu
 鬈	jiu
 惓	jiu
 踡	jiu
@@ -3013,6 +3019,7 @@ use_preset_vocabulary: true
 抓	tsa	6%
 髽	tsa
 債	tsa
+瘵	tsa
 𨝋	tsa
 祭	tsa	0%
 差	tsha
@@ -3229,6 +3236,7 @@ use_preset_vocabulary: true
 拐	kua
 柺	kua
 枴	kua
+𦫳	kua
 箉	kua
 寡	kua	6%
 剮	kua	6%
@@ -3881,6 +3889,8 @@ use_preset_vocabulary: true
 𧌖	so
 涻	so
 赦	so
+厙	so
+廈	so	1%
 佘	zo
 婼	zo
 惹	zo
@@ -5302,6 +5312,7 @@ use_preset_vocabulary: true
 栓	soe
 拴	soe
 閂	soe
+𢩠	soe
 宣	soe
 𩤡	soe
 選	soe
@@ -6504,6 +6515,7 @@ use_preset_vocabulary: true
 蝌	khou
 箍	khou
 薖	khou
+𨗲	khou
 可	khou
 坷	khou
 舸	khou
@@ -6655,6 +6667,7 @@ use_preset_vocabulary: true
 鬥	teu
 鬦	teu
 鬭	teu
+鬬	teu
 闘	teu
 枓	teu
 偷	theu
@@ -6927,6 +6940,7 @@ use_preset_vocabulary: true
 牚	tshan
 𣛟	tshan
 鐺	tshan	2%
+棖	dzan
 鋥	dzan
 䂻	dzan	55
 瞠	dzan
@@ -12879,6 +12893,7 @@ use_preset_vocabulary: true
 纱	so
 鲨	so
 赊	so
+厦	so
 价	ko	0%
 ⿰饣夏	gho
 桠	o
@@ -13611,6 +13626,7 @@ use_preset_vocabulary: true
 睁	tsan
 挣	tsan
 铛	tshan
+枨	dzan
 锃	dzan
 鲠	gan
 樱	an
@@ -27853,7 +27869,7 @@ use_preset_vocabulary: true
 胖陽𣝗臖起
 發買㾹病
 扶痚駝
-少年癆瘵
+少年癆瘵	shiau gni lau chiq
 一百廿日	iq paq nE gniq
 瘵病鬼	chiq bin ciu
 生瘵病	san chiq bin
@@ -34163,6 +34179,8 @@ use_preset_vocabulary: true
 勿曉得	vaq shiau taq	578
 太公牙鬚	tha kon ngo su
 有句講句	yeu ciu kaon ciu
+虎擘
+腳髈
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
 一兩三	iq lian sae
@@ -34316,8 +34334,6 @@ use_preset_vocabulary: true
 勿單	vaq tae
 勿單是	vaq tae zy
 弗單是	vaq tae zy
-勿在乎	vaq dze fu
-弗在乎	vaq dze fu
 勿在家	vaq dze cia
 弗在家	vaq dze cia
 勿堪	vaq khae
@@ -34665,8 +34681,8 @@ use_preset_vocabulary: true
 世界個語言	syu ka goq gniu yi
 世界個語言	syu ka ghoq gniu yi
 丟落去	tieu loq chi
-並勿在乎	bin vaq dze fu
-並弗在乎	bin vaq dze fu
+並勿在乎	bin vaq dze wu
+並弗在乎	bin vaq dze wu
 中國頂大	tson koq tin dou
 之兩	tsy lian
 九萬兩千	cieu vae lian chi
@@ -37815,12 +37831,11 @@ VCD	vi shi di
 不問好歹	paq men hau te
 不問是非曲直	paq men zy fi chiuq jiq
 不問青紅皁白	paq men chin ghon zau baq
-不在乎	paq dze fu
+不在乎	paq dze wu
 不在家	paq dze cia
 不堪入耳	paq khae zyuq er
 不墜	paq dzei
 不壞	paq ua
-不外乎	paq nga fu
 不大不小	paq dou paq shiau
 不大合時	paq da ghaq zy
 不大好	paq da hau
@@ -38236,7 +38251,7 @@ VCD	vi shi di
 丙二醇	pin er zyun
 丙綸	pin len
 丟出去	tieu tshyuq chi
-並不在乎	bin paq dze fu
+並不在乎	bin paq dze wu
 並世	bin syu
 並世無雙	bin syu vu saon
 並世無雙	bin syu Wu saon
@@ -46424,8 +46439,8 @@ VCD	vi shi di
 在世	dze syu
 在世界上	dze syu ka zaon
 在世界範圍內	dze syu ka vae wei nei
-在乎	dze fu
-在乎你	dze fu gni
+在乎	dze wu
+在乎你	dze wu gni
 在你身邊	dze gni shin pi
 在你面前	dze gni mi zhi
 在傳輸過程中	dze dzOE syu kou jin tson
@@ -57886,7 +57901,7 @@ VCD	vi shi di
 毛狀	mau dzaon
 毛遂自薦	mau zei zy ci
 毛髮皆豎	mau faq cie zyu
-毫不在乎	ghau paq dze fu
+毫不在乎	ghau paq dze wu
 毫伏	ghau voq
 毫分	ghau fen
 毫無二致	ghau vu er tsy
@@ -59295,7 +59310,7 @@ VCD	vi shi di
 滴狀	tiq dzaon
 滴里搭拉	tiq li taq lha
 滾了	kuen laq
-滿不在乎	mun paq dze fu
+滿不在乎	mun paq dze wu
 滿世界	mun syu ka
 滿了	mun laq
 滿人	mun gnin
@@ -62160,7 +62175,7 @@ VCD	vi shi di
 瞭然於心	liau zoe yu shin
 瞭解自己	liau ka zy ci
 瞰望	khae vaon
-瞳仁	don gnin
+瞳仁	don zyun
 瞳孔放大	don khon faon da
 瞻望	ci vaon
 矇頭大睡	mon deu da zei
