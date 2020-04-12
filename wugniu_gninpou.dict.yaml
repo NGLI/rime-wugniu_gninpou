@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.11"
+version: "2020.04.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -273,6 +273,7 @@ use_preset_vocabulary: true
 鉏	zy
 餈	zy
 糍	zy
+𩝐	zy
 俟	zy
 竢	zy
 氏	zy
@@ -304,6 +305,7 @@ use_preset_vocabulary: true
 兕	zy
 柿	zy
 柹	zy
+𣏕	zy
 是	zy
 昰	zy
 耜	zy
@@ -523,6 +525,7 @@ use_preset_vocabulary: true
 藷	zyu
 餈	zyu
 糍	zyu
+𩝐	zyu
 豉	zyu	5%
 鋤	zyu	5%
 耡	zyu	5%
@@ -981,6 +984,8 @@ use_preset_vocabulary: true
 墊	di
 電	di
 靛	di
+𪑩	di
+𪒮	di
 淀	di
 澱	di
 鈿	di	10000
@@ -1400,6 +1405,8 @@ use_preset_vocabulary: true
 慊	chi
 譴	chi
 繾	chi
+䭤	chi
+𩝡	chi
 𥉻	chi
 覷	chi	0%
 覰	chi	0%
@@ -1581,6 +1588,7 @@ use_preset_vocabulary: true
 沂	gni
 囈	gni
 閻	gni
+臡	gni
 嚴	gni
 儼	gni
 䉷	gni
@@ -2452,6 +2460,7 @@ use_preset_vocabulary: true
 湖	wu
 糊	wu
 餬	wu
+𪏻	wu
 葫	wu
 蝴	wu
 猢	wu
@@ -3067,6 +3076,7 @@ use_preset_vocabulary: true
 疥	ka
 尬	ka
 庎	ka
+楐	ka
 届	ka
 屆	ka
 戒	ka
@@ -3534,6 +3544,7 @@ use_preset_vocabulary: true
 捎	sau
 筲	sau
 蕱	sau
+䈰	sau
 蛸	sau
 掃	sau
 嫂	sau
@@ -3827,6 +3838,7 @@ use_preset_vocabulary: true
 杈	tsho
 汊	tsho
 衩	tsho
+紁	tsho
 釵	tsho
 䟕	tsho
 差	tsho
@@ -3976,6 +3988,7 @@ use_preset_vocabulary: true
 俵	piau
 飄	phiau
 飃	phiau
+彯	phiau
 漂	phiau
 嘌	phiau
 慓	phiau
@@ -4062,6 +4075,7 @@ use_preset_vocabulary: true
 鋽	diau
 蓧	diau
 莜	diau
+銚	diau
 療	liau
 瞭	liau
 撩	liau
@@ -4932,6 +4946,8 @@ use_preset_vocabulary: true
 盞	tsae
 琖	tsae
 醆	tsae
+𧣴	tsae
+𦈻	tsae
 趲	tsae
 攢	tsae
 撍	tsae
@@ -5052,6 +5068,7 @@ use_preset_vocabulary: true
 揀	kae
 襇	kae
 襉	kae
+𧟉	kae
 橄	kae
 諫	kae	5%
 鑒	kae	5%
@@ -5335,6 +5352,7 @@ use_preset_vocabulary: true
 禪	zoe
 蟬	zoe
 贍	zoe
+㼷	zoe
 蟾	zoe
 髯	zoe
 髥	zoe
@@ -7752,6 +7770,7 @@ use_preset_vocabulary: true
 叛	bun
 瞞	mun
 饅	mun
+䊡	mun
 鰻	mun
 𧜞	mun
 鞔	mun
@@ -7785,6 +7804,7 @@ use_preset_vocabulary: true
 錧	kun
 脘	kun
 莞	kun	5%
+䘾	kun
 盥	kun
 雚	kun
 爟	kun
@@ -8379,6 +8399,7 @@ use_preset_vocabulary: true
 霊	lin
 櫺	lin
 欞	lin
+醽	lin
 酃	lin
 菱	lin
 蓤	lin
@@ -8452,6 +8473,7 @@ use_preset_vocabulary: true
 拎	lhin
 針	cin
 鍼	cin
+箴	cin
 抌	cin
 貞	cin
 幀	cin
@@ -10016,6 +10038,7 @@ use_preset_vocabulary: true
 劣	laq	0%
 獵	laq
 鑞	laq
+𨭛	laq
 邋	laq
 擸	laq
 爉	laq
@@ -10048,6 +10071,7 @@ use_preset_vocabulary: true
 札	tsaq
 剳	tsaq
 劄	tsaq
+箚	tsaq
 𧉹	tsaq
 摘	tsaq
 謫	tsaq
@@ -10346,6 +10370,7 @@ use_preset_vocabulary: true
 蝶	diaq
 蜨	diaq
 碟	diaq
+楪	diaq
 牒	diaq
 諜	diaq
 喋	diaq
@@ -10353,7 +10378,6 @@ use_preset_vocabulary: true
 惵	diaq
 堞	diaq
 渫	diaq
-鍱	diaq
 㻡	diaq
 蹀	diaq
 叠	diaq
@@ -11597,6 +11621,7 @@ use_preset_vocabulary: true
 熄	shiq
 瘜	shiq
 螅	shiq
+䭒	shiq
 式	shiq
 拭	shiq
 軾	shiq
@@ -11669,6 +11694,7 @@ use_preset_vocabulary: true
 枼	yiq
 葉	yiq
 殜	yiq
+鍱	yiq
 翊	yiq
 翌	yiq
 液	yiq
@@ -11817,6 +11843,7 @@ use_preset_vocabulary: true
 亅	jiuq
 橛	jiuq
 橜	jiuq
+氒	jiuq
 𧤼	jiuq
 局	jiuq
 侷	jiuq
@@ -12379,6 +12406,7 @@ use_preset_vocabulary: true
 阐	chi
 谴	chi
 缱	chi
+𬳈	chi
 觑	chi
 觊	chi
 堑	chi
@@ -12928,6 +12956,7 @@ use_preset_vocabulary: true
 龆	diau
 调	diau
 𦰏	diau
+铫	diau
 疗	liau
 缭	liau
 辽	liau
@@ -13160,6 +13189,7 @@ use_preset_vocabulary: true
 斩	tsae
 臜	tsae
 盏	tsae
+𬢕	tsae
 趱	tsae
 攒	tsae
 崭	tsae
@@ -14704,6 +14734,7 @@ use_preset_vocabulary: true
 适	shiq	0%
 释	shiq
 亵	shiq
+𬳋	shiq
 轼	shiq
 识	shiq
 𫛶	shiq
@@ -33935,6 +33966,8 @@ use_preset_vocabulary: true
 片片鴨	phi phi ae
 慈城年糕
 米仁	mi zyun
+冬米
+凍米
 倉橋麪結店
 興寧橋燒雞
 缸鴨狗	kaon aq keu
@@ -34181,6 +34214,7 @@ use_preset_vocabulary: true
 有句講句	yeu ciu kaon ciu
 虎擘
 腳髈
+圍身	yu shin
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
 一兩三	iq lian sae
@@ -49872,8 +49906,6 @@ VCD	vi shi di
 家嚴	cia gni
 家園	cia yu
 家培	cia bei
-家塾	cia dzoq
-家塾本	cia dzoq pen
 家境	cia cin
 家境清寒	cia cin chin ghEI
 家天下	cia thi gho
@@ -49884,7 +49916,6 @@ VCD	vi shi di
 家學	cia yuq
 家學淵源	cia yuq iu gniu
 家宅	cia dzaq
-家室	cia syuq
 家宴	cia i
 家家	cia cia
 家家戶戶	cia cia wu wu
@@ -49972,14 +50003,12 @@ VCD	vi shi di
 家用電器	cia yon di chi
 家用電腦	cia yon di nau
 家畜	cia tshoq
-家當	cia taon
+家當	ko taon
 家的	cia tiq
 家眷	cia ciu
 家破人亡	cia phou zyun vaon
 家破人亡	cia phou gnin vaon
 家祖	cia tsu
-家祠	cia dzy
-家祠	cia zy
 家祭	cia ci
 家禽	cia jin
 家禽家畜	cia jin cia tshoq
@@ -50010,16 +50039,12 @@ VCD	vi shi di
 家訪	cia faon
 家譜	cia pu
 家貓	cia mau
-家財	cia dze
-家財萬貫	cia dze vae kun
 家貧如洗	cia bin zyu shi
 家資	cia tsy
 家賊	cia zaq
 家賊難防	cia zaq nae baon
 家賊難防	cia zaq nae vaon
 家轎	cia jiau
-家道	cia dau
-家道中落	cia dau tson loq
 家鄉	cia shian
 家鄉肉	cia shian gnioq
 家鄉話	cia shian wo
