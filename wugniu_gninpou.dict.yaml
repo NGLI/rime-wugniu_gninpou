@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.19"
+version: "2020.04.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11004,7 +11004,7 @@ use_preset_vocabulary: true
 確	khoq
 确	khoq
 𤿩	khoq
-窟	khoq	5%
+窟	khoq	10%
 窖	khoq
 嚳	khoq
 酷	khoq
@@ -12552,6 +12552,7 @@ use_preset_vocabulary: true
 亿	i
 忆	i
 阉	i
+𬥺	i
 厌	i
 餍	i
 厣	i
@@ -13606,6 +13607,7 @@ use_preset_vocabulary: true
 嵝	leu
 偻	leu
 瘘	leu
+𫦉	lheu
 搂	lheu
 镂	lheu
 䁖	lheu
@@ -13635,6 +13637,7 @@ use_preset_vocabulary: true
 诟	keu
 𫎧	keu
 抠	kheu
+𬣚	kheu
 鲎	heu
 欧	eu
 瓯	eu
@@ -45996,6 +45999,7 @@ VCD	vi shi di
 四大皆空	sy da cie khon
 四大盆地	sy da ben di
 四大石窟	sy da zaq khoq
+四大石窟	sy da zaq khuaq
 四大美女	sy da mei gniu
 四大菩薩	sy da bu saq
 四大金剛	sy da cin kaon
@@ -66099,6 +66103,7 @@ VCD	vi shi di
 莫須	moq syu
 莫須有	moq syu yeu
 莫高窟	moq kau khoq
+莫高窟	moq kau khuaq
 菅直人	ci jiq zyun
 菊芋	ciuq yu
 菌狀	chiun dzaon
