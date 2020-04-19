@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.12"
+version: "2020.04.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5330,6 +5330,7 @@ use_preset_vocabulary: true
 拴	soe
 閂	soe
 𢩠	soe
+𣟴	soe
 宣	soe
 𩤡	soe
 選	soe
@@ -46330,7 +46331,6 @@ VCD	vi shi di
 國際大赦	koq ci da so
 國際學舍	koq ci yuq so
 國際換日線	koq ci wun zyuq shi
-國際數學聯盟	koq ci su yuq li men
 國際文傳通訊社	koq ci ven dzOE thon shin dzo
 國際文教	koq ci ven ciau
 國際日期變更線	koq ci zyuq ji pi ken shi
@@ -47834,6 +47834,7 @@ VCD	vi shi di
 大教堂	dou ciau daon
 大敵	da diq
 大敵當前	da diq taon zhi
+大數學家	da su yuq cia
 大數學家	dou su yuq cia
 大文蛤	dou ven kaq
 大文豪	da ven ghau
@@ -50847,7 +50848,6 @@ VCD	vi shi di
 工程學院	kon jin yuq yu
 工程師學	kon jin sy yuq
 工程技術人員	kon jin ji zyuq zyun yu
-工程數學	kon jin su yuq
 工程浩大	kon jin ghau da
 工藝學	kon gni yuq
 工行	kon ghaon
@@ -52461,7 +52461,6 @@ VCD	vi shi di
 應采兒	in tshe er
 應收帳款週轉率	in shieu cian khun cieu tsoe liq
 應用力學	in yon liq yuq
-應用數學	in yon su yuq
 應用科學	in yon khou yuq
 應用程式介面	in yon jin shiq cia mi
 應用程式介面	in yon jin shiq ka mi
@@ -54749,6 +54748,7 @@ VCD	vi shi di
 數字家庭	su zy cia din
 數學家	su yuq cia
 數學物理學	su yuq vaq li yuq
+數學物理學	su ghoq vaq li yuq
 數家	su cia
 數家珍	su cia cin
 數據交換	su ciu ciau wun
@@ -57312,7 +57312,6 @@ VCD	vi shi di
 模範教師	mou vae ciau sy
 模範生	mou vae san
 模範行動	mou vae yin don
-模糊數學	mou wu su yuq
 模糊集合理論	mou wu jiq ghaq li len
 樣板間	yan pae kae
 樸克牌	phoq khaq ba
@@ -63362,7 +63361,6 @@ VCD	vi shi di
 紐西蘭人	gnieu shi lae gnin
 純文學	zyun ven yuq
 純益率	zyun iq liq
-純粹數學	zyun zei su yuq
 紙人	tsy gnin
 紙人紙馬	tsy gnin tsy mo
 紙尿布	tsy gniau pu
@@ -63463,7 +63461,6 @@ VCD	vi shi di
 絃樂團	yi yuq doe
 絃樂隊	yi yuq dei
 組分	tsu ven
-組合數學	tsu ghaq su yuq
 組成部分	tsu jin bu ven
 組組長	tsu tsu cian
 組織學	tsu ciq yuq
@@ -67712,7 +67709,6 @@ VCD	vi shi di
 計生	ci sen
 計生委	ci sen uei
 計生工作	ci sen kon tsoq
-計算數學	ci soe su yuq
 計算機科學	ci soe ci khou yuq
 計算機科學家	ci soe ci khou yuq cia
 計算機集成制造	ci soe ci jiq jin tsyu zau
@@ -72614,7 +72610,6 @@ VCD	vi shi di
 離家	li cia
 離家出走	li cia tshyuq tseu
 離心分離機	li shin fen li ci
-離散數學	li sae su yuq
 離港大廳	li kaon da thin
 離鄉背井	li shian pei cin
 離開人世	li khe zyun syu
@@ -73595,7 +73590,6 @@ VCD	vi shi di
 高等學府	kau ten yuq fu
 高等學校	kau ten ghoq yau
 高等教育	kau ten ciau yuq
-高等數學	kau ten su yuq
 高級中學	kau ciq tson ghoq
 高級人才	kau ciq zyun dze
 高級人民法院	kau ciq zyun min faq yu
