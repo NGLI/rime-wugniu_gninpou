@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.21"
+version: "2020.04.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2018,6 +2018,7 @@ use_preset_vocabulary: true
 椅	i
 猗	i
 倚	i
+𠋣	i
 掎	i
 旖	i
 扆	i
@@ -2817,6 +2818,7 @@ use_preset_vocabulary: true
 盂	yu
 于	yu
 於	yu
+扵	yu
 予	yu
 妤	yu
 雩	yu
@@ -8887,6 +8889,7 @@ use_preset_vocabulary: true
 贏	yin
 嬴	yin
 瀛	yin
+籯	yin
 行	yin
 烆	yin
 形	yin
@@ -34219,7 +34222,13 @@ use_preset_vocabulary: true
 虎擘
 腳髈
 圍身	yu shin
-手巾布
+手巾布		55
+敲𥣘
+搭錯
+胡嚨胖
+胡嚨介胖	wu lon ka phaon
+介胖	ka phaon
+胖胡嚨
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
 一兩三	iq lian sae
