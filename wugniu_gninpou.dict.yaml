@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.04.27"
+version: "2020.05.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3322,6 +3322,7 @@ use_preset_vocabulary: true
 炮	phau
 砲	phau
 礮	phau
+跑	phau	0%
 炮	bau	0%
 炰	bau
 袍	bau
@@ -27112,7 +27113,7 @@ use_preset_vocabulary: true
 謳儂𢜭力𡀂	eu ng jiaq liq lei
 謳俉𢜭力𡀂	eu ng jiaq liq lei
 謳爾𢜭力𡀂	eu ng jiaq liq lei
-泡春	phau tshyun	55
+跑春	phau tshyun	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -29292,7 +29293,7 @@ use_preset_vocabulary: true
 種大稻	tson dou dau
 勿會寫字多蘸筆
 勿會走路多磕跌
-小人泡衝頭磕開	shiau gnin phau tshon deu khaq khe
+小人跑春頭磕開	shiau gnin phau tshyun deu khaq khe
 外婆屋裏去勿來	nga bou oq li chi vaq le
 江東送娘美女式
 花花包袱兩肩吸
@@ -29816,7 +29817,7 @@ use_preset_vocabulary: true
 強癩頭
 小人洋皮皮	shiau gnin yan bi bi
 大人勿歡喜	dou gnin vaq hun shi
-大人泡衝落棺材	dou gnin phau tshon loq kun ze
+大人跑春落棺材	dou gnin phau tshyun loq kun ze
 嗲聲嗲氣
 生頭熟人客	san deu zoq gnin khaq
 裝勒勿認得	tsaon laq vaq gnin taq
@@ -33976,6 +33977,7 @@ use_preset_vocabulary: true
 冬米
 凍米
 倉橋麪結店
+興寧橋烤雞
 興寧橋燒雞
 缸鴨狗	kaon aq keu
 樓茂記	leu meu ci
@@ -34229,6 +34231,8 @@ use_preset_vocabulary: true
 胡嚨介胖	wu lon ka phaon
 介胖	ka phaon
 胖胡嚨
+馬燈調
+跑馬燈	phau mo ten
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
 一兩三	iq lian sae
