@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.10"
+version: "2020.05.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15860,6 +15860,7 @@ use_preset_vocabulary: true
 啞子	o tsy
 聾𦗭	lon ban	55
 沙胡嚨	so wu lon	55
+沙胡嚨	so u lon
 麻皮	mo bi	55
 茶手	dzo shieu	55
 拐腳	kua cian
@@ -16069,13 +16070,13 @@ use_preset_vocabulary: true
 頭頸	deu cin
 脰頸	deu cin	55
 頭頸骨	deu cin kuaq	55
-胡嚨	wu lon	55
+胡嚨	wu lon	578
 胡嚨	u lon	55
-胡嚨頭	wu lon deu	55
+胡嚨頭	wu lon deu	578
 胡嚨頭	u lon deu	55
-小胡嚨	shiau wu lon	55
+小胡嚨	shiau wu lon	578
 小胡嚨	shiau u lon	55
-假胡嚨	ko wu lon	55
+假胡嚨	ko wu lon	578
 假胡嚨	ko u lon	55
 飯鍬骨	vae chiau kuaq	55
 肩胛頭	ci kaq deu	55
@@ -20895,6 +20896,7 @@ use_preset_vocabulary: true
 撮外快	tshaq nga khua	55
 撮便宜	tshaq bi gni	55
 鯁胡嚨	gan wu lon	55
+鯁胡嚨	gan u lon
 戳壁腳	tshoq piq ciaq
 劖着劖	zae dzoq zae	55
 買着買	ma dzoq ma	55
@@ -22856,6 +22858,7 @@ use_preset_vocabulary: true
 假癡假呆	ko tsyu ko nge	55
 假癡假呆	ko tsy ko nge	55
 假戲頭	ko shi deu	55
+假胡嚨	ko wu lon	55
 掛錶	kuo piau
 嫁衣	ko i
 嫁妝	ko tsaon
@@ -23037,6 +23040,7 @@ use_preset_vocabulary: true
 小肚	shiau du
 小路	shiau lu
 小姑	shiau ku
+小胡嚨	shiau wu lon	55
 小雨	shiau yu
 小排	shiau ba
 小矮凳	shiau a ten	55
@@ -27350,6 +27354,7 @@ use_preset_vocabulary: true
 河鯽魚㸆蔥	ghou ci ng khau tshon	55
 剝皮大㸆	poq bi dou khau	55
 寧波灘簧	gnin pou thae waon	55
+雌雞胡嚨	tshy ci u lon
 
 # 其他詞彙
 
