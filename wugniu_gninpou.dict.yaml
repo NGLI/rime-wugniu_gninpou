@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.13"
+version: "2020.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -3077,6 +3077,7 @@ import_tables:
 堦	ka
 街	ka
 咖	ka
+鮫	ka	0%
 解	ka
 介	ka
 界	ka
@@ -12804,6 +12805,7 @@ import_tables:
 虿	tsha
 晒	sa
 阶	ka
+鲛	ka	0%
 𨱕	ga
 还	gha
 锕	a
