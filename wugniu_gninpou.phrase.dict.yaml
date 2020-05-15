@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.13"
+version: "2020.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -396,20 +396,20 @@ use_preset_vocabulary: true
 謳勒應	eu laq in	55
 謳謳其	eu eu ji	55
 謳謳渠	eu eu ji	55
-謳儂疙瘩了	eu ng kaq taq lei
+謳儂疙瘩了	eu nou kaq taq lei
 謳俉疙瘩了	eu ng kaq taq lei
-謳儂着力了	eu ng jiaq liq lei
+謳儂着力了	eu nou jiaq liq lei
 謳俉着力了	eu ng jiaq liq lei
 謳爾着力了	eu ng jiaq liq lei
-謳儂𢜭力了	eu ng jiaq liq lei
+謳儂𢜭力了	eu nou jiaq liq lei
 謳俉𢜭力了	eu ng jiaq liq lei
 謳爾𢜭力了	eu ng jiaq liq lei
-謳儂疙瘩𡀂	eu ng kaq taq lei
+謳儂疙瘩𡀂	eu nou kaq taq lei
 謳俉疙瘩𡀂	eu ng kaq taq lei
-謳儂着力𡀂	eu ng jiaq liq lei
+謳儂着力𡀂	eu nou jiaq liq lei
 謳俉着力𡀂	eu ng jiaq liq lei
 謳爾着力𡀂	eu ng jiaq liq lei
-謳儂𢜭力𡀂	eu ng jiaq liq lei
+謳儂𢜭力𡀂	eu nou jiaq liq lei
 謳俉𢜭力𡀂	eu ng jiaq liq lei
 謳爾𢜭力𡀂	eu ng jiaq liq lei
 跑春	phau tshyun	55
