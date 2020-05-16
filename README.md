@@ -33,13 +33,10 @@
 - [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示)
 - [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查)
 
-## 拼音教程
+## 資源
 
-https://ionkaon.github.io/phin-in-tutorial/
-
-## 字詞查詢
-
-https://www.wugniu.com/
+- [宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/)
+- [吳語學堂（字音、詞彙查詢）](https://www.wugniu.com/)
 
 ## 鳴謝
 
