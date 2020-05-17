@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.16"
+version: "2020.05.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4508,7 +4508,7 @@ use_preset_vocabulary: true
 泰山西路
 江南中路
 江南東路
-駱霞公路
+駱霞公路	loq gho kon lu
 海警武裝學院	he cin Wu tsaon ghoq yu
 東海路
 黃山西路
@@ -4526,8 +4526,8 @@ use_preset_vocabulary: true
 小港
 大碶街道	da chi ka dau
 大碶	da chi
-霞浦街道
-霞浦
+霞浦街道	gho phu ka dau
+霞浦	gho phu
 柴橋街道
 柴橋
 戚家山街道	chiq ko sae ka dau
@@ -7631,6 +7631,11 @@ use_preset_vocabulary: true
 㰵勒出
 㰵弗出	tsyuq vaq tshyuq
 㰵勿出
+𠑞藥
+⿸尸查藥	dza yaq
+⿸尸咋藥	dza yaq
+撒藥	dza yaq
+射藥	dza yaq
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
@@ -12662,7 +12667,7 @@ VCD	vi shi di
 盛世酈都	zhin syu li tu
 盛家	dzan ko
 盛家河	dzan ko ghou
-盛霞路	dzan ya lu
+盛霞路	dzan gho lu
 盤棋山路
 盧一
 直塘江
@@ -13229,7 +13234,7 @@ VCD	vi shi di
 農行大廈	non ghaon da so
 迎春水岸
 迎春路
-迎霞北路
+迎霞北路	gnin gho poq lu
 迎鳳巷
 迪興大廈	diq shin da gho
 迪興大廈	diq shin da so
@@ -13413,7 +13418,7 @@ VCD	vi shi di
 錦苑社區
 錦苑西巷
 錦誠明都
-錦霞路
+錦霞路	cin gho lu
 鍾公廟路
 鍾家弄	tson ko lon
 鍾家沙	tson ko so
@@ -13558,10 +13563,10 @@ VCD	vi shi di
 雷公巷
 霓虹路
 霞景水岸
-霞浦南路
-霞浦西路
-霞浦路
-霞西新村
+霞浦南路	gho phu nEI lu
+霞浦西路	gho phu shi lu
+霞浦路	gho phu lu
+霞西新村	gho shi shin tshen
 靈峯公寓
 靈峯山路
 靈峯水庫
