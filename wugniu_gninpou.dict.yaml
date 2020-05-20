@@ -15072,8 +15072,8 @@ import_tables:
 清早天亮	chin tsau thiq gnian	55
 烏早天亮	u tsau thiq gnian	55
 烏清早暗	u chin tsau EI	55
-天亮	thi gnian
-天亮	thiq gnian
+天亮	thi gnian	3000
+天亮	thiq gnian	10000
 天亮頭	thi gnian deu	55
 天亮頭	thiq gnian deu	55
 第二天亮	di gni thi gnian	55

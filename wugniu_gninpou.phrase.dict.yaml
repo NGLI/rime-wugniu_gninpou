@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.17"
+version: "2020.05.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5244,6 +5244,10 @@ use_preset_vocabulary: true
 馬鮫	mo kau
 馬鮫	mo ka
 馬鮫魚	mo ka ng
+紅毛番薯	ghou mau fae zyu
+紅毛人	ghou mau gnin
+紅毛人案	ghou mau gnin e
+紅毛人案	ghou mau gnin EI
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
@@ -5252,6 +5256,9 @@ use_preset_vocabulary: true
 下本	gho pen
 養生	ian sen
 行爲	yin wei
+天亮	thi lian
+天亮了	thi lian lei
+天亮𡀂	thi lian lei
 # 兒童用語
 奧魚	au ng
 肉肉	knion knion
