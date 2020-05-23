@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.20"
+version: "2020.05.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -10222,6 +10222,7 @@ import_tables:
 趿	saq
 碎	saq	0%
 石	zaq
+乭	zaq
 閘	zaq
 牐	zaq
 煠	zaq	578
