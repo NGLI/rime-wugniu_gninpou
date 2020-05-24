@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.23"
+version: "2020.05.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -503,6 +503,7 @@ import_tables:
 𨍐	syu
 世	syu
 卋	syu
+丗	syu
 勢	syu
 歲	syu
 嵗	syu
@@ -1658,6 +1659,7 @@ import_tables:
 𨁍	gni
 唁	gni
 彥	gni
+彦	gni
 諺	gni
 偐	gni
 𤜵	gni
@@ -1774,6 +1776,7 @@ import_tables:
 壻	shi
 世	shi
 卋	shi
+丗	shi
 絮	shi
 戲	shi
 嚱	shi
@@ -2241,6 +2244,7 @@ import_tables:
 斁	tu
 都	thu	0%
 土	thu
+圡	thu
 吐	thu
 釷	thu
 靯	thu
@@ -3016,6 +3020,7 @@ import_tables:
 娜	na
 哪	nha
 吶	nha
+呐	nha
 那	nha
 剌	la
 攋	la
@@ -3134,6 +3139,7 @@ import_tables:
 鵶	a	0%
 埃	a
 矮	a
+躷	a
 㢊	a
 阿	a
 靉	a
@@ -3707,6 +3713,7 @@ import_tables:
 抝	au
 㑃	au
 媼	au
+媪	au
 襖	au
 懊	au
 奧	au
@@ -3897,6 +3904,7 @@ import_tables:
 𧋊	so
 硰	so
 賒	so
+賖	so
 稍	so	5%
 蓑	so
 簑	so
@@ -3982,6 +3990,7 @@ import_tables:
 淲	piau
 猋	piau
 飆	piau
+飊	piau
 飈	piau
 颮	piau
 驫	piau
@@ -4984,6 +4993,7 @@ import_tables:
 懺	tshae
 慘	tshae
 產	tshae
+産	tshae
 鏟	tshae
 剷	tshae
 㦃	tshae
@@ -5043,6 +5053,7 @@ import_tables:
 姗	sae
 䈀	sae
 產	sae	5%
+産	sae	5%
 芟	sae
 潸	sae
 傘	sae
@@ -5349,6 +5360,7 @@ import_tables:
 陝	soe
 算	soe
 筭	soe
+祘	soe
 蒜	soe
 渲	soe
 喧	soe
@@ -5861,6 +5873,7 @@ import_tables:
 湳	nEI
 耐	nei	0%
 內	nei
+内	nei
 汭	nei
 𤿏	nei	578
 婻	nEI
@@ -6785,6 +6798,7 @@ import_tables:
 簉	tsheu
 叟	seu
 搜	seu
+捜	seu
 蒐	seu
 颼	seu
 艘	seu
@@ -7303,6 +7317,7 @@ import_tables:
 蟒	maon
 漭	maon
 網	maon
+网	maon
 夢	maon	5%
 忘	maon
 妄	maon
@@ -8050,6 +8065,7 @@ import_tables:
 砘	den
 能	nen
 寧	nen	5%
+寍	nen	5%
 寗	nen	5%
 寜	nen	5%
 寕	nen	5%
@@ -8758,6 +8774,7 @@ import_tables:
 凝	gnin
 迎	gnin
 寧	gnin
+寍	gnin
 甯	gnin
 寗	gnin
 寜	gnin
@@ -8794,6 +8811,7 @@ import_tables:
 韌	gnin
 靭	gnin
 靱	gnin
+肕	gnin
 濘	gnin
 憗	gnin
 深	shin
@@ -9141,6 +9159,7 @@ import_tables:
 荺	yun
 耘	yun
 閏	yun
+閠	yun
 韻	yun
 韵	yun
 鄆	yun
@@ -9273,6 +9292,9 @@ import_tables:
 紉	zyun
 仞	zyun
 韌	zyun	5%
+靭	zyun
+靱	zyun
+肕	zyun	5%
 認	zyun	6%
 潤	zyun
 慎	zyun
@@ -9516,6 +9538,7 @@ import_tables:
 聡	tshon
 從	tshon	5%
 従	tshon	5%
+从	tshon	5%
 鏦	tshon
 樅	tshon
 充	tshon
@@ -9541,6 +9564,7 @@ import_tables:
 𨖼	tshon
 從	dzon
 従	dzon
+从	dzon
 叢	dzon
 崇	dzon
 戎	dzon	10%
@@ -9869,7 +9893,9 @@ import_tables:
 袜	maq
 陌	maq
 沒	maq
+没	maq
 歿	maq
+殁	maq
 莈	maq
 默	maq
 黙	maq
@@ -10031,6 +10057,7 @@ import_tables:
 䖧	naq
 哪	naq	5%
 吶	naq
+呐	naq
 鈉	naq
 納	naq
 衲	naq
@@ -10422,6 +10449,7 @@ import_tables:
 著	ciaq	0%
 着	ciaq	1%
 辵	ciaq
+辶	ciaq
 碏	ciaq
 脚	ciaq
 腳	ciaq
@@ -10588,6 +10616,7 @@ import_tables:
 卜	poq
 卟	poq
 剝	poq
+剥	poq
 駁	poq
 駮	poq
 博	poq
@@ -12480,7 +12509,6 @@ import_tables:
 议	gni
 酽	gni
 砚	gni
-彦	gni
 谚	gni
 验	gni
 牺	shi
@@ -12555,7 +12583,6 @@ import_tables:
 滟	yi
 练	yi
 铱	i
-医	i
 鹥	i
 阏	i
 恹	i
@@ -12794,7 +12821,6 @@ import_tables:
 钛	tha
 镎	na
 烂	na
-呐	nha
 𪮶	la
 赖	la
 癞	la
@@ -12908,7 +12934,6 @@ import_tables:
 颢	ghau
 灏	ghau
 岙	au
-媪	au
 袄	au
 奥	au
 钯	po
@@ -13416,7 +13441,6 @@ import_tables:
 镦	dei
 怼	dei
 馁	nei
-内	nei
 镭	lei
 蔂	lei
 缧	lei
@@ -13763,7 +13787,6 @@ import_tables:
 鳑	baon
 庞	baon
 铓	maon
-网	maon
 梦	maon
 钫	faon
 纺	faon
@@ -14315,13 +14338,11 @@ import_tables:
 纵	tson
 众	tson
 聪	tshon
-从	tshon
 𫓩	tshon
 枞	tshon
 宠	tshon
 种	tshon	0%
 铳	tshon
-从	dzon
 丛	dzon
 虫	dzon	0%
 诵	dzon
@@ -14382,8 +14403,6 @@ import_tables:
 唛	maq
 霡	maq
 蓦	maq
-没	maq
-殁	maq
 没	mhaq
 发	faq
 酦	faq
@@ -14415,7 +14434,6 @@ import_tables:
 垯	daq
 𪹹	daq
 夺	daq
-呐	naq
 钠	naq
 纳	naq
 讷	naq
@@ -14532,7 +14550,6 @@ import_tables:
 还	waq
 腽	uaq
 锫	poq
-剥	poq
 驳	poq
 镈	poq
 拨	poq
