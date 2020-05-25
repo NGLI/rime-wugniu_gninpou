@@ -2851,6 +2851,7 @@ import_tables:
 緣	yu
 圓	yu
 円	yu
+圎	yu
 員	yu
 貟	yu
 玄	yu
@@ -8159,6 +8160,7 @@ import_tables:
 𦼏	dzen
 䉕	dzen
 嶒	dzen
+岑	dzen
 涔	dzen
 䫈	dzen
 棖	dzen
@@ -8755,6 +8757,7 @@ import_tables:
 鄭	jin
 剩	jin
 賸	jin
+剰	jin
 嵊	jin
 贐	jin
 燼	jin
@@ -10507,6 +10510,7 @@ import_tables:
 弱	zhiaq
 蒻	zhiaq
 叒	zhiaq
+芍	zhiaq
 葯	yaq
 藥	yaq
 薬	yaq
@@ -11925,6 +11929,7 @@ import_tables:
 䟠	yuq
 樾	yuq
 粵	yuq
+粤	yuq
 穴	yuq
 㧒	yuq
 月	yuq
@@ -14819,7 +14824,6 @@ import_tables:
 顼	shiuq
 阅	yuq
 钺	yuq
-粤	yuq
 钥	yuq
 鹬	yuq
 𫔎	yuq
