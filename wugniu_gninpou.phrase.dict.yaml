@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.25"
+version: "2020.05.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7643,6 +7643,7 @@ use_preset_vocabulary: true
 ⿸尸咋藥	dza yaq
 撒藥	dza yaq
 射藥	dza yaq
+鵪鶉鳥	EI zyun tiau
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
@@ -12982,7 +12983,7 @@ VCD	vi shi di
 莊橋河
 莊洪路
 莊黃泓
-莘橋
+莘橋	shin jiau
 莘香雅苑
 莫家嶴水庫	moq ko au syu khu
 莫干山路	moq kI sae lu

@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.25"
+version: "2020.05.27"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8179,6 +8179,7 @@ import_tables:
 蔘	sen
 葠	sen
 蓡	sen
+莘	sen
 猻	sen
 飧	sen
 飱	sen
@@ -8845,7 +8846,7 @@ import_tables:
 忄	shin
 芯	shin
 辛	shin
-莘	shin
+莘	shin	10%
 鋅	shin
 騂	shin
 新	shin
