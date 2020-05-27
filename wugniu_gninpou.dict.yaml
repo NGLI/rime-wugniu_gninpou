@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.27"
+version: "2020.05.28"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -564,10 +564,12 @@ import_tables:
 𦱔	pi
 螕	pi
 蓖	pi
+鎞	pi
 屄	pi
 毴	pi
 𣭈	pi
 婢	pi	0%
+豍	pi
 鄙	pi
 箅	pi
 臂	pi
@@ -594,14 +596,22 @@ import_tables:
 秕	pi
 粃	pi
 沘	pi
+朼	pi
+舭	pi
 箄	pi
 吡	pi
 芘	pi
 彼	pi	10%
+柀	pi
+娝	pi
 扁	pi
 匾	pi
 鯿	pi
 褊	pi
+惼	pi
+碥	pi
+糄	pi
+藊	pi
 貶	pi
 畀	pi
 庇	pi
@@ -609,11 +619,14 @@ import_tables:
 祕	pi
 泌	pi
 毖	pi
+粊	pi
 閟	pi
 閉	pi
+閇	pi
 嬖	pi
 貱	pi
 費	pi	0%
+鄪	pi
 賁	pi	6%
 陛	pi
 變	pi
@@ -629,16 +642,22 @@ import_tables:
 帔	phi
 狓	phi
 銔	phi
+翍	phi
+耚	phi
+磇	phi
 扁	phi	0%
 翩	phi
 偏	phi
 篇	phi
 甂	phi
+媥	phi
+犏	phi
 蝙	phi	20%
 否	phi	0%
 庀	phi
 圮	phi
 諞	phi
+諀	phi
 痞	phi
 譬	phi
 屁	phi
@@ -648,6 +667,7 @@ import_tables:
 淠	phi
 睥	phi
 濞	phi
+嚊	phi
 嚭	phi
 媲	phi
 片	phi
@@ -673,6 +693,10 @@ import_tables:
 毘	bi
 蚍	bi
 鈚	bi
+肶	bi
+豼	bi
+阰	bi
+魮	bi
 貔	bi
 疲	bi
 肥	bi	5%
@@ -695,11 +719,15 @@ import_tables:
 汴	bi
 辨	bi
 辯	bi
+琕	bi
+賆	bi
+骿	bi
 蹁	bi
 被	bi
 庳	bi
 辮	bi
 牑	bi
+艑	bi
 坒	bi
 斃	bi
 獘	bi
@@ -710,6 +738,8 @@ import_tables:
 鐾	bi
 贔	bi
 髲	bi
+鞁	bi
+襣	bi
 𣸇	bi
 㛹	bi
 忭	bi
@@ -718,9 +748,13 @@ import_tables:
 弁	bi
 𥿋	bi
 䒪	bi
+匥	bi
+昪	bi
 迷	mi
 謎	mi
 醚	mi
+冞	mi
+麊	mi
 靡	mi
 蘼	mi
 糜	mi
@@ -729,9 +763,12 @@ import_tables:
 麋	mi
 麛	mi
 𪎭	mi
+醿	mi
 獼	mi
 瀰	mi
 彌	mi
+擟	mi
+镾	mi
 眉	mi
 楣	mi	1%
 眠	mi
@@ -742,20 +779,28 @@ import_tables:
 宀	mi
 蝒	mi
 櫋	mi
+矊	mi
+臱	mi
 明	mi	0%
 米	mi
 咪	mi	0%
 脒	mi
 洣	mi
 敉	mi
+侎	mi
+濔	mi
+葞	mi
 尾	mi
 㝥	mi
 𡬍	mi
+蔝	mi
 羋	mi
 芈	mi
 弭	mi
 乜	mi
+骳	mi
 沔	mi
+汅	mi
 免	mi
 娩	mi
 勉	mi
@@ -768,6 +813,8 @@ import_tables:
 緬	mi
 靦	mi
 腼	mi
+勔	mi
+愐	mi
 澠	mi
 冕	mi
 未	mi	5%
@@ -787,6 +834,7 @@ import_tables:
 面	mhi	0%
 靣	mhi	0%
 飛	fi
+騛	fi
 妃	fi
 非	fi
 啡	fi
@@ -802,15 +850,23 @@ import_tables:
 鯡	fi
 沸	fi
 腓	fi
+婓	fi
+裶	fi
+猆	fi
+馡	fi
 棐	fi
 悱	fi
 誹	fi
 篚	fi
+奜	fi
 肺	fi
 芾	fi
 杮	fi
 費	fi
 鐨	fi
+昲	fi
+靅	fi
+砩	fi
 廢	fi
 癈	fi
 廃	fi
@@ -823,24 +879,33 @@ import_tables:
 維	vi
 惟	vi
 濰	vi
+琟	vi
 肥	vi
 淝	vi
 蜰	vi
 微	vi
 薇	vi
+癓	vi
 娓	vi
 費	vi	5%
 吠	vi
 尾	vi	5%
 浘	vi
 梶	vi
+艉	vi
 亹	vi
+斖	vi
+陫	vi
 未	vi
 味	vi
 菋	vi
 鮇	vi
 㭑	vi
 狒	vi
+鼣	vi
+屝	vi
+萉	vi
+黂	vi
 蒂	ti
 蔕	ti
 氐	ti
@@ -848,15 +913,24 @@ import_tables:
 羝	ti
 眡	ti	0%
 𩑾	ti
+奃	ti
+袛	ti
 鍉	ti
+磾	ti
 掂	ti
 點	ti
 㸃	ti
+敁	ti
 顛	ti
 滇	ti
 巔	ti
+巓	ti
 癲	ti
 蹎	ti
+傎	ti
+厧	ti
+瘨	ti
+齻	ti
 癜	ti
 底	ti
 抵	ti
@@ -868,9 +942,14 @@ import_tables:
 柢	ti
 詆	ti
 坻	ti
+弤	ti
+軧	ti
 典	ti
 碘	ti
 𥮏	ti
+婰	ti
+敟	ti
+蕇	ti
 玷	ti
 奌	ti
 墊	ti	5%
@@ -882,6 +961,7 @@ import_tables:
 碲	ti
 偙	ti
 螮	ti
+僀	ti
 胝	ti	0%
 䩚	ti
 𦨢	ti
@@ -896,12 +976,14 @@ import_tables:
 涕	thi
 銻	thi
 睇	thi
+鷈	thi
 天	thi
 兲	thi
 添	thi
 掭	thi
 㮇	thi
 栝	thi
+黇	thi
 體	thi
 軆	thi
 挮	thi
@@ -909,12 +991,17 @@ import_tables:
 舔	thi
 菾	thi
 悿	thi
+蚕	thi
 腆	thi
 㥏	thi
 𧌎	thi
 捵	thi
 靦	thi
 腼	thi
+晪	thi
+淟	thi
+痶	thi
+賟	thi
 餂	thi
 㐁	thi
 剃	thi
@@ -924,11 +1011,15 @@ import_tables:
 屉	thi
 替	thi
 嚏	thi
+嚔	thi
 楴	thi
 褅	thi
 髢	thi
 殢	thi
 䪆	thi
+戻	thi
+达	thi
+睼	thi
 堤	di
 隄	di
 提	di
@@ -940,6 +1031,8 @@ import_tables:
 緹	di
 醍	di
 鶗	di
+瑅	di
+趧	di
 蹄	di
 蹏	di
 啼	di
@@ -947,13 +1040,19 @@ import_tables:
 鍗	di
 𩋣	di
 𩤢	di
+鶙	di
+崹	di
 鵜	di
 稊	di
+娣	di
+綈	di
+罤	di
+蕛	di
+鮷	di
 荑	di
 䨑	di
 𧙣	di
 䬫	di
-娣	di
 隶	di
 隸	di
 隷	di
@@ -966,12 +1065,16 @@ import_tables:
 䡘	di
 鿬	di
 畑	di
+沺	di
 殿	di
 奠	di
 填	di
 塡	di
 滇	di
 闐	di
+搷	di
+鷆	di
+鷏	di
 厗	di
 弟	di
 簟	di	55
@@ -986,6 +1089,9 @@ import_tables:
 䑯	di
 踶	di
 禘	di
+杕	di
+遰	di
+墬	di
 甸	di
 蜔	di
 墊	di
@@ -993,9 +1099,11 @@ import_tables:
 靛	di
 𪑩	di
 𪒮	di
+壂	di
 淀	di
 澱	di
 鈿	di	10000
+磹	di
 黎	li
 藜	li
 蔾	li
@@ -1004,13 +1112,18 @@ import_tables:
 梨	li
 棃	li
 黧	li
+邌	li
+鵹	li
 筣	li
+蟍	li
+鑗	li
 厘	li
 釐	li
 喱	li
 狸	li
 貍	li
 梩	li
+艃	li
 離	li
 漓	li
 灕	li
@@ -1023,20 +1136,34 @@ import_tables:
 縭	li
 蘺	li
 醨	li
+䍦	li
+攡	li
+樆	li
 罹	li
 麗	li
 驪	li
 鸝	li
 鱺	li
 酈	li
+孋	li
+穲	li
+廲	li
 嫠	li
 漦	li
+孷	li
 驢	li
 閭	li
 櫚	li
 蔞	li	5%
+秜	li
+倈	li
+刕	li
 藘	li
+爈	li
+璷	li
+氀	li
 聯	li
+聮	li
 憐	li
 連	li
 蓮	li
@@ -1046,6 +1173,8 @@ import_tables:
 槤	li
 縺	li
 褳	li
+嗹	li
+翴	li
 廉	li
 鐮	li
 鎌	li
@@ -1057,18 +1186,25 @@ import_tables:
 𢅏	li
 㾾	li
 臁	li
+濓	li
+熑	li
+燫	li
 奩	li
 匳	li
 匲	li
 孿	li
 孌	li
 攣	li
+籢	li
+覝	li
 泥	li	0%
 蠡	li
+欚	li
 邐	li
 攦	li
 豊	li
 禮	li
+礼	li
 澧	li
 醴	li
 鱧	li
@@ -1082,29 +1218,41 @@ import_tables:
 悝	li
 鋰	li
 哩	li
+浬	li
 李	li
+峛	li
 呂	li
 吕	li
 侶	li
 侣	li
 鋁	li
+梠	li
+絽	li
+郘	li
 履	li
 縷	li
 屢	li	5%
 褸	li
 膂	li
+祣	li
+儢	li
 斂	li
 歛	li
 襝	li
 蘞	li
 臉	li
+澰	li
+羷	li
 摙	li
 璉	li
+鄻	li
+嬚	li
 稴	li
 軟	li	0%
 旅	li
 荔	li
 茘	li
+栛	li
 莅	li
 涖	li
 蒞	li
@@ -1116,6 +1264,8 @@ import_tables:
 莉	li
 唎	li
 猁	li
+鬁	li
+丽	li
 儷	li
 戾	li
 唳	li
@@ -1123,6 +1273,7 @@ import_tables:
 泪	li
 捩	li
 蜧	li
+悷	li
 厲	li
 礪	li
 勵	li
@@ -1130,16 +1281,22 @@ import_tables:
 糲	li
 癘	li
 蠣	li
+巁	li
+櫔	li
+禲	li
+蠇	li
 例	li
-慮	li
-濾	li
-鑢	li
 吏	li
 𥷗	li
 𤃀	li
 劙	li
 剺	li
 銐	li
+砅	li
+慮	li
+濾	li
+鑢	li
+勴	li
 鍊	li
 煉	li
 楝	li
@@ -1151,9 +1308,13 @@ import_tables:
 湅	li
 𣿊	li
 㼑	li
+堜	li
+萰	li
+鰊	li
 鏈	li
 戀	li
 𪚁	li
+浰	li
 立	li	0%
 力	li	0%
 哩	lhi
@@ -1180,6 +1341,10 @@ import_tables:
 磯	ci
 璣	ci
 魕	ci
+虮	ci
+僟	ci
+鐖	ci
+鞿	ci
 枅	ci
 乩	ci
 畿	ci
@@ -1192,12 +1357,16 @@ import_tables:
 箕	ci
 基	ci
 𠼻	ci
+稘	ci
+諆	ci
 笄	ci
+丌	ci
 犄	ci
 嵇	ci
 稽	ci
 羈	ci
 羇	ci
+躸	ci
 今	ci	0%
 旃	ci
 栴	ci
@@ -1214,14 +1383,21 @@ import_tables:
 譫	ci
 瞻	ci
 襜	ci
+薝	ci
+厃	ci
+噡	ci
 氈	ci
 氊	ci
 覘	ci
 鸇	ci
 饘	ci
-薝	ci
+鱣	ci
+旜	ci
 鬋	ci
 湔	ci
+瀸	ci
+虃	ci
+葏	ci
 鶼	ci
 蒹	ci
 縑	ci
@@ -1234,27 +1410,40 @@ import_tables:
 菅	ci
 間	ci
 覸	ci
+蕑	ci
 肩	ci
+猏	ci
+菺	ci
+鵳	ci
 艱	ci
+囏	ci
 緘	ci	0%
 靬	ci
+幵	ci
+豣	ci
+麉	ci
+玪	ci
 䥛	ci
 擠	ci
 濟	ci
+櫅	ci
 癠	ci
 姊	ci
 姉	ci
 秭	ci
 泲	ci
+賷	ci
 雞	ci
 鷄	ci
 鶏	ci
 鳮	ci
 蟣	ci
+穖	ci
 己	ci
 𠮯	ci
 剞	ci
 庋	ci
+妀	ci
 翦	ci
 剪	ci
 㨵	ci
@@ -1265,32 +1454,42 @@ import_tables:
 輾	ci
 颭	ci
 戩	ci
+嫸	ci
+樿	ci
+橏	ci
 簡	ci
+僴	ci
 繭	ci
 蠒	ci
 𥀹	ci
+襺	ci
 𢆞	ci
 檢	ci
 柬	ci
 撿	ci
 瞼	ci
 揀	ci	10%
+暕	ci
 搴	ci
 蹇	ci
 謇	ci
+藆	ci
 皽	ci
 囝	ci
+挸	ci
+絸	ci
+湕	ci
 鯽	ci
 祭	ci
 際	ci
 穄	ci
 漈	ci
+鰶	ci
 𣥼	ci	10000
 霽	ci
 劑	ci
 穧	ci
 寘	ci
-驥	ci
 稷	ci
 季	ci
 悸	ci
@@ -1301,11 +1500,17 @@ import_tables:
 紀	ci
 繫	ci	1%
 繋	ci	1%
+蘻	ci
 既	ci
 旣	ci
 暨	ci
 曁	ci
+穊	ci
+蔇	ci
 冀	ci
+驥	ci
+兾	ci
+懻	ci
 髻	ci
 薊	ci
 洎	ci
@@ -1314,9 +1519,13 @@ import_tables:
 蘮	ci
 彐	ci
 檵	ci
+瀱	ci
+猘	ci
 僭	ci
+榗	ci
 牮	ci
 箭	ci
+葥	ci
 濺	ci
 薦	ci
 洊	ci
@@ -1330,11 +1539,14 @@ import_tables:
 殲	ci
 兼	ci
 建	ci
+旔	ci
 見	ci
 筧	ci
 劍	ci
 劒	ci
 剣	ci
+劔	ci
+趝	ci
 鑒	ci
 鑑	ci
 鍳	ci
@@ -1349,12 +1561,19 @@ import_tables:
 萋	chi
 郪	chi
 緀	chi
+霋	chi
+鶈	chi
 蛆	chi
 欺	chi
+僛	chi
+娸	chi
+魌	chi
 溪	chi
 谿	chi
 蹊	chi
 鸂	chi
+嵠	chi
+磎	chi
 崎	chi	5%
 攲	chi
 䀘	chi
@@ -1373,10 +1592,14 @@ import_tables:
 扦	chi
 韆	chi
 遷	chi
+迁	chi
 𢳍	chi
+圱	chi
+杄	chi
+谸	chi
+梴	chi
 覘	chi
 釺	chi
-汧	chi
 殲	chi	5%
 鑯	chi
 槧	chi
@@ -1393,25 +1616,46 @@ import_tables:
 遣	chi
 慳	chi
 榿	chi
+汧	chi
+岍	chi
+蚈	chi
+郉	chi
+攑	chi
+攐	chi
+顅	chi
+皉	chi
 啓	chi
 棨	chi
 啟	chi
 唘	chi
 启	chi
+闙	chi
 杞	chi
 芑	chi
 屺	chi
 起	chi
+玘	chi
+邔	chi
 綺	chi
+婍	chi
 綮	chi
 跂	chi
 淺	chi
 蕆	chi
 諂	chi
+讇	chi
+囅	chi
 闡	chi
+幝	chi
+灛	chi
 慊	chi
 譴	chi
 繾	chi
+膁	chi
+嵰	chi
+槏	chi
+脥	chi
+蜸	chi
 䭤	chi
 𩝡	chi
 𥉻	chi
@@ -1419,6 +1663,7 @@ import_tables:
 覰	chi	0%
 䀙	chi
 砌	chi
+摖	chi
 契	chi
 碶	chi
 氣	chi
@@ -1434,11 +1679,20 @@ import_tables:
 愒	chi
 亟	chi	0%
 蟿	chi
+唭	chi
+盵	chi
+夡	chi
 茜	chi
 塹	chi
+壍	chi
+嬱	chi
 蒨	chi
 棈	chi
+篟	chi
+輤	chi
+韂	chi
 欠	chi
+傔	chi
 芡	chi
 齊	ji	5%
 臍	ji
@@ -1449,6 +1703,10 @@ import_tables:
 遲	ji
 墀	ji
 蚳	ji
+彽	ji
+泜	ji
+貾	ji
+阺	ji
 池	ji
 馳	ji
 稚	ji
@@ -1459,7 +1717,6 @@ import_tables:
 筯	ji
 踟	ji
 畤	ji
-前	ji	0%
 奇	ji
 琦	ji
 騎	ji
@@ -1469,6 +1726,7 @@ import_tables:
 埼	ji
 畸	ji
 錡	ji
+鵸	ji
 祈	ji
 其	ji	667965
 期	ji
@@ -1487,6 +1745,14 @@ import_tables:
 剘	ji
 騏	ji
 綦	ji
+櫀	ji
+璂	ji
+禥	ji
+綨	ji
+藄	ji
+蜝	ji
+踑	ji
+鯕	ji
 岐	ji
 歧	ji
 跂	ji
@@ -1494,14 +1760,20 @@ import_tables:
 耆	ji
 鰭	ji
 鬐	ji
+愭	ji
 鮨	ji
 芪	ji
 衹	ji
 祇	ji
+疧	ji
+軝	ji
 頎	ji
 圻	ji
 蚚	ji
 蘄	ji
+玂	ji
+岓	ji
+亓	ji
 俟	ji	5%
 潜	ji
 潛	ji
@@ -1511,13 +1783,20 @@ import_tables:
 廛	ji
 纏	ji
 纒	ji
+緾	ji
+鄽	ji
 躔	ji
 瀍	ji
+誗	ji
 踐	ji
 漸	ji
 賤	ji	1%
+歬	ji
+前	ji	0%
+騚	ji
 餞	ji
 黔	ji
+鳹	ji
 鉗	ji
 箝	ji
 拑	ji
@@ -1527,6 +1806,8 @@ import_tables:
 亁	ji
 墘	ji
 虔	ji
+榩	ji
+鰬	ji
 揵	ji
 儉	ji
 鍵	ji
@@ -1535,8 +1816,11 @@ import_tables:
 及	ji	0%
 痔	ji
 峙	ji
+庤	ji
+歭	ji
 雉	ji
 褫	ji
+滍	ji
 豸	ji
 技	ji
 妓	ji
@@ -1549,6 +1833,8 @@ import_tables:
 楗	ji
 鞬	ji
 廌	ji
+寋	ji
+鑳	ji
 滯	ji
 忮	ji
 嚌	ji
@@ -1556,17 +1842,24 @@ import_tables:
 苧	ji
 芧	ji
 惎	ji
+帺	ji
 渠	ji	304447
 厩	ji
 廐	ji
 廄	ji
+廏	ji
 鱀	ji
 忌	ji
 𡜱	ji
 𠲹	ji
 跽	ji
+梞	ji
+誋	ji
+鵋	ji
 𢺵	ji
 崎	ji
+垍	ji
+臮	ji
 健	ji
 踺	ji
 荐	ji
@@ -1578,6 +1871,9 @@ import_tables:
 伲	gni
 妮	gni
 怩	gni
+屔	gni
+蚭	gni
+跜	gni
 疑	gni
 嶷	gni
 宜	gni
@@ -1592,8 +1888,15 @@ import_tables:
 麑	gni
 猊	gni
 鯢	gni
+婗	gni
+棿	gni
+貎	gni
+郳	gni
+齯	gni
 沂	gni
 囈	gni
+宐	gni
+溰	gni
 閻	gni
 臡	gni
 嚴	gni
@@ -1606,26 +1909,41 @@ import_tables:
 鮎	gni
 妍	gni
 研	GNi
+姸	gni
+揅	gni
+硏	gni
 䂴	gni
+琂	gni
 然	gni	0%
 你	gni
 妳	gni
 伱	gni
 鉨	gni
+檷	gni
+禰	gni
+薾	gni
 蟻	gni
+檥	gni
+礒	gni
+艤	gni
+齮	gni
 耳	gni
 擬	gni
 儗	gni
 旎	gni
 抳	gni
 柅	gni
+坭	gni
+苨	gni
+狔	gni
 薿	gni
 輗	gni
+晲	gni
+聻	gni
 輦	gni
 攆	gni
 冉	gni
 冄	gni
-姌	gni
 染	gni
 碾	gni
 蹨	gni
@@ -1635,6 +1953,12 @@ import_tables:
 顗	gni
 齞	gni
 癮	gni
+曮	gni
+嬐	gni
+隒	gni
+嵃	gni
+遃	gni
+齴	gni
 黏	gni	0%
 藝	gni
 蓺	gni
@@ -1647,6 +1971,7 @@ import_tables:
 膩	gni
 睨	gni
 鶃	gni
+s	迡	gni
 羿	gni
 詣	gni
 劓	gni
@@ -1654,6 +1979,10 @@ import_tables:
 乂	gni
 刈	gni
 艾	gni	0%
+竩	gni
+藙	gni
+埶	gni
+槸	gni
 釅	gni
 硯	gni
 𨁍	gni
@@ -1663,6 +1992,7 @@ import_tables:
 諺	gni
 偐	gni
 𤜵	gni
+鬳	gni
 念	gni	0%
 驗	gni	5%
 騐	gni	5%
@@ -1676,6 +2006,7 @@ import_tables:
 硒	shi
 茜	shi	5%
 恓	shi
+舾	shi
 犀	shi
 樨	shi
 髓	shi
@@ -1683,6 +2014,9 @@ import_tables:
 嘶	shi	5%
 圾	shi
 簁	shi
+褷	shi
+卤	shi
+屖	shi
 希	shi
 稀	shi
 晞	shi
@@ -1693,6 +2027,10 @@ import_tables:
 唏	shi
 烯	shi
 浠	shi
+悕	shi
+睎	shi
+莃	shi
+鵗	shi
 羲	shi
 犧	shi
 曦	shi
@@ -1700,11 +2038,19 @@ import_tables:
 熹	shi
 嬉	shi
 僖	shi
+歖	shi
+瞦	shi
 𧕆	shi
+巇	shi
+隵	shi
 兮	shi
 禧	shi
+娭	shi
+忾	shi
+忚	shi
 暹	shi
 躚	shi
+蹮	shi
 先	shi
 酰	shi
 𥑻	shi
@@ -1716,6 +2062,9 @@ import_tables:
 籼	shi
 秈	shi
 氙	shi
+奾	shi
+苮	shi
+孅	shi
 膻	shi
 羶	shi
 羴	shi
@@ -1727,10 +2076,20 @@ import_tables:
 杴	shi
 鍁	shi
 祆	shi
+挻	shi
+鯅	shi
 軒	shi
+蓒	shi
 蜆	shi
 妗	shi
 獻	shi
+馦	shi
+訮	shi
+忺	shi
+鶱	shi
+嘕	shi
+仚	shi
+屳	shi
 死	shi
 璽	shi
 壐	shi
@@ -1747,6 +2106,7 @@ import_tables:
 蟢	shi
 囍	shi
 𨭎	shi
+狶	shi
 手	shi	0%
 洗	shi
 筅	shi
@@ -1765,12 +2125,16 @@ import_tables:
 熌	shi
 𣟲	shi
 𧕇	shi
+覢	shi
+纚	shi
 險	shi
 険	shi
 嶮	shi
 㬎	shi
 顯	shi
 玁	shi
+幰	shi
+攇	shi
 細	shi
 婿	shi
 壻	shi
@@ -1789,12 +2153,18 @@ import_tables:
 屓	shi
 屭	shi
 餼	shi
+忥	shi
+熂	shi
+犔	shi
+鎎	shi
 咥	shi
 熙	shi
 熈	shi
 煕	shi
 嘻	shi
 譆	shi
+呬	shi
+黖	shi
 纖	shi
 纎	shi
 腺	shi
@@ -1806,9 +2176,14 @@ import_tables:
 煽	shi
 騸	shi
 謆	shi
+傓	shi
 霰	shi
+軐	shi
+掞	shi
 憲	shi
+瀗	shi
 掀	shi
+姭	shi
 徐	zhi
 齊	zhi
 前	zhi
@@ -1831,6 +2206,10 @@ import_tables:
 酐	kI
 矸	kI
 玕	kI
+媣	kI
+漧	kI
+迀	kI
+鳱	kI
 該	kI	0%
 賅	kI
 鋸	kI
@@ -1843,10 +2222,17 @@ import_tables:
 感	kI
 擀	kI
 趕	kI
+鱤	kI
+仠	kI
+皯	kI
+簳	kI
+衦	kI
 狗	kI	5%
 幹	kI
 榦	kI
 𢁗	kI
+倝	kI
+盰	kI
 淦	kI
 贛	kI
 灨	kI
@@ -1862,12 +2248,20 @@ import_tables:
 擕	yi
 巂	yi
 蠵	yi
+酅	yi
+雟	yi
+驨	yi
 奚	yi
 徯	yi
 鼷	yi
 螇	yi
 膎	yi
 傒	yi
+豯	yi
+貕	yi
+騱	yi
+嵆	yi
+郋	yi
 圯	yi
 畦	yi
 鮭	yi	1%
@@ -1875,11 +2269,17 @@ import_tables:
 迻	yi
 𣻗	yi
 扅	yi
+拸	yi
+熪	yi
+謻	yi
+暆	yi
+歋	yi
 怡	yi
 貽	yi
 飴	yi
 眙	yi
 詒	yi
+珆	yi
 迤	yi
 蛇	yi	0%
 匜	yi
@@ -1888,6 +2288,10 @@ import_tables:
 夷	yi
 姨	yi
 痍	yi
+峓	yi
+恞	yi
+眱	yi
+蛦	yi
 遺	yi
 痬	yi
 肄	yi
@@ -1895,6 +2299,7 @@ import_tables:
 頤	yi
 彝	yi
 彜	yi
+彞	yi
 胰	yi
 鮧	yi
 跠	yi
@@ -1902,6 +2307,11 @@ import_tables:
 沂	yi	10%
 矣	yi
 易	yi
+宧	yi
+巸	yi
+弬	yi
+沶	yi
+瓵	yi
 懿	yi
 𧍢	yi
 延	yi
@@ -1911,12 +2321,18 @@ import_tables:
 唌	yi
 䀽	yi
 埏	yi
+綖	yi
+郔	yi
 鹽	yi
 塩	yi
 賢	yi
 弦	yi
 絃	yi
 泫	yi
+伭	yi
+婱	yi
+痃	yi
+蚿	yi
 閆	yi
 言	yi
 訁	yi
@@ -1926,23 +2342,34 @@ import_tables:
 阽	yi
 雁	yi
 鴈	yi
+鳫	yi
 咸	yi
+諴	yi
+輱	yi
+醎	yi
 檐	yi
 簷	yi
 顏	yi	5%
 顔	yi	5%
 㘖	yi
+楌	yi
 癇	yi
 癎	yi
 嫺	yi
 嫻	yi
 鷳	yi
+瞯	yi
+鷴	yi
+壛	yi
+櫩	yi
 鳶	yi
 演	yi
 縯	yi
 豔	yi
 艷	yi
 豓	yi
+艶	yi
+蛝	yi
 涯	yi
 崖	yi
 冶	yi
@@ -1953,6 +2380,10 @@ import_tables:
 笖	yi
 𠯋	yi
 咦	yi
+崺	yi
+扡	yi
+肔	yi
+苢	yi
 峴	yi
 晛	yi
 睍	yi
@@ -1966,19 +2397,39 @@ import_tables:
 鱓	yi	0%
 蟮	yi	0%
 兗	yi
+兖	yi
+抁	yi
+沇	yi
+渷	yi
 蝝	yi
 烻	yi
+鼸	yi
+臔	yi
+鋧	yi
+轞	yi
+橌	yi
+豏	yi
+夵	yi
+棪	yi
 裏	yi	0%
 裡	yi	0%
 異	yi
 勩	yi	55
 泄	yi	0%
 呭	yi
+枻	yi
+袣	yi
+詍	yi
+靾	yi
 貤	yi
 又	yi	5%
 曳	yi
 𥹞	yi
+曵	yi
 禊	yi
+稧	yi
+殔	yi
+儶	yi
 現	yi
 見	yi	1%
 焰	yi
@@ -1989,6 +2440,9 @@ import_tables:
 贋	yi
 贗	yi
 灩	yi
+灧	yi
+娨	yi
+粯	yi
 腌	yi	0%
 醃	yi	0%
 練	yi	0%
@@ -2001,13 +2455,21 @@ import_tables:
 翳	i
 鷖	i
 繄	i
+嫛	i
+黳	i
+毉	i
 依	i
 伊	i
 咿	i
 吚	i
+蛜	i
 漪	i
+檹	i
+欹	i
 噫	i
 黟	i
+禕	i
+郼	i
 蔫	i
 焉	i
 嫣	i
@@ -2025,6 +2487,8 @@ import_tables:
 醃	i
 懨	i
 燕	i
+崦	i
+懕	i
 椅	i
 猗	i
 倚	i
@@ -2032,6 +2496,8 @@ import_tables:
 掎	i
 旖	i
 扆	i
+偯	i
+庡	i
 以	i	5%
 奄	i
 掩	i
@@ -2044,30 +2510,49 @@ import_tables:
 鼴	i
 鰋	i
 郾	i
+鶠	i
 𥀬	i
 ⿱厭肉	i
 魘	i
+檿	i
+黶	i
 弇	i
 揜	i
 媕	i
+渰	i
 意	i
 薏	i
 癔	i
 鐿	i
+鷾	i
 饐	i
+曀	i
+殪	i
+撎	i
+鷧	i
 裔	i
 㵝	i
 瘞	i
+医	i
+嫕	i
+殹	i
+蘙	i
 益	i	0%
 億	i
 憶	i
 臆	i
+檍	i
+澺	i
+枍	i
+欭	i
+螠	i
 宴	i
 讌	i
 醼	i
 鷰	i
 咽	i
 嚥	i
+酀	i
 淹	i
 閹	i
 㛪	i
@@ -2078,6 +2563,11 @@ import_tables:
 厴	i
 晏	i	1%
 鷃	i
+椻	i
+騴	i
+傿	i
+溎	i
+覎	i
 譜	pu
 補	pu
 圃	pu
@@ -2090,6 +2580,7 @@ import_tables:
 䮒	phu
 潽	phu
 普	phu
+暜	phu
 鐠	phu
 溥	phu
 浦	phu
@@ -2898,6 +3389,7 @@ import_tables:
 県	yu
 援	yu
 褑	yu
+掾	yu
 淤	iu
 于	iu	5%
 迂	iu
@@ -2946,6 +3438,7 @@ import_tables:
 伯	pa	0%
 派	pha
 哌	pha
+蒎	pha
 浿	pha
 湃	pha
 潑	pha	5%
@@ -2959,12 +3452,15 @@ import_tables:
 䱝	ba
 捭	ba
 䇑	ba
+矲	ba
 稗	ba
 粺	ba
 敗	ba
+贁	ba
 憊	ba
 唄	ba
 韝	ba
+韛	ba
 埋	ma
 嘛	ma
 霾	ma
@@ -2974,6 +3470,9 @@ import_tables:
 馬	ma	0%
 嗎	ma
 瑪	ma	5%
+嘪	ma
+蕒	ma
+鷶	ma
 賣	ma
 𧻲	mha
 埋	mha	5%
@@ -2983,6 +3482,7 @@ import_tables:
 帶	ta
 帯	ta
 㯂	ta
+艜	ta
 戴	ta
 拖	tha	5%
 祂	tha
@@ -3012,6 +3512,7 @@ import_tables:
 鎿	na
 淖	na	0%
 艿	na
+誽	na
 南	na	0%
 奶	na
 嬭	na
@@ -3030,11 +3531,14 @@ import_tables:
 癩	la
 籟	la
 瀨	la
+藾	la
+鵣	la
 垃	la
 拉	la	1%
 啦	la
 拉	lha
 啦	lha
+菈	lha
 剌	lha	0%
 齋	tsa
 斎	tsa
@@ -3071,8 +3575,10 @@ import_tables:
 洒	sa
 𩎉	sa
 曬	sa
+閷	sa
 柴	za
 㾹	za
+祡	za
 豺	za
 寨	za
 砦	za
@@ -3085,6 +3591,8 @@ import_tables:
 咖	ka
 鮫	ka	0%
 解	ka
+檞	ka
+廨	ka
 介	ka
 界	ka
 堺	ka
@@ -3097,6 +3605,7 @@ import_tables:
 屆	ka
 戒	ka
 隘	ka	5%
+繲	ka
 揩	kha
 楷	kha
 咖	kha	15%
@@ -3126,6 +3635,7 @@ import_tables:
 嶰	ha
 獬	ha
 罅	ha
+譮	ha
 鞋	gha
 合	gha	0%
 鞵	gha
@@ -3145,6 +3655,7 @@ import_tables:
 阿	a
 靉	a
 隘	a
+賹	a
 爹	tia
 嗲	tia
 家	cia
@@ -3165,6 +3676,7 @@ import_tables:
 豭	cia
 佳	cia
 姐	cia
+飷	cia
 解	cia	6%
 薢	cia
 賈	cia
@@ -3201,10 +3713,14 @@ import_tables:
 茄	jia
 ⿰口茄	jia
 弶	jia	1%
+岈	shia
+疨	shia
+谺	shia
 寫	shia
 㕐	shia	578
 瀉	shia
 䥱	shia
+閜	shia
 𧓺	shia
 卸	shia
 傻	shia	0%
@@ -3216,6 +3732,8 @@ import_tables:
 邪	zhia
 衺	zhia
 謝	zhia
+褯	zhia
+躤	zhia
 榭	zhia
 㴬	zhia
 霞	ya
@@ -3225,6 +3743,8 @@ import_tables:
 蕸	ya
 騢	ya
 鰕	ya
+碬	ya
+鍜	ya
 齖	ya
 爺	ya
 邪	ya	0%
@@ -3232,6 +3752,10 @@ import_tables:
 椰	ya
 倻	ya
 鋣	ya
+瑘	ya
+釾	ya
+鎁	ya
+擨	ya
 涯	ya
 崖	ya
 野	ya
@@ -3242,6 +3766,7 @@ import_tables:
 亱	ya
 暇	ya
 夜	ya
+鵺	ya
 鴉	ia
 鵶	ia
 訝	ia
@@ -3256,6 +3781,8 @@ import_tables:
 婭	ia
 玡	ia
 氬	ia
+俹	ia
+稏	ia
 呀	ia
 呱	kua
 乖	kua
@@ -3322,6 +3849,11 @@ import_tables:
 飽	pau
 怉	pau
 鴇	pau
+堢	pau
+宲	pau
+珤	pau
+賲	pau
+駂	pau
 報	pau
 豹	pau
 暴	pau	5%
@@ -3332,11 +3864,13 @@ import_tables:
 𩆘	phau
 泡	phau
 𣶐	phau
+奅	phau
 皰	phau
 疱	phau
 炮	phau
 砲	phau
 礮	phau
+麭	phau
 跑	phau	0%
 炮	bau	0%
 炰	bau
@@ -3353,12 +3887,16 @@ import_tables:
 尥	bau
 狍	bau
 齙	bau
+麅	bau
+軳	bau
 鮑	bau
 抱	bau
 褓	bau
 緥	bau
 菢	bau
 暴	bau
+虣	bau
+靤	bau
 毛	mau
 旄	mau
 髦	mau
@@ -3371,6 +3909,8 @@ import_tables:
 茅	mau
 矛	mau
 蝥	mau
+枆	mau
+鶜	mau
 買	mau	0%
 卯	mau
 夘	mau
@@ -3378,6 +3918,9 @@ import_tables:
 莫	mau	12192
 鉚	mau
 昴	mau
+峁	mau
+戼	mau
+泖	mau
 冒	mau
 冐	mau
 帽	mau
@@ -3391,6 +3934,7 @@ import_tables:
 耄	mau
 芼	mau
 眊	mau
+覒	mau
 莫	mhau	36576
 貓	mhau	0%
 猫	mhau	0%
@@ -3409,6 +3953,8 @@ import_tables:
 擣	tau
 禱	tau
 倒	tau
+壔	tau
+禂	tau
 到	tau
 滔	thau
 韜	thau
@@ -3426,6 +3972,9 @@ import_tables:
 饕	thau
 叨	thau	1%
 洮	thau
+夲	thau
+幍	thau
+詜	thau
 討	thau
 套	thau
 桃	dau
@@ -3445,8 +3994,15 @@ import_tables:
 檮	dau
 䬞	dau
 悼	dau
+匋	dau
+裪	dau
+錭	dau
+鞀	dau
+鞉	dau
+騊	dau
 道	dau
 衜	dau
+衟	dau
 稻	dau
 稲	dau
 蹈	dau
@@ -3463,12 +4019,19 @@ import_tables:
 獶	nau
 峱	nau
 硇	nau
+嶩	nau
+巎	nau
+怓	nau
+譊	nau
 腦	nau
 脳	nau
 惱	nau
 悩	nau
 瑙	nau
 嫐	nau
+匘	nau
+堖	nau
+碯	nau
 閙	nau
 鬧	nau
 ⿰閙	nau
@@ -3485,6 +4048,12 @@ import_tables:
 嶗	lau
 牢	lau
 醪	lau
+哰	lau
+憥	lau
+窂	lau
+簩	lau
+賿	lau
+顟	lau
 老	lau
 佬	lau
 𤶁	lau
@@ -3493,8 +4062,13 @@ import_tables:
 咾	lau
 銠	lau
 潦	lau	5%
+荖	lau
+轑	lau
 嘮	lau
 嫪	lau
+僗	lau
+橯	lau
+耮	lau
 撈	lhau
 嘮	lhau
 糟	tsau
@@ -3503,6 +4077,9 @@ import_tables:
 㷮	tsau
 搔	tsau
 嘲	tsau	0%
+傮	tsau
+醩	tsau
+鳭	tsau
 早	tsau
 棗	tsau
 蚤	tsau
@@ -3511,12 +4088,15 @@ import_tables:
 找	tsau
 澡	tsau
 藻	tsau
+璪	tsau
+薻	tsau
 爪	tsau
 笊	tsau
 竈	tsau
 灶	tsau
 罩	tsau
 躁	tsau
+趮	tsau
 抄	tshau
 鈔	tshau
 操	tshau
@@ -3525,9 +4105,11 @@ import_tables:
 艹	tshau
 艸	tshau
 騲	tshau
+愺	tshau
 懆	tshau
 吵	tshau
 炒	tshau
+煼	tshau
 摷	tshau
 耖	tshau
 噪	tshau
@@ -3536,6 +4118,8 @@ import_tables:
 糙	tshau
 慥	tshau
 肏	tshau
+鄵	tshau
+觘	tshau
 曹	dzau
 嘈	dzau
 𩞄	dzau
@@ -3546,6 +4130,7 @@ import_tables:
 𨄓	dzau
 𩏙	dzau
 𥕘	dzau
+鄛	dzau
 樔	dzau
 造	dzau	5%
 棹	dzau
@@ -3555,6 +4140,10 @@ import_tables:
 瘙	sau
 鰠	sau
 臊	sau
+溞	sau
+缫	sau
+颾	sau
+鱢	sau
 艄	sau
 梢	sau
 稍	sau
@@ -3564,11 +4153,17 @@ import_tables:
 蕱	sau
 䈰	sau
 蛸	sau
+弰	sau
+旓	sau
+輎	sau
+颵	sau
 掃	sau
 嫂	sau
 少	sau	1%
 潲	sau
+喿	sau
 燥	sau	5000
+髞	sau
 𢜶	sau
 皂	zau
 皁	zau
@@ -3578,6 +4173,9 @@ import_tables:
 槽	zau
 漕	zau
 螬	zau
+艚	zau
+蓸	zau
+褿	zau
 𤵥	zau
 造	zau
 高	kau
@@ -3603,6 +4201,8 @@ import_tables:
 櫜	kau
 鼛	kau
 睾	kau
+槹	kau
+鷱	kau
 絞	kau
 鉸	kau
 杲	kau
@@ -3614,6 +4214,9 @@ import_tables:
 搞	kau	5%
 皜	kau
 攪	kau	5%
+槀	kau
+菒	kau
+藳	kau
 叫	kau	0%
 告	kau
 吿	kau
@@ -3634,6 +4237,9 @@ import_tables:
 栲	khau
 槁	khau
 熇	khau
+丂	khau
+洘	khau
+燺	khau
 靠	khau
 㸆	khau
 銬	khau
@@ -3661,6 +4267,14 @@ import_tables:
 廒	ngau
 聱	ngau
 翱	ngau
+嗸	ngau
+嶅	ngau
+摮	ngau
+滶	ngau
+翶	ngau
+翺	ngau
+蔜	ngau
+磝	ngau
 咬	ngau
 齩	ngau
 傲	ngau
@@ -3674,6 +4288,7 @@ import_tables:
 嗃	hau
 𤠖	hau
 薅	hau
+茠	hau
 好	hau
 侾	hau
 耗	hau
@@ -3691,6 +4306,8 @@ import_tables:
 嗥	ghau
 噑	ghau
 獆	ghau
+獋	ghau
+獔	ghau
 濠	ghau
 㠙	ghau
 皞	ghau
@@ -3702,6 +4319,11 @@ import_tables:
 昊	ghau
 顥	ghau
 灝	ghau
+昦	ghau
+晧	ghau
+暭	ghau
+薃	ghau
+号	ghau
 坳	au
 凹	au
 嶴	au
@@ -3709,6 +4331,7 @@ import_tables:
 鏖	au
 爊	au
 噢	au
+梎	au
 詏	au
 拗	au
 抝	au
@@ -3716,8 +4339,11 @@ import_tables:
 媼	au
 媪	au
 襖	au
+郩	au
+狕	au
 懊	au
 奧	au
+奥	au
 澳	au
 燠	au
 墺	au
@@ -3728,6 +4354,9 @@ import_tables:
 鿫	au
 扷	au
 䯠	au
+岰	au
+袎	au
+靿	au
 巴	po
 芭	po
 笆	po
@@ -4480,6 +5109,7 @@ import_tables:
 點	te	0%
 㸃	te	0%
 呔	te
+懛	te
 歹	te
 傣	te
 戴	te
@@ -4492,9 +5122,12 @@ import_tables:
 胎	the
 𧉟	the
 鮐	the
+孡	the
+邰	the
 貸	the	10%
 梯	the	5%
 ⿰忄態	the
+曃	the
 臺	de
 檯	de
 颱	de
@@ -4505,11 +5138,14 @@ import_tables:
 炱	de
 苔	de
 薹	de
+嬯	de
+籉	de
 待	de
 怠	de
 殆	de
 紿	de
 迨	de
+軩	de
 隶	de	0%
 㻖	de
 靆	de
@@ -4521,8 +5157,12 @@ import_tables:
 岱	de
 黛	de
 䒫	de
+帒	de
+甙	de
+黱	de
 來	ne	0%
 耐	ne
+螚	ne
 廿	nE
 念	nE
 唸	nE
@@ -4541,6 +5181,12 @@ import_tables:
 錸	le
 崍	le
 淶	le
+庲	le
+棶	le
+猍	le
+鯠	le
+鶆	le
+麳	le
 睞	le
 賚	le
 騋	le
@@ -4550,6 +5196,7 @@ import_tables:
 甾	tse
 栽	tse
 哉	tse
+渽	tse
 崽	tse
 嗟	tse
 罝	tse
@@ -4567,6 +5214,7 @@ import_tables:
 采	tshe
 採	tshe
 寀	tshe
+埰	tshe
 彩	tshe
 綵	tshe
 睬	tshe
@@ -4585,6 +5233,7 @@ import_tables:
 財	dze
 材	dze
 儕	dze
+溨	dze
 在	dze
 扗	dze
 腮	se
@@ -4594,9 +5243,12 @@ import_tables:
 䰄	se
 揌	se
 衰	se
+愢	se
+毢	se
 帥	se
 賽	se
 塞	se	1%
+簺	se
 裁	ze
 材	ze	1%
 該	ke	49284
@@ -4606,7 +5258,12 @@ import_tables:
 胲	ke
 荄	ke
 𡨢	ke
+姟	ke
+峐	ke
+祴	ke
+郂	ke
 改	ke
+絠	ke
 揀	ke	0%
 蓋	ke
 丐	ke
@@ -4617,10 +5274,12 @@ import_tables:
 漑	ke
 概	ke
 槩	ke
+槪	ke
 開	khe
 鐦	khe
 侅	khe
 䤤	khe
+奒	khe
 凱	khe
 愷	khe
 豈	khe	0%
@@ -4628,6 +5287,10 @@ import_tables:
 闓	khe
 剴	khe
 䐩	khe
+塏	khe
+暟	khe
+輆	khe
+颽	khe
 愾	khe
 慨	khe
 嘅	khe
@@ -4641,26 +5304,38 @@ import_tables:
 呆	nge
 礙	nge
 皚	nge
+嵦	nge
+敳	nge
 岸	nge
 豻	nge
 隑	nge
 眼	nge	0%
 艾	nge
+鴱	nge
 砹	nge
 閡	nge
 硋	nge
 蚶	he
 酣	he
 邯	he
+炶	he
+甝	he
+魽	he
 鼾	he
 憨	he
+㟏	he
+谽	he
+馠	he
 罕	he
 撼	he
 憾	he
 嗨	he
 醢	he
 海	he
+蔊	he
 咍	he
+㺔	he
+餀	he
 許	he	5%
 漢	he
 熯	he	55
@@ -4694,7 +5369,10 @@ import_tables:
 瞹	e
 僾	e
 嬡	e
+薆	e
 鑀	e
+壒	e
+馤	e
 案	e	0%
 皆	cie
 階	cie	5%
@@ -4735,6 +5413,7 @@ import_tables:
 癍	pae
 瘢	pae
 螌	pae
+辬	pae
 畈	pae
 阪	pae
 坂	pae
@@ -4745,6 +5424,7 @@ import_tables:
 舨	pae
 鈑	pae
 瓪	pae
+蝂	pae
 扳	pae
 扮	pae
 𢲔	pae
@@ -4758,9 +5438,11 @@ import_tables:
 爿	bae
 𤖭	bae
 牌	bae	10%
+魬	bae
 𨂝	bae
 辦	bae
 瓣	bae
+釆	bae
 埋	mAE
 蠻	mae
 鬘	mae
@@ -4768,6 +5450,7 @@ import_tables:
 晩	mae	5%
 萬	mae	5%
 万	mae	5%
+矕	mae
 曼	mae
 慢	mae
 漫	mae
@@ -4780,6 +5463,7 @@ import_tables:
 猫	mae
 邁	mae
 勱	mae
+佅	mae
 蠻	mhae
 咩	mhae
 哶	mhae
@@ -4789,15 +5473,22 @@ import_tables:
 繙	fae
 幡	fae
 旙	fae
+籓	fae
+鱕	fae
 拚	fae
 反	fae
 返	fae
+橎	fae
 販	fae
 㽹	fae
 泛	fae
 汎	fae
 氾	fae
 㤆	fae
+汳	fae
+奿	fae
+嬎	fae
+嬔	fae
 凡	vae
 帆	vae
 颿	vae
@@ -4816,17 +5507,34 @@ import_tables:
 礬	vae
 樊	vae
 蠜	vae
+柉	vae
+棥	vae
+瀿	vae
+袢	vae
+墦	vae
+璠	vae
+羳	vae
+膰	vae
+襎	vae
+鷭	vae
 晚	vae
 晩	vae
 範	vae
 范	vae
 笵	vae
+軓	vae
+軬	vae
+錽	vae
 飯	vae
 萬	vae
 万	vae
 卍	vae
 卐	vae
 犯	vae
+飰	vae
+澫	vae
+蟃	vae
+贎	vae
 擔	tae
 担	tae
 旦	tae
@@ -4846,13 +5554,20 @@ import_tables:
 黕	tae
 酖	tae
 儋	tae
+聸	tae
+頕	tae
+匰	tae
+襌	tae
 膽	tae
 胆	tae
 疸	tae
 撣	tae
 亶	tae
+紞	tae
+黵	tae
 打	tae	0%
 笪	tae
+鴠	tae
 帶	tae	5%
 帯	tae	5%
 攤	thae
@@ -4864,6 +5579,7 @@ import_tables:
 舑	thae
 聃	thae
 嘽	thae
+擹	thae
 坦	thae
 袒	thae
 襢	thae
@@ -4875,10 +5591,14 @@ import_tables:
 歎	thae
 𨂞	thae
 賧	thae
+舕	thae
+湠	thae
 痰	dae
 談	dae
 惔	dae
 郯	dae
+錟	dae
+餤	dae
 潭	dae
 譚	dae
 罈	dae
@@ -4889,6 +5609,7 @@ import_tables:
 䉡	dae
 燂	dae
 驔	dae
+藫	dae
 彈	dae
 弾	dae
 鷤	dae
@@ -4910,10 +5631,14 @@ import_tables:
 氮	dae
 髧	dae
 氹	dae
+潬	dae
+繵	dae
+嘾	dae
 疍	dae
 蛋	dae
 憚	dae
 澶	dae
+腅	dae
 難	nae
 𪄿	nae
 乃	nae
@@ -4930,15 +5655,19 @@ import_tables:
 𡞏	nae
 㬮	nae
 爛	nae	5%
+渿	nae
 婪	lae
 惏	lae
 漤	lae
 嵐	lae
 𨅏	lae
+葻	lae
 襤	lae
 懢	lae
 籃	lae
 藍	lae
+䰐	lae
+儖	lae
 闌	lae
 蘭	lae
 欄	lae
@@ -4949,6 +5678,10 @@ import_tables:
 讕	lae
 鑭	lae
 㘓	lae
+斓	lae
+欗	lae
+籣	lae
+躝	lae
 覽	lae
 纜	lae
 攬	lae
@@ -4958,7 +5691,13 @@ import_tables:
 濫	lae
 壏	lae
 壈	lae
+擥	lae
+灡	lae
+浨	lae
+醂	lae
 爛	lae
+爤	lae
+糷	lae
 賴	lae	0%
 邅	tsae
 斬	tsae
@@ -4985,6 +5724,9 @@ import_tables:
 饊	tsae
 瓚	tsae
 蘸	tsae
+覱	tsae
+濽	tsae
+讃	tsae
 參	tshae
 叅	tshae
 摻	tshae
@@ -4992,6 +5734,8 @@ import_tables:
 傪	tshae
 攙	tshae
 懺	tshae
+湌	tshae
+飡	tshae
 慘	tshae
 產	tshae
 産	tshae
@@ -4999,6 +5743,11 @@ import_tables:
 剷	tshae
 㦃	tshae
 憯	tshae
+丳	tshae
+嵼	tshae
+摌	tshae
+簅	tshae
+旵	tshae
 粲	tshae
 璨	tshae
 餐	tshae
@@ -5006,6 +5755,9 @@ import_tables:
 燦	tshae
 𪙞	tshae
 羼	tshae
+薒	tshae
+謲	tshae
+摲	tshae
 殘	dzae
 讒	dzae
 饞	dzae
@@ -5019,9 +5771,16 @@ import_tables:
 慙	dzae
 獑	dzae
 𡓦	dzae
+瀺	dzae
 蹔	dzae
 湛	dzae
 虥	dzae
+偡	dzae
+嶘	dzae
+驏	dzae
+轏	dzae
+瓉	dzae
+禶	dzae
 暫	dzae
 站	dzae
 賺	dzae
@@ -5029,6 +5788,7 @@ import_tables:
 綻	dzae
 棧	dzae
 㻵	dzae
+譧	dzae
 踐	dzae	5%
 山	sae
 疝	sae
@@ -5061,9 +5821,16 @@ import_tables:
 繖	sae
 𨅖	sae
 省	sae	0%
+鬖	sae
+穇	sae
+縿	sae
+攕	sae
+檆	sae
+邖	sae
 鏾	sae
 霰	sae
 滻	sae
+糤	sae
 散	sae
 釤	sae
 嚵	zae
@@ -5077,7 +5844,9 @@ import_tables:
 𩻣	zae
 奸	kae
 姦	kae
+葌	kae
 監	kae
+礛	kae
 間	kae
 鑑	kae	5%
 階	kae	0%
@@ -5145,6 +5914,8 @@ import_tables:
 銜	ngae	0%
 啣	ngae	0%
 衘	ngae	0%
+麙	ngae
+虤	ngae
 眼	ngae
 犴	ngae
 骸	hae
@@ -5161,6 +5932,7 @@ import_tables:
 限	ghae
 陷	ghae
 揞	ghae	418
+黫	ae
 鴨	ae
 𩿼	ae
 𪀌	ae
@@ -5383,6 +6155,10 @@ import_tables:
 髥	zoe
 蚺	zoe
 蚦	zoe
+呥	zoe
+袡	zoe
+蛅	zoe
+肰	zoe
 纏	zoe	1%
 旋	zoe
 漩	zoe
@@ -5399,6 +6175,7 @@ import_tables:
 冄	zoe
 苒	zoe
 珃	zoe
+姌	zoe
 剡	zoe
 遄	zoe
 膳	zoe
@@ -5724,6 +6501,7 @@ import_tables:
 䟺	pei
 珼	pei
 𦮷	pei
+伂	pei
 丕	phei
 坯	phei
 胚	phei
@@ -5737,6 +6515,9 @@ import_tables:
 鉟	phei
 狉	phei
 苤	phei
+豾	phei
+駓	phei
+髬	phei
 瓿	phei
 醅	phei
 配	phei
@@ -5759,12 +6540,18 @@ import_tables:
 碚	bei
 狴	bei
 𩊰	bei
+琲	bei
 悖	bei
 誖	bei
 備	bei
 俻	bei
 鞴	bei
+犕	bei
+糒	bei
+奰	bei
 背	bei	10%
+偝	bei
+鄁	bei
 苝	bei
 佩	bei
 焙	bei
@@ -5780,6 +6567,9 @@ import_tables:
 湄	mei
 猸	mei
 郿	mei
+瑂	mei
+葿	mei
+睂	mei
 梅	mei
 楳	mei
 槑	mei
@@ -5793,17 +6583,30 @@ import_tables:
 酶	mei
 媒	mei
 煤	mei
+禖	mei
+腜	mei
 謎	mei	5%
 媚	mei
 昧	mei
+攗	mei
+蘪	mei
+覹	mei
 美	mei
 鎂	mei
 每	mei
 鋂	mei
 𪎦	mei
+媄	mei
+媺	mei
+渼	mei
+挴	mei
 痗	mei
 袂	mei
 煝	mei
+嚜	mei
+篃	mei
+蝞	mei
+鬽	mei
 𤈦	mei	5000
 𤦛	mei
 𮔙	mei
@@ -5815,20 +6618,31 @@ import_tables:
 眛	mei
 沬	mei
 𩎟	mei
+枺	mei
 妹	mhei	5%
 𣍐	vei	60000
 浮	vei	0%
 堆	tei
+塠	tei
+嵟	tei
+磓	tei
+鴭	tei
+妉	tei
+媅	tei
 𠡒	tei	578
 㨃	tei
+瓭	tei
+衴	tei
 對	tei
 対	tei
 碓	tei
 濧	tei
 𣝉	tei
+馾	tei
 推	thei
 㷟	thei
 煺	thei
+藬	thei
 貪	thei
 腿	thei
 骽	thei
@@ -5838,19 +6652,24 @@ import_tables:
 褪	thei
 蛻	thei
 蜕	thei
+駾	thei
 探	thei
 㶒	thei
 僋	thei
+憛	thei
 頹	dei
+頽	dei
 穨	dei
 蘈	dei
 隤	dei
 𧝋	dei
 魋	dei
+蹪	dei
 覃	dei
 潭	dei	5%
 窞	dei
 頭	dei	5%
+陮	dei
 紿	dei
 禫	dei
 黮	dei
@@ -5862,6 +6681,10 @@ import_tables:
 薱	dei
 懟	dei
 憝	dei
+兊	dei
+綐	dei
+憞	dei
+譈	dei
 南	nEI
 楠	nEI
 枏	nEI
@@ -5870,8 +6693,14 @@ import_tables:
 喃	nEI
 諵	nEI
 男	nEI
+抩	nEI
 餒	nei
+娞	nei
+鮾	nei
 湳	nEI
+揇	nEI
+萳	nEI
+蝻	nEI
 耐	nei	0%
 內	nei
 内	nei
@@ -5892,19 +6721,28 @@ import_tables:
 縲	lei
 漯	lei
 罍	lei
+欙	lei
+纝	lei
 羸	lei
 了	lei
 儡	lei
 蕾	lei
 癗	lei
+磥	lei
 壘	lei
 礧	lei
 藟	lei
+櫐	lei
+蘽	lei
+讄	lei
 屢	lei
 磊	lei
 礌	lei
 耒	lei
 誄	lei
+頛	lei
+厽	lei
+絫	lei
 鰳	lei
 酹	lei
 類	lei
@@ -5915,6 +6753,10 @@ import_tables:
 𢺢	lei
 攂	lei
 洡	lei
+頪	lei
+銇	lei
+錑	lei
+禷	lei
 追	tsei
 隹	tsei
 錐	tsei
@@ -5924,18 +6766,27 @@ import_tables:
 最	tsei
 綴	tsei
 檇	tsei
+嶉	tsei
+脧	tsei
 簪	tsEI
 簮	tsEI
 𨯩	tsEI
+鐕	tsEI
 昝	tsei
 趡	tsei
 踓	tsei
+嶊	tsei
+洅	tsei
 錣	tsei
 贅	tsei
 醉	tsei
 酔	tsei
 晬	tsei
+祽	tsei
+綷	tsei
 惴	tsei
+娷	tsei
+諈	tsei
 崔	tshei
 催	tshei
 摧	tshei
@@ -5945,11 +6796,15 @@ import_tables:
 炊	tshei
 衰	tshei	0%
 榱	tshei
+縗	tshei
+龡	tshei
 𢶀	tshei
 璀	tshei
 𣯯	tshei
 鏙	tshei
 漼	tshei
+皠	tshei
+噿	tshei
 脆	tshei
 脃	tshei
 翠	tshei
@@ -5960,6 +6815,8 @@ import_tables:
 𢂕	tshei
 湊	tshei	5%
 凑	tshei	5%
+焠	tshei
+韢	tshei
 𪙞	tshei	5%
 ⿱咋會	dzei
 墜	dzei
@@ -5971,6 +6828,7 @@ import_tables:
 睢	sei
 濉	sei
 碎	sei
+荾	sei
 水	sei	1%
 氵	sei	1%
 毨	sei	5%
@@ -5987,6 +6845,12 @@ import_tables:
 糝	sei
 說	sei	1%
 説	sei	1%
+涗	sei
+繀	sei
+櫘	sei
+瀡	sei
+譢	sei
+賥	sei
 煞	sei	0%
 賽	sei	0%
 隨	zei
@@ -5995,11 +6859,20 @@ import_tables:
 陲	zei
 錘	zei
 鎚	zei
+膇	zei
+桘	zei
 棰	zei
 箠	zei
 倕	zei
+硾	zei
 誰	zei
+脽	zei
+慛	zei
+槯	zei
+顀	zei
 蕤	zei
+桵	zei
+緌	zei
 遂	zei
 隧	zei
 墜	zei
@@ -6021,11 +6894,17 @@ import_tables:
 繠	zei
 罪	zei
 辠	zei
+菙	zei
 燧	zei
 邃	zei
 穟	zei
 襚	zei
 檖	zei
+旞	zei
+澻	zei
+璲	zei
+鐆	zei
+鐩	zei
 悴	zei
 萃	zei
 顇	zei
@@ -6039,17 +6918,27 @@ import_tables:
 芮	zei
 枘	zei
 蕞	zei
+篲	zei
+鏏	zei
+蔧	zei
 蚶	hEI	0%
 酣	hEI	0%
 邯	hEI	0%
+炶	hEI	0%
+甝	hEI	0%
+魽	hEI	0%
 鼾	hEI	0%
 頇	hEI	0%
 憨	hEI	0%
 𩈣	hEI	0%
+㟏	hEI	0%
+谽	hEI	0%
+馠	hEI	0%
 罕	hEI	0%
 許	hEI	5%
 撼	hEI	0%
 憾	hEI	0%
+蔊	hEI	0%
 厂	hEI	0%
 漢	hEI	0%
 熯	hEI	55
@@ -6058,6 +6947,9 @@ import_tables:
 含	ghEI
 焓	ghEI
 晗	ghEI
+梒	ghEI
+筨	ghEI
+鋡	ghEI
 函	ghEI
 圅	ghEI
 涵	ghEI
@@ -6068,6 +6960,8 @@ import_tables:
 瀚	ghEI
 邗	ghEI
 頇	ghEI
+虷	ghEI
+鶾	ghEI
 銜	ghEI	5%
 啣	ghEI	5%
 衘	ghEI	5%
@@ -6079,6 +6973,7 @@ import_tables:
 焊	ghEI
 銲	ghEI
 釬	ghEI
+皔	ghEI
 頷	ghEI
 汗	ghEI
 悍	ghEI
@@ -6086,6 +6981,12 @@ import_tables:
 馯	ghEI
 哻	ghEI
 閈	ghEI
+垾	ghEI
+駻	ghEI
+螒	ghEI
+雗	ghEI
+浛	ghEI
+琀	ghEI
 哎	EI
 安	EI
 桉	EI
@@ -6093,13 +6994,18 @@ import_tables:
 庵	EI
 菴	EI
 鵪	EI
+馣	EI
 氨	EI
+侒	EI
 諳	EI
 堷	EI
+腤	EI
 盫	EI
 銨	EI
 黯	EI
 唵	EI
+垵	EI
+黭	EI
 闇	EI
 暗	EI
 按	EI
@@ -6107,6 +7013,8 @@ import_tables:
 胺	EI
 鞍	EI
 鞌	EI
+洝	EI
+荌	EI
 癸	kuei
 葵	kuei	5%
 規	kuei
@@ -6653,6 +7561,8 @@ import_tables:
 掊	beu
 餢	beu
 裒	beu
+箁	beu
+犃	beu
 謀	meu
 矛	meu
 袤	meu
@@ -6669,6 +7579,9 @@ import_tables:
 蛑	meu
 哞	meu
 鉾	meu
+劺	meu
+恈	meu
+毪	meu
 拇	meu
 姆	meu	10%
 𧉯	meu
@@ -6682,9 +7595,13 @@ import_tables:
 牡	meu
 母	meu
 姥	meu
+畞	meu
+踇	meu
 㮘	meu
 楙	meu
 瞀	meu
+愗	meu
+苺	meu
 不	feu	0%
 否	feu
 缶	feu
@@ -6693,6 +7610,8 @@ import_tables:
 浮	veu
 蜉	veu
 烰	veu
+琈	veu
+艀	veu
 罘	veu
 芣	veu
 涪	veu
@@ -6700,14 +7619,21 @@ import_tables:
 阜	veu
 䘀	veu
 峊	veu
+偩	veu
+萯	veu
+蝜	veu
 復	veu	0%
 兜	teu
 兠	teu
 篼	teu
 𣘛	teu
+蔸	teu
+侸	teu
+吺	teu
 斗	teu
 抖	teu
 蚪	teu
+阧	teu
 陡	teu
 鬥	teu
 鬦	teu
@@ -6715,20 +7641,31 @@ import_tables:
 鬬	teu
 闘	teu
 枓	teu
+斣	teu
 偷	theu
 媮	theu
 婾	theu
+鍮	theu
 斢	theu
-透	theu
+鋀	theu
 㪗	theu	418
 敨	theu
 紏	theu
 䚵	theu
 黈	theu
+妵	theu
+蘣	theu
+鈄	theu
+咅	theu
 頭	deu
 投	deu
 骰	deu
+酘	deu
 亠	deu
+梪	deu
+毭	deu
+浢	deu
+餖	deu
 斷	deu	0%
 豆	deu
 荳	deu
@@ -6754,11 +7691,16 @@ import_tables:
 耬	leu
 螻	leu
 蔞	leu
+廔	leu
+遱	leu
+鞻	leu
 塿	leu
 摟	leu
 簍	leu
 嶁	leu
+甊	leu
 陋	leu
+屚	leu
 漏	leu
 僂	leu
 瘻	leu
@@ -6783,6 +7725,9 @@ import_tables:
 掫	tseu
 緅	tseu
 棷	tseu
+箃	tseu
+郰	tseu
+黀	tseu
 䑼	tseu
 走	tseu
 𩋄	tseu
@@ -6792,11 +7737,14 @@ import_tables:
 𨂡	tseu
 皺	tseu
 㑳	tseu
+甃	tseu
+醔	tsheu
 湊	tsheu
 凑	tsheu
 腠	tsheu
 輳	tsheu
 簉	tsheu
+遚	tsheu
 叟	seu
 搜	seu
 捜	seu
@@ -6810,11 +7758,17 @@ import_tables:
 䱸	seu
 廋	seu
 螋	seu
+獀	seu
+鄋	seu
+騪	seu
 𣔱	seu
 𣮬	seu
 𪞫	seu
 毨	seu
 瞍	seu
+傁	seu
+叜	seu
+廀	seu
 擻	seu
 藪	seu
 嗾	seu
@@ -6824,9 +7778,11 @@ import_tables:
 漱	seu
 潄	seu
 摗	seu
+瘶	seu
 愁	zeu
 驟	zeu
 䠫	zeu
+僽	zeu
 勾	keu
 句	keu	0%
 鈎	keu
@@ -6838,18 +7794,25 @@ import_tables:
 構	keu
 搆	keu
 媾	keu
+褠	keu
+鞲	keu
 佝	keu
 垢	keu
+緱	keu
 狗	keu
 枸	keu
 苟	keu
 耉	keu
 笱	keu
 岣	keu
+玽	keu
+耇	keu
+茩	keu
 冓	keu
 遘	keu
 傋	keu
 覯	keu
+煹	keu
 姤	keu
 詬	keu
 彀	keu
@@ -6857,6 +7820,8 @@ import_tables:
 够	keu
 雊	keu
 䝭	keu
+彄	kheu
+芤	kheu
 口	kheu
 摳	kheu
 叩	kheu
@@ -6870,6 +7835,7 @@ import_tables:
 蔻	kheu
 簆	kheu
 鷇	kheu
+瞉	kheu
 𧺤	geu
 跔	geu
 痀	geu
@@ -6877,6 +7843,7 @@ import_tables:
 耦	ngeu
 藕	ngeu
 偶	ngeu
+蕅	ngeu
 𩥋	ngeu
 吼	heu
 齁	heu
@@ -6885,6 +7852,8 @@ import_tables:
 吽	heu
 鱟	heu
 煦	heu	5%
+蔲	heu
+豞	heu
 侯	gheu
 喉	gheu
 猴	gheu
@@ -6894,12 +7863,20 @@ import_tables:
 鯸	gheu
 瘊	gheu
 睺	gheu
+帿	gheu
+矦	gheu
+翭	gheu
+葔	gheu
 骺	gheu
+銗	gheu
 厚	gheu
 後	gheu
 后	gheu
 㖃	gheu
+垕	gheu
+郈	gheu
 逅	gheu
+鮜	gheu
 候	gheu
 堠	gheu
 歐	eu
@@ -6913,9 +7890,13 @@ import_tables:
 饇	eu
 瞘	eu
 䁱	eu
+櫙	eu
+膒	eu
+鏂	eu
 哎	eu
 鴉	eu	0%
 鵶	eu	0%
+塸	eu
 傴	eu
 慪	eu
 浜	pan
@@ -6923,6 +7904,10 @@ import_tables:
 綳	pan
 伻	pan
 𢆸	pan
+嗙	pan
+祊	pan
+閍	pan
+絣	pan
 氆	pan
 伯	pan	5%
 乓	phan
@@ -6931,6 +7916,11 @@ import_tables:
 抨	phan
 怦	phan
 泙	phan
+漰	phan
+恲	phan
+匉	phan
+閛	phan
+剻	phan
 碰	phan	5%
 踫	phan	5%
 掽	phan	5%
@@ -6944,6 +7934,10 @@ import_tables:
 朋	ban
 鵬	ban
 趽	ban
+憉	ban
+蟚	ban
+輣	ban
+庄	ban
 蚌	ban
 䰷	ban
 蟛	ban
@@ -6981,12 +7975,17 @@ import_tables:
 撐	tsan	5%
 掙	tsan	5%
 㬹	tsan
+柼	tsan
 撑	tshan
 撐	tshan
 牚	tshan
 𣛟	tshan
+橕	tshan
 鐺	tshan	2%
 棖	dzan
+挰	dzan
+掁	dzan
+揨	dzan
 鋥	dzan
 䂻	dzan	55
 瞠	dzan
@@ -6994,21 +7993,30 @@ import_tables:
 生	san
 甥	san
 牲	san
+狌	san
 省	san
 𤯡	san
+貹	san
 庚	kan
 粳	kan
 秔	kan
 稉	kan
 更	kan
 埂	kan
+浭	kan
 羹	kan
 耕	kan
 畊	kan
 梗	kan
+郠	kan
 䢚	kan
 耿	kan
+筻	kan
 坑	khan
+劥	khan
+摼	khan
+硻	khan
+銵	khan
 揞	khan	2000
 鯁	gan
 骾	gan
@@ -7016,10 +8024,14 @@ import_tables:
 鞕	ngan
 亨	han
 哼	han
+悙	han
+脝	han
 夯	han
 行	ghan	1%
 桁	ghan
+洐	ghan
 杏	ghan
+莕	ghan
 阿	an	0%
 櫻	an	5%
 桜	an	5%
@@ -7271,6 +8283,7 @@ import_tables:
 𨢐	paon
 𧤞	paon
 垹	paon
+縍	paon
 綁	paon
 榜	paon
 牓	paon
@@ -7279,6 +8292,8 @@ import_tables:
 磅	paon
 搒	paon
 䏾	phaon
+霶	phaon
+耪	phaon
 胖	phaon
 肨	phaon
 髈	phaon
@@ -7299,7 +8314,11 @@ import_tables:
 𤧭	baon
 房	baon	0%
 蟛	baon
+舽	baon
+逄	baon
 棒	baon
+玤	baon
+蜯	baon
 傍	baon
 𢄎	baon
 徬	baon
@@ -7312,13 +8331,27 @@ import_tables:
 邙	maon
 鋩	maon
 厖	maon
+哤	maon
+娏	maon
+尨	maon
+浝	maon
+牻	maon
+狵	maon
+痝	maon
+蛖	maon
+駹	maon
 盲	maon
 蒙	maon	5%
+恾	maon
+蘉	maon
 莽	maon
 蟒	maon
 漭	maon
 網	maon
 网	maon
+壾	maon
+茻	maon
+蠎	maon
 夢	maon	5%
 忘	maon
 妄	maon
@@ -7334,6 +8367,10 @@ import_tables:
 坊	faon
 鈁	faon
 邡	faon
+淓	faon
+汸	faon
+牥	faon
+蚄	faon
 舫	faon
 仿	faon
 倣	faon
@@ -7342,15 +8379,23 @@ import_tables:
 昉	faon
 紡	faon
 訪	faon
+鶭	faon
+瓬	faon
 放	faon
 妨	faon
 房	vaon
 防	vaon	20%
+魴	vaon
+硭	vaon
+莣	vaon
 罔	vaon
 惘	vaon
 輞	vaon
 魍	vaon
 菵	vaon
+棢	vaon
+蛧	vaon
+誷	vaon
 望	vaon
 朢	vaon
 亡	vaon
@@ -7369,9 +8414,13 @@ import_tables:
 党	taon
 讜	taon
 擋	taon
+欓	taon
+灙	taon
 攩	taon
 檔	taon
 礑	taon
+譡	taon
+闣	taon
 淌	thaon
 湯	thaon
 蝪	thaon
@@ -7379,11 +8428,18 @@ import_tables:
 蹚	thaon
 鞺	thaon
 羰	thaon
+薚	thaon
+鼞	thaon
 倘	thaon
 躺	thaon
 儻	thaon
 帑	thaon
 𨧩	thaon
+偒	thaon
+戃	thaon
+曭	thaon
+爣	thaon
+矘	thaon
 䠀	thaon
 燙	thaon
 摥	thaon
@@ -7410,14 +8466,28 @@ import_tables:
 鏜	daon
 膛	daon
 摚	daon
+傏	daon
+啺	daon
+坣	daon
+榶	daon
+橖	daon
+瑭	daon
+磄	daon
+糛	daon
+蓎	daon
+隚	daon
+鶶	daon
 蕩	daon	90888
 盪	daon
+愓	daon
+璗	daon
 碭	daon
 𥸈	daon
 宕	daon	90888
 趤	daon
 菪	daon
 凼	daon
+逿	daon
 攮	naon
 囔	naon
 饢	naon
@@ -7444,14 +8514,24 @@ import_tables:
 莨	laon
 筤	laon
 躴	laon
+桹	laon
+欴	laon
+硠	laon
+艆	laon
+鎯	laon
+駺	laon
 螺	laon	0%
 落	laon	0%
+俍	laon
+崀	laon
+朖	laon
 浪	laon
 狼	laon
 㫰	laon	1000
 𧻴	laon
 閬	laon
 蒗	laon
+埌	laon
 哴	lhaon
 誏	lhaon
 妝	tsaon
@@ -7463,6 +8543,7 @@ import_tables:
 贜	tsaon
 贓	tsaon
 𢈜	tsaon
+匨	tsaon
 章	tsaon
 樟	tsaon
 蟑	tsaon
@@ -7483,7 +8564,10 @@ import_tables:
 璋	tsaon
 嫜	tsaon
 樁	tsaon
+暲	tsaon
+鄣	tsaon
 掌	tsaon
+仉	tsaon
 葬	tsaon
 塟	tsaon
 𨌄	tsaon
@@ -7501,6 +8585,7 @@ import_tables:
 䱽	tshaon
 鶬	tshaon
 傖	tshaon
+凔	tshaon
 昌	tshaon
 菖	tshaon
 倡	tshaon
@@ -7508,6 +8593,9 @@ import_tables:
 鯧	tshaon	5%
 閶	tshaon
 淐	tshaon
+琩	tshaon
+裮	tshaon
+錩	tshaon
 窗	tshaon
 牎	tshaon
 牕	tshaon
@@ -7516,6 +8604,8 @@ import_tables:
 創	tshaon
 惝	tshaon
 闖	tshaon
+傸	tshaon
+磢	tshaon
 剏	tshaon
 剙	tshaon
 賶	tshaon
@@ -7527,6 +8617,7 @@ import_tables:
 暢	tshaon
 鬯	tshaon
 摐	tshaon
+刱	tshaon
 藏	dzaon
 常	dzaon
 嫦	dzaon
@@ -7542,6 +8633,7 @@ import_tables:
 臓	dzaon
 撞	dzaon
 𰤻	dzaon
+漴	dzaon
 霜	saon
 孀	saon
 礵	saon
@@ -7564,6 +8656,9 @@ import_tables:
 摏	saon
 滳	saon
 𩥫	saon
+騻	saon
+䉶	saon
+艭	saon
 磉	saon
 嗓	saon
 爽	saon
@@ -7574,6 +8669,7 @@ import_tables:
 𥱶	saon
 㩳	saon
 𧴅	saon
+樉	saon
 搡	saon
 㦼	saon
 牀	zaon
@@ -7583,6 +8679,7 @@ import_tables:
 嘗	zaon
 嚐	zaon
 甞	zaon
+鋿	zaon
 狀	zaon
 上	zaon
 丄	zaon
@@ -7609,8 +8706,12 @@ import_tables:
 茳	kaon
 罡	kaon
 牨	kaon
+堈	kaon
+堽	kaon
+犅	kaon
 講	kaon	170166
 港	kaon
+耩	kaon
 槓	kaon	0%
 杠	kaon	0%
 降	kaon	0%
@@ -7621,6 +8722,7 @@ import_tables:
 躿	khaon
 槺	khaon
 鱇	khaon
+漮	khaon
 抗	khaon
 炕	khaon
 匟	khaon
@@ -7648,6 +8750,8 @@ import_tables:
 卬	ngaon
 昂	ngaon
 炕	haon	0%
+啌	haon
+汻	haon
 絎	ghaon
 昂	ghaon
 降	ghaon	1%
@@ -7660,9 +8764,14 @@ import_tables:
 沆	ghaon
 咉	ghaon
 衖	ghaon
+夅	ghaon
+栙	ghaon
+缻	ghaon
+跭	ghaon
 項	ghaon
 𢠷	ghaon
 澒	ghaon
+缿	ghaon
 巷	ghaon
 骯	aon
 肮	aon
@@ -7671,6 +8780,11 @@ import_tables:
 怏	aon
 䱀	aon
 咉	aon
+佒	aon
+眏	aon
+䇦	aon
+坱	aon
+軮	aon
 光	kuaon
 胱	kuaon
 洸	kuaon
@@ -7904,6 +9018,7 @@ import_tables:
 惋	un
 畚	pen
 賁	pen
+錛	pen
 本	pen
 苯	pen
 奔	pen
@@ -7915,12 +9030,15 @@ import_tables:
 烹	phen	5%
 澎	phen
 皏	phen
+翉	phen
 盆	ben
 湓	ben
 㖹	ben
 坌	ben
 瓫	ben
 硼	ben
+体	ben
+獖	ben
 笨	ben
 捹	ben
 門	men
@@ -7935,9 +9053,13 @@ import_tables:
 蟁	men
 蜈	men	0%
 氓	men	0%
+甿	men
 甍	men
 亹	men
+璊	men
+虋	men
 明	men	0%
+鼆	men
 懣	men
 問	men
 捫	men
@@ -7954,8 +9076,11 @@ import_tables:
 棻	fen
 𦐈	fen
 衯	fen
+餴	fen
+饙	fen
 鋒	fen	0%
 粉	fen
+黺	fen
 奮	fen
 糞	fen
 僨	fen
@@ -7970,6 +9095,9 @@ import_tables:
 紊	ven
 玟	ven
 馼	ven
+彣	ven
+閿	ven
+鳼	ven
 聞	ven
 問	ven	6%
 甮	ven
@@ -7981,19 +9109,31 @@ import_tables:
 汾	ven
 棼	ven
 鼢	ven
+妢	ven
+枌	ven
+梤	ven
+羒	ven
 賁	ven	0%
 蕡	ven
 鐼	ven
+燌	ven
+羵	ven
+豶	ven
+馩	ven
+鼖	ven
 璺	ven
 抆	ven
 吻	ven
 脗	ven
 刎	ven
 鱝	ven
+弅	ven
 分	ven	10%
 份	ven
+秎	ven
 憤	ven
 汶	ven
+莬	ven
 登	ten
 燈	ten
 瞪	ten
@@ -8007,7 +9147,8 @@ import_tables:
 墱	ten
 䳾	ten
 竳	ten
-磴	ten
+㲪	ten
+璒	ten
 敦	ten
 墩	ten
 墪	ten
@@ -8030,11 +9171,15 @@ import_tables:
 燉	ten
 撉	ten
 澄	ten	1%
+磴	ten
+隥	ten
 𩞬	ten
 嶝	ten
 吞	then
 暾	then
+涒	then
 氽	then
+畽	then
 褪	then
 豚	den
 屯	den
@@ -8046,6 +9191,10 @@ import_tables:
 飩	den
 魨	den
 沌	den
+忳	den
+芚	den
+豘	den
+軘	den
 疼	den
 滕	den
 藤	den
@@ -8053,18 +9202,23 @@ import_tables:
 螣	den
 騰	den
 謄	den
+儯	den
+縢	den
 臀	den
 臋	den
 𥷝	den
 鄧	den
 遁	den
 遯	den
+啍	den
 盾	den
 𨄇	den
 鈍	den
 扽	den
 砘	den
+炖	den
 能	nen
+黁	nen
 寧	nen	5%
 寍	nen	5%
 寗	nen	5%
@@ -8072,6 +9226,7 @@ import_tables:
 寕	nen	5%
 嫩	nen
 嫰	nen
+媆	nen
 抍	nhen
 掄	nhen	0%
 能	nhen	0%
@@ -8088,17 +9243,28 @@ import_tables:
 䑳	len
 蜦	len
 掄	len
+棆	len
+踚	len
+陯	len
+鯩	len
+菕	len
 倰	len
 薐	len
 𦼊	len
+輘	len
+塄	len
 論	len
+耣	len
+溣	len
 棱	len
 稜	len
 楞	len
 愣	len
 㔂	len
 㨆	len
+踜	len
 曾	tsen
+曽	tsen
 增	tsen
 憎	tsen
 甑	tsen
@@ -8108,12 +9274,16 @@ import_tables:
 潧	tsen
 鏳	tsen
 璔	tsen
+熷	tsen
+矰	tsen
+譄	tsen
 朕	tsen
 尊	tsen
 遵	tsen
 樽	tsen
 罇	tsen
 墫	tsen
+繜	tsen
 斟	tsen
 椹	tsen
 爭	tsen
@@ -8129,19 +9299,29 @@ import_tables:
 臻	tsen
 榛	tsen
 蓁	tsen
+搸	tsen
+溱	tsen
+樼	tsen
 箴	tsen
 捘	tsen
 撙	tsen
+僔	tsen
+噂	tsen
+譐	tsen
 譖	tsen
 𧮂	tsen
 諍	tsen
 怎	tsen
+兂	tsen
 參	tshen	1%
+嵾	tshen
 瞋	tshen
 嗔	tshen
 琛	tshen
 忖	tshen	100000
 刌	tshen
+墋	tshen
+齓	tshen
 蹭	tshen
 谶	tshen
 村	tshen
@@ -8155,17 +9335,21 @@ import_tables:
 儭	tshen
 讖	tshen
 存	dzen
+拵	dzen
 曾	dzen
 贈	dzen
 𦼏	dzen
 䉕	dzen
 嶒	dzen
+鄫	dzen
+驓	dzen
 岑	dzen
 涔	dzen
 䫈	dzen
 棖	dzen
 蹲	dzen	0%
 鱒	dzen
+鐏	dzen
 鴆	dzen
 生	sen
 牲	sen
@@ -8175,16 +9359,29 @@ import_tables:
 遜	sen
 蓀	sen
 僧	sen
+鬙	sen
 森	sen
 參	sen	10%
 蔘	sen
 葠	sen
 蓡	sen
 莘	sen
+曑	sen
+穼	sen
+薓	sen
 猻	sen
+搎	sen
 飧	sen
 飱	sen
+蕵	sen
+薞	sen
 甡	sen
+侁	sen
+兟	sen
+屾	sen
+扟	sen
+燊	sen
+籸	sen
 琛	sen
 槮	sen
 鉎	sen
@@ -8197,10 +9394,17 @@ import_tables:
 哂	sen
 𩩭	sen
 磣	sen
+瘮	sen
+糂	sen
+糣	sen
 滲	sen
 巽	sen
 噀	sen
 罧	sen
+俕	sen
+閐	sen
+愻	sen
+潠	sen
 䚮	zen
 層	zen
 根	ken
@@ -8210,6 +9414,7 @@ import_tables:
 哽	ken
 亙	ken
 亘	ken
+搄	ken
 庚	ken	5%
 賡	ken
 鶊	ken
@@ -8221,6 +9426,8 @@ import_tables:
 茛	ken
 𣈶	ken
 暅	ken
+堩	ken
+揯	ken
 鏗	khen
 硜	khen
 誙	khen
@@ -8233,6 +9440,7 @@ import_tables:
 墾	khen
 掯	khen
 哏	khen
+裉	khen
 哏	gen	5%
 艮	gen
 𨆪	gen
@@ -8249,12 +9457,16 @@ import_tables:
 恆	ghen
 姮	ghen
 痕	ghen
+拫	ghen
+鞎	ghen
 珩	ghen
 鴴	ghen
+佷	ghen
 恨	ghen
 恩	en
 嗯	en
 蒽	en
+煾	en
 摁	en
 冰	pin
 氷	pin
@@ -9818,6 +11030,10 @@ import_tables:
 袹	paq
 𦯉	paq
 掰	paq
+湐	paq
+哵	paq
+玐	paq
+釟	paq
 不	paq
 鈈	paq
 撥	paq	331919
@@ -9826,6 +11042,8 @@ import_tables:
 蹳	paq
 鮁	paq
 醱	paq
+襏	paq
+驋	paq
 缽	paq
 鉢	paq
 盋	paq
@@ -9850,6 +11068,8 @@ import_tables:
 擘	phaq
 潑	phaq
 鏺	phaq
+哱	phaq
+昢	phaq
 趴	phaq
 白	baq
 鮊	baq	0%
@@ -9862,6 +11082,11 @@ import_tables:
 茇	baq
 胈	baq
 炦	baq
+妭	baq
+犮	baq
+癹	baq
+馛	baq
+鼥	baq
 薄	baq	5%
 鼻	baq
 帛	baq
@@ -9876,6 +11101,9 @@ import_tables:
 荸	baq
 馞	baq
 葧	baq
+挬	baq
+桲	baq
+郣	baq
 佛	baq	0%
 百	baq	0%
 麥	maq
@@ -9885,17 +11113,24 @@ import_tables:
 脉	maq
 衇	maq
 霢	maq
+眽	maq
 𢫦	maq
 貊	maq
 貘	maq
 銆	maq
 蛨	maq
 佰	maq
+帞	maq
 驀	maq
 襪	maq
 韈	maq
 韤	maq
 袜	maq
+帓	maq
+睰	maq
+礣	maq
+妺	maq
+昩	maq
 陌	maq
 沒	maq
 没	maq
@@ -9949,6 +11184,13 @@ import_tables:
 帗	faq
 芾	faq
 綍	faq
+乀	faq
+巿	faq
+柫	faq
+甶	faq
+笰	faq
+紱	faq
+翇	faq
 勿	faq	5%
 乏	vaq
 罰	vaq
@@ -9961,16 +11203,22 @@ import_tables:
 𤇰	vaq
 茷	vaq
 垡	vaq
+瞂	vaq
+藅	vaq
 勿	vaq	295400
 物	vaq
 伆	vaq
 弗	vaq	590801
 佛	vaq
 鉘	vaq
+坲	vaq
+岉	vaq
+芴	vaq
 妲	taq
 靼	taq
 怛	taq
 呾	taq
+炟	taq
 耷	taq
 𡍲	taq
 𢝉	taq
@@ -10001,6 +11249,9 @@ import_tables:
 裰	taq
 鎉	taq
 褟	taq
+淂	taq
+撘	taq
+畣	taq
 塔	thaq
 墖	thaq
 獺	thaq
@@ -10023,6 +11274,13 @@ import_tables:
 沓	thaq
 䵬	thaq
 㒓	thaq
+狧	thaq
+鞳	thaq
+羍	thaq
+嚃	thaq
+濌	thaq
+錔	thaq
+鞜	thaq
 脫	thaq
 禿	thaq
 秃	thaq
@@ -10034,6 +11292,9 @@ import_tables:
 拓	thaq	5%
 突	thaq	5%
 搭	thaq	5%
+脦	thaq
+侻	thaq
+宊	thaq
 踏	daq
 達	daq
 鐽	daq
@@ -10045,6 +11306,12 @@ import_tables:
 墶	daq
 涾	daq
 𤒻	daq
+躢	daq
+闒	daq
+眔	daq
+誻	daq
+蹹	daq
+龖	daq
 凸	daq
 奪	daq
 突	daq
@@ -10055,11 +11322,26 @@ import_tables:
 螣	daq
 腯	daq
 遝	daq
+鴏	daq
+敓	daq
+敚	daq
+痥	daq
+鮵	daq
+堗	daq
+揬	daq
+葖	daq
+鈯	daq
+鍎	daq
+鶟	daq
+鼵	daq
 陀	daq	0%
 倷	naq	90000
 捺	naq
 𤷈	naq
 䖧	naq
+笝	naq
+蒳	naq
+軜	naq
 哪	naq	5%
 吶	naq
 呐	naq
@@ -10090,6 +11372,14 @@ import_tables:
 邋	laq
 擸	laq
 爉	laq
+揧	laq
+楋	laq
+鬎	laq
+玏	laq
+阞	laq
+磖	laq
+菈	laq
+砳	laq
 ⿰舟巤	laq
 迾	laq
 攔	laq	0%
@@ -10111,6 +11401,7 @@ import_tables:
 䮑	laq
 蛶	laq
 䟹	laq
+硉	laq
 啦	lhaq
 扎	tsaq
 紮	tsaq
@@ -10144,10 +11435,26 @@ import_tables:
 茁	tsaq
 舴	tsaq
 哳	tsaq
+沞	tsaq
+迊	tsaq
+魳	tsaq
+謮	tsaq
+偛	tsaq
+蚻	tsaq
 則	tsaq
 側	tsaq	5%
 鍘	tsaq	5%
 𢯩	tsaq
+稄	tsaq
+濈	tsaq
+蕺	tsaq
+擳	tsaq
+瀄	tsaq
+繓	tsaq
+稡	tsaq
+杔	tsaq
+虴	tsaq
+厇	tsaq
 夨	tsaq
 仄	tsaq
 昃	tsaq
@@ -10185,6 +11492,11 @@ import_tables:
 珿	tshaq
 促	tshaq	5%
 簇	tshaq
+囃	tshaq
+憡	tshaq
+皟	tshaq
+疀	tshaq
+鑔	tshaq
 測	tshaq
 側	tshaq
 惻	tshaq
@@ -10194,10 +11506,13 @@ import_tables:
 策	tshaq
 鏼	tshaq
 畟	tshaq
+墄	tshaq
 鸅	dzaq
 宅	dzaq
 䵵	dzaq
 㔍	dzaq
+蠌	dzaq
+囐	dzaq
 翟	dzaq
 濯	dzaq
 𦑱	dzaq
@@ -10207,6 +11522,12 @@ import_tables:
 擇	dzaq
 雜	dzaq
 襍	dzaq
+崱	dzaq
+溭	dzaq
+崪	dzaq
+椊	dzaq
+崒	dzaq
+踤	dzaq
 殺	saq
 剎	saq
 刹	saq
@@ -10224,6 +11545,11 @@ import_tables:
 眨	saq	5%
 睫	saq
 萐	saq
+躠	saq
+帹	saq
+翣	saq
+擌	saq
+栜	saq
 澀	saq
 濇	saq
 澁	saq
@@ -10252,6 +11578,16 @@ import_tables:
 溼	saq	5%
 圾	saq	6%
 趿	saq
+馺	saq
+懎	saq
+繬	saq
+轖	saq
+歰	saq
+雭	saq
+璱	saq
+飋	saq
+鯴	saq
+咰	saq
 碎	saq	0%
 石	zaq
 乭	zaq
@@ -10267,8 +11603,12 @@ import_tables:
 鰂	zaq
 鱡	zaq
 𨆎	zaq
+蠈	zaq
 雜	zaq	10%
 襍	zaq	10%
+磼	zaq
+雥	zaq
+韴	zaq
 夾	kaq
 裌	kaq
 袷	kaq
@@ -10289,6 +11629,12 @@ import_tables:
 格	kaq
 袼	kaq
 𪄎	kaq
+鵊	kaq
+圿	kaq
+忦	kaq
+扴	kaq
+鞂	kaq
+鴶	kaq
 介	kaq	5%
 溢	kaq	5%
 革	kaq
@@ -10313,6 +11659,13 @@ import_tables:
 仡	kaq
 虼	kaq
 吃	kaq
+輵	kaq
+茖	kaq
+蛒	kaq
+觡	kaq
+搹	kaq
+裓	kaq
+鮯	kaq
 客	khaq
 喀	khaq
 揢	khaq
@@ -10322,6 +11675,7 @@ import_tables:
 搕	khaq
 溘	khaq
 嗑	khaq
+榼	khaq
 掐	khaq
 甲	khaq	0%
 胛	khaq	0%
@@ -10329,7 +11683,10 @@ import_tables:
 克	khaq
 剋	khaq
 尅	khaq
+勀	khaq
+勊	khaq
 氪	khaq
+娔	khaq
 刻	khaq
 咳	khaq
 渴	khaq
@@ -10345,15 +11702,23 @@ import_tables:
 額	ngaq
 頟	ngaq
 峉	ngaq
+枿	ngaq
+歺	ngaq
+聐	ngaq
 𥑺	ngaq
+砐	ngaq
+礏	ngaq
+礘	ngaq
 齾	ngaq
 扤	nkaq
 𦨉	nkaq
 赫	haq
+爀	haq
 嚇	haq
 哈	haq
 鉿	haq
 瞎	haq
+敮	haq
 黑	haq
 黒	haq
 潶	haq
@@ -10368,6 +11733,17 @@ import_tables:
 狹	ghaq
 陿	ghaq
 硤	ghaq
+垎	ghaq
+楁	ghaq
+炠	ghaq
+翈	ghaq
+縖	ghaq
+舝	ghaq
+鎋	ghaq
+鶷	ghaq
+滆	ghaq
+珨	ghaq
+祫	ghaq
 匣	ghaq
 舺	ghaq
 黠	ghaq
@@ -10385,6 +11761,14 @@ import_tables:
 闔	ghaq
 嗑	ghaq
 𧛾	ghaq
+熆	ghaq
+篕	ghaq
+毼	ghaq
+鶡	ghaq
+榙	ghaq
+耠	ghaq
+詥	ghaq
+麧	ghaq
 壓	aq
 鴨	aq
 𩿼	aq
@@ -10392,6 +11776,17 @@ import_tables:
 押	aq
 閼	aq
 阿	aq
+庘	aq
+劜	aq
+呝	aq
+蚅	aq
+豟	aq
+貖	aq
+軶	aq
+圔	aq
+圠	aq
+嫼	aq
+窫	aq
 厄	aq
 戹	aq
 阨	aq
@@ -10409,6 +11804,15 @@ import_tables:
 遏	aq
 餲	aq
 頞	aq
+廅	aq
+鰪	aq
+咹	aq
+堨	aq
+齃	aq
+餩	aq
+㔩	aq
+姶	aq
+鞥	aq
 揠	aq
 貼	thiaq
 帖	thiaq
@@ -12075,6 +13479,12 @@ import_tables:
 洏	er
 耏	er
 䎟	er
+峏	er
+栭	er
+胹	er
+輀	er
+陑	er
+髵	er
 餌	er
 耳	er	6%
 鉺	er
@@ -12094,6 +13504,8 @@ import_tables:
 樲	er
 咡	er
 刵	er
+毦	er
+衈	er
 姆	m
 拇	m
 胟	m
@@ -12250,6 +13662,7 @@ import_tables:
 谁	zyu
 竖	zyu
 树	zyu
+𫔇	pi
 边	pi
 笾	pi
 编	pi
@@ -12276,6 +13689,7 @@ import_tables:
 谜	mi
 猕	mi
 弥	mi
+𪭧	mi
 绵	mi
 𩾃	mi
 缅	mi
@@ -12293,6 +13707,7 @@ import_tables:
 潍	vi
 费	vi
 𫔂	ti
+䃅	ti
 点	ti
 颠	ti
 巅	ti
@@ -12303,7 +13718,9 @@ import_tables:
 谛	ti
 䗖	ti
 锑	thi
-体	thi
+䴘	thi
+体	thi	0%
+𧹖	thi
 𣨼	thi
 题	di
 鳀	di
@@ -12311,6 +13728,7 @@ import_tables:
 缇	di
 𫛸	di
 鹈	di
+绨	di
 阗	di
 递	di
 垫	di
@@ -12319,15 +13737,17 @@ import_tables:
 离	li
 缡	li
 蓠	li
-丽	li
+䍠	li
 骊	li
 鹂	li
 鲡	li
 郦	li
+㛤	li
 驴	li
 闾	li
 榈	li
 蒌	li
+俫	li
 联	li
 怜	li
 连	li
@@ -12337,13 +13757,13 @@ import_tables:
 梿	li
 𦈐	li
 裢	li
+𪡏	li
 镰	li
 奁	li
 孪	li
 娈	li
 挛	li
 逦	li
-礼	li
 鳢	li
 鲤	li
 锂	li
@@ -12391,6 +13811,7 @@ import_tables:
 觇	ci
 鹯	ci
 𫗴	ci
+鳣	ci
 鹣	ci
 缣	ci
 坚	ci
@@ -12403,12 +13824,13 @@ import_tables:
 缄	ci
 挤	ci
 济	ci
+𪲎	ci
 鸡	ci
-虮	ci
 谫	ci
 辗	ci
 飐	ci
 戬	ci
+椫	ci
 简	ci
 茧	ci
 检	ci
@@ -12419,12 +13841,12 @@ import_tables:
 际	ci
 霁	ci
 剂	ci
-骥	ci
 继	ci
 计	ci
 记	ci
 纪	ci
 系	ci	0%
+骥	ci
 蓟	ci
 𪲛	ci
 溅	ci
@@ -12441,7 +13863,6 @@ import_tables:
 岂	chi
 佥	chi
 签	chi
-迁	chi
 觇	chi
 钎	chi
 歼	chi
@@ -12452,13 +13873,17 @@ import_tables:
 骞	chi
 悭	chi
 桤	chi
+𫖶	chi
 绮	chi
 浅	chi
 蒇	chi
 谄	chi
+冁	chi
 阐	chi
+𪩷	chi
 谴	chi
 缱	chi
+𣍰	chi
 𬳈	chi
 觑	chi
 觊	chi
@@ -12473,6 +13898,7 @@ import_tables:
 骑	ji
 锜	ji
 骐	ji
+鲯	ji
 鳍	ji
 颀	ji
 蕲	ji
@@ -12481,6 +13907,7 @@ import_tables:
 践	ji
 渐	ji
 贱	ji
+𩨊	ji
 饯	ji
 钳	ji
 俭	ji
@@ -12488,10 +13915,12 @@ import_tables:
 滞	ji
 哜	ji
 苎	ji
+𫍪	ji
 铌	gni
 仪	gni
 谊	gni
 鲵	gni
+𫠜	gni
 呓	gni
 阎	gni
 严	gni
@@ -12499,15 +13928,20 @@ import_tables:
 鲶	gni
 鲇	gni
 鿭	gni
+祢	gni
 蚁	gni
+𥐟	gni
+舣	gni
 拟	gni
 𫐐	gni
+𫆏	gni
 辇	gni
 撵	gni
 谳	gni
 𪩘	gni
 𫖮	gni
 瘾	gni
+𫜮	gni
 艺	gni
 义	gni
 贰	gni
@@ -12537,6 +13971,7 @@ import_tables:
 闪	shi
 陕	shi
 𤇄	shi
+𫄥	shi
 险	shi
 崄	shi
 显	shi
@@ -12545,6 +13980,7 @@ import_tables:
 戏	shi
 屃	shi
 饩	shi
+𪸕	shi
 纤	shi
 线	shi
 骟	shi
@@ -12556,19 +13992,24 @@ import_tables:
 赅	kI
 锯	kI
 赶	kI
+鳡	kI
 赣	kI
 绀	kI
 干	khI	0%
+𫘱	yi
+𫘬	yi
 鲑	yi
 贻	yi
 饴	yi
 诒	yi
 遗	yi
 颐	yi
+𫄧	yi
 盐	yi
 贤	yi
 闫	yi
 铅	yi
+𫍯	yi
 颜	yi
 痫	yi
 娴	yi
@@ -12580,7 +14021,6 @@ import_tables:
 伣	yi
 𠯟	yi
 鳝	yi
-兖	yi
 里	yi	0%
 异	yi
 勚	yi
@@ -12591,12 +14031,14 @@ import_tables:
 练	yi
 铱	i
 鹥	i
+祎	i
 阏	i
 恹	i
 𫚢	i
 𪠏	i
 ⿱厌肉	i
 魇	i
+黡	i
 镱	i
 瘗	i
 亿	i
@@ -12606,6 +14048,8 @@ import_tables:
 厌	i
 餍	i
 厣	i
+𫘫	i
+觃	i
 谱	pu
 补	pu
 钸	pu
@@ -12662,7 +14106,7 @@ import_tables:
 𠰷	lu
 垆	lu
 撸	lu
-卤	lu
+卤	lu	0%
 硵	lu
 鲁	lu
 镥	lu
@@ -12815,11 +14259,14 @@ import_tables:
 惫	ba
 呗	ba
 鞲	ba
+𫖔	ba
 迈	ma
 买	ma
 马	ma
 吗	ma
 玛	ma
+𪡃	ma
+荬	ma
 卖	ma
 妈	mha
 带	ta
@@ -12855,12 +14302,14 @@ import_tables:
 𫚥	ya
 爷	ya
 铘	ya
+䥺	ya
 鸦	ia
 讶	ia
 铔	ia
 亚	ia
 娅	ia
 氩	ia
+䅉	ia
 剐	kua
 哙	khua
 怀	gua
@@ -12894,13 +14343,16 @@ import_tables:
 焘	dau
 梼	dau
 𩙧	dau
+𫘦	dau
 盗	dau
 导	dau
 帱	dau
 挠	nau
 铙	nau
+𫍢	nau
 脑	nau
 恼	nau
+垴	nau
 闹	nau
 ⿰闹	nau
 桡	nau
@@ -12911,6 +14363,8 @@ import_tables:
 崂	lau
 铑	lau
 唠	lau
+𣓿	lau
+耢	lau
 捞	lhau
 唠	lhau
 枣	tsau
@@ -12918,6 +14372,8 @@ import_tables:
 𩠎	dzau
 骚	sau
 鳋	sau
+𩙫	sau
+𫚫	sau
 扫	sau
 胶	kau
 鲛	kau
@@ -12936,13 +14392,11 @@ import_tables:
 绞	gau
 鳌	ngau
 骜	ngau
-号	ghau
 镐	ghau
 颢	ghau
 灏	ghau
 岙	au
 袄	au
-奥	au
 钯	po
 坝	po
 罢	bo
@@ -13130,6 +14584,8 @@ import_tables:
 铼	le
 崃	le
 涞	le
+梾	le
+𪎌	le
 睐	le
 赉	le
 载	tse
@@ -13155,10 +14611,12 @@ import_tables:
 铠	khe
 闿	khe
 剀	khe
+垲	khe
 忾	khe
 碍	nge
 皑	nge
 阂	nge
+𫠐	he
 许	he
 汉	he
 骇	ghe
@@ -13170,6 +14628,7 @@ import_tables:
 爱	e
 瑷	e
 嫒	e
+𫉁	e
 阶	cie
 诫	cie
 谐	ye
@@ -13185,6 +14644,8 @@ import_tables:
 烦	vae
 钒	vae
 矾	vae
+𫐊	vae
+𫓸	vae
 饭	vae
 单	tae
 箪	tae
@@ -13202,6 +14663,7 @@ import_tables:
 叹	thae
 赕	thae
 谈	dae
+锬	dae
 谭	dae
 坛	dae
 弹	dae
@@ -13224,10 +14686,10 @@ import_tables:
 拦	lae
 澜	lae
 襕	lae
-斓	lae
 谰	lae
 镧	lae
 𪢌	lae
+𨅬	lae
 览	lae
 缆	lae
 揽	lae
@@ -13235,6 +14697,7 @@ import_tables:
 懒	lae
 滥	lae
 𡒄	lae
+㳕	lae
 烂	lae
 赖	lae
 斩	tsae
@@ -13257,6 +14720,7 @@ import_tables:
 惨	tshae
 产	tshae
 铲	tshae
+𡶴	tshae
 刬	tshae
 灿	tshae
 残	dzae
@@ -13264,6 +14728,8 @@ import_tables:
 馋	dzae
 惭	dzae
 𫏐	dzae
+𡺄	dzae
+骣	dzae
 暂	dzae
 赚	dzae
 绽	dzae
@@ -13274,6 +14740,8 @@ import_tables:
 毵	sae
 产	sae
 伞	sae
+𩭹	sae
+䅟	sae
 𫔌	sae
 浐	sae
 钐	sae
@@ -13435,6 +14903,7 @@ import_tables:
 备	bei
 鹛	mei
 镅	mei
+𫌭	mei
 镁	mei
 𠊉	vei
 𫧃	vei
@@ -13447,6 +14916,7 @@ import_tables:
 队	dei
 镦	dei
 怼	dei
+䌼	dei
 馁	nei
 镭	lei
 蔂	lei
@@ -13461,6 +14931,7 @@ import_tables:
 骓	tsei
 缀	tsei
 赘	tsei
+缞	tshei
 ⿱咋会	dzei
 坠	dzei
 虽	sei
@@ -13469,6 +14940,7 @@ import_tables:
 岁	sei
 糁	sei
 说	sei
+涚	sei
 赛	sei
 随	zei
 锤	zei
@@ -13477,6 +14949,7 @@ import_tables:
 蚕	zEI
 錾	zEI
 锐	zei
+𫠐	hEI
 顸	hEI
 许	hEI
 汉	hEI
@@ -13486,10 +14959,12 @@ import_tables:
 颔	ghEI
 𫘛	ghEI
 闬	ghEI
+𫘣	ghEI
 𩽾	EI
 鹌	EI
 谙	EI
 铵	EI
+埯	EI
 规	kuei
 鲑	kuei
 龟	kuei
@@ -13638,7 +15113,10 @@ import_tables:
 贸	meu
 负	veu
 复	veu
+𨱎	theu
+钭	theu
 头	deu
+饾	deu
 断	deu
 窦	deu
 读	deu
@@ -13649,6 +15127,7 @@ import_tables:
 耧	leu
 蝼	leu
 蒌	leu
+𫐷	leu
 𪣻	leu
 搂	leu
 篓	leu
@@ -13674,6 +15153,7 @@ import_tables:
 馊	seu
 锼	seu
 𫠑	seu
+𩨄	seu
 擞	seu
 薮	seu
 骤	zeu
@@ -13681,12 +15161,14 @@ import_tables:
 沟	keu
 购	keu
 构	keu
+缑	keu
 觏	keu
 诟	keu
 𫎧	keu
 抠	kheu
 𬣚	kheu
 鲎	heu
+鲘	gheu
 欧	eu
 瓯	eu
 呕	eu
@@ -13700,6 +15182,7 @@ import_tables:
 伛	eu
 怄	eu
 绷	pan
+𨸂	pan
 鹏	ban
 锰	man
 带	tan
@@ -13790,6 +15273,7 @@ import_tables:
 谤	paon
 镑	paon
 帮	paon
+𫄰	paon
 绑	paon
 鳑	baon
 庞	baon
@@ -13798,7 +15282,10 @@ import_tables:
 钫	faon
 纺	faon
 访	faon
+𫛯	faon
+鲂	vaon
 辋	vaon
+𫍬	vaon
 当	taon
 裆	taon
 珰	taon
@@ -13806,6 +15293,8 @@ import_tables:
 筜	taon
 谠	taon
 挡	taon
+𣗋	taon
+𣺼	taon
 档	taon
 汤	thaon
 傥	thaon
@@ -13817,6 +15306,7 @@ import_tables:
 砀	daon
 馕	naon
 锒	laon
+𨱍	laon
 阆	laon
 妆	tsaon
 庄	tsaon
@@ -13837,6 +15327,7 @@ import_tables:
 伧	tshaon
 鲳	tshaon
 阊	tshaon
+锠	tshaon
 创	tshaon
 闯	tshaon
 戗	tshaon
@@ -13855,6 +15346,8 @@ import_tables:
 伤	saon
 殇	saon
 觞	saon
+𫘭	saon
+𫁷	saon
 赏	saon
 偿	saon
 㧐	saon
@@ -13921,11 +15414,13 @@ import_tables:
 换	wun
 乌	un
 贲	pen
+锛	pen
 喷	phen
 门	men
 们	men
 闷	men
 钔	men
+𫞩	men
 懑	men
 问	men
 扪	men
@@ -13940,10 +15435,14 @@ import_tables:
 坟	ven
 纹	ven
 𫘜	ven
+阌	ven
+𪉃	ven
 闻	ven
 问	ven
 贲	ven
 𫔁	ven
+𫅗	ven
+豮	ven
 鲼	ven
 愤	ven
 灯	ten
@@ -13969,6 +15468,7 @@ import_tables:
 纶	len
 𬬭	len
 抡	len
+芲	len
 论	len
 缯	tsen
 争	tsen
@@ -13981,12 +15481,15 @@ import_tables:
 谮	tsen
 诤	tsen
 参	tshen
+㟥	tshen
 衬	tshen
 榇	tshen
 𠋆	tshen
 赠	dzen
+𫘯	dzen
 枨	dzen
 鳟	dzen
+𨱔	dzen
 鸩	dzen
 孙	sen
 逊	sen
@@ -13996,7 +15499,10 @@ import_tables:
 椮	sen
 损	sen
 碜	sen
+瘆	sen
 渗	sen
+𨸃	sen
+𢙏	sen
 层	zen
 赓	ken
 鹒	ken
@@ -14392,11 +15898,14 @@ import_tables:
 萤	yon
 拥	ion
 痈	ion
+𫓥	paq
 钚	paq
 拨	paq
 𫏆	paq
 鲅	paq
 酦	paq
+袯	paq
+𩧯	paq
 钵	paq
 瘪	paq
 泼	phaq
@@ -14415,6 +15924,7 @@ import_tables:
 酦	faq
 钫	faq
 绋	faq
+绂	faq
 罚	vaq
 阀	vaq
 𨱏	taq
@@ -14440,13 +15950,17 @@ import_tables:
 哒	daq
 垯	daq
 𪹹	daq
+阘	daq
 夺	daq
+𫚛	daq
+𨱄	daq
+𫐇	naq
 钠	naq
 纳	naq
 讷	naq
 蜡	laq	0%
 腊	laq	0%
-猎	laq
+猎	laq	0%
 镴	laq
 拦	laq
 鳓	laq
@@ -14462,8 +15976,12 @@ import_tables:
 则	tsaq
 侧	tsaq
 铡	tsaq
+𦈛	tsaq
 渍	tsaq
 锸	tshaq
+𠱞	tshaq
+𤾀	tshaq
+镲	tshaq
 测	tshaq
 侧	tshaq
 恻	tshaq
@@ -14483,6 +16001,10 @@ import_tables:
 飒	saq
 释	saq
 湿	saq
+𢠁	saq
+𫄱	saq
+𫗋	saq
+鲺	saq
 闸	zaq
 铡	zaq
 贼	zaq
@@ -14491,9 +16013,11 @@ import_tables:
 夹	kaq
 颊	kaq
 镉	kaq
+𫛥	kaq
 缂	kaq
 鸽	kaq
 盖	kaq
+𫚗	kaq
 轧	gaq
 钆	gaq
 额	ngaq
@@ -14507,6 +16031,7 @@ import_tables:
 饸	ghaq
 辖	ghaq
 阖	ghaq
+鹖	ghaq
 压	aq
 鸭	aq
 阏	aq
@@ -14516,7 +16041,7 @@ import_tables:
 谒	aq
 贴	thiaq
 谍	diaq
-猎	liaq
+猎	liaq	0%
 𫚭	liaq
 钾	ciaq
 荚	ciaq
