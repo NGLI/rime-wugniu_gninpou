@@ -33,6 +33,8 @@ import_tables:
 枝	tsy
 肢	tsy
 吱	tsy
+衼	tsy
+鳷	tsy
 資	tsy
 貲	tsy
 姿	tsy
@@ -49,9 +51,16 @@ import_tables:
 淄	tsy
 㿳	tsy
 錙	tsy
+湽	tsy
+葘	tsy
+輺	tsy
+鍿	tsy
 茲	tsy
 兹	tsy
 滋	tsy
+嗞	tsy
+嵫	tsy
+鰦	tsy
 滓	tsy
 幟	tsy
 孳	tsy
@@ -67,10 +76,14 @@ import_tables:
 氏	tsy	0%
 胝	tsy
 祗	tsy
+疷	tsy
+秪	tsy
 秖	tsy
 眦	tsy
 眥	tsy
 髭	tsy
+頾	tsy
+頿	tsy
 鮆	tsy
 呲	tsy
 齜	tsy
@@ -79,6 +92,11 @@ import_tables:
 鎡	tsy
 黹	tsy
 齍	tsy
+厜	tsy
+鄑	tsy
+榰	tsy
+胑	tsy
+瓻	tsy
 癡	tsy	0%
 痴	tsy	0%
 煮	tsy
@@ -117,6 +135,14 @@ import_tables:
 徴	tsy	5%
 茈	tsy
 詝	tsy
+呰	tsy
+訿	tsy
+杍	tsy
+坁	tsy
+扺	tsy
+抧	tsy
+恉	tsy
+茋	tsy
 飳	tsy	0%
 至	tsy
 致	tsy
@@ -138,10 +164,21 @@ import_tables:
 𢴨	tsy
 懥	tsy
 恣	tsy
+娡	tsy
+倳	tsy
+剚	tsy
+杘	tsy
+駤	tsy
+騺	tsy
 嗤	tshy
 差	tshy	1%
 鈭	tshy
 趑	tshy
+蠀	tshy
+趀	tshy
+妛	tshy
+胵	tshy
+鵄	tshy
 此	tshy
 雌	tshy
 齒	tshy
@@ -150,6 +187,10 @@ import_tables:
 泚	tshy
 㧗	tshy
 玼	tshy
+佌	tshy
+垑	tshy
+袳	tshy
+欼	tshy
 侈	tshy
 次	tshy
 粢	tshy
@@ -160,6 +201,14 @@ import_tables:
 翄	tshy
 廁	tshy
 厠	tshy
+庛	tshy
+朿	tshy
+螆	tshy
+佽	tshy
+絘	tshy
+糦	tshy
+饎	tshy
+痓	tshy
 瓷	dzy
 茨	dzy
 兹	dzy
@@ -170,8 +219,14 @@ import_tables:
 鷀	dzy
 辭	dzy
 辤	dzy
+辝	dzy
 詞	dzy
 祠	dzy
+濨	dzy
+礠	dzy
+飺	dzy
+薋	dzy
+柌	dzy
 遲	dzy	10%
 墀	dzy	10%
 蚳	dzy	10%
@@ -181,6 +236,10 @@ import_tables:
 嗣	dzy
 篪	dzy	10%
 踟	dzy	10%
+彽	dzy	10%
+泜	dzy	10%
+貾	dzy	10%
+阺	dzy	10%
 褫	dzy	10%
 峙	dzy	10%
 恃	dzy
@@ -189,6 +248,9 @@ import_tables:
 豸	dzy	10%
 雉	dzy	10%
 廌	dzy	10%
+滍	dzy	10%
+庤	dzy	10%
+歭	dzy	10%
 稚	dzy
 稺	dzy
 穉	dzy
@@ -197,6 +259,9 @@ import_tables:
 飼	dzy
 飤	dzy
 伺	dzy
+髊	dzy
+芓	dzy
+茡	dzy
 師	sy
 獅	sy
 篩	sy
@@ -237,6 +302,22 @@ import_tables:
 廝	sy
 厮	sy
 釃	sy
+恖	sy
+禗	sy
+蕬	sy
+凘	sy
+榹	sy
+燍	sy
+磃	sy
+虒	sy
+蜤	sy
+蟴	sy
+鋖	sy
+絁	sy
+葹	sy
+邿	sy
+蒒	sy
+鰤	sy
 始	sy
 𦰯	sy
 史	sy
@@ -262,6 +343,13 @@ import_tables:
 弑	sy
 弒	sy
 㳏	sy
+儩	sy
+杫	sy
+柶	sy
+牭	sy
+肂	sy
+蕼	sy
+僿	sy
 時	sy	0%
 旹	sy	0%
 時	zy
@@ -271,6 +359,7 @@ import_tables:
 蒔	zy
 榯	zy
 溡	zy
+鼭	zy
 匙	zy
 㖷	zy
 鶗	zy
@@ -312,9 +401,14 @@ import_tables:
 柿	zy
 柹	zy
 𣏕	zy
+枾	zy
 是	zy
 昰	zy
 耜	zy
+戺	zy
+泤	zy
+鈶	zy
+舓	zy
 字	zy
 牸	zy
 事	zy
@@ -328,6 +422,11 @@ import_tables:
 謚	zy
 諡	zy
 食	zy	0%
+澨	zy
+簭	zy
+觢	zy
+遾	zy
+孠	zy
 豎	zy	0%
 竪	zy	0%
 慈	zy	0%
@@ -365,6 +464,14 @@ import_tables:
 蛆	tsyu
 趄	tsyu
 置	tsyu
+櫧	tsyu
+蠩	tsyu
+絑	tsyu
+鮢	tsyu
+娵	tsyu
+鼅	tsyu
+跦	tsyu
+鼄	tsyu
 致	tsyu	0%
 滋	tsyu	0%
 癡	tsyu	0%
@@ -379,6 +486,9 @@ import_tables:
 嘴	tsyu
 丶	tsyu
 咀	tsyu
+陼	tsyu
+沝	tsyu
+宔	tsyu
 子	tsyu	0%
 注	tsyu
 註	tsyu
@@ -399,6 +509,13 @@ import_tables:
 𡟹	tsyu
 䀸	tsyu
 疐	tsyu
+淛	tsyu
+狾	tsyu
+迣	tsyu
+祩	tsyu
+馵	tsyu
+壴	tsyu
+軴	tsyu
 趨	tshyu
 痴	tshyu
 癡	tshyu
@@ -420,6 +537,12 @@ import_tables:
 哆	tshyu	5%
 攄	tshyu
 處	tshyu
+砠	tshyu
+彲	tshyu
+摛	tshyu
+摴	tshyu
+樗	tshyu
+貙	tshyu
 鼠	tshyu
 癙	tshyu
 取	tshyu
@@ -430,9 +553,12 @@ import_tables:
 杵	tshyu
 褚	tshyu
 楮	tshyu
+柠	tshyu
 趣	tshyu
 覷	tshyu
 覰	tshyu
+刞	tshyu
+痸	tshyu
 粢	tshyu
 廚	dzyu
 厨	dzyu
@@ -452,12 +578,19 @@ import_tables:
 搥	dzyu
 𩣷	dzyu
 炷	dzyu
+幮	dzyu
+趎	dzyu
 杼	dzyu
 柱	dzyu
 宁	dzyu
 佇	dzyu
 竚	dzyu
 貯	dzyu
+眝	dzyu
+紵	dzyu
+羜	dzyu
+嵀	dzyu
+跙	dzyu
 治	dzyu
 住	dzyu
 駐	dzyu
@@ -491,6 +624,11 @@ import_tables:
 鬚	syu	0%
 尿	syu
 姝	syu
+瑹	syu
+鵨	syu
+嬃	syu
+蕦	syu
+鑐	syu
 水	syu
 氵	syu
 暑	syu
@@ -514,6 +652,7 @@ import_tables:
 茹	zyu
 銣	zyu
 鴽	zyu
+蕠	zyu
 儲	zyu
 𧄔	zyu
 殊	zyu
@@ -527,6 +666,7 @@ import_tables:
 鱬	zyu
 薷	zyu
 襦	zyu
+嬬	zyu
 殳	zyu
 薯	zyu
 藷	zyu
@@ -537,8 +677,12 @@ import_tables:
 鋤	zyu	5%
 耡	zyu	5%
 鉏	zyu	5%
+杸	zyu
+陎	zyu
+俆	zyu
 女	zyu	0%
 汝	zyu
+肗	zyu
 叙	zyu
 敘	zyu
 敍	zyu
@@ -552,14 +696,17 @@ import_tables:
 誰	zyu	0%
 孰	zyu	0%
 墅	zyu
+裋	zyu
 洳	zyu
 豎	zyu
 竪	zyu
 樹	zyu
 澍	zyu
+尌	zyu
 曙	zyu
 署	zyu
 糬	zyu
+埾	zyu
 篦	pi
 𦱔	pi
 螕	pi
@@ -2569,6 +2716,8 @@ s	迡	gni
 溎	i
 覎	i
 譜	pu
+峬	pu
+庯	pu
 補	pu
 圃	pu
 布	pu
@@ -2585,9 +2734,12 @@ s	迡	gni
 溥	phu
 浦	phu
 埔	phu
+烳	phu
 舖	phu
+悑	phu
 菩	bu
 脯	bu
+蒱	bu
 匍	bu
 葡	bu
 蜅	bu
@@ -2642,6 +2794,17 @@ s	迡	gni
 膚	fu
 怤	fu
 𥹃	fu
+姇	fu
+尃	fu
+筟	fu
+紨	fu
+麱	fu
+柎	fu
+玞	fu
+肤	fu
+衭	fu
+邞	fu
+鳺	fu
 乎	fu
 呼	fu
 嘑	fu
@@ -2649,6 +2812,13 @@ s	迡	gni
 謼	fu
 滹	fu
 虍	fu
+幠	fu
+恗	fu
+歑	fu
+烀	fu
+苸	fu
+軤	fu
+雐	fu
 殕	fu
 府	fu
 腑	fu
@@ -2664,6 +2834,7 @@ s	迡	gni
 簠	fu
 䪔	fu
 䯙	fu
+黼	fu
 撫	fu	5%
 憮	fu
 拊	fu
@@ -2671,18 +2842,24 @@ s	迡	gni
 琥	fu
 䗂	fu
 唬	fu
+萀	fu
 滸	fu
 富	fu
 副	fu
 傅	fu
 付	fu
 咐	fu
+褔	fu
+婏	fu
+陚	fu
 戽	fu
 𣶉	fu
 夫	vu	0%
 芙	vu
 扶	vu
 蚨	vu
+枎	vu
+颫	vu
 符	vu
 苻	vu
 鉜	vu
@@ -2691,20 +2868,33 @@ s	迡	gni
 蕪	vu
 璑	vu
 憮	vu
+譕	vu
+鷡	vu
 亡	vu	0%
 侮	vu
 巫	vu
+莁	vu
+鵐	vu
 浮	vu	6%
+榑	vu
+玸	vu
 父	vu
 撫	vu
 廡	vu
 嫵	vu
+儛	vu
+潕	vu
+甒	vu
 婦	vu
 媍	vu
 務	vu
 阜	vu
 阝	vu
 碔	vu
+娬	vu
+珷	vu
+滏	vu
+鬴	vu
 腐	vu
 附	vu
 坿	vu
@@ -2712,10 +2902,14 @@ s	迡	gni
 袝	vu
 鮒	vu
 跗	vu
+祔	vu
+胕	vu
+蚹	vu
 霧	vu
 婺	vu
 騖	vu
 鶩	vu
+嵍	vu
 賻	vu
 乎	vu	5%
 都	tu
@@ -2728,12 +2922,20 @@ s	迡	gni
 肚	tu	5%
 琽	tu
 䐗	tu
+帾	tu
+暏	tu
 妒	tu
 妬	tu
 嘟	tu
 蠹	tu
 斁	tu
+殬	tu
+秺	tu
+螙	tu
 都	thu	0%
+嶀	thu
+庩	thu
+鵵	thu
 土	thu
 圡	thu
 吐	thu
@@ -2748,18 +2950,24 @@ s	迡	gni
 徒	du
 屠	du
 瘏	du
+廜	du
+鷵	du
 途	du
 涂	du
 塗	du
 荼	du
 酴	du
 嵞	du
+峹	du
+蒤	du
+駼	du
 圖	du
 図	du
 菟	du
 堵	du	5%
 杜	du
 𨧀	du
+荰	du
 肚	du
 度	du
 渡	du
@@ -2779,11 +2987,18 @@ s	迡	gni
 娪	nu
 誤	nu
 悟	nu
+浯	nu
+珸	nu
+祦	nu
+郚	nu
+鯃	nu
 弩	nu
 砮	nu
 𧉭	nu
+胬	nu
 圄	nu
 牾	nu
+旿	nu
 怒	nu
 悞	nu
 娛	nu
@@ -2794,6 +3009,10 @@ s	迡	gni
 痦	nu
 迕	nu
 忤	nu
+悮	nu
+窹	nu
+逜	nu
+遻	nu
 啎	nu
 仵	nu
 呶	nhu
@@ -2816,15 +3035,24 @@ s	迡	gni
 籚	lu
 罏	lu
 壚	lu
+櫨	lu
+瓐	lu
+矑	lu
+髗	lu
+黸	lu
 擼	lu
 纑	lu
 滷	lu
+玈	lu
 鹵	lu
 磠	lu
+蓾	lu
+鏀	lu
 魯	lu
 鑥	lu
 穭	lu
 嚕	lu
+鐪	lu
 櫓	lu
 艪	lu
 艣	lu
@@ -2840,6 +3068,9 @@ s	迡	gni
 鏴	lu
 𡀔	lu
 簬	lu
+簵	lu
+蕗	lu
+虂	lu
 絡	lu	0%
 謱	lhu
 租	tsu
@@ -2856,19 +3087,28 @@ s	迡	gni
 粗	tshu
 麤	tshu
 觕	tshu
+麁	tshu
+犓	tshu
 初	tshu
 措	tshu
 芻	tshu
 楚	tshu
 礎	tshu
 憷	tshu
+濋	tshu
+齼	tshu
+珇	tshu
+靻	tshu
 醋	tshu
 酢	tshu	0%
 瘄	tshu
 厝	tshu
 䥄	tshu
+儊	tshu
 雛	dzu
+鶵	dzu
 䅳	dzu
+媰	dzu
 徂	dzu
 齟	dzu
 殂	dzu
@@ -2876,6 +3116,7 @@ s	迡	gni
 耡	dzu
 鉏	dzu
 助	dzu
+豠	dzu
 阼	dzu
 胙	dzu
 祚	dzu
@@ -2888,12 +3129,17 @@ s	迡	gni
 梳	su	1%
 疏	su
 疎	su
+綀	su
+橾	su
 數	su
 鬚	su
 素	su
 嗉	su
 溸	su
 愫	su
+傃	su
+塐	su
+膆	su
 訴	su
 愬	su
 塑	su	1%
@@ -2907,7 +3153,12 @@ s	迡	gni
 罛	ku
 笟	ku
 箛	ku
+柧	ku
+泒	ku
+苽	ku
+軱	ku
 辜	ku
+嫴	ku
 菇	ku
 菰	ku
 姑	ku
@@ -2932,14 +3183,22 @@ s	迡	gni
 鼓	ku
 皷	ku
 瞽	ku
+鼔	ku
 蠱	ku
 賈	ku	1%
+夃	ku
+焸	ku
 錮	ku
 痼	ku
 𧛂	ku
 崮	ku
+凅	ku
+棝	ku
+稒	ku
+鯝	ku
 故	ku
 顧	ku
+頋	ku
 雇	ku
 僱	ku
 枯	khu
@@ -2947,6 +3206,7 @@ s	迡	gni
 骷	khu
 軲	khu
 刳	khu
+郀	khu
 苦	khu
 絝	khu
 庫	khu
@@ -2978,6 +3238,10 @@ s	迡	gni
 乎	wu
 䉿	wu
 𤝘	wu
+壷	wu
+瓳	wu
+箶	wu
+魱	wu
 誤	wu	10%
 悟	wu	10%
 吾	WU	10%
@@ -2989,6 +3253,11 @@ s	迡	gni
 鼯	wu
 齬	wu
 娪	wu
+浯	wu
+珸	wu
+祦	wu
+郚	wu
+鯃	wu
 無	Wu	10%
 无	Wu	10%
 亡	Wu	0%
@@ -3014,15 +3283,24 @@ s	迡	gni
 酤	wu
 鄠	wu
 萵	wu	0%
+帍	wu
+昈	wu
+楛	wu
+簄	wu
 互	wu
 圄	wu
 牾	wu
+旿	wu
 武	Wu
 務	Wu	10%
 惡	wu	1%
 悪	wu	1%
 濩	wu
 頀	wu
+冱	wu
+嫭	wu
+枑	wu
+韄	wu
 悞	wu	10%
 娛	wu	10%
 娯	wu	10%
@@ -3035,6 +3313,10 @@ s	迡	gni
 忤	wu	10%
 啎	wu	10%
 仵	wu	10%
+悮	wu
+窹	wu
+逜	wu
+遻	wu
 戊	Wu
 霧	Wu	10%
 烏	u
@@ -3050,6 +3332,12 @@ s	迡	gni
 釫	u
 萵	u
 誣	u
+圬	u
+歍	u
+盓	u
+螐	u
+鰞	u
+鴮	u
 衣	u	0%
 熓	u
 糊	u	0%
@@ -3059,14 +3347,22 @@ s	迡	gni
 於	u	0%
 椅	u	5%
 瑦	u
+嵨	u
+摀	u
+溩	u
 鄔	u
 捂	u
 焐	u
 熩	u
 埡	u
+肟	u
 居	ciu
 鋸	ciu
 据	ciu
+崌	ciu
+涺	ciu
+蜛	ciu
+鶋	ciu
 拘	ciu
 駒	ciu
 蒟	ciu
@@ -3095,14 +3391,21 @@ s	迡	gni
 齲	ciu
 枸	ciu	5%
 筥	ciu
+椇	ciu
 捲	ciu
 卷	ciu
 巻	ciu
 𩜇	ciu
 婘	ciu
 羂	ciu
+汱	ciu
+詃	ciu
+埢	ciu
+菤	ciu
+錈	ciu
 據	ciu
 句	ciu
+邭	ciu
 貴	ciu
 踞	ciu
 澽	ciu
@@ -3117,15 +3420,21 @@ s	迡	gni
 睠	ciu
 眷	ciu
 縳	ciu
+懁	ciu
+瓹	ciu
+卛	ciu
+帣	ciu
 區	chiu
 嶇	chiu
 驅	chiu
 駈	chiu
 軀	chiu
+鰸	chiu
 虧	chiu	5%
 袪	chiu
 祛	chiu
 胠	chiu
+阹	chiu
 姝	chiu
 圩	chiu
 圈	chiu
@@ -3139,6 +3448,7 @@ s	迡	gni
 畎	chiu
 埍	chiu
 去	chiu	5%
+鼁	chiu
 蕖	jiu
 磲	jiu
 巨	jiu
@@ -3168,6 +3478,20 @@ s	迡	gni
 璩	jiu
 蘧	jiu
 籧	jiu
+懅	jiu
+淭	jiu
+璖	jiu
+螶	jiu
+蟝	jiu
+忂	jiu
+戵	jiu
+斪	jiu
+欋	jiu
+翑	jiu
+葋	jiu
+蠷	jiu
+躣	jiu
+鑺	jiu
 蜷	jiu
 瘸	jiu
 鬈	jiu
@@ -3177,6 +3501,9 @@ s	迡	gni
 權	jiu
 顴	jiu
 拳	jiu
+孉	jiu
+蠸	jiu
+齤	jiu
 跪	jiu
 窶	jiu
 苣	jiu
@@ -3184,13 +3511,22 @@ s	迡	gni
 詎	jiu
 秬	jiu
 蚷	jiu
+岠	jiu
+歫	jiu
+粔	jiu
+虡	jiu
+駏	jiu
+貗	jiu
 圈	jiu	2%
 裙	jiu	0%
 櫃	jiu
 犋	jiu
 遽	jiu
+勮	jiu
+埧	jiu
 倦	jiu
 勌	jiu
+淃	jiu
 虞	gniu
 娛	gniu
 娯	gniu
@@ -3206,6 +3542,11 @@ s	迡	gni
 齵	gniu
 御	gniu
 禦	gniu
+堣	gniu
+湡	gniu
+澞	gniu
+鍝	gniu
+鸆	gniu
 原	gniu
 源	gniu
 願	gniu
@@ -3226,6 +3567,11 @@ s	迡	gni
 邧	gniu
 蚖	gniu
 杬	gniu
+榞	gniu
+獂	gniu
+蒝	gniu
+邍	gniu
+撋	gniu
 扭	gniu	5%
 蚏	gniu
 女	gniu
@@ -3239,10 +3585,20 @@ s	迡	gni
 敔	gniu
 俁	gniu
 圉	gniu
+篽	gniu
+籞	gniu
+蘌	gniu
+噳	gniu
 軟	gniu
 輭	gniu
+碝	gniu
+緛	gniu
+耎	gniu
 語	gniu
 馭	gniu	1%
+傆	gniu
+媀	gniu
+庽	gniu
 芋	gniu	1%
 靴	shiu
 鞾	shiu
@@ -3254,9 +3610,11 @@ s	迡	gni
 譃	shiu
 歔	shiu
 魖	shiu
+驉	shiu
 吁	shiu
 訏	shiu
 盱	shiu
+旴	shiu
 姁	shiu
 𦰰	shiu
 楦	shiu
@@ -3275,9 +3633,20 @@ s	迡	gni
 暄	shiu
 塤	shiu
 壎	shiu
+翾	shiu
+譞	shiu
+梋	shiu
+鋗	shiu
+愋	shiu
+翧	shiu
+蝖	shiu
 許	shiu
 栩	shiu
 詡	shiu
+鄦	shiu
+冔	shiu
+喣	shiu
+珝	shiu
 烜	shiu
 𣈶	shiu
 暅	shiu
@@ -3285,11 +3654,11 @@ s	迡	gni
 毁	shiu	5%
 㧦	shiu
 昫	shiu
+煦	shiu
 揎	shiu
 酗	shiu
 絢	shiu
 𩋢	shiu
-煦	shiu
 漁	yu
 魚	yu	1%
 余	yu
@@ -3339,6 +3708,20 @@ s	迡	gni
 歟	yu
 藇	yu
 鱮	yu
+伃	yu
+嬩	yu
+旟	yu
+璵	yu
+雓	yu
+堬	yu
+羭	yu
+茰	yu
+萮	yu
+蕍	yu
+螸	yu
+騟	yu
+杅	yu
+謣	yu
 緣	yu
 圓	yu
 円	yu
@@ -3362,18 +3745,28 @@ s	迡	gni
 鍰	yu
 鶢	yu
 櫞	yu
+玆	yu
+盷	yu
+榬	yu
+溒	yu
 宇	yu
 雨	yu
 禹	yu
 羽	yu
 庾	yu
 與	yu
+与	yu
 嶼	yu
 窳	yu
+斞	yu
+貐	yu
+瑀	yu
+鄅	yu
 遠	yu
 逺	yu
 薳	yu
 鉉	yu
+琄	yu
 預	yu
 豫	yu
 蕷	yu
@@ -3381,10 +3774,15 @@ s	迡	gni
 芋	yu
 諭	yu
 礜	yu
+忬	yu
+悆	yu
+澦	yu
+穥	yu
 院	yu
 眩	yu
 昡	yu
 衒	yu
+袨	yu
 縣	yu
 県	yu
 援	yu
@@ -3401,6 +3799,10 @@ s	迡	gni
 骬	iu
 衧	iu
 䩒	iu
+唹	iu
+箊	iu
+虶	iu
+陓	iu
 衣	iu	0%
 鴛	iu
 鵷	iu
@@ -3411,19 +3813,32 @@ s	迡	gni
 㠾	iu
 淵	iu
 渕	iu
+姢	iu
+悁	iu
+剈	iu
+囦	iu
+蒬	iu
 益	iu	0%
 椅	iu
 𩌑	iu
 䩩	iu
 畹	iu
 苑	iu
+倇	iu
+夗	iu
+晼	iu
+箢	iu
 餵	iu
 喂	iu
 餧	iu
 瘀	iu
 飫	iu
 嫗	iu
+棜	iu
 怨	iu
+噮	iu
+肙	iu
+裫	iu
 八	pa	0%
 叭	pa
 巴	pa	5%
@@ -3674,6 +4089,10 @@ s	迡	gni
 麚	cia
 瘕	cia
 豭	cia
+犌	cia
+猳	cia
+貑	cia
+鴐	cia
 佳	cia
 姐	cia
 飷	cia
@@ -3683,6 +4102,9 @@ s	迡	gni
 檟	cia
 假	cia	6%
 叚	cia	6%
+婽	cia
+椵	cia
+榎	cia
 斝	cia
 藉	cia
 借	cia
@@ -3762,9 +4184,11 @@ s	迡	gni
 埜	ya
 壄	ya
 也	ya
+厊	ya
 懈	ya
 亱	ya
 暇	ya
+犽	ya
 夜	ya
 鵺	ya
 鴉	ia
@@ -4369,6 +4793,7 @@ s	迡	gni
 㿬	po
 羓	po
 粑	po
+岜	po
 把	po
 鈀	po
 膀	po	0%
@@ -4376,7 +4801,12 @@ s	迡	gni
 壩	po
 𩨜	po
 灞	po
+弝	po
+欛	po
+覇	po
 𩈆	pho
+妑	pho
+舥	pho
 怕	pho
 帊	pho
 葩	bo
@@ -4389,6 +4819,8 @@ s	迡	gni
 𥝧	bo
 罷	bo
 耙	bo
+掱	bo
+筢	bo
 稗	bo
 䶕	bo
 無	mo	0%
@@ -4404,6 +4836,7 @@ s	迡	gni
 蟇	mo
 媽	mo	0%
 嬤	mo
+犘	mo
 馬	mo
 碼	mo
 螞	mo
@@ -4411,10 +4844,13 @@ s	迡	gni
 嗎	mo
 鰢	mo
 獁	mo
+鷌	mo
 駡	mo
 罵	mo
 傌	mo
 禡	mo
+榪	mo
+鬕	mo
 嬤	mho
 朵	to
 朶	to
@@ -4442,6 +4878,8 @@ s	迡	gni
 大	do	0%
 唾	do	5%
 哪	no	5%
+摣	no
+詉	no
 囡	no	0%
 拿	no
 挐	no
@@ -4459,10 +4897,14 @@ s	迡	gni
 渣	tso
 揸	tso
 齇	tso
+齄	tso
 皻	tso
 樝	tso
+浾	tso
 遮	tso
 抓	tso
+檛	tso
+膼	tso
 蚱	tso
 𨰵	tso
 蔗	tso
@@ -4478,9 +4920,11 @@ s	迡	gni
 醡	tso
 樜	tso
 嗻	tso
+蟅	tso
 膪	tso
 柘	tso
 奼	tso
+灹	tso
 車	tsho
 叉	tsho
 杈	tsho
@@ -4489,8 +4933,11 @@ s	迡	gni
 紁	tsho
 釵	tsho
 䟕	tsho
+芆	tsho
 差	tsho
 搓	tsho	5%
+鎈	tsho
+餷	tsho
 鯧	tsho
 扯	tsho
 撦	tsho
@@ -4498,6 +4945,8 @@ s	迡	gni
 瘥	tsho
 詫	tsho
 咤	tsho
+厈	tsho
+訍	tsho
 查	dzo
 査	dzo
 碴	dzo
@@ -4533,6 +4982,7 @@ s	迡	gni
 裟	so
 𧋊	so
 硰	so
+桬	so
 賒	so
 賖	so
 稍	so	5%
@@ -4559,6 +5009,7 @@ s	迡	gni
 射	zo	5%
 麝	zo
 偌	zo
+渃	zo
 家	ko
 傢	ko
 𠺢	ko
@@ -4616,6 +5067,9 @@ s	迡	gni
 臕	piau
 脿	piau
 蔈	piau
+幖	piau
+熛	piau
+瘭	piau
 滮	piau	418
 淲	piau
 猋	piau
@@ -4624,17 +5078,20 @@ s	迡	gni
 飈	piau
 颮	piau
 驫	piau
+贆	piau
 鑣	piau
 鏢	piau
 瀌	piau
 髟	piau
 儦	piau
 杓	piau
+爂	piau
 表	piau
 錶	piau
 裱	piau
 婊	piau
 㟽	piau
+褾	piau
 俵	piau
 飄	phiau
 飃	phiau
@@ -4643,12 +5100,15 @@ s	迡	gni
 嘌	phiau
 慓	phiau
 螵	phiau
+旚	phiau
 縹	phiau
 瞟	phiau
 𧢄	phiau
 醥	phiau
+皫	phiau
 票	phiau
 驃	phiau
+勡	phiau
 瓢	biau
 剽	biau
 薸	biau
@@ -4670,6 +5130,7 @@ s	迡	gni
 藐	miau
 瞄	miau
 廟	miau
+庿	miau
 妙	miau
 玅	miau
 謬	miau
@@ -4678,22 +5139,28 @@ s	迡	gni
 刁	tiau
 叼	tiau
 貂	tiau
+蛁	tiau
 雕	tiau
 鵰	tiau
 彫	tiau
 琱	tiau
+瞗	tiau
 凋	tiau
 碉	tiau
 鯛	tiau
+奝	tiau
 釣	tiau
 髫	tiau
 䘟	tiau
 窵	tiau
 鳥	tiau
+隝	tiau
 屌	tiau
 吊	tiau
 弔	tiau
 盄	tiau
+銱	tiau
+瘹	tiau
 挑	thiau
 佻	thiau
 銚	thiau
@@ -4701,6 +5168,8 @@ s	迡	gni
 䄻	thiau
 恌	thiau
 祧	thiau
+庣	thiau
+聎	thiau
 糶	thiau
 𣂁	thiau
 朓	thiau
@@ -4709,21 +5178,29 @@ s	迡	gni
 䠷	thiau
 眺	thiau
 覜	thiau
+絩	thiau
+粜	thiau
 條	diau
 鰷	diau
 鞗	diau
 鎥	diau
+樤	diau
+鋚	diau
 迢	diau
 苕	diau
 笤	diau
 齠	diau
+岧	diau
+芀	diau
 調	diau
 蜩	diau
 嬥	diau
 窕	diau
+誂	diau
 掉	diau
 鋽	diau
 蓧	diau
+藋	diau
 莜	diau
 銚	diau
 療	liau
@@ -4744,22 +5221,34 @@ s	迡	gni
 獠	liau
 蟟	liau
 暸	liau
+嶚	liau
+飉	liau
+竂	liau
 寥	liau
 廖	liau
 蓼	liau
+漻	liau
+豂	liau
 聊	liau
 窷	liau
+敹	liau
+膋	liau
 䩍	liau
 了	liau
 釕	liau
 憭	liau
 𨣀	liau
+镽	liau
+鄝	liau
 料	liau
+炓	liau
 鐐	liau
 𣩢	liau
+尞	liau
 昭	ciau
 詔	ciau
 招	ciau
+鉊	ciau
 朝	ciau
 椒	ciau
 焦	ciau
@@ -4774,11 +5263,15 @@ s	迡	gni
 𦅃	ciau
 瞧	ciau
 蟭	ciau
+膲	ciau
 釗	ciau
+茮	ciau
 澆	ciau
 矯	ciau
 嬌	ciau
 驕	ciau
+穚	ciau
+簥	ciau
 交	ciau	6%
 郊	ciau
 蛟	ciau
@@ -4789,14 +5282,21 @@ s	迡	gni
 膠	ciau	6%
 較	ciau
 校	ciau	5%
+頝	ciau
 僥	ciau	40%
 覺	ciau	0%
 覚	ciau	6%
 嘐	ciau
+轇	ciau
 艽	ciau
 窖	ciau
+憿	ciau
+蟂	ciau
+芁	ciau
 沼	ciau
 𢄺	ciau
+劋	ciau
+漅	ciau
 餃	ciau
 狡	ciau
 鉸	ciau	5%
@@ -4804,26 +5304,36 @@ s	迡	gni
 姣	ciau
 䘨	ciau
 皎	ciau
+恔	ciau
+晈	ciau
 攪	ciau
 繳	ciau
 皦	ciau
 儌	ciau
+璬	ciau
 㽲	ciau
+鱎	ciau
 照	ciau
 曌	ciau
 炤	ciau
 醮	ciau
 潐	ciau
 𥵢	ciau
+釂	ciau
 叫	ciau
 呌	ciau
+嘂	ciau
+訆	ciau
 教	ciau
 敎	ciau
 酵	ciau	6%
 徼	ciau
 噭	ciau
+譥	ciau
+滘	ciau
 超	chiau
 怊	chiau
+欩	chiau
 悄	chiau
 繰	chiau
 𣖄	chiau
@@ -4836,6 +5346,14 @@ s	迡	gni
 磽	chiau
 趬	chiau
 憍	chiau
+鞽	chiau
+墽	chiau
+郻	chiau
+鄡	chiau
+釥	chiau
+麨	chiau
+眧	chiau
+巐	chiau
 巧	chiau
 俏	chiau
 峭	chiau
@@ -4847,12 +5365,14 @@ s	迡	gni
 𠿕	chiau
 竅	chiau
 䃝	chiau
+撽	chiau
 朝	jiau
 潮	jiau
 嘲	jiau
 鼂	jiau
 晁	jiau
 樵	jiau
+藮	jiau
 喬	jiau
 橋	jiau
 僑	jiau
@@ -4860,16 +5380,24 @@ s	迡	gni
 荍	jiau
 撟	jiau
 礄	jiau
+鐈	jiau
+嘺	jiau
 趙	jiau
 剿	jiau
 勦	jiau
+垗	jiau
+狣	jiau
+肁	jiau
 轎	jiau
+嶠	jiau
 撬	jiau
 翹	jiau	5%
 嘵	gniau
 饒	gniau
 蟯	gniau
 蕘	gniau
+嶢	gniau
+襓	gniau
 垚	gniau
 堯	gniau
 嬈	gniau
@@ -4885,12 +5413,14 @@ s	迡	gni
 嬲	gniau
 尿	gniau	6%
 脲	gniau
+獟	gniau
 簫	shiau
 蕭	shiau
 𢸳	shiau
 嘯	shiau
 瀟	shiau
 蠨	shiau
+彇	shiau
 燒	shiau
 焼	shiau
 肖	shiau
@@ -4909,30 +5439,50 @@ s	迡	gni
 翛	shiau
 鞘	shiau
 稍	shiau	5%
+踃	shiau
+焇	shiau
+痟	shiau
 繅	shiau
 枵	shiau
 鴞	shiau
+呺	shiau
 囂	shiau
 ⿰扌囂	shiau
+嚻	shiau
+虈	shiau
 梟	shiau
 驍	shiau
+憢	shiau
+穘	shiau
 酵	shiau	6%
 哮	shiau
 硣	shiau
+庨	shiau
+窙	shiau
 猇	shiau
 虓	shiau
+獢	shiau
+嚆	shiau
+髇	shiau
+灱	shiau
 小	shiau
 筱	shiau
 篠	shiau
 少	shiau
 曉	shiau
 暁	shiau
+皢	shiau
 笑	shiau
 咲	shiau
 哨	shiau
+韒	shiau
+歗	shiau
+熽	shiau
 孝	shiau
 邵	zhiau
 韶	zhiau
+柖	zhiau
+玿	zhiau
 譙	zhiau
 憔	zhiau
 顦	zhiau
@@ -4944,8 +5494,11 @@ s	迡	gni
 肈	zhiau
 召	zhiau
 旐	zhiau
+綤	zhiau
+袑	zhiau
 紹	zhiau
 劭	zhiau
+卲	zhiau
 誚	zhiau
 搖	yau
 謠	yau
@@ -4964,47 +5517,77 @@ s	迡	gni
 鎐	yau
 𧎼	yau
 繇	yau
+傜	yau
+嗂	yau
+愮	yau
+榣	yau
+瑶	yau
+謡	yau
+遥	yau
 爻	yau
 肴	yau
 餚	yau
 淆	yau
 殽	yau
 崤	yau
+笅	yau
 姚	yau
 珧	yau
+烑	yau
+餆	yau
 耀	yau
 洨	yau
 筊	yau
 杳	yau
+溔	yau
 曜	yau
 效	yau
 傚	yau
 効	yau
+俲	yau
 校	yau
 斆	yau
 斅	yau
 燿	yau
+矅	yau
+覞	yau
+讑	yau
 樂	yau	0%
+筄	yau
+艞	yau
 要	iau
 腰	iau
 闄	iau
 葽	iau
+喓	iau
 夭	iau
 殀	iau
 妖	iau
+宎	iau
+枖	iau
+訞	iau
 僥	iau
 徼	iau
 幺	iau
 吆	iau
 邀	iau
+偠	iau
+婹	iau
+騕	iau
+崾	iau
 舀	iau
 窅	iau
 窈	iau
 鷕	iau
+苭	iau
+仸	iau
+窔	iau
 瓜	kuo
 胍	kuo
 媧	kuo
+歄	kuo
 剮	kuo
+冎	kuo
 寡	kuo
 掛	kuo
 挂	kuo
@@ -5012,13 +5595,16 @@ s	迡	gni
 罣	kuo
 褂	kuo
 詿	kuo
+坬	kuo
 誇	khuo
 夸	khuo
 姱	khuo
+喎	khuo
 垮	khuo
 𩊓	khuo
 骻	khuo
 侉	khuo
+銙	khuo
 踝	khuo
 跨	khuo
 胯	khuo
@@ -5034,6 +5620,7 @@ s	迡	gni
 蝦	huo
 煆	huo
 化	huo
+杹	huo
 華	huo	5%
 華	wo
 鏵	wo
@@ -5042,16 +5629,22 @@ s	迡	gni
 䅿	wo
 活	wo	5%
 踝	wo
+觟	wo
 話	wo	228952
 諙	wo
 樺	wo
 畫	wo
+澅	wo
+摦	wo
+鳠	wo
 划	uo	5%
 蛙	uo
 鼃	uo
 蝸	uo
 窳	uo
+畖	uo
 搲	uo	5%
+攨	uo
 家	cio	0%
 傢	cio	0%
 稼	cio	0%
@@ -5067,11 +5660,18 @@ s	迡	gni
 麚	cio	0%
 瘕	cio	0%
 豭	cio	0%
+犌	cio	0%
+猳	cio	0%
+貑	cio	0%
+鴐	cio	0%
 假	cio	0%
 叚	cio	0%
 賈	cio	0%
 檟	cio	0%
 斝	cio	0%
+婽	cio	0%
+椵	cio	0%
+榎	cio	0%
 價	cio	0%
 嫁	cio	0%
 駕	cio	0%
@@ -5079,6 +5679,10 @@ s	迡	gni
 㗎	cio	0%
 佉	chio	0%
 呿	chio	0%
+岈	shio	0%
+疨	shio	0%
+谺	shio	0%
+閜	shio	0%
 襾	shio	0%
 罅	shio	0%
 𥕕	shio	0%
@@ -5091,7 +5695,9 @@ s	迡	gni
 鰕	yo	0%
 齖	yo	0%
 雅	yo	0%
+厊	yo	0%
 暇	yo	0%
+犽	yo	0%
 鴉	io	0%
 鵶	io	0%
 訝	io	0%
@@ -5379,12 +5985,19 @@ s	迡	gni
 堦	cie	5%
 偕	cie	0%
 喈	cie
+鶛	cie
+痎	cie
+蒈	cie
 誡	cie
+烗	cie
+丯	cie
 且	chie	5%
 趄	chie
 茄	jie
 諧	ye
 偕	ye
+瑎	ye
+龤	ye
 厓	ye
 啀	ye
 𩸾	ye
@@ -5395,6 +6008,7 @@ s	迡	gni
 也	ye	5%
 冶	ye	5%
 娾	ye
+駴	ye
 械	ye
 懈	ye	10%
 邂	ye
@@ -5402,6 +6016,8 @@ s	迡	gni
 廨	ye
 瀣	ye
 薤	ye
+韰	ye
+齘	ye
 䤳	ye
 睚	ye
 班	pae
@@ -5930,6 +6546,7 @@ s	迡	gni
 言	ghae	0%
 餡	ghae
 限	ghae
+硍	ghae
 陷	ghae
 揞	ghae	418
 黫	ae
@@ -5948,6 +6565,7 @@ s	迡	gni
 瘝	kuae
 乖	kuae	5%
 綸	kuae
+癏	kuae
 慣	kuae
 丱	kuae
 筷	khuae
@@ -5982,11 +6600,20 @@ s	迡	gni
 蘹	wae
 瀤	wae
 櫰	wae
+褢	wae
+褱	wae
 淮	wae
 外	wae	0%
 鯇	wae
 繯	wae
 擐	wae
+糫	wae
+闤	wae
+睅	wae
+睆	wae
+蘾	wae
+槵	wae
+薍	wae
 豢	wae
 彎	uae
 灣	uae
@@ -5998,6 +6625,7 @@ s	迡	gni
 帵	uae
 綰	uae
 捾	uae
+贃	uae
 頑	uae	0%
 丢	tieu
 丟	tieu
@@ -6009,6 +6637,8 @@ s	迡	gni
 琉	lieu
 瑠	lieu
 璢	lieu
+瑬	lieu
+裗	lieu
 留	lieu
 畱	lieu
 餾	lieu
@@ -6020,17 +6650,27 @@ s	迡	gni
 騮	lieu
 飀	lieu
 鶹	lieu
+嵧	lieu
+蒥	lieu
+駵	lieu
+鰡	lieu
 籀	lieu
 劉	lieu
 瀏	lieu
 懰	lieu
+疁	lieu
 綹	lieu
+珋	lieu
+罶	lieu
+鋶	lieu
 柳	lieu
 桺	lieu
 栁	lieu
 㧕	lieu
 霤	lieu
 溜	lieu
+塯	lieu
+廇	lieu
 溜	lhieu
 鑽	tsoe
 鑚	tsoe
@@ -6046,7 +6686,12 @@ s	迡	gni
 𩤚	tsoe
 朘	tsoe
 纂	tsoe
+嫥	tsoe
+瑼	tsoe
+蟤	tsoe
 篹	tsoe
+儧	tsoe
+纉	tsoe
 纘	tsoe
 籫	tsoe
 轉	tsoe
@@ -6083,6 +6728,9 @@ s	迡	gni
 醛	tshoe
 佺	tshoe
 輇	tshoe
+峑	tshoe
+硂	tshoe
+駩	tshoe
 悛	tshoe
 剶	tshoe
 鐫	tshoe
@@ -6093,9 +6741,11 @@ s	迡	gni
 揣	tshoe
 喘	tshoe
 舛	tshoe
+荈	tshoe
 躥	tshoe
 鑹	tshoe
 爨	tshoe
+殩	tshoe
 串	tshoe
 釧	tshoe
 全	dzoe
@@ -6107,6 +6757,11 @@ s	迡	gni
 諓	dzoe
 欑	dzoe
 椯	dzoe
+輲	dzoe
+巑	dzoe
+櫕	dzoe
+酇	dzoe
+葲	dzoe
 踹	dzoe
 𩔊	dzoe
 篆	DZOE
@@ -6114,6 +6769,8 @@ s	迡	gni
 撰	dzoe
 譔	dzoe
 𧂍	dzoe
+堟	dzoe
+腨	dzoe
 襈	dzoe
 譸	dzoe
 傳	dzoe
@@ -6131,10 +6788,12 @@ s	迡	gni
 選	soe
 𥶷	soe
 陝	soe
+匴	soe
 算	soe
 筭	soe
 祘	soe
 蒜	soe
+繏	soe
 渲	soe
 喧	soe
 諠	soe
@@ -6166,11 +6825,18 @@ s	迡	gni
 璿	zoe
 𢳄	zoe
 颴	zoe
+棎	zoe
+琁	zoe
+蜁	zoe
 善	zoe
 鱔	zoe
 鱓	zoe
 蟮	zoe
 墡	zoe
+磰	zoe
+蟺	zoe
+譱	zoe
+墠	zoe
 冉	zoe
 冄	zoe
 苒	zoe
@@ -6185,22 +6851,30 @@ s	迡	gni
 鄯	zoe
 嬗	zoe
 鏇	zoe
+縼	zoe
 舟	cieu
 侜	cieu
 烐	cieu
 𥑸	cieu
 輈	cieu
+矪	cieu
 周	cieu
 週	cieu
 賙	cieu
 啁	cieu
+輖	cieu
+郮	cieu
 州	cieu
 洲	cieu
 揪	cieu
 啾	cieu
+鬏	cieu
 盩	cieu
 肘	cieu
+揂	cieu
+逎	cieu
 鳩	cieu
+勼	cieu
 丩	cieu
 糾	cieu
 糺	cieu
@@ -6213,6 +6887,8 @@ s	迡	gni
 箒	cieu
 䖞	cieu
 酒	cieu
+晭	cieu
+鯞	cieu
 韭	cieu
 韮	cieu
 九	cieu
@@ -6222,6 +6898,7 @@ s	迡	gni
 咒	cieu
 晝	cieu
 椆	cieu
+媨	cieu
 疚	cieu
 救	cieu
 僦	cieu
@@ -6241,7 +6918,13 @@ s	迡	gni
 鶖	chieu
 蝵	chieu
 䐐	chieu
+萩	chieu
 瘳	chieu
+緧	chieu
+蟗	chieu
+鞧	chieu
+犨	chieu
+犫	chieu
 龜	chieu	0%
 丘	chieu
 坵	chieu
@@ -6249,33 +6932,46 @@ s	迡	gni
 邱	chieu
 蚯	chieu
 𥫷	chieu
+恘	chieu
+繑	chieu
 丑	chieu
 丒	chieu
 醜	chieu
+吜	chieu
 愀	chieu
 魗	chieu
+杽	chieu
 臭	chieu
 籌	jieu
 疇	jieu
 儔	jieu
 躊	jieu
+燽	jieu
+薵	jieu
 稠	jieu
 綢	jieu
 紬	jieu
+怞	jieu
+菗	jieu
 裯	jieu
 惆	jieu
 讎	jieu
 讐	jieu
+雔	jieu
 酬	jieu
 詶	jieu
 酧	jieu
 醻	jieu
 囚	jieu
 泅	jieu
+苬	jieu
+汓	jieu
 㨨	jieu
 酋	jieu
 遒	jieu
 蝤	jieu
+崷	jieu
+煪	jieu
 宙	jieu
 求	jieu
 球	jieu
@@ -6288,22 +6984,38 @@ s	迡	gni
 脙	jieu
 裘	jieu
 賕	jieu
+梂	jieu
+殏	jieu
+莍	jieu
+蛷	jieu
+銶	jieu
 虬	jieu
 虯	jieu
+觓	jieu
 仇	jieu
 犰	jieu
 艽	jieu
 厹	jieu
+叴	jieu
+扏	jieu
+肍	jieu
+訅	jieu
+釚	jieu
+巰	jieu
+葤	jieu
 咎	jieu
+麔	jieu
 臼	jieu
 桕	jieu
 舅	jieu
+齨	jieu
 岫	jieu
 胄	jieu
 冑	jieu
 伷	jieu
 䛆	jieu
 䩜	jieu
+駎	jieu
 紂	jieu
 𩋰	jieu
 䈙	jieu
@@ -6314,6 +7026,7 @@ s	迡	gni
 鷲	jieu
 酎	jieu
 舊	jieu
+匶	jieu
 柩	jieu
 牛	gnieu	1%
 揉	gnieu
@@ -6343,6 +7056,9 @@ s	迡	gni
 鵂	shieu
 庥	shieu
 髹	shieu
+髤	shieu
+烋	shieu
+飍	shieu
 手	shieu
 扌	shieu
 首	shieu
@@ -6367,15 +7083,23 @@ s	迡	gni
 𧽒	shieu
 齅	shieu
 溴	shieu
+嘼	shieu
+珛	shieu
 柔	zhieu
 蹂	zhieu
 鞣	zhieu
 𦎤	zhieu
 鍒	zhieu
+瑈	zhieu
+騥	zhieu
+鰇	zhieu
+鶔	zhieu
 受	zhieu
 禸	zhieu
 𥠊	zhieu
 糅	zhieu
+楺	zhieu
+韖	zhieu
 袖	zhieu
 壽	zhieu	3000
 授	zhieu
@@ -6387,6 +7111,7 @@ s	迡	gni
 鈾	yeu
 蚰	yeu
 郵	yeu
+秞	yeu
 酉	yeu
 猶	yeu
 猷	yeu
@@ -6394,6 +7119,9 @@ s	迡	gni
 尤	yeu
 疣	yeu
 魷	yeu
+沋	yeu
+肬	yeu
+訧	yeu
 斿	yeu
 游	yeu
 遊	yeu
@@ -6402,7 +7130,11 @@ s	迡	gni
 楢	yeu
 𠩚	yeu
 㾞	yeu
+偤	yeu
 鯈	yeu
+浟	yeu
+邎	yeu
+狖	yeu
 有	yeu
 銪	yeu
 誘	yeu
@@ -6414,19 +7146,30 @@ s	迡	gni
 卣	yeu
 牖	yeu
 槱	yeu
+梄	yeu
+丣	yeu
 祐	yeu
 佑	yeu
 又	yeu	6%
 囿	yeu
 宥	yeu
 侑	yeu
+姷	yeu
+酭	yeu
 鼬	yeu
 釉	yeu
 犹	yeu
+忧	yeu
 褎	yeu
+貁	yeu
 優	ieu
 憂	ieu
 耰	ieu
+嚘	ieu
+櫌	ieu
+瀀	ieu
+纋	ieu
+鄾	ieu
 攸	ieu
 悠	ieu
 滺	ieu
@@ -6445,26 +7188,36 @@ s	迡	gni
 鍛	toe
 煅	toe
 碫	toe
+瑖	toe
 斷	toe	5%
 籪	toe
 湍	thoe
 䳪	thoe
+煓	thoe
 彖	thoe
 段	thoe	0%
+疃	thoe
+湪	thoe
+褖	thoe
 團	doe
 団	doe
 糰	doe
 摶	doe
+慱	doe
+漙	doe
 斷	doe
 段	doe
 緞	doe
 𩤣	doe
 腶	doe
+椴	doe
+毈	doe
 囡	noe	3000
 暖	noe
 煖	noe
 煗	noe
 㬉	noe
+餪	noe
 偶	noe	0%
 囡	nhoe	1000
 鸞	loe
@@ -6474,6 +7227,10 @@ s	迡	gni
 欒	loe
 灤	loe
 孌	loe
+圝	loe
+圞	loe
+曫	loe
+羉	loe
 卵	loe
 𤓲	loe
 亂	loe
@@ -7019,9 +7776,14 @@ s	迡	gni
 葵	kuei	5%
 規	kuei
 槼	kuei
+摫	kuei
+槻	kuei
+鬹	kuei
 鮭	kuei
 硅	kuei
 邽	kuei
+珪	kuei
+袿	kuei
 龜	kuei
 亀	kuei
 歸	kuei
@@ -7046,6 +7808,14 @@ s	迡	gni
 跬	kuei
 簋	kuei
 頍	kuei
+庪	kuei
+恑	kuei
+祪	kuei
+蛫	kuei
+觤	kuei
+陒	kuei
+厬	kuei
+氿	kuei
 會	kuei	1%
 檜	kuei
 劊	kuei
@@ -7063,6 +7833,15 @@ s	迡	gni
 貴	kuei
 憒	kuei
 鱖	kuei
+巜	kuei
+廥	kuei
+旝	kuei
+襘	kuei
+簂	kuei
+蔮	kuei
+昋	kuei
+劌	kuei
+聭	kuei
 虧	khuei
 恢	khuei	5%
 盔	khuei
@@ -7079,11 +7858,16 @@ s	迡	gni
 魁	khuei
 暌	khuei
 𩏣	khuei
+楏	khuei
+聧	khuei
+藈	khuei
 奎	khuei
 塊	khuei
 磈	khuei
 ⿰米鬼	khuei
 喟	khuei
+尯	khuei
+腃	khuei
 逵	guei
 葵	guei
 睽	guei
@@ -7094,6 +7878,11 @@ s	迡	gni
 櫃	guei
 柜	guei
 馗	guei
+鄈	guei
+戣	guei
+犪	guei
+躨	guei
+鍨	guei
 跪	guei
 湀	guei
 䙆	guei
@@ -7109,6 +7898,8 @@ s	迡	gni
 餽	guei
 𦆠	guei
 靧	guei
+猤	guei
+痵	guei
 灰	huei
 恢	huei
 咴	huei
@@ -7128,6 +7919,12 @@ s	迡	gni
 隳	huei
 虺	huei
 豗	huei
+隓	huei
+睳	huei
+噅	huei
+瀈	huei
+褘	huei
+鰴	huei
 昏	huei	0%
 昬	huei	0%
 睢	huei
@@ -7139,6 +7936,8 @@ s	迡	gni
 譭	huei
 燬	huei
 虫	huei
+檓	huei
+毇	huei
 賄	huei
 嘒	huei
 晦	huei
@@ -7146,6 +7945,14 @@ s	迡	gni
 穢	huei
 翽	huei
 濊	huei
+鐬	huei
+頮	huei
+嚖	huei
+暳	huei
+顪	huei
+餯	huei
+泋	huei
+芔	huei
 回	wei
 囬	wei
 囘	wei
@@ -7186,6 +7993,13 @@ s	迡	gni
 磑	wei
 槐	wei
 喂	wei	0%
+佪	wei
+欈	wei
+鮠	wei
+㕒	wei
+峗	wei
+婔	wei
+潿	wei
 洧	wei
 鮪	wei
 韋	wei
@@ -7208,6 +8022,13 @@ s	迡	gni
 頠	wei
 硊	wei
 隗	wei
+廆	wei
+瘣	wei
+撱	wei
+儰	wei
+寪	wei
+愇	wei
+韡	wei
 彗	wei
 胃	wei
 猬	wei
@@ -7226,6 +8047,19 @@ s	迡	gni
 惠	wei
 恵	wei
 蟪	wei
+殨	wei
+繢	wei
+憓	wei
+橞	wei
+潓	wei
+譓	wei
+鏸	wei
+瓗	wei
+贀	wei
+媦	wei
+彚	wei
+煟	wei
+緭	wei
 威	uei
 葳	uei
 畏	uei
@@ -7239,9 +8073,20 @@ s	迡	gni
 逶	uei
 萎	uei
 痿	uei
+渨	uei
+葨	uei
+鰃	uei
+覣	uei
+楲	uei
+蝛	uei
+隇	uei
+鰄	uei
 委	uei
 猥	uei
 碨	uei
+腲	uei
+鍡	uei
+骫	uei
 諉	uei
 餵	uei	0%
 喂	uei	0%
@@ -7249,6 +8094,14 @@ s	迡	gni
 恚	uei
 螱	uei
 薈	uei
+瞺	uei
+獩	uei
+薉	uei
+饖	uei
+䲁	uei
+犚	uei
+罻	uei
+褽	uei
 波	pou
 菠	pou
 𨨏	pou
@@ -7295,28 +8148,42 @@ s	迡	gni
 磨	mou
 麿	mou
 蘑	mou
+劘	mou
 𥂓	mou
 摹	mou
 募	mou
 慕	mou
 暮	mou
+嫫	mou
+橅	mou
 某	mou
 厶	mou
 麼	mou
+麽	mou
+懡	mou
+峔	mou
+耱	mou
 墓	mou
 幕	mou
 幙	mou
 仫	mou
+慔	mou
 多	tou
 哆	tou
+茤	tou
+嚲	tou
+綞	tou
 拖	thou
 拕	thou
 唾	thou
 䴱	thou
 妥	thou
+鵎	thou
 橢	thou
 忒	thou	48020
+毤	thou
 墮	dou
+堶	dou
 馱	dou	39456
 駄	dou
 䭾	dou
@@ -7336,12 +8203,16 @@ s	迡	gni
 㾃	dou
 坨	dou
 鼉	dou
+紽	dou
+迱	dou
+碢	dou
 舵	dou
 灺	dou
 柁	dou
 惰	dou
 嶞	dou
 𦝦	dou
+憜	dou
 垛	dou
 肚	dou	0%
 大	dou
@@ -7351,11 +8222,13 @@ s	迡	gni
 挪	nou	6%
 㑚	nou
 娜	nou
+橠	nou
 儂	nou	775056
 糯	nou
 穤	nou
 稬	nou
 懦	nou
+郍	nou
 羅	lou
 儸	lou
 鑼	lou
@@ -7366,8 +8239,12 @@ s	迡	gni
 攞	lou
 囉	lou
 欏	lou
+饠	lou
+覼	lou
 螺	lou
+鏍	lou
 蠃	lou
+鸁	lou
 腡	lou
 蘿	lou
 爐	lou	5%
@@ -7375,13 +8252,16 @@ s	迡	gni
 裸	lou
 躶	lou
 臝	lou
-倮	lou
 瘰	lou
 虜	lou
+倮	lou
 擄	lou
 卵	lou	6%
 𤓲	lou	6%
 攎	lou
+曪	lou
+砢	lou
+蓏	lou
 邏	lou
 𨇽	lou
 摞	lou
@@ -7395,6 +8275,7 @@ s	迡	gni
 蹉	tshou
 溠	tshou
 嵯	tshou
+遳	tshou
 脞	tshou
 䂳	tshou
 瑳	tshou
@@ -7419,17 +8300,25 @@ s	迡	gni
 䓾	sou
 𩊮	sou
 䤬	sou
+莏	sou
 傞	sou
+趖	sou
 啥	sou	9247
 鎖	sou
 鎻	sou
 瑣	sou
 獕	sou
 嗩	sou
+溑	sou
+褨	sou
 惢	sou
 嗦	sou
 唆	sou
 痤	zou
+睉	zou
+嵳	zou
+虘	zou
+鹺	zou
 坐	zou
 唑	zou
 座	zou
@@ -7438,10 +8327,15 @@ s	迡	gni
 謌	kou
 𪃿	kou
 鎶	kou
+滒	kou
+牁	kou
+鴚	kou
 戈	kou
 鍋	kou
 堝	kou
 蝸	kou
+楇	kou
+瘑	kou
 柯	kou	1%
 過	kou
 果	kou
@@ -7451,6 +8345,8 @@ s	迡	gni
 裹	kou
 錁	kou
 餜	kou
+惈	kou
+猓	kou
 管	kou	0%
 個	kou	300000
 箇	kou	6%
@@ -7460,6 +8356,9 @@ s	迡	gni
 珂	khou
 柯	khou
 科	khou
+嵙	khou
+犐	khou
+萪	khou
 窠	khou
 棵	khou
 顆	khou
@@ -7490,13 +8389,18 @@ s	迡	gni
 莪	ngou
 皒	ngou
 𠩙	ngou
+涐	ngou
+睋	ngou
+誐	ngou
 訛	ngou
 譌	ngou
 吪	ngou
 鈋	ngou
 囮	ngou
+魤	ngou
 和	ngou	0%
 㛂	ngou
+騀	ngou
 臥	ngou
 餓	ngou
 荷	hou	0%
@@ -7507,6 +8411,7 @@ s	迡	gni
 鈥	hou
 伙	hou
 夥	hou
+邩	hou
 呵	hou
 訶	hou
 𧬱	hou
@@ -7517,6 +8422,7 @@ s	迡	gni
 嗬	ghou
 菏	ghou
 蚵	ghou
+魺	ghou
 禾	ghou
 和	ghou
 咊	ghou
@@ -7530,10 +8436,13 @@ s	迡	gni
 禍	ghou
 旤	ghou
 賀	ghou
+俰	ghou
+袔	ghou
 阿	ou	5%
 娿	ou
 婀	ou
 痾	ou
+鈳	ou
 倭	ou
 唩	ou
 窩	ou
@@ -7541,7 +8450,10 @@ s	迡	gni
 渦	ou
 捼	ou	1000
 𤉦	ou
+涹	ou
+踒	ou
 撾	ou
+濄	ou
 婐	ou
 咼	ou
 屙	ou
@@ -7679,10 +8591,13 @@ s	迡	gni
 竇	deu
 讀	deu	0%
 羺	neu
+啂	neu
 耨	neu
 鎒	neu
+槈	nou
 獳	neu
 檽	neu
+譳	nou
 㝅	neu
 樓	leu
 髏	leu
@@ -8045,26 +8960,38 @@ s	迡	gni
 涼	lian
 諒	lian
 椋	lian
+綡	lian
+輬	lian
 梁	lian
 樑	lian
 粱	lian
+墚	lian
 量	lian
 糧	lian
+粮	lian
 魎	lian
 兩	lian
 両	lian
 倆	lian
 裲	lian
 䠃	lian
+掚	lian
+脼	lian
+蜽	lian
 輛	lian
 亮	lian
 喨	lian
 晾	lian
 㾗	lian
+悢	lian
 張	cian
+粻	cian
+餦	cian
 將	cian
 漿	cian
 螿	cian
+摪	cian
+鱂	cian
 姜	cian
 畺	cian
 薑	cian
@@ -8073,6 +9000,10 @@ s	迡	gni
 疆	cian
 繮	cian
 韁	cian
+壃	cian
+橿	cian
+畕	cian
+礓	cian
 絳	cian
 糨	cian
 雀	cian	5%
@@ -8086,6 +9017,8 @@ s	迡	gni
 脚	cian	5%
 腳	cian	5%
 脹	cian
+繈	cian
+膙	cian
 帳	cian
 賬	cian
 痮	cian
@@ -8098,21 +9031,32 @@ s	迡	gni
 鎗	chian
 嗆	chian
 瑲	chian
+牄	chian
+篬	chian
+謒	chian
 倀	chian
+鼚	chian
 蹌	chian
 鏘	chian
+嶈	chian
+斨	chian
+錆	chian
 腔	chian
 羌	chian
 羗	chian
 蜣	chian
 𪁸	chian
+猐	chian
 敞	chian
 廠	chian
 氅	chian
 𪁺	chian
+僘	chian
 搶	chian
 𪰻	chian
+鋹	chian
 昶	chian
+摤	chian
 羥	chian
 强	chian	5%
 強	chian	5%
@@ -8121,11 +9065,15 @@ s	迡	gni
 繦	chian
 鏹	chian
 悵	chian
+韔	chian
 暢	chian
+畼	chian
 熗	chian
 ⿰鹵倉	chian
 愴	chian
 𪉨	chian
+唴	chian
+羻	chian
 腸	jian
 祥	jian
 詳	jian
@@ -8156,6 +9104,10 @@ s	迡	gni
 孃	gnian
 瓤	gnian
 穰	gnian
+儴	gnian
+勷	gnian
+獽	gnian
+蘘	gnian
 瀼	gnian
 央	gnian	0%
 梁	gnian	0%
@@ -8167,6 +9119,7 @@ s	迡	gni
 讓	gnian
 譲	gnian
 𥽬	gnian
+懹	gnian
 亮	gnian	0%
 樣	gnian	1%
 様	gnian	0%
@@ -8184,10 +9137,13 @@ s	迡	gni
 驤	shian
 欀	shian
 蠰	shian
+忀	shian
+纕	shian
 香	shian
 鄉	shian
 郷	shian
 薌	shian
+膷	shian
 想	shian
 鯗	shian
 鮝	shian
@@ -8202,17 +9158,23 @@ s	迡	gni
 向	shian
 曏	shian
 嚮	shian
+萫	shian
 牆	zhian
 墻	zhian
 嬙	zhian
 檣	zhian
 艢	zhian
+廧	zhian
+蘠	zhian
 禳	zhian
 攘	zhian
 象	zhian
 橡	zhian
 像	zhian
 蟓	zhian
+嶑	zhian
+襐	zhian
+鱌	zhian
 𥗝	zhian
 匠	zhian
 羊	yan
@@ -8224,6 +9186,7 @@ s	迡	gni
 徉	yan
 𦭵	yan
 蛘	yan
+鴹	yan
 瘍	yan
 昜	yan
 陽	yan
@@ -8234,6 +9197,9 @@ s	迡	gni
 暘	yan
 𩋬	yan
 鰑	yan
+輰	yan
+鍚	yan
+鸉	yan
 癢	yan
 養	yan	0%
 䑆	yan
@@ -8244,6 +9210,7 @@ s	迡	gni
 樣	yan
 様	yan
 漾	yan
+羕	yan
 恙	yan
 煬	yan
 央	ian
@@ -8257,6 +9224,10 @@ s	迡	gni
 陽	ian	0%
 芽	ian	0%
 養	ian
+岟	ian
+柍	ian
+炴	ian
+紻	ian
 怏	ian
 詇	ian
 挭	kuan
@@ -8627,6 +9598,7 @@ s	迡	gni
 鱨	dzaon
 償	dzaon
 徜	dzaon
+噇	dzaon
 幢	dzaon
 狀	dzaon
 臟	dzaon
@@ -8793,12 +9765,17 @@ s	迡	gni
 輄	kuaon
 咣	kuaon
 桄	kuaon
+垙	kuaon
+灮	kuaon
+珖	kuaon
+茪	kuaon
 僙	kuaon
 廣	kuaon
 広	kuaon
 獷	kuaon
 杠	kuaon	5%
 誑	kuaon
+臦	kuaon
 匡	khuaon
 筐	khuaon
 框	khuaon
@@ -8807,14 +9784,19 @@ s	迡	gni
 恇	khuaon
 洭	khuaon
 哐	khuaon
+邼	khuaon
 夼	khuaon
 曠	khuaon
 礦	khuaon
 鑛	khuaon
 壙	khuaon
+矌	khuaon
+纊	khuaon
 狂	guaon
 鵟	guaon
+軖	guaon
 逛	guaon
+俇	guaon
 滉	guaon
 誆	guaon
 荒	huaon
@@ -8822,7 +9804,11 @@ s	迡	gni
 㡆	huaon
 𦃑	huaon
 㬻	huaon
+巟	huaon
+衁	huaon
 肓	huaon
+嚝	huaon
+諻	huaon
 况	huaon
 況	huaon
 恍	huaon
@@ -8833,6 +9819,8 @@ s	迡	gni
 謊	huaon
 貺	huaon
 王	waon
+彺	waon
+蚟	waon
 黃	waon
 黄	waon
 簧	waon
@@ -8859,6 +9847,19 @@ s	迡	gni
 鰉	waon
 艎	waon
 偟	waon
+瑝	waon
+鍠	waon
+堭	waon
+崲	waon
+癀	waon
+葟	waon
+餭	waon
+騜	waon
+鱑	waon
+卝	waon
+澋	waon
+榥	waon
+櫎	waon
 旺	waon
 滉	waon
 䌙	waon
@@ -8869,17 +9870,23 @@ s	迡	gni
 尢	uaon
 尪	uaon
 尩	uaon
+尣	uaon
 往	uaon
 徃	uaon
 黃	uaon	5%
 黄	uaon	5%
+奣	uaon
+浻	uaon
+瀇	uaon
 曂	uaon
 枉	uaon
 降	ciaon
 搬	pun
 䉽	pun
+粄	pun
 半	pun
 𩢔	pun
+靽	pun
 潘	phun
 番	phun	1%
 盤	phun	5%
@@ -8891,6 +9898,10 @@ s	迡	gni
 牉	phun
 𠯘	phun
 詊	phun
+冸	phun
+沜	phun
+眫	phun
+頖	phun
 判	bun	5%
 盤	bun
 蟠	bun
@@ -8901,6 +9912,9 @@ s	迡	gni
 蹣	bun
 𥑍	bun
 柈	bun
+磻	bun
+縏	bun
+鎜	bun
 耙	bun	5%
 鉡	bun
 伴	bun
@@ -8919,10 +9933,14 @@ s	迡	gni
 𧜞	mun
 鞔	mun
 顢	mun
+悗	mun
+慲	mun
+槾	mun
 滿	mun
 満	mun
 漫	mun	5%
 蟎	mun
+鏋	mun
 㒼	mun
 墁	mun
 鏝	mun
@@ -8958,18 +9976,31 @@ s	迡	gni
 鑵	kun
 毌	kun
 貫	kun
+巏	kun
+悺	kun
+樌	kun
+瓘	kun
+祼	kun
+遦	kun
+鏆	kun
+鱹	kun
 寬	khun
 寛	khun
 髖	khun
 款	khun
 欵	khun
 窾	khun
+歀	khun
 歡	hun
 懽	hun
 驩	hun
 讙	hun
 𪈩	hun
 獾	hun
+犿	hun
+貛	hun
+酄	hun
+鴅	hun
 花	hun	0%
 昏	hun	0%
 昬	hun	0%
@@ -8992,14 +10023,27 @@ s	迡	gni
 𥹳	wun
 桓	wun
 萑	wun
+寏	wun
+狟	wun
+瓛	wun
+芄	wun
+荁	wun
+萈	wun
+豲	wun
+园	wun
 晥	wun
 鋎	wun
 𧚁	wun
 緩	wun
+嵈	wun
+鰀	wun
 援	wun	5%
 換	wun
 逭	wun
 漶	wun
+肒	wun
+妧	wun
+貦	wun
 腕	un
 剜	un
 豌	un
@@ -9016,6 +10060,7 @@ s	迡	gni
 莞	un
 烏	un	1%
 惋	un
+捥	un
 畚	pen
 賁	pen
 錛	pen
@@ -9484,14 +10529,26 @@ s	迡	gni
 嬪	pin
 璸	pin
 𩼧	pin
+濵	pin
+矉	pin
+賔	pin
+顮	pin
 彬	pin
 斌	pin
+霦	pin
 豳	pin
 掤	pin
 玢	pin
 邠	pin
+攽	pin
+㻞	pin
+栟	pin
 丙	pin
 炳	pin
+昞	pin
+窉	pin
+苪	pin
+蛃	pin
 餅	pin
 秉	pin
 禀	pin
@@ -9502,6 +10559,9 @@ s	迡	gni
 鞞	pin
 并	pin
 併	pin
+幷	pin
+倂	pin
+寎	pin
 迸	pin
 摒	pin
 鬢	pin
@@ -9509,14 +10569,18 @@ s	迡	gni
 擯	pin
 柄	pin
 鈵	pin
+棅	pin
 乒	phin
 姘	phin
 拼	phin
+艵	phin
 甹	phin
 俜	phin
 砯	phin
 砰	phin
+覮	phin
 品	phin
+榀	phin
 聘	phin
 併	phin	1%
 娉	phin
@@ -9540,14 +10604,26 @@ s	迡	gni
 泙	bin
 䈂	bin
 頻	bin
+嚬	bin
+顰	bin
+獱	bin
+薲	bin
 瓶	bin
 缾	bin
-顰	bin
+洴	bin
+荓	bin
+蓱	bin
+蛢	bin
+郱	bin
+淜	bin
 髕	bin
 並	bin
 竝	bin
 牝	bin
 病	bin
+靐	bin
+偋	bin
+庰	bin
 閩	min
 明	min
 朙	min
@@ -9559,18 +10635,30 @@ s	迡	gni
 珉	min
 𨳶	min
 䡑	min
+瑉	min
+罠	min
+苠	min
+鈱	min
+鍲	min
+碈	min
 鳴	min
 名	min
 銘	min
 茗	min
+洺	min
 旻	min
 忞	min
+旼	min
+盿	min
 冥	min
 瞑	min
 溟	min
 螟	min
 暝	min
 蓂	min
+榠	min
+猽	min
+鄍	min
 𧌙	min
 憫	min
 皿	min
@@ -9579,13 +10667,22 @@ s	迡	gni
 鰵	min
 抿	min
 愍	min
+慜	min
 刡	min
 緡	min
+敃	min
+暋	min
+湣	min
 閔	min
+簢	min
 酩	min
+姳	min
+慏	min
+僶	min
 命	min
 泯	min
 冺	min
+詺	min
 黽	min
 丁	tin
 釘	tin
@@ -9600,13 +10697,17 @@ s	迡	gni
 玎	tin
 䟓	tin
 頂	tin	60000
+奵	tin
 鼎	tin
+薡	tin
 濎	tin
 澄	tin	1%
 訂	tin
+飣	tin
 碇	tin
 矴	tin
 椗	tin
+顁	tin
 汀	thin
 町	thin
 𨊡	thin
@@ -9619,34 +10720,51 @@ s	迡	gni
 廰	thin
 庁	thin
 桯	thin
+鞓	thin
 烴	thin
 挺	thin
 艇	thin
+脡	thin
+頲	thin
 廷	din
 庭	din
 蜓	din
 霆	din
 筳	din
 莛	din
+鼮	din
 亭	din
 停	din
 婷	din
 𦝞	din
+楟	din
+渟	din
+聤	din
 凌	din	0%
 梃	din
 鋌	din
 珽	din
+誔	din
 定	din
 腚	din
 錠	din
 啶	din
 萣	din
+掟	din
 靈	lin
 霊	lin
+灵	lin
 櫺	lin
 欞	lin
 醽	lin
 酃	lin
+孁	lin
+爧	lin
+蘦	lin
+霛	lin
+霝	lin
+麢	lin
+龗	lin
 菱	lin
 蓤	lin
 陵	lin
@@ -9655,6 +10773,10 @@ s	迡	gni
 綾	lin
 崚	lin
 鯪	lin
+㥄	lin
+夌	lin
+掕	lin
+蔆	lin
 粦	lin
 磷	lin
 燐	lin
@@ -9671,6 +10793,9 @@ s	迡	gni
 遴	lin
 轔	lin
 驎	lin
+璘	lin
+繗	lin
+翷	lin
 〇	lin
 零	lin
 澪	lin
@@ -9689,9 +10814,25 @@ s	迡	gni
 齡	lin
 軨	lin
 泠	lin
+刢	lin
+姈	lin
+岭	lin
+彾	lin
+昤	lin
+狑	lin
+砱	lin
+秢	lin
+竛	lin
+紷	lin
+舲	lin
+蕶	lin
+閝	lin
+駖	lin
+鹷	lin
 檁	lin
 檩	lin
 臨	lin
+瀶	lin
 吝	lin
 恡	lin
 林	lin
@@ -9701,25 +10842,38 @@ s	迡	gni
 㨆	lin
 霖	lin
 啉	lin
+箖	lin
 輪	lin	5%
 棱	lin	5%
 稜	lin	5%
+壣	lin
 嶺	lin
 領	lin
+袊	lin
 凜	lin
 凛	lin
 懍	lin
 懔	lin
 廩	lin
+澟	lin
 膦	lin
+僯	lin
+菻	lin
 令	lin
 另	lin
 藺	lin
 躪	lin
+躙	lin
+轥	lin
+閵	lin
+甐	lin
+悋	lin
 拎	lhin
 針	cin
 鍼	cin
 箴	cin
+葴	cin
+鱵	cin
 抌	cin
 貞	cin
 幀	cin
@@ -9730,6 +10884,8 @@ s	迡	gni
 湞	cin
 蒸	cin
 烝	cin
+篜	cin
+脀	cin
 斟	cin
 正	cin
 怔	cin
@@ -9746,6 +10902,7 @@ s	迡	gni
 鼱	cin
 菁	cin
 箐	cin
+聙	cin
 㲀	cin
 津	cin
 晶	cin
@@ -9757,13 +10914,21 @@ s	迡	gni
 真	cin
 眞	cin
 禛	cin
+蒖	cin
+旍	cin
+兓	cin
+瑧	cin
+帪	cin
 金	cin
 釒	cin
 今	cin
 經	cin
 莖	cin
 荊	cin
+荆	cin
 京	cin
+鶁	cin
+麖	cin
 驚	cin
 筋	cin
 巾	cin
@@ -9775,7 +10940,11 @@ s	迡	gni
 觔	cin
 衿	cin
 矜	cin
+黅	cin
 涇	cin
+巠	cin
+鵛	cin
+麠	cin
 鯽	cin	0%
 縝	cin
 稹	cin
@@ -9787,6 +10956,7 @@ s	迡	gni
 𤸲	cin
 𤇏	cin
 巹	cin
+氶	cin
 姫	cin
 寖	cin
 井	cin
@@ -9801,7 +10971,10 @@ s	迡	gni
 袗	cin
 紾	cin
 抮	cin
+眕	cin
 儆	cin
+撜	cin
+裖	cin
 警	cin
 緊	cin
 景	cin
@@ -9809,6 +10982,9 @@ s	迡	gni
 璟	cin
 錦	cin
 頸	cin
+璥	cin
+漌	cin
+菦	cin
 政	cin
 症	cin
 癥	cin
@@ -9817,13 +10993,18 @@ s	迡	gni
 徴	cin
 証	cin
 證	cin
+揕	cin
 震	cin	5%
 進	cin
 璡	cin
 浸	cin
+濅	cin
 晋	cin
 晉	cin
 縉	cin
+瑨	cin
+枃	cin
+挋	cin
 敬	cin
 徑	cin
 逕	cin
@@ -9838,12 +11019,14 @@ s	迡	gni
 境	cin
 獍	cin
 靳	cin
+桱	cin
 蟶	chin
 檉	chin
 赬	chin
 稱	chin
 偁	chin
 郴	chin
+綝	chin
 親	chin
 青	chin
 靑	chin
@@ -9854,6 +11037,10 @@ s	迡	gni
 鯖	chin
 鶄	chin
 圊	chin
+謓	chin
+爯	chin
+賝	chin
+睖	chin
 駸	chin
 頳	chin
 䞓	chin
@@ -9865,12 +11052,18 @@ s	迡	gni
 菳	chin
 騁	chin
 逞	chin
+悜	chin
+睈	chin
 請	chin
-乘	chin	0%
+寑	chin
+笉	chin
+踸	chin
+鍖	chin
 頃	chin
 㷫	chin
 謦	chin
 檾	chin
+赾	chin
 凊	chin
 趁	chin
 趂	chin
@@ -9878,8 +11071,13 @@ s	迡	gni
 寢	chin
 秤	chin
 㵾	chin
+靗	chin
+掅	chin
 沁	chin
 唚	chin
+吣	chin
+吢	chin
+覴	chin
 慶	chin
 磬	chin
 罄	chin
@@ -9893,6 +11091,7 @@ s	迡	gni
 沉	jin
 霃	jin
 𩂸	jin
+莐	jin
 澄	jin
 澂	jin
 陳	jin
@@ -9902,6 +11101,11 @@ s	迡	gni
 埕	jin
 酲	jin
 裎	jin
+珵	jin
+愖	jin
+煁	jin
+瘎	jin
+茞	jin
 成	jin
 城	jin
 誠	jin
@@ -9909,12 +11113,19 @@ s	迡	gni
 窚	jin
 珹	jin
 鋮	jin
+宬	jin
+筬	jin
 橙	jin
 丞	jin
 承	jin
 乘	jin
 乗	jin
 椉	jin
+塖	jin
+溗	jin
+騬	jin
+憴	jin
+譝	jin
 餳	jin
 臣	jin
 塵	jin
@@ -9928,12 +11139,16 @@ s	迡	gni
 秦	jin
 螓	jin
 嗪	jin
+嶜	jin
 辰	jin	0%
 凌	jin	0%
 琴	jin
 琹	jin
 芩	jin
 㮗	jin
+庈	jin
+耹	jin
+靲	jin
 禽	jin
 擒	jin
 檎	jin
@@ -9942,15 +11157,22 @@ s	迡	gni
 檠	jin
 鯨	jin
 黥	jin
+剠	jin
+勍	jin
 謹	jin
 僅	jin
 槿	jin
 勤	jin
 懃	jin
 厪	jin
+懄	jin
 芹	jin
 䋮	jin
+鵭	jin
+捦	jin
 兢	jin
+樈	jin
+澿	jin
 循	jin	5%
 盡	jin
 儘	jin
@@ -9959,7 +11181,10 @@ s	迡	gni
 蕈	jin
 阱	jin
 穽	jin
+汫	jin
 徎	jin
+栚	jin
+眹	jin
 近	jin
 凚	jin
 噤	jin
@@ -9975,19 +11200,31 @@ s	迡	gni
 嵊	jin
 贐	jin
 燼	jin
+藎	jin
+賮	jin
 靚	jin
 競	jin
 瑾	jin
 覲	jin
 饉	jin
 廑	jin
+墭	jin
+侺	jin
 鈐	jin
 妗	jin
+紟	jin
 勁	jin
 痙	jin
+倞	jin
+曔	jin
+鈙	jin
+齽	jin
+歏	jin
+殣	jin
 您	gnin
 任	gnin
 銀	gnin
+檭	gnin
 凝	gnin
 迎	gnin
 寧	gnin
@@ -9999,6 +11236,8 @@ s	迡	gni
 薴	gnin
 吟	gnin
 唫	gnin
+荶	gnin
+訡	gnin
 崟	gnin
 人	gnin
 亻	gnin
@@ -10010,18 +11249,29 @@ s	迡	gni
 聹	gnin
 嬣	gnin
 鑏	gnin
+儜	gnin
+鬡	gnin
 圻	gnin
+斦	gnin
 垠	gnin
 齦	gnin
 嚚	gnin
 誾	gnin
+圁	gnin
+訔	gnin
 妊	gnin
 姙	gnin
 賃	gnin
 佞	gnin
 仍	gnin
+礽	gnin
+辸	gnin
+乑	gnin
 擰	gnin
 齗	gnin
+矨	gnin
+趛	gnin
+拰	gnin
 認	gnin
 壬	gnin
 垽	gnin
@@ -10031,6 +11281,9 @@ s	迡	gni
 肕	gnin
 濘	gnin
 憗	gnin
+憖	gnin
+猌	gnin
+芿	gnin
 深	shin
 聲	shin
 娠	shin
@@ -10044,6 +11297,8 @@ s	迡	gni
 呻	shin
 紳	shin
 砷	shin
+柛	shin
+訷	shin
 詵	shin
 駪	shin
 眚	shin
@@ -10054,16 +11309,22 @@ s	迡	gni
 鯹	shin
 䗌	shin
 鍟	shin
+曐	shin
+煋	shin
+篂	shin
 鮏	shin
 心	shin
 忄	shin
 芯	shin
+杺	shin
 辛	shin
 莘	shin	10%
 鋅	shin
 騂	shin
 新	shin
 薪	shin
+垶	shin
+觪	shin
 馨	shin
 鑫	shin
 釁	shin
@@ -10076,6 +11337,7 @@ s	迡	gni
 忻	shin
 歆	shin
 興	shin
+蛵	shin
 審	shin
 嬸	shin
 瀋	shin
@@ -10087,21 +11349,34 @@ s	迡	gni
 𦳗	shin
 伈	shin
 諗	shin
+宷	shin
+邥	shin
+魫	shin
+矤	shin
+訠	shin
+頣	shin
 醒	shin
 䳙	shin
 擤	shin
 聖	shin
 勝	shin
 賸	shin
+榺	shin
+蕂	shin
 抻	shin
 胂	shin
 訊	shin
 汛	shin
 迅	shin
+訙	shin
+顖	shin
 性	shin
 姓	shin
 信	shin
 囟	shin
+嬹	shin
+舋	shin
+焮	shin
 盛	zhin
 繩	zhin
 澠	zhin
@@ -10117,13 +11392,17 @@ s	迡	gni
 蕁	zhin
 鱘	zhin
 蟳	zhin
+鄩	zhin
 堘	zhin
 塍	zhin
 葚	zhin
+夝	zhin
+枔	zhin
 甚	zhin
 凈	zhin
 淨	zhin
 靜	zhin
+竫	zhin
 靖	zhin
 循	zhin	5%
 稔	zhin
@@ -10131,12 +11410,15 @@ s	迡	gni
 飪	zhin
 餁	zhin
 恁	zhin
+妌	zhin
 衽	zhin
 袵	zhin
 贏	yin
 嬴	yin
 瀛	yin
 籯	yin
+攍	yin
+籝	yin
 行	yin
 烆	yin
 形	yin
@@ -10144,6 +11426,8 @@ s	迡	gni
 型	yin
 鉶	yin
 硎	yin
+侀	yin
+鈃	yin
 淫	yin
 滛	yin
 婬	yin
@@ -10175,6 +11459,9 @@ s	迡	gni
 幸	yin
 倖	yin
 悻	yin
+婞	yin
+涬	yin
+緈	yin
 引	yin
 蚓	yin
 紖	yin
@@ -10182,18 +11469,25 @@ s	迡	gni
 尹	yin
 荇	yin
 廴	yin
+梬	yin
+浧	yin
 寅	yin
 胤	yin
 媵	yin
 䏖	yin
+洕	yin
+酳	yin
 鷹	in
 陰	in
 隂	in
 蔭	in
 廕	in
+霠	in
 音	in
 喑	in
 瘖	in
+愔	in
+韾	in
 膺	in
 應	in
 応	in
@@ -10211,13 +11505,22 @@ s	迡	gni
 甖	in
 鶯	in
 鷪	in
+譻	in
+鸎	in
 嫈	in
 縈	in
+罃	in
 英	in
 瑛	in
 霙	in
+媖	in
+楧	in
+渶	in
+韺	in
+鶧	in
 殷	in
 慇	in
+溵	in
 因	in
 囙	in
 姻	in
@@ -10227,6 +11530,8 @@ s	迡	gni
 茵	in
 裀	in
 銦	in
+絪	in
+鞇	in
 蠅	in
 湮	in	1%
 垔	in
@@ -10234,6 +11539,9 @@ s	迡	gni
 陻	in
 𧛑	in
 闉	in
+歅	in
+禋	in
+諲	in
 形	in	0%
 飲	in
 飮	in
@@ -10244,23 +11552,39 @@ s	迡	gni
 癮	in	6%
 櫽	in
 檃	in
+嶾	in
 癭	in
+巊	in
+廮	in
+摬	in
+璄	in
+乚	in
+磤	in
 𢷍	in
+懚	in
+檼	in
+噟	in
+譍	in
 印	in
 茚	in
+鮣	in
 熨	in
 映	in
 暎	in
 瀴	in
 窨	in
+癊	in
 衮	kuen
 袞	kuen
 滾	kuen
 滚	kuen
 磙	kuen
+蓘	kuen
 鯀	kuen
 丨	kuen
 棍	kuen
+璭	kuen
+謴	kuen
 昆	khuen
 崑	khuen
 崐	khuen
@@ -10269,6 +11593,12 @@ s	迡	gni
 琨	khuen
 錕	khuen
 鵾	khuen
+猑	khuen
+菎	khuen
+蜫	khuen
+騉	khuen
+晜	khuen
+瑻	khuen
 坤	khuen
 堃	khuen
 困	khuen
@@ -10276,15 +11606,20 @@ s	迡	gni
 髡	khuen
 鶤	khuen
 褌	khuen
+巛	khuen
+臗	khuen
 捆	khuen
 綑	khuen
 閫	khuen
 裍	khuen
 梱	khuen
 悃	khuen
+稇	khuen
+稛	khuen
 緄	khuen
 輥	khuen
 睏	khuen	20000
+涃	khuen
 𦄐	khuen
 壼	khuen
 潰	guen	1%
@@ -10295,14 +11630,23 @@ s	迡	gni
 婚	huen
 閽	huen
 惛	huen
+棔	huen
+殙	huen
 葷	huen
 魂	wen
 餛	wen
 琿	wen
 渾	wen
+堚	wen
+鼲	wen
+瘒	wen
 㨡	wen
 㮯	wen
 混	wen
+倱	wen
+掍	wen
+焜	wen
+鯶	wen
 圂	wen
 溷	wen
 慁	wen
@@ -10316,6 +11660,7 @@ s	迡	gni
 轀	uen
 輼	uen
 豱	uen
+昷	uen
 穩	uen
 穏	uen
 渾	uen	0%
@@ -10328,13 +11673,22 @@ s	迡	gni
 鈞	ciun
 皸	ciun
 麇	ciun
+袀	ciun
+麏	ciun
+桾	ciun
+鮶	ciun
 桊	ciun
 棬	ciun
+呁	ciun
+捃	ciun
+攈	ciun
 囷	chiun
 㻒	chiun
 麕	chiun
 輑	chiun
 𠲰	chiun
+峮	chiun
+箟	chiun
 菌	chiun
 攟	chiun
 𧱝	chiun
@@ -10343,6 +11697,10 @@ s	迡	gni
 群	jiun
 窘	jiun
 郡	jiun
+帬	jiun
+裠	jiun
+僒	jiun
+珺	jiun
 熏	shiun
 薰	shiun
 燻	shiun
@@ -10351,7 +11709,11 @@ s	迡	gni
 勳	shiun
 勲	shiun
 醺	shiun
+曛	shiun
+獯	shiun
+纁	shiun
 訓	shiun
+爋	shiun
 勻	yun
 匀	yun
 筠	yun
@@ -10369,11 +11731,20 @@ s	迡	gni
 隕	yun
 殞	yun
 篔	yun
+囩	yun
+縜	yun
+妘	yun
+橒	yun
+澐	yun
+耺	yun
 狁	yun
 玧	yun
 馻	yun
 𧉃	yun
 荺	yun
+磒	yun
+霣	yun
+抎	yun
 耘	yun
 閏	yun
 閠	yun
@@ -10394,8 +11765,12 @@ s	迡	gni
 蝹	iun
 馧	iun
 贇	iun
+奫	iun
+蒀	iun
 惲	iun
 韞	iun
+褞	iun
+賱	iun
 醞	iun
 醖	iun
 慍	iun
@@ -10434,17 +11809,27 @@ s	迡	gni
 震	tsyun
 圳	tsyun
 甽	tsyun
+稕	tsyun
+寯	tsyun
 春	tshyun
 旾	tshyun
 椿	tshyun
 瑃	tshyun
 蝽	tshyun
 皴	tshyun
+竴	tshyun
+踆	tshyun
+杶	tshyun
+櫄	tshyun
+輴	tshyun
+鶞	tshyun
 蠢	tshyun
 惷	tshyun
 䮞	tshyun
 㿤	tshyun
 疢	tshyun
+僢	tshyun
+踳	tshyun
 荀	syun
 洵	syun
 郇	syun
@@ -10454,6 +11839,7 @@ s	迡	gni
 𪀠	syun
 䖲	syun
 峋	syun
+槆	syun
 馴	syun
 申	syun
 伸	syun	5%
@@ -10463,7 +11849,9 @@ s	迡	gni
 栒	syun
 筍	syun
 笋	syun
+箰	syun
 簨	syun
+賰	syun
 瞬	syun
 舜	syun
 殉	syun
@@ -10472,10 +11860,17 @@ s	迡	gni
 濬	syun
 鵔	syun
 徇	syun
+瞚	syun
+蕣	syun
+鬊	syun
+埈	syun
+陖	syun
+鵕	syun
 仁	zyun
 人	zyun
 儿	zyun
 亻	zyun
+朲	zyun
 吮	zyun
 淳	zyun
 湻	zyun
@@ -10499,6 +11894,12 @@ s	迡	gni
 娠	zyun
 巡	zyun
 廵	zyun
+犉	zyun
+鷐	zyun
+麎	zyun
+焞	zyun
+陙	zyun
+滣	zyun
 忍	zyun
 蕈	zyun
 任	zyun
@@ -10514,6 +11915,13 @@ s	迡	gni
 肕	zyun	5%
 認	zyun	6%
 潤	zyun
+栠	zyun
+棯	zyun
+腍	zyun
+荵	zyun
+祳	zyun
+脤	zyun
+鋠	zyun
 慎	zyun
 愼	zyun
 昚	zyun
@@ -10521,6 +11929,10 @@ s	迡	gni
 牣	zyun
 㞞	zyun
 蜃	zyun
+絍	zyun
+杒	zyun
+訒	zyun
+侚	zyun
 崩	pon
 嘣	pon
 蹦	pon
@@ -10537,9 +11949,11 @@ s	迡	gni
 髼	bon
 塳	bon
 埄	bon
+韸	bon
 芃	bon
 鬅	bon
 㷯	bon
+埲	bon
 蒙	mon
 懞	mon
 矇	mon
@@ -10549,11 +11963,17 @@ s	迡	gni
 蠓	mon
 檬	mon
 幪	mon
-曚	mon
+冡	mon
+礞	mon
+霥	mon
+靀	mon
+饛	mon
 獴	mon
 瞢	mon
 懵	mon
+曚	mon
 夢	mon
+鄸	mon
 風	fon
 楓	fon
 瘋	fon
@@ -10562,6 +11982,7 @@ s	迡	gni
 豐	fon
 酆	fon
 灃	fon
+寷	fon
 封	fon
 湗	fon
 峯	fon
@@ -10570,19 +11991,32 @@ s	迡	gni
 蜂	fon
 鋒	fon
 莑	fon
+仹	fon
+妦	fon
+桻	fon
 葑	fon
 犎	fon
+崶	fon
+篈	fon
 紛	fon	0%
 諷	fon
 蠭	fon
 畚	fon	0%
+偑	fon
+檒	fon
+猦	fon
+飌	fon
 唪	fon
+覂	fon
 俸	fon	5%
 賵	fon
 馮	von
 逢	von
 縫	von
 䩼	von
+漨	von
+堸	von
+渢	von
 奉	von
 鳳	von
 鳯	von
@@ -10591,6 +12025,8 @@ s	迡	gni
 鼕	ton
 咚	ton
 氡	ton
+笗	ton
+苳	ton
 東	ton
 倲	ton
 蝀	ton
@@ -10599,9 +12035,13 @@ s	迡	gni
 𩣳	ton
 鶇	ton
 涷	ton
+埬	ton
+崠	ton
+鯟	ton
 端	ton	0%
 懂	ton
 董	ton
+箽	ton
 㖦	ton
 䂢	ton
 凍	ton
@@ -10614,6 +12054,7 @@ s	迡	gni
 痌	thon
 捅	thon
 統	thon
+垌	thon
 痛	thon
 𥦁	thon
 同	don
@@ -10640,15 +12081,27 @@ s	迡	gni
 佟	don
 咚	don	0%
 彤	don
+哃	don
+犝	don
+砼	don
+浵	don
+痋	don
+赨	don
+鉖	don
+鉵	don
 動	don
 桶	don
 筒	don
 筩	don
 䞒	don
+姛	don
 慟	don
 𢳾	don
 洞	don
 胴	don
+戙	don
+迵	don
+駧	don
 農	non
 辳	non
 膿	non
@@ -10679,16 +12132,22 @@ s	迡	gni
 𪚘	lon
 櫳	lon
 矓	lon
+蠪	lon
+豅	lon
+屸	lon
 攏	lon
 隴	lon
 壟	lon
 壠	lon
+竉	lon
 儱	lon
 躘	lon
+贚	lon
 弄	lon	40736
 挵	lon
 𢙱	lon
 哢	lon
+梇	lon
 弄	lhon	5%
 挵	lhon	5%
 宗	tson
@@ -10701,22 +12160,38 @@ s	迡	gni
 踪	tson
 蹤	tson
 豵	tson
+熧	tson
+磫	tson
 腙	tson
+倧	tson
 葼	tson
 椶	tson
 緵	tson
 𥓻	tson
 鍐	tson
 㨑	tson
+嵕	tson
+稯	tson
+蝬	tson
 螽	tson
 中	tson
 忠	tson
 盅	tson
+舯	tson
 衷	tson
 鐘	tson
 鍾	tson
 籦	tson
 終	tson
+柊	tson
+泈	tson
+蔠	tson
+鴤	tson
+鼨	tson
+伀	tson
+彸	tson
+炂	tson
+衳	tson
 供	tson	5%
 總	tson
 総	tson
@@ -10724,20 +12199,27 @@ s	迡	gni
 傯	tson
 惣	tson
 蓯	tson
+摠	tson
+緫	tson
 腫	tson
 種	tson
 踵	tson
 瘇	tson
+歱	tson
 塚	tson
 冢	tson
 縱	tson
 糉	tson
 粽	tson
 琮	tson
+錝	tson
 衆	tson
 眾	tson
 湩	tson
 堹	tson
+偅	tson
+諥	tson
+瘲	tson
 匆	tshon
 怱	tshon
 悤	tshon
@@ -10758,6 +12240,16 @@ s	迡	gni
 从	tshon	5%
 鏦	tshon
 樅	tshon
+忩	tshon
+樬	tshon
+璁	tshon
+繱	tshon
+聦	tshon
+蟌	tshon
+鍯	tshon
+鏓	tshon
+騘	tshon
+驄	tshon
 充	tshon
 𥅻	tshon
 珫	tshon
@@ -10768,14 +12260,22 @@ s	迡	gni
 冲	tshon
 翀	tshon
 忡	tshon
+浺	tshon
 憧	tshon
 罿	tshon
+暰	tshon
+瑽	tshon
 舂	tshon
+蹖	tshon
 寵	tshon
+埫	tshon
 種	tshon	0%
 銃	tshon
 蹱	tshon
 踵	tshon	0%
+愡	tshon
+憁	tshon
+謥	tshon
 㧤	tshon
 𥬱	tshon
 𨖼	tshon
@@ -10783,7 +12283,16 @@ s	迡	gni
 従	dzon
 从	dzon
 叢	dzon
+藂	dzon
 崇	dzon
+淙	dzon
+琮	dzon
+孮	dzon
+悰	dzon
+誴	dzon
+种	dzon
+賨	dzon
+崈	dzon
 戎	dzon	10%
 𥬪	dzon
 茙	dzon
@@ -10791,15 +12300,14 @@ s	迡	gni
 茸	dzon
 䇯	dzon
 榵	dzon
-蟲	dzon
-重	dzon
-淙	dzon
-琮	dzon
-种	dzon
-賨	dzon
 冗	dzon
 宂	dzon
+蟲	dzon
+重	dzon
+蝩	dzon
 氄	dzon
+軵	dzon
+尰	dzon
 誦	dzon
 頌	dzon
 訟	dzon
@@ -10812,14 +12320,20 @@ s	迡	gni
 忪	son
 蜙	son
 崧	son
+硹	son
+倯	son
 𪁿	son
 嵩	son
+娀	son
+憽	son
 叔	son	5%
 𢱤	son
 悚	son
 竦	son
 駷	son
 聳	son
+傱	son
+愯	son
 慫	son
 宋	son
 送	son
@@ -10840,17 +12354,26 @@ s	迡	gni
 肛	kon	5%
 弓	kon
 貢	kon
+愩	kon
+碽	kon
+篢	kon
 珙	kon
+卄	kon
+髸	kon
 觥	kon
+觵	kon
 拱	kon
 栱	kon
 鞏	kon
+巩	kon
 廾	kon
 攻	kon
 宮	kon
+宫	kon
 龔	kon
 供	kon
 𠞖	kon
+羾	kon
 空	khon
 箜	khon
 倥	khon
@@ -10858,6 +12381,9 @@ s	迡	gni
 崆	khon
 涳	khon
 悾	khon
+埪	khon
+硿	khon
+鵼	khon
 恐	khon
 孔	khon
 鞚	khon
@@ -10869,8 +12395,10 @@ s	迡	gni
 揈	hon
 輷	hon
 渹	hon
+鍧	hon
 紅	hon	0%
 舡	hon
+焢	hon
 蕻	hon
 吽	hon
 哄	hon
@@ -10896,6 +12424,21 @@ s	迡	gni
 黌	ghon
 訌	ghon
 叿	ghon
+嵤	ghon
+浤	ghon
+竑	ghon
+紭	ghon
+翃	ghon
+耾	ghon
+鈜	ghon
+仜	ghon
+垬	ghon
+渱	ghon
+葒	ghon
+葓	ghon
+谼	ghon
+鉷	ghon
+鞃	ghon
 鑊	ghon	5%
 哄	ghon
 鬨	ghon
@@ -10908,11 +12451,15 @@ s	迡	gni
 螉	on
 𤌏	on
 䩺	on
+鶲	on
 齆	on	1%
 紅	on	0%
 屋	on	0%
 蓊	on
 瞈	on
+勜	on
+塕	on
+暡	on
 瓮	on
 罋	on
 甕	on
@@ -10923,6 +12470,7 @@ s	迡	gni
 坰	cion
 駉	cion
 扃	cion
+駫	cion
 炅	cion
 囧	cion
 冏	cion
@@ -10930,16 +12478,30 @@ s	迡	gni
 逈	cion
 炯	cion
 烱	cion
+泂	cion
 褧	cion
+煛	cion
+熲	cion
+暻	cion
+煚	cion
 窮	jion
+藭	jion
 穹	jion
 芎	jion
 瓊	jion
 邛	jion
 筇	jion
+桏	jion
 蛩	jion
 煢	jion
 睘	jion
+惸	jion
+憌	jion
+焭	jion
+璚	jion
+藑	jion
+赹	jion
+舼	jion
 戎	gnion
 絨	gnion
 羢	gnion
@@ -10951,7 +12513,11 @@ s	迡	gni
 𧲤	gnion
 顒	gnion
 𡢿	gnion
+檂	gnion
 搑	gnion
+喗	gnion
+夽	gnion
+齳	gnion
 肉	knion	0%
 兄	shion
 兇	shion
@@ -10962,12 +12528,17 @@ s	迡	gni
 胸	shion
 胷	shion
 酗	shion	5%
+恟	shion
+訩	shion
+詾	shion
 嗅	shion	3000
+敻	shion
 榮	yon
 嶸	yon
 蠑	yon
 融	yon
 螎	yon
+瀜	yon
 容	yon
 蓉	yon
 溶	yon
@@ -10978,6 +12549,8 @@ s	迡	gni
 𪃾	yon
 瑢	yon
 傛	yon
+嵱	yon
+褣	yon
 雄	yon
 熊	yon
 庸	yon
@@ -10985,6 +12558,11 @@ s	迡	gni
 墉	yon
 慵	yon
 鱅	yon
+槦	yon
+滽	yon
+鏞	yon
+肜	yon
+揘	yon
 螢	yon	5%
 佣	yon
 傭	yon
@@ -10998,6 +12576,10 @@ s	迡	gni
 郺	ion
 䗸	ion
 𩌋	ion
+嗈	ion
+噰	ion
+廱	ion
+澭	ion
 永	ion
 泳	ion
 詠	ion
@@ -11015,6 +12597,7 @@ s	迡	gni
 慂	ion
 𧗴	ion
 埇	ion
+悀	ion
 塎	ion
 𦨤	ion
 雍	ion
@@ -11833,6 +13416,10 @@ s	迡	gni
 渫	diaq
 㻡	diaq
 蹀	diaq
+牃	diaq
+艓	diaq
+褋	diaq
+褺	diaq
 叠	diaq
 曡	diaq
 疊	diaq
@@ -11845,11 +13432,18 @@ s	迡	gni
 鬣	liaq
 鱲	liaq
 躐	liaq
+儠	liaq
+巤	liaq
+犣	liaq
+鬛	liaq
 劣	liaq
 雀	ciaq	5%
 爵	ciaq
 爝	ciaq
 婥	ciaq
+焯	ciaq
+禚	ciaq
+謶	ciaq
 妁	ciaq
 趵	ciaq
 酌	ciaq
@@ -11857,6 +13451,9 @@ s	迡	gni
 彴	ciaq
 著	ciaq	0%
 着	ciaq	1%
+擆	ciaq
+櫡	ciaq
+鐯	ciaq
 辵	ciaq
 辶	ciaq
 碏	ciaq
@@ -11878,15 +13475,22 @@ s	迡	gni
 郟	ciaq
 蛺	ciaq
 餄	ciaq
+鵊	ciaq
 雀	chiaq
 鵲	chiaq
 綽	chiaq	1%
+繛	chiaq
 卻	chiaq
 却	chiaq
 洽	chiaq
 恰	chiaq
 愜	chiaq
 篋	chiaq
+匧	chiaq
+悏	chiaq
+帢	chiaq
+硈	chiaq
+葜	chiaq
 著	jiaq	0%
 着	jiaq	5%
 𢜭	jiaq
@@ -11898,8 +13502,11 @@ s	迡	gni
 瘧	gniaq
 疟	gniaq
 涅	gniaq
+圼	gniaq
+篞	gniaq
 箬	gniaq
 鰙	gniaq
+逽	gniaq
 篛	gniaq
 蒻	gniaq
 搦	gniaq
@@ -11907,19 +13514,25 @@ s	迡	gni
 敜	gniaq
 惗	gniaq
 踗	gniaq
+錜	gniaq
 鑷	gniaq
 削	shiaq
+獡	shiaq
 謔	shiaq
 嚼	zhiaq
 若	zhiaq
 楉	zhiaq
+鄀	zhiaq
 弱	zhiaq
 蒻	zhiaq
 叒	zhiaq
 芍	zhiaq
+仢	zhiaq
 葯	yaq
 藥	yaq
 薬	yaq
+礿	yaq
+纅	yaq
 龠	yaq
 瀹	yaq
 籥	yaq
@@ -11928,6 +13541,7 @@ s	迡	gni
 爚	yaq
 𧕋	yaq
 蘥	yaq
+鸙	yaq
 協	yaq
 勰	yaq
 叶	yaq
@@ -11953,6 +13567,10 @@ s	迡	gni
 搰	kuaq	5%
 鶻	kuaq
 汩	kuaq
+漍	kuaq
+聝	kuaq
+愲	kuaq
+蓇	kuaq
 括	kuaq
 聒	kuaq
 刮	kuaq
@@ -11963,6 +13581,11 @@ s	迡	gni
 适	kuaq
 𣸅	kuaq
 頢	kuaq
+䒷	kuaq
+懖	kuaq
+萿	kuaq
+葀	kuaq
+髺	kuaq
 摑	kuaq
 𦑜	kuaq
 馘	kuaq
@@ -11974,6 +13597,7 @@ s	迡	gni
 堀	khuaq
 䯇	khuaq
 矻	khuaq
+圣	khuaq
 環	guaq	0%
 搰	guaq
 刮	guaq	0%
@@ -11985,10 +13609,21 @@ s	迡	gni
 姡	huaq
 寣	huaq
 䦝	huaq
+匫	huaq
+曶	huaq
+鍃	huaq
 奯	huaq
 豁	huaq
 甩	huaq
 濊	huaq
+諕	huaq
+謋	huaq
+剨	huaq
+捇	huaq
+掝	huaq
+焃	huaq
+傄	huaq
+眓	huaq
 劃	waq
 畫	waq	0%
 划	waq
@@ -12001,7 +13636,13 @@ s	迡	gni
 猾	waq
 𣝗	waq
 核	waq	0%
+敌	waq
+咟	waq
+磆	waq
+螖	waq
+秳	waq
 活	waq
+抇	waq
 囫	waq
 砉	waq
 兀	waq
@@ -12011,14 +13652,20 @@ s	迡	gni
 阢	waq
 屹	waq
 紇	waq
+矹	waq
 還	waq	0%
 穵	uaq
 挖	uaq
 䩊	uaq
+焥	uaq
 斡	uaq
 殟	uaq
 膃	uaq
+嗗	uaq
 𩑦	uaq
+榅	uaq
+淴	uaq
+腽	uaq
 屋	uaq	0%
 北	poq
 鉳	poq
@@ -12029,6 +13676,9 @@ s	迡	gni
 剥	poq
 駁	poq
 駮	poq
+獛	poq
+纀	poq
+鳪	poq
 博	poq
 愽	poq
 搏	poq
@@ -12037,6 +13687,11 @@ s	迡	gni
 䃗	poq
 髆	poq
 襮	poq
+嚗	poq
+髉	poq
+猼	poq
+簙	poq
+餺	poq
 撥	poq	5%
 撲	phoq
 扑	phoq
@@ -12058,12 +13713,18 @@ s	迡	gni
 魄	phoq
 粕	phoq
 攴	phoq
+攵	phoq
 濼	phoq
 蝮	phoq	0%
+奤	phoq
+胉	phoq
+蒪	phoq
+圤	phoq
 薄	boq
 礴	boq
 𩏵	boq
 鑮	boq
+礡	boq
 膊	boq	0%
 雹	boq
 匐	boq
@@ -12078,6 +13739,8 @@ s	迡	gni
 僕	boq
 鏷	boq
 𩍩	boq
+穙	boq
+瞨	boq
 亳	boq
 僰	boq
 伏	boq	10%
@@ -12088,9 +13751,14 @@ s	迡	gni
 舶	boq
 𦤣	boq
 踣	boq
+踄	boq
+懪	boq
+瓝	boq
+窇	boq
 木	moq
 沐	moq
 霂	moq
+蚞	moq
 莫	moq
 摸	moq
 寞	moq
@@ -12099,9 +13767,13 @@ s	迡	gni
 鏌	moq
 瘼	moq
 膜	moq	5%
+塻	moq
+瞙	moq
+鄚	moq
 目	moq
 苜	moq
 鉬	moq
+瞐	moq
 牧	moq
 坶	moq
 墨	moq
@@ -12131,6 +13803,8 @@ s	迡	gni
 𥷱	foq
 服	voq
 菔	voq
+箙	voq
+鵩	voq
 伏	voq
 茯	voq
 袱	voq	0%
@@ -12139,12 +13813,18 @@ s	迡	gni
 絥	voq
 垘	voq
 復	voq	5%
+复	voq
+澓	voq
 鰒	voq
+虙	voq
+幞	voq
 篤	toq
 𤒘	toq	418
 督	toq
 𧝴	toq
+錖	toq
 𧰵	toq
+剢	toq
 厾	toq
 𡰪	toq
 㞘	toq
@@ -12161,11 +13841,14 @@ s	迡	gni
 汑	thoq
 𤣯	thoq
 魠	thoq
+侂	thoq
+飥	thoq
 蘀	thoq
 籜	thoq
 柝	thoq
 橐	thoq
 拓	thoq
+袥	thoq
 度	doq	5%
 𧩧	doq
 𦂀	doq
@@ -12180,6 +13863,13 @@ s	迡	gni
 瀆	doq
 殰	doq
 凟	doq
+匵	doq
+嬻	doq
+瓄	doq
+皾	doq
+豄	doq
+贕	doq
+韇	doq
 獨	doq
 䮷	doq
 髑	doq
@@ -12187,18 +13877,24 @@ s	迡	gni
 凙	doq
 毒	doq
 碡	doq
+蝳	doq
 讟	doq
 踱	doq
+剫	doq
+仛	doq
 大	doq	0%
 諾	noq
 鍩	noq
 𢜪	noq
+傉	noq
 錄	loq
 録	loq
 綠	loq
+緑	loq
 菉	loq
 碌	loq
 磟	loq
+穋	loq
 睩	loq	0%
 氯	loq
 祿	loq
@@ -12210,8 +13906,18 @@ s	迡	gni
 𬆚	loq
 彔	loq
 淥	loq
+琭	loq
+禄	loq
+箓	loq
+簶	loq
 六	loq
 陸	loq
+坴	loq
+淕	loq
+稑	loq
+踛	loq
+鯥	loq
+鵱	loq
 甪	loq
 鹿	loq
 漉	loq
@@ -12221,9 +13927,15 @@ s	迡	gni
 簏	loq
 螰	loq
 鄜	loq
+䍡	loq
+廘	loq
+蔍	loq
+鏕	loq
+騼	loq
 蓼	loq
 僇	loq
 犖	loq
+硦	loq
 樂	loq
 楽	loq
 濼	loq
@@ -12240,6 +13952,8 @@ s	迡	gni
 咯	loq	5%
 餎	loq
 落	loq
+笿	loq
+鮥	loq
 盝	loq
 戮	loq
 勠	loq
@@ -12249,9 +13963,14 @@ s	迡	gni
 足	tsoq
 捉	tsoq
 𧋥	tsoq
+哫	tsoq
+穛	tsoq
+穱	tsoq
 作	tsoq
 筰	tsoq
 撮	tsoq	0%
+糳	tsoq
+傶	tsoq
 喌	tsoq
 粥	tsoq
 祝	tsoq
@@ -12260,21 +13979,27 @@ s	迡	gni
 竹	tsoq
 筑	tsoq
 築	tsoq
+茿	tsoq
 燭	tsoq
 屬	tsoq	5%
 囑	tsoq
 矚	tsoq
 劚	tsoq
+斸	tsoq
+钃	tsoq
+斀	tsoq
 啄	tsoq
 琢	tsoq
 瘃	tsoq
 涿	tsoq
 諑	tsoq
+椓	tsoq
 卓	tsoq
 倬	tsoq
 踔	tsoq
 桌	tsoq
 槕	tsoq
+啅	tsoq
 竺	tsoq
 浞	tsoq
 斫	tsoq
@@ -12289,6 +14014,7 @@ s	迡	gni
 遭	tsoq	0%
 促	tshoq
 趗	tshoq
+莡	tshoq
 甴	tshoq
 戳	tshoq
 蹙	tshoq
@@ -12301,9 +14027,13 @@ s	迡	gni
 蔟	tshoq
 䃚	tshoq
 嗾	tshoq
+瘯	tshoq
 閦	tshoq
 撮	tshoq	10%
 矠	tshoq
+剒	tshoq
+逪	tshoq
+鼀	tshoq
 臅	tshoq
 𠭴	tshoq
 齪	tshoq
@@ -12314,8 +14044,13 @@ s	迡	gni
 篧	tshoq
 畜	tshoq
 搐	tshoq
+傗	tshoq
+滀	tshoq
+敊	tshoq
+豖	tshoq
 亍	tshoq
 矗	tshoq
+娕	tshoq
 綽	tshoq
 曲	tshoq	0%
 蛐	tshoq	0%
@@ -12330,11 +14065,17 @@ s	迡	gni
 柞	dzoq	5%
 酢	dzoq
 砟	dzoq
-著	dzoq	0%
-着	dzoq
+莋	dzoq
+鈼	dzoq
+鋜	dzoq
+丵	dzoq
+灂	dzoq
+鷟	dzoq
+齺	dzoq
 逐	dzoq
 蓫	dzoq
 篴	dzoq
+鱁	dzoq
 蜀	dzoq
 濁	dzoq
 躅	dzoq
@@ -12345,8 +14086,13 @@ s	迡	gni
 擢	dzoq
 𥷘	dzoq
 㪬	dzoq
+蠗	dzoq
+鸐	dzoq
+著	dzoq	0%
+着	dzoq
 屬	dzoq
 贖	dzoq
+襩	dzoq
 塾	dzoq
 速	soq
 涑	soq
@@ -12357,6 +14103,10 @@ s	迡	gni
 簌	soq
 蔌	soq
 樕	soq
+殐	soq
+藗	soq
+遬	soq
+餗	soq
 朔	soq
 塑	soq
 槊	soq
@@ -12366,21 +14116,29 @@ s	迡	gni
 宿	soq
 蓿	soq
 𧐴	soq
+摍	soq
+樎	soq
+莤	soq
 謖	soq
 粟	soq
 僳	soq
+憟	soq
 肅	soq
 㬘	soq
+璛	soq
+驌	soq
+鱐	soq
+鷫	soq
 夙	soq
+洬	soq
 索	soq
+矟	soq
 𢱢	soq	55
 𧎳	soq
 𦵫	soq
 𥰼	soq
 𤸴	soq
 𧛻	soq
-倏	soq
-儵	soq
 式	soq	0%
 什	soq	0%
 啥	soq	263257
@@ -12392,12 +14150,22 @@ s	迡	gni
 諔	soq
 俶	soq
 埱	soq
+尗	soq
+掓	soq
+鮛	soq
+倏	soq
+儵	soq
+倐	soq
+虪	soq
+跾	soq
 束	soq
 𠲿	soq
 縮	soq
 蹜	soq
 數	soq	0%
 昨	zoq
+泎	zoq
+齚	zoq
 齰	zoq
 辱	zoq
 蓐	zoq
@@ -12405,17 +14173,22 @@ s	迡	gni
 褥	zoq
 縟	zoq
 嗕	zoq
+媷	zoq
+鄏	zoq
 鑿	zoq
 𧮙	zoq	10000
 熟	zoq
 孰	zoq
 塾	zoq	5%
 淑	zoq
+婌	zoq
 碩	zoq
 若	zoq
+鄀	zoq
 勺	zoq
 杓	zoq
 芍	zoq
+仢	zoq
 國	koq
 国	koq
 囯	koq
@@ -12433,18 +14206,27 @@ s	迡	gni
 郭	koq
 椁	koq
 槨	koq
+崞	koq
 谷	koq
 穀	koq
+唂	koq
 轂	koq
 榖	koq
 䐨	koq
 瀫	koq
+濲	koq
+瀔	koq
+糓	koq
 角	koq
 埆	koq
 虢	koq
+㶁	koq
 覺	koq
 覚	koq
 梏	koq
+傕	koq
+斠	koq
+玨	koq
 鵠	koq	5%
 咯	koq	5%
 各	koq
@@ -12454,10 +14236,12 @@ s	迡	gni
 廓	khoq
 鞟	khoq
 霩	khoq
+鞹	khoq
 擴	khoq
 確	khoq
 确	khoq
 𤿩	khoq
+焅	khoq
 窟	khoq	10%
 窖	khoq
 嚳	khoq
@@ -12465,11 +14249,14 @@ s	迡	gni
 牿	khoq
 殼	khoq
 殻	khoq
+愙	khoq
+籗	khoq
 個	goq	3215286
 箇	goq
 擱	goq	5%
 埆	goq	5%
 岳	ngoq
+捳	ngoq
 嶽	ngoq
 鸑	ngoq
 咢	ngoq
@@ -12488,6 +14275,9 @@ s	迡	gni
 崿	ngoq
 鰐	ngoq
 鱷	ngoq
+堮	ngoq
+湂	ngoq
+瓁	ngoq
 噩	ngoq
 蘁	ngoq
 鑩	ngoq
@@ -12505,11 +14295,14 @@ s	迡	gni
 攉	hoq
 癨	hoq
 矆	hoq
+劐	hoq
+瀖	hoq
 豁	hoq
 壑	hoq
 嗀	hoq
 謞	hoq
 涸	hoq
+鍙	hoq
 蠚	hoq
 鵠	ghoq
 獲	ghoq
@@ -12524,6 +14317,7 @@ s	迡	gni
 學	ghoq
 斛	ghoq
 槲	ghoq
+蔛	ghoq
 觳	ghoq
 𩵬	ghoq
 𣫅	ghoq
@@ -12537,6 +14331,14 @@ s	迡	gni
 㬦	ghoq
 彠	ghoq
 矱	ghoq
+焀	ghoq
+縠	ghoq
+螜	ghoq
+隺	ghoq
+佫	ghoq
+狢	ghoq
+頶	ghoq
+貈	ghoq
 個	ghoq	1607642
 箇	ghoq
 屋	oq
@@ -12545,6 +14347,11 @@ s	迡	gni
 幄	oq
 渥	oq
 齷	oq
+偓	oq
+媉	oq
+楃	oq
+腛	oq
+剭	oq
 堊	oq
 沃	oq
 鋈	oq
@@ -12555,17 +14362,21 @@ s	迡	gni
 𣽏	oq
 䜑	oq
 𪅴	oq
+蝁	oq
 阿	oq	0%
 喫	chioq
 玉	gnioq
 鈺	gnioq
 𧉣	gnioq
+砡	gnioq
 肉	gnioq
 𢫭	gnioq
 掿	gnioq
 浴	gnioq	5%
 箬	gnioq	0%
 鰙	gnioq
+鳿	gnioq
+焫	gnioq
 育	gnioq	0%
 筆	piq
 潷	piq
@@ -12606,6 +14417,19 @@ s	迡	gni
 癟	piq
 㿜	piq
 觱	piq
+鼊	piq
+莂	piq
+湢	piq
+皕	piq
+躄	piq
+虌	piq
+滭	piq
+珌	piq
+縪	piq
+罼	piq
+鏎	piq
+韠	piq
+饆	piq
 百	piq	0%
 撥	piq	5%
 疋	phiq
@@ -12630,6 +14454,15 @@ s	迡	gni
 噼	phiq
 𨵩	phiq
 鵯	phiq
+憵	phiq
+嫳	phiq
+撆	phiq
+暼	phiq
+鐅	phiq
+堛	phiq
+揊	phiq
+疈	phiq
+稫	phiq
 別	biq
 别	biq
 弼	biq
@@ -12650,6 +14483,14 @@ s	迡	gni
 𧼱	biq
 𤐧	biq
 煏	biq	5%
+鷿	biq
+鸊	biq
+襒	biq
+腷	biq
+胇	biq
+躃	biq
+妼	biq
+怭	biq
 滅	miq
 搣	miq
 密	miq
@@ -12674,6 +14515,22 @@ s	迡	gni
 幭	miq
 幂	miq
 冪	miq
+冖	miq
+塓	miq
+幎	miq
+幦	miq
+漞	miq
+濗	miq
+羃	miq
+鼏	miq
+懱	miq
+鱴	miq
+鴓	miq
+樒	miq
+滵	miq
+蔤	miq
+榓	miq
+淧	miq
 末	miq	0%
 的	tiq
 旳	tiq
@@ -12693,6 +14550,10 @@ s	迡	gni
 𨮹	tiq
 擿	tiq
 跌	tiq
+啇	tiq
+甋	tiq
+笘	tiq
+聑	tiq
 搭	tiq	5%
 倜	thiq
 逖	thiq
@@ -12705,6 +14566,12 @@ s	迡	gni
 鐵	thiq
 鉄	thiq
 僣	thiq
+悐	thiq
+蓨	thiq
+趯	thiq
+逷	thiq
+蛈	thiq
+飻	thiq
 天	thiq	0%
 聽	thiq	0%
 笛	diq
@@ -12726,6 +14593,18 @@ s	迡	gni
 垤	diq
 耋	diq
 踏	diq	0%
+梑	diq
+籴	diq
+蔋	diq
+嵽	diq
+恎	diq
+戜	diq
+昳	diq
+胅	diq
+苵	diq
+詄	diq
+趃	diq
+镻	diq
 力	liq
 鳨	liq
 朸	liq
@@ -12776,6 +14655,33 @@ s	迡	gni
 瓅	liq
 䉭	liq	55
 蒚	liq
+嚦	liq
+攊	liq
+皪	liq
+磿	liq
+秝	liq
+藶	liq
+蝷	liq
+盭	liq
+姴	liq
+挒	liq
+蛚	liq
+颲	liq
+鴷	liq
+屴	liq
+岦	liq
+鴗	liq
+塛	liq
+搮	liq
+瑮	liq
+鷅	liq
+麜	liq
+哷	liq
+浖	liq
+鋝	liq
+寽	liq
+繂	liq
+膟	liq
 裏	liq	0%
 裡	liq	0%
 接	ciq
@@ -12850,6 +14756,32 @@ s	迡	gni
 摭	ciq
 灼	ciq
 𢆚	ciq
+樍	ciq
+卩	ciq
+幯	ciq
+楶	ciq
+洓	ciq
+襀	ciq
+蹐	ciq
+菨	ciq
+蠽	ciq
+湒	ciq
+潗	ciq
+墌	ciq
+謺	ciq
+晣	ciq
+戠	ciq
+蟙	ciq
+軄	ciq
+瓡	ciq
+劕	ciq
+晊	ciq
+鮿	ciq
+嚞	ciq
+悊	ciq
+庢	ciq
+挃	ciq
+秷	ciq
 指	ciq	0%
 今	ciq	0%
 結	ciq
@@ -12893,6 +14825,18 @@ s	迡	gni
 羯	ciq
 亟	ciq
 殛	ciq
+唊	ciq
+魝	ciq
+蜐	ciq
+鉣	ciq
+鍻	ciq
+丮	ciq
+撠	ciq
+谻	ciq
+蕀	ciq
+彶	ciq
+洁	ciq
+郆	ciq
 夾	ciq	0%
 砌	chiq
 輯	chiq
@@ -12938,6 +14882,27 @@ s	迡	gni
 哧	chiq
 踥	chiq
 鶒	chiq
+慽	chiq
+穕	chiq
+緁	chiq
+諿	chiq
+桼	chiq
+烾	chiq
+蚇	chiq
+謵	chiq
+卙	chiq
+锸	chiq
+屮	chiq
+侙	chiq
+恜	chiq
+慗	chiq
+趩	chiq
+遫	chiq
+鷘	chiq
+湁	chiq
+漐	chiq
+雴	chiq
+抶	chiq
 出	chiq	0%
 乞	chiq
 訖	chiq
@@ -12954,6 +14919,11 @@ s	迡	gni
 朅	chiq
 犵	chiq
 劼	chiq
+蛪	chiq
+郄	chiq
+郤	chiq
+藒	chiq
+湆	chiq
 直	jiq
 殖	jiq
 值	jiq
@@ -12980,6 +14950,24 @@ s	迡	gni
 姪	jiq
 妷	jiq
 集	jiq
+犆	jiq
+俋	jiq
+紩	jiq
+翐	jiq
+袠	jiq
+豑	jiq
+炢	jiq
+蠞	jiq
+崨	jiq
+疌	jiq
+誱	jiq
+踕	jiq
+亼	jiq
+箿	jiq
+愱	jiq
+槉	jiq
+湜	jiq
+遈	jiq
 其	jiq	0%
 渠	jiq	0%
 屐	jiq
@@ -13000,6 +14988,12 @@ s	迡	gni
 偈	jiq
 楬	jiq
 佶	jiq
+昅	jiq
+嵥	jiq
+榤	jiq
+櫭	jiq
+滐	jiq
+姞	jiq
 熱	gniq
 業	gniq
 鄴	gniq
@@ -13037,6 +15031,22 @@ s	迡	gni
 鷁	gniq
 屹	gniq
 圪	gniq
+艗	gniq
+鶂	gniq
+嵲	gniq
+摰	gniq
+槷	gniq
+嶪	gniq
+澲	gniq
+驜	gniq
+鸈	gniq
+屰	gniq
+縌	gniq
+糱	gniq
+蠥	gniq
+讘	gniq
+帇	gniq
+踂	gniq
 濕	shiq
 溼	shiq
 飾	shiq
@@ -13102,6 +15112,31 @@ s	迡	gni
 襫	shiq
 螫	shiq	30%
 鶒	shiq
+惁	shiq
+緆	shiq
+屟	shiq
+徢	shiq
+偰	shiq
+揳	shiq
+榍	shiq
+棤	shiq
+磶	shiq
+蕮	shiq
+鬄	shiq
+疶	shiq
+絬	shiq
+辥	shiq
+齛	shiq
+蒠	shiq
+鄎	shiq
+厀	shiq
+冟	shiq
+晹	shiq
+睗	shiq
+灄	shiq
+蔎	shiq
+烒	shiq
+鉽	shiq
 歇	shiq
 蠍	shiq
 蝎	shiq
@@ -13119,6 +15154,23 @@ s	迡	gni
 赥	shiq
 歘	shiq
 虩	shiq
+嗋	shiq
+愶	shiq
+拹	shiq
+熁	shiq
+焎	shiq
+衋	shiq
+赩	shiq
+忔	shiq
+汔	shiq
+釳	shiq
+嬆	shiq
+潝	shiq
+熻	shiq
+翖	shiq
+闟	shiq
+恄	shiq
+欯	shiq
 隙	shiq
 啥	shiq	0%
 西	shiq	0%
@@ -13144,6 +15196,15 @@ s	迡	gni
 䖨	zhiq
 𦁎	zhiq
 襲	zhiq
+塉	zhiq
+猎	zhiq
+耤	zhiq
+膌	zhiq
+炻	zhiq
+祏	zhiq
+槢	zhiq
+飁	zhiq
+蛥	zhiq
 該	kiq	452555
 頁	yiq
 枼	yiq
@@ -13197,6 +15258,30 @@ s	迡	gni
 埸	yiq
 鎰	yiq
 覡	yiq
+椺	yiq
+薂	yiq
+劦	yiq
+綊	yiq
+奊	yiq
+籺	yiq
+翓	yiq
+襭	yiq
+曅	yiq
+皣	yiq
+瞱	yiq
+饁	yiq
+圛	yiq
+墿	yiq
+帟	yiq
+燡	yiq
+醳	yiq
+杙	yiq
+熼	yiq
+芅	yiq
+蛡	yiq
+隿	yiq
+黓	yiq
+劮	yiq
 一	iq
 弌	iq
 辷	iq
@@ -13223,6 +15308,13 @@ s	迡	gni
 曄	iq
 殗	iq
 蠮	iq
+鄓	iq
+餣	iq
+肊	iq
+鳦	iq
+嗌	iq
+膉	iq
+嚈	iq
 决	ciuq
 決	ciuq
 訣	ciuq
@@ -13245,6 +15337,18 @@ s	迡	gni
 譎	ciuq
 閰	ciuq
 孓	ciuq
+憰	ciuq
+芵	ciuq
+蚗	ciuq
+赽	ciuq
+趹	ciuq
+鈌	ciuq
+劂	ciuq
+欮	ciuq
+蟨	ciuq
+蟩	ciuq
+趉	ciuq
+鶌	ciuq
 菊	ciuq
 矍	ciuq
 攫	ciuq
@@ -13265,12 +15369,28 @@ s	迡	gni
 䱡	ciuq
 桷	ciuq
 屩	ciuq
+匊	ciuq
+巈	ciuq
+椈	ciuq
+泦	ciuq
+蘜	ciuq
+諊	ciuq
+鞫	ciuq
+湨	ciuq
+犑	ciuq
+郹	ciuq
+鶪	ciuq
+鼳	ciuq
+玃	ciuq
+梮	ciuq
+輂	ciuq
 覺	ciuq	20%
 覚	ciuq	20%
 䮸	ciuq
 屈	chiuq
 缺	chiuq
 炔	chiuq
+蒛	chiuq
 詘	chiuq
 闕	chiuq
 闋	chiuq
@@ -13291,6 +15411,11 @@ s	迡	gni
 礐	chiuq
 燩	chiuq
 闃	chiuq
+塙	chiuq
+毃	chiuq
+碻	chiuq
+匤	chiuq
+髷	chiuq
 掘	jiuq
 倔	jiuq
 崛	jiuq
@@ -13300,12 +15425,17 @@ s	迡	gni
 橜	jiuq
 氒	jiuq
 𧤼	jiuq
+憠	jiuq
+蹷	jiuq
+鷢	jiuq
 局	jiuq
 侷	jiuq
 跼	jiuq
 挶	jiuq
 鋦	jiuq
 焗	jiuq
+驧	jiuq
+駶	jiuq
 軸	jiuq
 鐲	jiuq
 㪬	jiuq
@@ -13315,6 +15445,14 @@ s	迡	gni
 賉	shiuq
 洫	shiuq
 欻	shiuq
+獝	shiuq
+泬	shiuq
+瞲	shiuq
+狘	shiuq
+吷	shiuq
+烕	shiuq
+烼	shiuq
+怴	shiuq
 畜	shiuq	20%
 蓄	shiuq
 㜅	shiuq	418
@@ -13325,6 +15463,8 @@ s	迡	gni
 勗	shiuq
 頊	shiuq
 旭	shiuq
+慉	shiuq
+殈	shiuq
 噱	shiuq
 悅	yuq
 悦	yuq
@@ -13338,11 +15478,13 @@ s	迡	gni
 粤	yuq
 穴	yuq
 㧒	yuq
+鴪	yuq
 月	yuq
 鈅	yuq
 刖	yuq
 玥	yuq
 抈	yuq
+跀	yuq
 矞	yuq
 鷸	yuq
 燏	yuq
@@ -13354,6 +15496,7 @@ s	迡	gni
 銉	yuq
 䋖	yuq
 軏	yuq
+恱	yuq
 學	yuq
 鷽	yuq
 壆	yuq
@@ -13381,14 +15524,30 @@ s	迡	gni
 粥	yuq	0%
 鬻	yuq
 獄	yuq
+哊	yuq
+喅	yuq
+蒮	yuq
+垼	yuq
+炈	yuq
+豛	yuq
+鈠	yuq
+輍	yuq
+鋊	yuq
+琙	yuq
 育	yuq
 蜟	yuq
 錥	yuq
 唷	yuq
 淯	yuq
+堉	yuq
+棛	yuq
+焴	yuq
+蘛	yuq
+逳	yuq
 拽	yuq	0%
 𢺴	iuq
 噦	iuq
+爩	iuq
 郁	iuq
 鬱	iuq
 鬰	iuq
@@ -13397,6 +15556,8 @@ s	迡	gni
 菀	iuq
 彧	iuq
 𨪎	iuq
+戫	iuq
+稶	iuq
 薁	iuq
 䉛	iuq
 尉	iuq	0%
@@ -13419,6 +15580,7 @@ s	迡	gni
 䮕	tsyuq
 錣	tsyuq
 叕	tsyuq
+逫	tsyuq
 齣	tshyuq
 出	tshyuq
 黜	tshyuq
@@ -13438,6 +15600,10 @@ s	迡	gni
 失	syuq
 室	syuq
 戌	syuq
+欰	syuq
+珬	syuq
+訹	syuq
+銊	syuq
 十	syuq	0%
 十	zyuq
 辻	zyuq
@@ -13450,6 +15616,7 @@ s	迡	gni
 実	zyuq
 日	zyuq	10%
 衵	zyuq
+馹	zyuq
 術	zyuq
 秫	zyuq
 述	zyuq
@@ -13560,11 +15727,13 @@ s	迡	gni
 
 # 简化字
 
+𫛛	tsy
 资	tsy
 鲻	tsy
 缁	tsy
 辎	tsy
 锱	tsy
+𫚤	tsy
 帜	tsy
 𫚖	tsy
 龇	tsy
@@ -13581,6 +15750,8 @@ s	迡	gni
 质	tsy
 觯	tsy
 踬	tsy
+𫘠	tsy
+𧏗	tshy
 齿	tshy
 厕	tshy
 鹚	dzy
@@ -13604,6 +15775,8 @@ s	迡	gni
 飔	sy
 鸤	sy
 酾	sy
+𫄟	sy
+𫚕	sy
 驶	sy
 赐	sy
 驷	sy
@@ -13625,17 +15798,22 @@ s	迡	gni
 诸	tsyu
 潴	tsyu
 橥	tsyu
+槠	tsyu
 铸	tsyu
 趋	tshyu
 鸱	tshyu
 𫄨	tshyu
 摅	tshyu
 处	tshyu
+彨	tshyu
+䝙	tshyu
 觑	tshyu
 锤	dzyu
 㝉	dzyu
 伫	dzyu
 贮	dzyu
+𪾣	dzyu
+纻	dzyu
 驻	dzyu
 缒	dzyu
 坠	dzyu
@@ -13649,6 +15827,7 @@ s	迡	gni
 谞	syu
 𩾊	syu
 须	syu
+媭	syu
 数	syu
 势	syu
 岁	syu
@@ -14060,16 +16239,18 @@ s	迡	gni
 𫓧	fu
 讣	fu
 赋	fu
-肤	fu
+轷	fu
 辅	fu
 抚	fu
 怃	fu
 浒	fu
 芜	vu
 怃	vu
+鹀	vu
 抚	vu
 庑	vu
 妩	vu
+𣲘	vu
 妇	vu
 务	vu
 驸	vu
@@ -14087,7 +16268,6 @@ s	迡	gni
 驽	nu
 龉	nu
 误	nu
-悮	nu
 娱	nu
 庐	lu
 炉	lu
@@ -14105,6 +16285,8 @@ s	迡	gni
 𫊮	lu
 𠰷	lu
 垆	lu
+栌	lu
+𪾦	lu
 撸	lu
 卤	lu	0%
 硵	lu
@@ -14112,6 +16294,7 @@ s	迡	gni
 镥	lu
 穞	lu
 噜	lu
+𫓺	lu
 橹	lu
 氇	lu
 赂	lu
@@ -14127,10 +16310,12 @@ s	迡	gni
 𫠀	tshu
 雏	dzu
 𫀬	dzu
+㛀	dzu
 龃	dzu
 锄	dzu
 稣	su
 苏	su
+𦈌	su
 数	su
 须	su
 诉	su
@@ -14140,6 +16325,7 @@ s	迡	gni
 蛊	ku
 贾	ku
 锢	ku
+鲴	ku
 顾	ku
 轱	khu
 绔	khu
@@ -14157,7 +16343,6 @@ s	迡	gni
 莴	wu
 务	Wu
 恶	wu
-悮	wu
 娱	wu
 雾	Wu
 乌	u
@@ -14166,6 +16351,7 @@ s	迡	gni
 钨	u
 莴	u
 诬	u
+𫛦	u
 𤆡	u
 恶	u
 于	u	0%
@@ -14182,6 +16368,7 @@ s	迡	gni
 榉	ciu
 龋	ciu
 𩠉	ciu
+锩	ciu
 贵	ciu
 屦	ciu
 䌸	ciu
@@ -14199,6 +16386,7 @@ s	迡	gni
 颧	jiu
 窭	jiu
 讵	jiu
+𫎌	jiu
 娱	gniu
 铻	gniu
 𫘪	gniu
@@ -14211,6 +16399,8 @@ s	迡	gni
 芋 	gniu
 谖	shiu
 埙	shiu
+𫍽	shiu
+𫓶	shiu
 许	shiu
 诩	shiu
 绚	shiu
@@ -14226,6 +16416,8 @@ s	迡	gni
 舆	yu
 欤	yu
 𫚈	yu
+玙	yu
+𩨈	yu
 缘	yu
 圆	yu
 员	yu
@@ -14235,7 +16427,6 @@ s	迡	gni
 园	yu
 锾	yu
 橼	yu
-与	yu
 屿	yu
 远	yu
 䓕	yu
@@ -14243,6 +16434,7 @@ s	迡	gni
 预	yu
 蓣	yu
 谕	yu
+滪	yu
 县	yu
 纡	iu
 鸳	iu
@@ -14293,6 +16485,7 @@ s	迡	gni
 鸦	a
 叆	a
 镓	cia
+𫛤	cia
 贾	cia
 驾	cia
 写	shia
@@ -14411,14 +16604,16 @@ s	迡	gni
 犸	mo
 骂	mo
 祃	mo
+杩	mo
 嬷	mho
 汤	tho
 𫍴	lho
-齄	tso
 鹧	tso
 诈	tso
 车	tsho
 钗	tsho
+𫟿	tsho
+馇	tsho
 鲳	tsho
 诧	tsho
 阇	dzo
@@ -14454,12 +16649,14 @@ s	迡	gni
 钓	tiau
 窎	tiau
 鸟	tiau
+铞	tiau
 铫	thiau
-粜	thiau
 条	diau
 鲦	diau
+𣔌	diau
 龆	diau
 调	diau
+𫍥	diau
 𦰏	diau
 铫	diau
 疗	liau
@@ -14481,6 +16678,8 @@ s	迡	gni
 较	ciau
 侥	ciau
 觉	ciau
+𫐖	ciau
+𫋇	ciau
 饺	ciau
 铰	ciau
 绞	ciau
@@ -14489,6 +16688,8 @@ s	迡	gni
 缲	chiau
 锹	chiau
 硗	chiau
+鞒	chiau
+𪎊	chiau
 翘	chiau
 跷	chiau
 𪜎	chiau
@@ -14499,13 +16700,18 @@ s	迡	gni
 荞	jiau
 挢	jiau
 硚	jiau
+𫓱	jiau
+𪡀	jiau
 赵	jiau
 轿	jiau
+峤	jiau
 翘	jiau
 哓	gniau
 饶	gniau
 蛲	gniau
 荛	gniau
+峣	gniau
+𫋹	gniau
 尧	gniau
 娆	gniau
 绕	gniau
@@ -14526,6 +16732,7 @@ s	迡	gni
 ⿰扌嚣	shiau
 枭	shiau
 骁	shiau
+𢙒	shiau
 筿	shiau
 晓	shiau
 谯	zhiau
@@ -14535,17 +16742,17 @@ s	迡	gni
 诮	zhiau
 摇	yau
 谣	yau
-遥	yau
 鹞	yau
-瑶	yau
 鳐	yau
 飖	yau
 敩	yau
 乐	yau
+𫍚	iau
 侥	iau
 娲	kuo
 剐	kuo
 诖	kuo
+㖞	khuo
 哗	huo
 虾	huo
 华	huo
@@ -14556,7 +16763,9 @@ s	迡	gni
 话	wo
 桦	wo
 画	wo
+𣶩	wo
 蜗	uo
+𫛤	cio
 贾	cio
 价	cio	0%
 驾	cio
@@ -14788,9 +16997,11 @@ s	迡	gni
 怀	wae
 鲩	wae
 缳	wae
+阛	wae
 弯	uae
 湾	uae
 绾	uae
+𧹗	uae
 顽	uae
 铥	tieu
 馏	lieu
@@ -14801,6 +17012,7 @@ s	迡	gni
 刘	lieu
 浏	lieu
 绺	lieu
+锍	lieu
 钻	tsoe
 专	tsoe
 砖	tsoe
@@ -14817,6 +17029,7 @@ s	迡	gni
 诠	tshoe
 铨	tshoe
 辁	tshoe
+𩧴	tshoe
 镌	tshoe
 车	tshoe
 蹿	tshoe
@@ -14824,11 +17037,13 @@ s	迡	gni
 钏	tshoe
 传	dzOE
 𪴙	dzoe
+酂	dzoe
 诪	dzoe
 传	dzoe
 闩	soe
 选	soe
 陕	soe
+𦈝	soe
 单	zoe
 婵	zoe
 禅	zoe
@@ -14840,9 +17055,11 @@ s	迡	gni
 镟	zoe
 辀	cieu
 赒	cieu
+𫐏	cieu
 鸠	cieu
 纠	cieu
 阄	cieu
+𫚡	cieu
 昼	cieu
 鳅	chieu
 鹙	chieu
@@ -14851,9 +17068,15 @@ s	迡	gni
 畴	jieu
 俦	jieu
 踌	jieu
+䓓	jieu
 绸	jieu
 䌷	jieu
 赇	jieu
+𨱇	jieu
+𫟲	jieu
+巯	jieu
+荮	jieu
+𩧨	jieu
 纣	jieu
 鹫	jieu
 旧	jieu
@@ -14874,7 +17097,7 @@ s	迡	gni
 铕	yeu
 诱	yeu
 优	ieu
-忧	ieu
+忧	ieu	0%
 锻	toe
 断	toe
 簖	toe
@@ -14883,6 +17106,7 @@ s	迡	gni
 抟	doe
 断	doe
 缎	doe
+𫗬	noe
 鸾	loe
 峦	loe
 脔	loe
@@ -14890,6 +17114,7 @@ s	迡	gni
 栾	loe
 滦	loe
 娈	loe
+𪢮	loe
 乱	loe
 贝	pei
 呗	pei
@@ -14946,7 +17171,7 @@ s	迡	gni
 锤	zei
 谁	zei
 坠	zei
-蚕	zEI
+蚕	zEI	0%
 錾	zEI
 锐	zei
 𫠐	hEI
@@ -14966,6 +17191,7 @@ s	迡	gni
 铵	EI
 埯	EI
 规	kuei
+鬶	kuei
 鲑	kuei
 龟	kuei
 归	kuei
@@ -14987,6 +17213,9 @@ s	迡	gni
 贵	kuei
 愦	kuei
 鳜	kuei
+𫋻	kuei
+𫂆	kuei
+刿	kuei
 亏	khuei
 诙	khuei
 窥	khuei
@@ -15006,10 +17235,13 @@ s	迡	gni
 珲	huei
 讳	huei
 诲	huei
+𠯠	huei
+袆	huei
 诙	huei
 贿	huei
 秽	huei
 翙	huei
+颒	huei
 围	wei
 闱	wei
 帏	wei
@@ -15018,6 +17250,7 @@ s	迡	gni
 㧑	wei
 汇	wei
 硙	wei
+涠	wei
 鲔	wei
 韦	wei
 违	wei
@@ -15036,8 +17269,13 @@ s	迡	gni
 绘	wei
 㻅	wei
 伪	wei
+㱮	wei
+缋	wei
+鳂	uei
 诿	uei
 荟	uei
+𤞃	uei
+鳚	uei
 𬭛	pou
 颇	phou
 钷	phou
@@ -15045,6 +17283,8 @@ s	迡	gni
 馍	mou
 谟	mou
 么	mou
+亸	tou
+缍	tou
 𫜒	thou
 椭	thou
 堕	dou
@@ -15062,6 +17302,9 @@ s	迡	gni
 猡	lou
 啰	lou
 椤	lou
+𫗩	lou
+𫌨	lou
+镙	lou
 脶	lou
 萝	lou
 炉	lou
@@ -15076,10 +17319,12 @@ s	迡	gni
 锁	sou
 琐	sou
 唢	sou
+鹾	zou
 鿔	kou
 锅	kou
 埚	kou
 蜗	kou
+𣒌	kou
 过	kou
 锞	kou
 馃	kou
@@ -15097,14 +17342,17 @@ s	迡	gni
 饿	ngou
 钬	hou
 货	hou
+鲄	ghou
 红	ghou
 祸	ghou
 贺	ghou
 疴	ou
+钶	ou
 窝	ou
 莴	ou
 涡	ou
 挝	ou
+㳡	ou
 呙	ou
 恶	ou
 谋	meu
@@ -15197,15 +17445,19 @@ s	迡	gni
 樱	an
 鹦	an
 谅	lian
-粮	lian
+𫟅	lian
+辌	lian
 魉	lian
 两	lian
 俩	lian
+𪭵	lian
 辆	lian
 张	cian
+𫗠	cian
 将	cian
 浆	cian
 螀	cian
+鳉	cian
 缰	cian
 绛	cian
 蒋	cian
@@ -15214,6 +17466,7 @@ s	迡	gni
 涨	cian
 桨	cian
 胀	cian
+𫄶	cian
 帐	cian
 账	cian
 𪽪	cian
@@ -15224,12 +17477,15 @@ s	迡	gni
 伥	chian
 跄	chian
 锵	chian
+𡺃	chian
+锖	chian
 厂	chian	0%
 抢	chian
 羟	chian
 镪	chian
 怅	chian
 畅	chian
+𪽈	chian
 炝	chian
 ⿰卤仓	chian
 怆	chian
@@ -15257,12 +17513,14 @@ s	迡	gni
 墙	zhian
 嫱	zhian
 樯	zhian
+𪪞	zhian
 疡	yan
 阳	yan
 杨	yan
 扬	yan
 旸	yan
 𫚊	yan
+钖	yan
 痒	yan
 养	yan
 样	yan
@@ -15376,12 +17634,17 @@ s	迡	gni
 旷	khuaon
 矿	khuaon
 圹	khuaon
+纩	khuaon
 𫛭	guaon
 诓	guaon
 谎	huaon
 贶	huaon
 𨱑	waon
 鳇	waon
+锽	waon
+𫗮	waon
+𫘩	waon
+㲿	uaon
 盘	phun
 𫟟	phun
 盘	bun
@@ -15401,15 +17664,18 @@ s	迡	gni
 𫐑	kun
 鹳	kun
 贯	kun
+𨱌	kun
 宽	khun
 髋	khun
 欢	hun
+𫛝	hun
 奂	hun
 唤	hun
 涣	hun
 焕	hun
 痪	hun
 纨	wun
+𤩽	wun
 缓	wun
 换	wun
 乌	un
@@ -15522,6 +17788,7 @@ s	迡	gni
 镔	pin
 嫔	pin
 瑸	pin
+𪾸	pin
 饼	pin
 鬓	pin
 膑	pin
@@ -15536,6 +17803,7 @@ s	迡	gni
 濒	bin
 频	bin
 颦	bin
+㺍	bin
 髌	bin
 并	bin	0%
 闽	min
@@ -15545,17 +17813,20 @@ s	迡	gni
 鳘	min
 缗	min
 闵	min
+𫂃	min
 黾	min
 钉	tin
 顶	tin
 订	tin
+饤	tin
 听	thin
 厅	thin
 烃	thin
+颋	thin
 铤	din
 锭	din
-灵	lin
 棂	lin
+𫞠	lin
 绫	lin
 鲮	lin
 邻	lin
@@ -15565,13 +17836,15 @@ s	迡	gni
 鸰	lin
 龄	lin
 𫐉	lin
+𫠂	lin
 临	lin
 轮	lin
-岭	lin
+𪤚	lin
 领	lin
 廪	lin
 蔺	lin
 躏	lin
+𫔴	lin
 针	cin
 贞	cin
 帧	cin
@@ -15583,7 +17856,6 @@ s	迡	gni
 诊	cin
 经	cin
 茎	cin
-荆	cin
 惊	cin
 谨	cin
 泾	cin
@@ -15606,12 +17878,14 @@ s	迡	gni
 陉	cin
 劲	cin
 镜	cin
+𣐕	cin
 蛏	chin
 柽	chin
 称	chin
 亲	chin
 鲭	chin
 䴖	chin
+𫎩	chin
 骎	chin
 𫎭	chin
 钦	chin
@@ -15624,7 +17898,6 @@ s	迡	gni
 𦼖	chin
 寝	chin
 𪷍	chin
-吣	chin
 庆	chin
 揿	chin
 倾	chin
@@ -15647,14 +17920,17 @@ s	迡	gni
 郑	jin
 赆	jin
 烬	jin
+荩	jin
 靓	jin
 竞	jin
 觐	jin
 馑	jin
 钤	jin
+𫄛	jin
 劲	jin
 痉	jin
 银	gnin
+𣘴	gnin
 宁	gnin	0%
 柠	gnin
 咛	gnin
@@ -15669,6 +17945,8 @@ s	迡	gni
 认	gnin
 韧	gnin
 泞	gnin
+慭	gnin
+𪺽	gnin
 声	shin
 绅	shin
 诜	shin
@@ -15678,7 +17956,7 @@ s	迡	gni
 审	shin
 婶	shin
 谂	shin
-圣	shin
+圣	shin	0%
 胜	shin	0%
 讯	shin
 绳	zhin
@@ -15696,6 +17974,7 @@ s	迡	gni
 饪	zhin
 赢	yin
 铏	yin
+钘	yin
 营	yin
 蓥	yin
 荥	yin
@@ -15723,6 +18002,7 @@ s	迡	gni
 罂	in
 莺	in
 萦	in
+䓨	in
 铟	in
 蝇	in
 饮	in
@@ -15730,11 +18010,16 @@ s	迡	gni
 𦈠	in
 瘾	in
 瘿	in
+𪩎	in
+䲟	in
 鲧	kuen
 鲲	khuen
 锟	khuen
 鹍	khuen
+𫘥	khuen
+𪻲	khuen
 裈	khuen
+𣎑	khuen
 阃	khuen
 绲	khuen
 辊	khuen
@@ -15745,6 +18030,8 @@ s	迡	gni
 馄	wen
 珲	wen
 浑	wen
+𪣒	wen
+𩽼	wen
 诨	wen
 蕰	uen
 辒	uen
@@ -15753,13 +18040,17 @@ s	迡	gni
 军	ciun
 钧	ciun
 皲	ciun
+鲪	ciun
 勋	shiun
+𫄸	shiun
 训	shiun
 纭	yun
 郧	yun
 陨	yun
 殒	yun
 筼	yun
+沄	yun
+𫕥	yun
 闰	yun
 郓	yun
 运	yun
@@ -15779,11 +18070,13 @@ s	迡	gni
 𩨁	tshyun
 询	syun
 驯	syun
+䞐	syun
 审	syun
 鹑	zyun
 𥆧	zyun
 纯	zyun
 莼	zyun
+𫜀	zyun
 纴	zyun
 肾	zyun
 顺	zyun
@@ -15791,8 +18084,11 @@ s	迡	gni
 韧	zyun
 认	zyun
 润	zyun
+𫓵	zyun
 轫	zyun
 𪨊	zyun
+𫟃	zyun
+讱	zyun
 梦	mon
 风	fon
 枫	fon
@@ -15802,13 +18098,16 @@ s	迡	gni
 锋	fon
 纷	fon
 讽	fon
+㐽	fon
 赗	fon
 冯	von
 缝	von
+沨	von
 凤	von
 东	ton
 㑈	ton
 鸫	ton
+𪣆	ton
 冻	ton
 栋	ton
 胨	ton
@@ -15817,6 +18116,7 @@ s	迡	gni
 鲖	don
 动	don
 恸	don
+𩧲	don
 农	non
 脓	non
 侬	non
@@ -15838,6 +18138,7 @@ s	迡	gni
 垄	lon
 垅	lon
 𨀁	lon
+𫎦	lon
 弄	lon
 综	tson
 𫎆	tson
@@ -15849,14 +18150,20 @@ s	迡	gni
 肿	tson
 种	tson	0%
 纵	tson
+𫓽	tson
 众	tson
+𫍳	tson
+疭	tson
 聪	tshon
 𫓩	tshon
 枞	tshon
+骢	tshon
+𪻐	tshon
 宠	tshon
 种	tshon	0%
 铳	tshon
 丛	dzon
+𫟡	dzon
 虫	dzon	0%
 诵	dzon
 颂	dzon
@@ -15865,8 +18172,7 @@ s	迡	gni
 怂	son
 红	kon
 贡	kon
-巩	kon
-宫	kon
+䂵	kon
 龚	kon
 𫐒	hon
 红	hon
@@ -15879,10 +18185,16 @@ s	迡	gni
 鸿	ghon
 黉	ghon
 讧	ghon
+荭	ghon
+𫟹	ghon
 镬	ghon
+鹟	on
 红	on
 伛	on
+𫘡	cion
+颎	cion
 穷	jion
+䓖	jion
 琼	jion
 茕	jion
 绒	gnion
@@ -15890,11 +18202,13 @@ s	迡	gni
 秾	gnion
 颙	gnion
 𭑸	gnion
+讻	shion
 荣	yon
 嵘	yon
 蝾	yon
 镕	yon
 鳙	yon
+镛	yon
 萤	yon
 拥	ion
 痈	ion
@@ -15941,7 +18255,7 @@ s	迡	gni
 脱	thaq
 𪉍	thaq
 铽	thaq
-达	daq
+达	daq	0%
 𫟼	daq
 跶	daq
 㳠	daq
@@ -16043,6 +18357,7 @@ s	迡	gni
 谍	diaq
 猎	liaq	0%
 𫚭	liaq
+䦃	ciaq
 钾	ciaq
 荚	ciaq
 峡	ciaq
@@ -16052,10 +18367,12 @@ s	迡	gni
 郏	ciaq
 蛱	ciaq
 饸	ciaq
+𫛥	ciaq
 鹊	chiaq
 绰	chiaq
 惬	chiaq
 箧	chiaq
+𫓻	gniaq
 镊	gniaq
 谑	shiaq
 药	yaq
@@ -16075,15 +18392,16 @@ s	迡	gni
 阔	khuaq
 环	guaq
 𬮨	huaq
+锪	huaq
 画	waq
 婳	waq
 𠵾	waq
 纥	waq
 还	waq
-腽	uaq
 锫	poq
 驳	poq
 镈	poq
+馎	poq
 拨	poq
 钋	phoq
 泺	phoq
@@ -16097,11 +18415,12 @@ s	迡	gni
 么	moq
 辐	foq
 复	foq
+𫛳	voq
 𫄢	voq
-复	voq
 鳆	voq
 笃	toq
 𬊯	toq
+饦	thoq
 萚	thoq
 箨	thoq
 读	doq
@@ -16111,6 +18430,8 @@ s	迡	gni
 黩	doq
 渎	doq
 㱩	doq
+𪥿	doq
+𪻨	doq
 独	doq
 铎	doq
 𪞝	doq
@@ -16118,12 +18439,11 @@ s	迡	gni
 锘	noq
 录	loq
 绿	loq
-禄	loq
 𫘧	loq
-箓	loq
 渌	loq
 陆	loq
 辘	loq
+𫠋	loq
 荦	loq
 乐	loq
 泺	loq
@@ -16137,6 +18457,7 @@ s	迡	gni
 嘱	tsoq
 瞩	tsoq
 㔉	tsoq
+𣃁	tsoq
 诼	tsoq
 疖	tsoq
 𫖹	tshoq
@@ -16149,8 +18470,11 @@ s	迡	gni
 属	dzoq
 赎	dzoq
 𨱈	soq
+𫗧	soq
 谡	soq
 肃	soq
+骕	soq
+鹔	soq
 烁	soq
 铄	soq
 缩	soq
@@ -16211,9 +18535,11 @@ s	迡	gni
 𫚑	piq
 鳖	piq
 瘪	piq
+𫖒	piq
 拨	piq
 𨸆	phiq
 鹎	phiq
+䴙	biq
 灭	miq
 谧	miq
 觅	miq
@@ -16222,9 +18548,8 @@ s	迡	gni
 听	thiq
 𬱖	diq
 觌	diq
-敌	diq
+敌	diq	0%
 涤	diq
-籴	diq
 绖	diq
 历	liq
 疬	liq
@@ -16237,6 +18562,13 @@ s	迡	gni
 砾	liq
 跞	liq
 轹	liq
+呖	liq
+苈	liq
+䴕	liq
+𫁡	liq
+𫛽	liq
+锊	liq
+𫄴	liq
 里	liq	0%
 节	ciq
 栉	ciq
@@ -16255,8 +18587,9 @@ s	迡	gni
 詟	ciq
 质	ciq
 锧	ciq
+𫌀	ciq
+𫚚	ciq
 结	ciq
-洁	ciq
 讦	ciq
 诘	ciq
 鲒	ciq
@@ -16308,8 +18641,11 @@ s	迡	gni
 轼	shiq
 识	shiq
 𫛶	shiq
+滠	shiq
+𫟸	shiq
 胁	shiq
 阋	shiq
+𨰿	shiq
 蚀	zhiq
 习	zhiq
 鳛	zhiq
@@ -16330,6 +18666,7 @@ s	迡	gni
 烨	yiq
 镒	yiq
 觋	yiq
+馌	yiq
 钇	iq
 缢	iq
 靥	iq
@@ -16337,8 +18674,10 @@ s	迡	gni
 诀	ciuq
 𫛞	ciuq
 谲	ciuq
+𫛵	ciuq
 镢	ciuq
 𪨗	ciuq
+䴗	ciuq
 觉	ciuq
 诎	chiuq
 阙	chiuq
@@ -16346,6 +18685,7 @@ s	迡	gni
 悫	chiuq
 阒	chiuq
 锔	jiuq
+𩧺	jiuq
 轴	jiuq
 镯	jiuq
 顼	shiuq
@@ -16361,6 +18701,7 @@ s	迡	gni
 阈	yuq
 乐	yuq
 狱	yuq
+𨱁	yuq
 𫓾	yuq
 哕	iuq
 这	tsyuq
@@ -16371,7 +18712,9 @@ s	迡	gni
 𫈵	dzyuq
 说	syuq
 鳕	syuq
+𫓰	syuq
 实	zyuq
+驲	zyuq
 术	zyuq
 𦶟	zyuq
 习	zyuq
