@@ -5249,6 +5249,8 @@ use_preset_vocabulary: true
 紅毛人	ghou mau gnin
 紅毛人案	ghou mau gnin e
 紅毛人案	ghou mau gnin EI
+佝僂	keu leu
+佝僂病	keu leu bin
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
@@ -7646,6 +7648,26 @@ use_preset_vocabulary: true
 射藥	dza yaq
 鵪鶉鳥	EI zyun tiau
 肫掌
+傴倒	on tau	55
+傴頭	eu deu	55
+傴頭	on deu
+傴的	eu tiq	55
+傴的	on tiq
+傴仔	eu tsy	55
+傴仔	on tsy
+傴勒仔	eu laq tsy	55
+傴勒仔	on laq tsy
+傴倒爬起	eu tau bo chi	55
+傴倒爬起	on tau bo chi
+佝背	hon pei	418
+佝背	heu pei	55
+佝的	hon tiq	55
+佝的	heu tiq
+佝仔	hon tsy	55
+佝仔	heu tsy
+佝勒仔	hon laq tsy	55
+佝勒仔	heu laq tsy
+佝攏	heu lon
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian

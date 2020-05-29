@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.28"
+version: "2020.05.29"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8711,7 +8711,7 @@ s	迡	gni
 媾	keu
 褠	keu
 鞲	keu
-佝	keu
+佝	keu	1%
 垢	keu
 緱	keu
 狗	keu
@@ -8768,6 +8768,7 @@ s	迡	gni
 鱟	heu
 煦	heu	5%
 蔲	heu
+佝	heu	5%
 豞	heu
 侯	gheu
 喉	gheu
@@ -12406,6 +12407,7 @@ s	迡	gni
 𢦅	hon
 轟	hon
 㶹	hon
+佝	hon
 紅	ghon
 洪	ghon
 虹	ghon
