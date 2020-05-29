@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.27"
+version: "2020.05.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7645,6 +7645,7 @@ use_preset_vocabulary: true
 撒藥	dza yaq
 射藥	dza yaq
 鵪鶉鳥	EI zyun tiau
+肫掌
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
