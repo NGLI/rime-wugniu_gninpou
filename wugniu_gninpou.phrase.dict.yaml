@@ -2192,7 +2192,7 @@ use_preset_vocabulary: true
 嗒味道	taq mi dau
 鯁飯	gan vae
 花生米過老酒	huo sen mi kou lau cieu
-⿰口茄⿰口茄嘶	jia jia shi
+喳喳嘶	jia jia shi
 胡嚨嘶啞	wu lon shi o
 喚狗
 喚雞
@@ -3284,8 +3284,8 @@ use_preset_vocabulary: true
 噥噥講
 噥噥響
 噥噥哭
-⿰口茄⿰口茄叫	jia jia ciau
-⿰口茄⿰口茄哭	jia jia khoq
+喳喳叫	jia jia ciau
+喳喳哭	jia jia khoq
 飛機紅紅響
 會場裏紅紅響
 環環嘔	wae wae eu
@@ -3311,8 +3311,8 @@ use_preset_vocabulary: true
 𩂢𩂢落大雨	nga nga loq dou yu
 山水𩂢𩂢殺落來	sae syu nga nga saq loq le
 血𩂢𩂢流出來
-喳喳嘔
-喳喳叫
+喳喳嘔	dzo dzo eu
+喳喳叫	dzo dzo ciau
 血宅宅流出來
 水宅宅滮出來	syu dzaq dzaq piau tshyuq le
 字宅宅寫其快
@@ -4155,7 +4155,7 @@ use_preset_vocabulary: true
 老公謳我拗腰骨
 環環謳	wae wae eu
 環天倒地來該謳	wae thi tau di le ke eu
-喳喳謳
+喳喳謳	dzo dzo eu
 謳其淘淘米
 謳過去
 謳渠倒痰瓶	eu ji tau dae bin
@@ -7672,6 +7672,12 @@ use_preset_vocabulary: true
 祠堂	dzy daon
 傢俱	cia jiu
 傢俬	cia sy
+喳喳	tsa tsa
+喳喳	jia jia
+喳喳叫	tsa tsa ciau
+喳喳嘶嘶	jia jia shi shi
+喳喳叫叫	jia jia ciau ciau
+喳喳哭哭	jia jia khoq khoq
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
