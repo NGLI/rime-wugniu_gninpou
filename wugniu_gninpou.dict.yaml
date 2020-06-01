@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.05.29"
+version: "2020.06.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1921,7 +1921,7 @@ import_tables:
 玂	ji
 岓	ji
 亓	ji
-俟	ji	5%
+俟	ji	0%
 潜	ji
 潛	ji
 𤏖	ji
