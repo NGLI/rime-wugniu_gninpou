@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.06.03"
+version: "2020.06.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10043,6 +10043,7 @@ use_preset_vocabulary: true
 大咬一口	dou ngau iq kheu
 大咸	da yi
 大品牌	dou phin ba
+大品般若	da phin pae zo
 大哥	dou kou
 大哥哥	dou kou kou
 大哥大	da kou da
@@ -16481,6 +16482,8 @@ use_preset_vocabulary: true
 摩耶夫人	mou ya fu gnin
 摩蘇爾	mou su er
 摩蘇爾市	mou su er zy
+摩訶般若波羅蜜	mou hou pae zo pou lou miq
+摩訶般若波羅蜜多	mou hou pae zo pou lou miq tou
 摩門教	mou men ciau
 摩門教徒	mou men ciau du
 摩門教會	mou men ciau wei
@@ -28198,6 +28201,14 @@ use_preset_vocabulary: true
 航行	ghaon yin
 航行權	ghaon yin jiu
 航行燈	ghaon yin ten
+般若	pae zo
+般若堂湯	pae zo daon thaon
+般若波羅密	pae zo pou lou miq
+般若波羅密多心經	pae zo pou lou miq tou shin cin
+般若波羅蜜多	pae zo pou lou miq tou
+般若波羅蜜多心經	pae zo pou lou miq tou shin cin
+般若湯	pae zo thaon
+般若經	pae zo cin
 般雀比拉多	pae chiaq pi lha tou
 船上交貨	ZOE zaon ciau hou
 船到橋頭自然直	ZOE tau jiau deu zy zoe jiq
