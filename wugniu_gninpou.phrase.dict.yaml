@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.01"
+version: "2020.06.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7678,6 +7678,7 @@ use_preset_vocabulary: true
 喳喳嘶嘶	jia jia shi shi
 喳喳叫叫	jia jia ciau ciau
 喳喳哭哭	jia jia khoq khoq
+單巧	tae chiau	55
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
