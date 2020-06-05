@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.05"
+version: "2020.06.06"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5984,7 +5984,7 @@ s	迡	gni
 馤	e
 案	e	0%
 皆	cie
-階	cie	5%
+階	cie	10%
 堦	cie	5%
 偕	cie	0%
 喈	cie
