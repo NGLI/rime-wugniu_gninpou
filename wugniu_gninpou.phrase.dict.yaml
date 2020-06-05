@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.04"
+version: "2020.06.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -413,6 +413,7 @@ use_preset_vocabulary: true
 謳俉𢜭力𡀂	eu ng jiaq liq lei
 謳爾𢜭力𡀂	eu ng jiaq liq lei
 跑春	phau tshyun	55
+飯𣖄骨	vae chiau kuaq	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -608,7 +609,6 @@ use_preset_vocabulary: true
 要俉着力了	iau ng jiaq liq lei
 將煞了	cian saq lei	55
 脹煞了	cian saq lei	55
-篤落了	toq loq lei	55
 跔掉	geu diau	55
 𠞭眼	lheu ngae	55
 𠞭耳朵	lheu ng to	55
@@ -646,6 +646,8 @@ use_preset_vocabulary: true
 剝皮大㸆	poq bi dou khau	55
 寧波灘簧	gnin pou thae waon	55
 雌雞胡嚨	tshy ci u lon
+跌落了	toq loq lei	55
+跌落𡀂	toq loq lei	55
 
 # 其他詞彙
 
@@ -7350,7 +7352,6 @@ use_preset_vocabulary: true
 片片鴨	phi phi ae
 慈城年糕
 米仁	mi zyun
-冬米
 凍米
 # 商業
 倉橋麪結店
@@ -7679,6 +7680,7 @@ use_preset_vocabulary: true
 喳喳叫叫	jia jia ciau ciau
 喳喳哭哭	jia jia khoq khoq
 單巧	tae chiau	55
+爆凍米胖	pau ton mi phaon
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
