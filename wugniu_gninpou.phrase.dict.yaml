@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.05"
+version: "2020.06.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7684,6 +7684,7 @@ use_preset_vocabulary: true
 夏利車
 貨的
 撮攏爿	tshaq lon bae
+捼癆槽	ou lau zau
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian

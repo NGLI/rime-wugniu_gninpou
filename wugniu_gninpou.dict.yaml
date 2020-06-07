@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.06"
+version: "2020.06.07"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8218,7 +8218,7 @@ s	迡	gni
 垛	dou
 肚	dou	0%
 大	dou
-捼	nou
+捼	nou	20
 挼	nou
 儺	nou
 挪	nou	6%
