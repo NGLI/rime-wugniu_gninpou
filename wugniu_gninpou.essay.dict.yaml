@@ -3473,8 +3473,8 @@ use_preset_vocabulary: true
 個核	goq ghaq
 個案	kou EI
 個案分析	kou EI fen shiq
-個案研究	kou EI kni cieu
 個案研究	kou EI gni cieu
+個案研究	kou EI kni cieu
 個案紀錄	kou EI ci loq
 個樣	ghoq yan
 個樣	goq yan
@@ -5255,8 +5255,8 @@ use_preset_vocabulary: true
 分析心理學	fen shiq shin li yuq
 分析方法	fen shiq faon faq
 分析法	fen shiq faq
-分析研究	fen shiq kni cieu
 分析研究	fen shiq gni cieu
+分析研究	fen shiq kni cieu
 分析處理	fen shiq tshyu li
 分析語	fen shiq gniu
 分枝	fen tsy
@@ -7489,8 +7489,8 @@ use_preset_vocabulary: true
 可行	khou yin
 可行之道	khou yin tsy dau
 可行性	khou yin shin
-可行性研究	khou yin shin kni cieu
 可行性研究	khou yin shin gni cieu
+可行性研究	khou yin shin kni cieu
 可被	khou bei
 可貴	khou kuei
 可貴性	khou kuei shin
@@ -11763,8 +11763,12 @@ use_preset_vocabulary: true
 嫁作人婦	ko tsoq zyun vu
 嫁個	ko goq
 嫁個老公	ko goq lau kon
+嫁接	cia ciq
+嫁接法	cia ciq faq
 嫁於	ko yu
 嫁給你	ko ciq gni
+嫁衣	cia i
+嫁衣	ko i
 嫂夫人	sau fu gnin
 嫋娜	gniau nou
 嫋娜纖巧	gniau nou shi chiau
@@ -12087,10 +12091,10 @@ use_preset_vocabulary: true
 學術獎	yuq zyuq cian
 學術界	yuq zyuq ka
 學術界人士	yuq zyuq ka zyun zy
-學術研究	yuq zyuq kni cieu
 學術研究	yuq zyuq gni cieu
-學術研討會	yuq zyuq kni thau wei
+學術研究	yuq zyuq kni cieu
 學術研討會	yuq zyuq gni thau wei
+學術研討會	yuq zyuq kni thau wei
 學術科	yuq zyuq khou
 學術組	yuq zyuq tsu
 學術網路	yuq zyuq maon lu
@@ -17010,14 +17014,14 @@ use_preset_vocabulary: true
 教益	ciau iq
 教着	kau dzoq
 教着	kau zyuq
-教研	ciau kni
 教研	ciau gni
-教研員	ciau kni yu
+教研	ciau kni
 教研員	ciau gni yu
-教研室	ciau kni syuq
+教研員	ciau kni yu
 教研室	ciau gni syuq
-教研組	ciau kni tsu
+教研室	ciau kni syuq
 教研組	ciau gni tsu
+教研組	ciau kni tsu
 教科文	ciau khou ven
 教科文組織	ciau khou ven tsu ciq
 教科書	ciau khou syu
@@ -17696,8 +17700,8 @@ use_preset_vocabulary: true
 日本共產黨	zyuq pen gon tshae taon
 日本刀	zyuq pen tau
 日本化	zyuq pen huo
-日本原子能研究所	zyuq pen gniu tsy nen kni cieu so
 日本原子能研究所	zyuq pen gniu tsy nen gni cieu so
+日本原子能研究所	zyuq pen gniu tsy nen kni cieu so
 日本史	zyuq pen sy
 日本國	zyuq pen koq
 日本國誌	zyuq pen koq tsy
@@ -24819,16 +24823,16 @@ use_preset_vocabulary: true
 砍壞	khae ua
 砍大山	khae da sae
 砍死	khae sy
-研發人員	kni faq zyun yu
 研發人員	gni faq zyun yu
-研究人員	kni cieu zyun yu
+研發人員	kni faq zyun yu
 研究人員	gni cieu zyun yu
-研究現狀	kni cieu yi dzaon
+研究人員	kni cieu zyun yu
 研究現狀	gni cieu yi dzaon
-研究生	kni cieu san
+研究現狀	kni cieu yi dzaon
 研究生	gni cieu san
-研究生院	kni cieu san yu
+研究生	kni cieu san
 研究生院	gni cieu san yu
+研究生院	kni cieu san yu
 砥節礪行	ti ciq li yin
 破了	phou lei
 破了臉	phou laq li
@@ -25007,8 +25011,8 @@ use_preset_vocabulary: true
 神學士	zyun yuq zy
 神學家	zyun yuq cia
 神學生	zyun yuq san
-神學研究所	zyun yuq kni cieu so
 神學研究所	zyun yuq gni cieu so
+神學研究所	zyun yuq kni cieu so
 神學院	zyun yuq yu
 神家園	zyun cia yu
 神州大陸	zyun cieu da loq
@@ -25168,8 +25172,8 @@ use_preset_vocabulary: true
 科學界	khou yuq ka
 科學的交流	khou yuq tiq ciau lieu
 科學知識	khou yuq tsyu shiq
-科學研究	khou yuq kni cieu
 科學研究	khou yuq gni cieu
+科學研究	khou yuq kni cieu
 科學社會主義	khou yuq dzo wei tsyu gni
 科學種田	khou yuq tson di
 科學管理	khou yuq kun li
@@ -25200,8 +25204,8 @@ use_preset_vocabulary: true
 科爾沁左翼中	khou er chin tsou yiq tson
 科爾沁左翼中旗	khou er chin tsou yiq tson ji
 科爾沁左翼後旗	khou er chin tsou yiq gheu ji
-科研人員	khou kni zyun yu
 科研人員	khou gni zyun yu
+科研人員	khou kni zyun yu
 科羅娜	khou lou na
 科羅拉多	khou lou lha tou
 科羅拉多大峽谷	khou lou lha tou da ciaq koq
@@ -30317,6 +30321,8 @@ use_preset_vocabulary: true
 設計大賽	shiq ci da se
 設計家	shiq ci cia
 許多人	shiu tou gnin
+許嫁	he ko
+許嫁	shiu ko
 許願牌	shiu gniu ba
 訴訟代理人	su dzon de li gnin
 訶斥	hou chiq
@@ -30675,8 +30681,8 @@ use_preset_vocabulary: true
 調查問卷	diau dzo ven ciu
 調查範圍	diau dzo vae wei
 調皮鬼	diau bi kuei
-調研人員	diau kni zyun yu
 調研人員	diau gni zyun yu
+調研人員	diau kni zyun yu
 調集	diau jiq
 諄諄教導	tsyun tsyun ciau dau
 諄諄教誨	tsyun tsyun ciau huei
@@ -30850,8 +30856,8 @@ use_preset_vocabulary: true
 護耳	wu er
 讀了	doq laq
 讀大學	doq da ghoq
-讀研究生	doq kni cieu san
 讀研究生	doq gni cieu san
+讀研究生	doq kni cieu san
 讀萬卷書行萬里路	doq vae ciu syu yin vae li lu
 變不了	pi paq liau
 變了	pi laq
@@ -31777,6 +31783,9 @@ use_preset_vocabulary: true
 轉口貿易	tsoe kheu meu yiq
 轉向架	tsoe shian ko
 轉售他人	tsoe jieu tha gnin
+轉嫁	tsoe cia
+轉嫁到	tsoe cia tau
+轉嫁給	tsoe cia ciq
 轉學生	tsoe ghoq san
 轉差	tsoe tsha
 轉差率	tsoe tsha liq
@@ -32167,8 +32176,8 @@ use_preset_vocabulary: true
 進行比較	cin yin pi ciau
 進行着	cin yin dzoq
 進行着	cin yin zyuq
-進行研究	cin yin kni cieu
 進行研究	cin yin gni cieu
+進行研究	cin yin kni cieu
 進行編程	cin yin pi jin
 進行調整	cin yin diau cin
 進行調查	cin yin diau dzo
