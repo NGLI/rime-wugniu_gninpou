@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.06.06"
+version: "2020.06.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3473,7 +3473,8 @@ use_preset_vocabulary: true
 個核	goq ghaq
 個案	kou EI
 個案分析	kou EI fen shiq
-個案研究	kou EI GNi cieu
+個案研究	kou EI kni cieu
+個案研究	kou EI gni cieu
 個案紀錄	kou EI ci loq
 個樣	ghoq yan
 個樣	goq yan
@@ -5254,7 +5255,8 @@ use_preset_vocabulary: true
 分析心理學	fen shiq shin li yuq
 分析方法	fen shiq faon faq
 分析法	fen shiq faq
-分析研究	fen shiq GNi cieu
+分析研究	fen shiq kni cieu
+分析研究	fen shiq gni cieu
 分析處理	fen shiq tshyu li
 分析語	fen shiq gniu
 分枝	fen tsy
@@ -7487,7 +7489,8 @@ use_preset_vocabulary: true
 可行	khou yin
 可行之道	khou yin tsy dau
 可行性	khou yin shin
-可行性研究	khou yin shin GNi cieu
+可行性研究	khou yin shin kni cieu
+可行性研究	khou yin shin gni cieu
 可被	khou bei
 可貴	khou kuei
 可貴性	khou kuei shin
@@ -12084,8 +12087,10 @@ use_preset_vocabulary: true
 學術獎	yuq zyuq cian
 學術界	yuq zyuq ka
 學術界人士	yuq zyuq ka zyun zy
-學術研究	yuq zyuq GNi cieu
-學術研討會	yuq zyuq GNi thau wei
+學術研究	yuq zyuq kni cieu
+學術研究	yuq zyuq gni cieu
+學術研討會	yuq zyuq kni thau wei
+學術研討會	yuq zyuq gni thau wei
 學術科	yuq zyuq khou
 學術組	yuq zyuq tsu
 學術網路	yuq zyuq maon lu
@@ -17005,10 +17010,14 @@ use_preset_vocabulary: true
 教益	ciau iq
 教着	kau dzoq
 教着	kau zyuq
-教研	ciau GNi
-教研員	ciau GNi yu
-教研室	ciau GNi syuq
-教研組	ciau GNi tsu
+教研	ciau kni
+教研	ciau gni
+教研員	ciau kni yu
+教研員	ciau gni yu
+教研室	ciau kni syuq
+教研室	ciau gni syuq
+教研組	ciau kni tsu
+教研組	ciau gni tsu
 教科文	ciau khou ven
 教科文組織	ciau khou ven tsu ciq
 教科書	ciau khou syu
@@ -17687,7 +17696,8 @@ use_preset_vocabulary: true
 日本共產黨	zyuq pen gon tshae taon
 日本刀	zyuq pen tau
 日本化	zyuq pen huo
-日本原子能研究所	zyuq pen gniu tsy nen GNi cieu so
+日本原子能研究所	zyuq pen gniu tsy nen kni cieu so
+日本原子能研究所	zyuq pen gniu tsy nen gni cieu so
 日本史	zyuq pen sy
 日本國	zyuq pen koq
 日本國誌	zyuq pen koq tsy
@@ -23697,7 +23707,8 @@ use_preset_vocabulary: true
 產兒	tshae er
 產出率	tshae tshyuq liq
 產學合作	tshae yuq ghaq tsoq
-產學研	tshae yuq GNi
+產學研	tshae yuq gni
+產學研	tshae yuq kni
 產業工人	tshae gniq kon gnin
 產業集羣	tshae gniq jiq jiun
 產狀	tshae dzaon
@@ -24808,11 +24819,16 @@ use_preset_vocabulary: true
 砍壞	khae ua
 砍大山	khae da sae
 砍死	khae sy
-研發人員	GNi faq zyun yu
-研究人員	GNi cieu zyun yu
-研究現狀	GNi cieu yi dzaon
-研究生	GNi cieu san
-研究生院	GNi cieu san yu
+研發人員	kni faq zyun yu
+研發人員	gni faq zyun yu
+研究人員	kni cieu zyun yu
+研究人員	gni cieu zyun yu
+研究現狀	kni cieu yi dzaon
+研究現狀	gni cieu yi dzaon
+研究生	kni cieu san
+研究生	gni cieu san
+研究生院	kni cieu san yu
+研究生院	gni cieu san yu
 砥節礪行	ti ciq li yin
 破了	phou lei
 破了臉	phou laq li
@@ -24991,7 +25007,8 @@ use_preset_vocabulary: true
 神學士	zyun yuq zy
 神學家	zyun yuq cia
 神學生	zyun yuq san
-神學研究所	zyun yuq GNi cieu so
+神學研究所	zyun yuq kni cieu so
+神學研究所	zyun yuq gni cieu so
 神學院	zyun yuq yu
 神家園	zyun cia yu
 神州大陸	zyun cieu da loq
@@ -25151,7 +25168,8 @@ use_preset_vocabulary: true
 科學界	khou yuq ka
 科學的交流	khou yuq tiq ciau lieu
 科學知識	khou yuq tsyu shiq
-科學研究	khou yuq GNi cieu
+科學研究	khou yuq kni cieu
+科學研究	khou yuq gni cieu
 科學社會主義	khou yuq dzo wei tsyu gni
 科學種田	khou yuq tson di
 科學管理	khou yuq kun li
@@ -25182,7 +25200,8 @@ use_preset_vocabulary: true
 科爾沁左翼中	khou er chin tsou yiq tson
 科爾沁左翼中旗	khou er chin tsou yiq tson ji
 科爾沁左翼後旗	khou er chin tsou yiq gheu ji
-科研人員	khou GNi zyun yu
+科研人員	khou kni zyun yu
+科研人員	khou gni zyun yu
 科羅娜	khou lou na
 科羅拉多	khou lou lha tou
 科羅拉多大峽谷	khou lou lha tou da ciaq koq
@@ -27346,7 +27365,8 @@ use_preset_vocabulary: true
 自主招生	zy tsyu ciau san
 自主旅遊	zy tsyu li yeu
 自主權	zy tsyu jiu
-自主研發	zy tsyu GNi faq
+自主研發	zy tsyu gni faq
+自主研發	zy tsyu kni faq
 自主神經	zy tsyu zyun cin
 自主系統	zy tsyu shi thon
 自主遊	zy tsyu yeu
@@ -30655,7 +30675,8 @@ use_preset_vocabulary: true
 調查問卷	diau dzo ven ciu
 調查範圍	diau dzo vae wei
 調皮鬼	diau bi kuei
-調研人員	diau GNi zyun yu
+調研人員	diau kni zyun yu
+調研人員	diau gni zyun yu
 調集	diau jiq
 諄諄教導	tsyun tsyun ciau dau
 諄諄教誨	tsyun tsyun ciau huei
@@ -30829,7 +30850,8 @@ use_preset_vocabulary: true
 護耳	wu er
 讀了	doq laq
 讀大學	doq da ghoq
-讀研究生	doq GNi cieu sen
+讀研究生	doq kni cieu san
+讀研究生	doq gni cieu san
 讀萬卷書行萬里路	doq vae ciu syu yin vae li lu
 變不了	pi paq liau
 變了	pi laq
@@ -32145,7 +32167,8 @@ use_preset_vocabulary: true
 進行比較	cin yin pi ciau
 進行着	cin yin dzoq
 進行着	cin yin zyuq
-進行研究	cin yin GNi cieu
+進行研究	cin yin kni cieu
+進行研究	cin yin gni cieu
 進行編程	cin yin pi jin
 進行調整	cin yin diau cin
 進行調查	cin yin diau dzo
