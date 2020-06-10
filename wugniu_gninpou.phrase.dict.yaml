@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.07"
+version: "2020.06.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -88,7 +88,6 @@ use_preset_vocabulary: true
 涴泥脾氣	ou gni bi chi	55
 涴賴脾氣	ou la bi chi	55
 涴臭	ou chieu	55
-涴忮出	ou ji tshyuq	55
 涴背出	ou bei tshyuq	55
 涴懶出	ou lae tshyuq	55
 涴衲一樣	ou naq iq yan	55
@@ -2174,7 +2173,7 @@ use_preset_vocabulary: true
 死蟹還會吹白	shi ha wa wei tshyu baq
 炭蒲帽越戴	thae bu mau yuq ta
 走路越快
-頭𢺵𢺵
+頭纏纏
 腳蹁蹁
 丫臉犯落勿認人	o li vae loq vaq gnin gnin
 眼睛眯牢
@@ -7687,6 +7686,17 @@ use_preset_vocabulary: true
 捼癆槽	ou lau zau
 釘子	tin tsy
 拄牢	tsyu lau
+纏頭鵝	ji deu ngou	55
+纏頭	ji deu
+纏笡	ji chia	55
+纏歪	ji hua	55
+歪七纏八	hua chiq ji paq	55
+硬拗纏	ngan au ji	55
+硬絞纏	ngan gau ji	55
+纏頓頓	ji ten ten	55
+涴纏出	ou ji tshyuq	55
+屙纏出	ou ji tshyuq	55
+纏話	ji wo	55
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
