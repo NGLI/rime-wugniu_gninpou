@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.10"
+version: "2020.06.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22124,8 +22124,7 @@ s	迡	gni
 泥鏽	li shieu	55
 塳塵	bon jin	55
 邋颯	laq saq	55
-漬子	ciq tsy	55
-漬足	ciq tsoq	55
+漬子	ciq tsy	418
 炭蒲帽	thae bu mau	55
 響動	shian don
 響米花	shian mi huo	55
@@ -24006,7 +24005,7 @@ s	迡	gni
 墨漆斯暗	moq tshaq sy EI	55
 漆暗墨朧	tshaq EI moq lon	55
 漆暗卜朧	tshaq EI boq lon	55
-暗黢黢	EI tshyuq tshyuq	55
+暗黢黢	EI tshyuq tshyuq	578
 暗洞洞	EI don don	55
 暗寸寸	EI tshen tshen	55
 暗笛卜朧	EI diq boq lon	55
@@ -27751,7 +27750,6 @@ s	迡	gni
 暗弄慫	EI lon son	55
 暗笛薄龍	EI diq boq lon	55
 暗鐵撲龍	EI thiq phoq lon	55
-暗出出	EI tshyuq tshyuq	578
 桂皮	kuei bi
 桂圓	kuei yu
 桂圓肉	kuei yu gnioq	55
@@ -30253,7 +30251,6 @@ s	迡	gni
 栗子肉	liq tsy gnioq	55
 癧子頸	liq tsy cin	55
 汁水湯	ciq syu thaon	55
-跡浞	ciq tsoq	55
 急鼓鼓	ciq ku ku	55
 急驚風	ciq cin fon
 脊柱骨	ciq dzyu kuaq	55

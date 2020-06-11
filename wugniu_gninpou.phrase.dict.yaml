@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.10"
+version: "2020.06.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -413,6 +413,7 @@ use_preset_vocabulary: true
 謳爾𢜭力𡀂	eu ng jiaq liq lei
 跑春	phau tshyun	55
 飯𣖄骨	vae chiau kuaq	55
+漬浞	ciq tsoq	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
