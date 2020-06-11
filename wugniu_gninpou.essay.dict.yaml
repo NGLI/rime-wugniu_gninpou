@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.06.10"
+version: "2020.06.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -18267,6 +18267,7 @@ use_preset_vocabulary: true
 暮雨朝雲	mou yu ciau yun
 暴屍於市	boq sy yu zy
 暴死	bau sy
+暴虎馮河	bau fu bin ghou
 暴行	bau yin
 暴露文學	bau lu ven yuq
 暹羅人	shi lou gnin
@@ -18654,6 +18655,7 @@ use_preset_vocabulary: true
 月墜花折	yuq dzei huo ciq
 月尾	yuq vi
 月曜日	yuq yau zyuq
+月氏	yuq tsy
 月氏人	yuq tsy gnin
 月眉	yuq mei
 月落參橫	yuq loq sen wan
@@ -33526,6 +33528,8 @@ use_preset_vocabulary: true
 鐵石人	thiq zaq gnin
 鐵路局長	thiq lu jiuq cian
 鐵錘	thiq zei
+鐺底焦飯	tshan ti ciau vae
+鐺頭	tshan deu
 鑄下大錯	tsyu gho da tshou
 鑄人	tsyu gnin
 鑄成大錯	tsyu jin da tshou
@@ -35762,6 +35766,7 @@ use_preset_vocabulary: true
 餅乾店	pin kI ti
 餅乾盒	pin kI ghaq
 餅狀圖	pin dzaon du
+餅鐺	pin tshan
 養了	ian laq
 養人	ian gnin
 養兒防老	ian er baon lau
@@ -36662,6 +36667,7 @@ use_preset_vocabulary: true
 鼎盛時期	tin zhin zy ji
 鼎盛期	tin zhin ji
 鼎足三分	tin tsoq sae fen
+鼎鐺玉石	tin tshan gnioq zaq
 鼎鼎大名	tin tin da min
 鼓勵學生	ku li ghoq san
 鼓吹	ku tshei
