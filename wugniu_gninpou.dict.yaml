@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.11"
+version: "2020.06.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30260,8 +30260,8 @@ s	迡	gni
 結冰	ciq pin
 結髮夫妻	ciq faq fu chi
 摺扇	ciq shi
-折傘	ciq sae	55
-折襉	ciq kae	55
+摺傘	ciq sae	55
+摺襉	ciq kae	55
 摺尺	ciq tshaq
 羯豬	ciq tsyu	55
 羯雞	ciq ci	55
