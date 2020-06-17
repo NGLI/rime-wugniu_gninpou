@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.14"
+version: "2020.06.17"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5771,6 +5771,8 @@ s	迡	gni
 甙	de
 黱	de
 來	ne	0%
+奶	ne	0%
+嬭	ne	0%
 耐	ne
 螚	ne
 廿	nE
@@ -15714,6 +15716,7 @@ s	迡	gni
 妳	ng	5%
 伱	ng	5%
 俉	ng	121622
+嗯	ng
 孲	nk
 嗯	nk
 唔	nk
