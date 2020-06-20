@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.19"
+version: "2020.06.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7739,6 +7739,8 @@ use_preset_vocabulary: true
 倷卜	na poq
 哭作無賴	khoq tshoq vu la
 哭作無賴	khoq tshoq Wu la
+拆家棚	tshaq ko ban
+家棚精	ko ban cin
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
