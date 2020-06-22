@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.19"
+version: "2020.06.22"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2709,7 +2709,7 @@ s	迡	gni
 厭	i
 饜	i
 厴	i
-晏	i	1%
+晏	i	55
 鷃	i
 椻	i
 騴	i

@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.20"
+version: "2020.06.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7741,6 +7741,7 @@ use_preset_vocabulary: true
 哭作無賴	khoq tshoq Wu la
 拆家棚	tshaq ko ban
 家棚精	ko ban cin
+延晏	yi ae
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
@@ -14551,7 +14552,7 @@ VCD	vi shi di
 海星小區
 海星村
 海星路
-海晏路
+海晏路	he i lu
 海晨園
 海景東苑
 海景花園
