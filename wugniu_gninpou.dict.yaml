@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.22"
+version: "2020.06.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -18511,6 +18511,7 @@ s	迡	gni
 壳	khoq
 个	goq
 搁	goq
+颚	ngoq
 锷	ngoq
 谔	ngoq
 鹗	ngoq
