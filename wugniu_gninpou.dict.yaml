@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.24"
+version: "2020.07.03"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -19494,7 +19494,6 @@ s	迡	gni
 討飯坯	thau vae phei	55
 叫花子	kau huo tsy
 強討飯	jian thau vae	55
-撮佬	tshaq lau	418
 充手	tshon shieu	418
 三隻手	sae tsaq shieu
 賊骨頭	zaq kuaq deu	578
@@ -19641,7 +19640,6 @@ s	迡	gni
 貨場	hou jian
 小鬼	shiau ciu
 小棺材	shiau kun ze	55
-小撮佬	shiau tshaq lau	55
 小人頭腦	shiau gnin deu nau	55
 兒子	ng tsy
 呆大兒子	nge dou ng tsy	418
