@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.06.22"
+version: "2020.07.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -714,7 +714,7 @@ use_preset_vocabulary: true
 跌落金釵埠頭下	tiq loq cin tsho bu deu gho
 跌落金釵埠頭下	toq loq cin tsho bu deu gho
 航船埠頭軋出人	ghaon ZOE bu deu gaq tshyuq gnin
-河埠頭⿰氵丈衣裳	ghou bu deu jian i zaon
+河埠頭滰衣裳	ghou bu deu jian i zaon
 河埠頭講阿婆	ghou bu deu kaon aq bou
 唸經堂講新婦
 小白河頭
@@ -2615,9 +2615,9 @@ use_preset_vocabulary: true
 出張嘴巴	tshyuq jian tsyu po
 出張嘴巴	tshyuq cian tsyu po
 六月六
-黃狗貓⿰氵丈肉	wu kI mae jian gnioq
-黃狗貓⿰氵丈肉	waon kI mae jian gnioq
-黃狗貓⿰氵丈肉	waon keu mae jian gnioq
+黃狗貓滰肉	wu kI mae jian gnioq
+黃狗貓滰肉	waon kI mae jian gnioq
+黃狗貓滰肉	waon keu mae jian gnioq
 阿婆嘔我做人客	aq bou eu ngo tsou gnin khaq
 老公嘔我拗腰骨
 喫飯打先鋒
@@ -5304,7 +5304,6 @@ use_preset_vocabulary: true
 射哚哚尿	dza to to syu
 𠑞哚哚尿	dza to to syu
 手手
-⿰氵丈手手	jian shieu shieu
 滰手手
 嘎嘎鴨	ga ga ae
 嘵嘵豬	gniau gniau tsyu
