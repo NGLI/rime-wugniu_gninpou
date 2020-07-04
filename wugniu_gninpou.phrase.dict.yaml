@@ -414,6 +414,8 @@ use_preset_vocabulary: true
 跑春	phau tshyun	55
 飯𣖄骨	vae chiau kuaq	55
 漬浞	ciq tsoq	55
+遲早點	dzy tsau ti
+遲了百遲	dzy liau paq dzy
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -649,6 +651,9 @@ use_preset_vocabulary: true
 跌落了	toq loq lei	55
 跌落𡀂	toq loq lei	55
 指甲深	tsy khaq shin	55
+池塘	dzy daon
+大池	dou dzy
+遲發人	dzy faq gnin
 
 # 其他詞彙
 
@@ -804,6 +809,7 @@ use_preset_vocabulary: true
 張家瀛	cian ko yin
 貫橋頭
 大池頭	dou ji deu
+大池頭	dou dzy deu
 聖旨亭跟
 汪家宅跟	uaon ko dzaq ken
 崔衙前
@@ -5709,6 +5715,8 @@ use_preset_vocabulary: true
 簡余晏	ci yu i
 茶遲飯晏	dzo ji vae i
 茶遲飯晏	dzo ji vae ae
+茶遲飯晏	dzo dzy vae i
+茶遲飯晏	dzo dzy vae ae
 言笑晏晏	yi shiau i i
 # 忖
 忖一忖
@@ -7397,7 +7405,8 @@ use_preset_vocabulary: true
 得力文具
 舜宇
 雙鹿
-雙鹿電池
+雙鹿電池	saon loq di ji
+雙鹿電池	saon loq di dzy
 太平鳥	tha bin gniau
 博洋
 博洋家紡	poq yan cia faon
@@ -8419,6 +8428,7 @@ use_preset_vocabulary: true
 兩號人物	lian ghau zyun vaq
 兩號機	lian ghau ci
 兩號電池	lian ghau di ji
+兩號電池	lian ghau di dzy
 兩街	lian ka
 二話勿講	gni wo vaq kaon
 二話弗講	gni wo vaq kaon
@@ -12336,7 +12346,8 @@ VCD	vi shi di
 大橋敬老院	dou jiau cin lau yu
 大橋街	dou jiau ka
 大步街	da bu ka
-大池墩水庫
+大池墩水庫	dou ji ten syu khu
+大池墩水庫	dou dzy ten syu khu
 大汪路
 大河	da ghou
 大河南路	da ghou nEI lu
@@ -13849,6 +13860,7 @@ VCD	vi shi di
 東海花園
 東海菜市場
 東海蓄電池公司	ton he shiuq di ji kon sy
+東海蓄電池公司	ton he shiuq di dzy kon sy
 東海集團	ton he jiq doe
 東港新村
 東湖花園

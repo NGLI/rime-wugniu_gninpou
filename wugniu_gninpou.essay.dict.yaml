@@ -155,6 +155,7 @@ use_preset_vocabulary: true
 一般貿易	iq pae meu yiq
 一萬人	iq vae gnin
 一萬個	iq vae goq
+一號電池	iq ghau di dzy
 一號電池	iq ghau di ji
 一行	iq ghaon
 一行	iq yin
@@ -228,6 +229,7 @@ use_preset_vocabulary: true
 七歲	chiq syu
 七百人	chiq paq gnin
 七級浮屠	chiq ciq vu du
+七號電池	chiq ghau di dzy
 七號電池	chiq ghau di ji
 七行	chiq ghaon
 七行詩	chiq ghaon sy
@@ -341,6 +343,7 @@ use_preset_vocabulary: true
 三萬人	sae vae gnin
 三萬個	sae vae goq
 三萬兩千	sae vae lian chi
+三號電池	sae ghau di dzy
 三號電池	sae ghau di ji
 三行	sae ghaon
 三角學	sae koq yuq
@@ -1514,6 +1517,7 @@ use_preset_vocabulary: true
 乾雲蔽日	kI yun bi zyuq
 乾雷	kI lei
 乾電	kI di
+乾電池	kI di dzy
 乾電池	kI di ji
 乾霍亂	kI hoq loe
 乾颱	kI de
@@ -1859,6 +1863,7 @@ use_preset_vocabulary: true
 五萬人	ng vae gnin
 五萬個	ng vae goq
 五蘊熾盛苦	ng iun tsy zhin khu
+五號電池	ng ghau di dzy
 五號電池	ng ghau di ji
 五行	ng ghaon
 五行	ng yin
@@ -4208,7 +4213,6 @@ use_preset_vocabulary: true
 先進國家	shi cin koq cia
 先進生產者	shi cin sen tshae tse
 先進集體	shi cin jiq thi
-先馳得點	shi dzy taq ti
 光了	kuaon laq
 光了	kuaon lei
 光了了	kuaon liau liau
@@ -4254,6 +4258,7 @@ use_preset_vocabulary: true
 光豔動人	kuaon yi don gnin
 光電二極	kuaon di er jiq
 光電二極管	kuaon di er jiq kun
+光電池	kuaon di dzy
 光電池	kuaon di ji
 克什米爾	khaq zyuq mi er
 克倫威爾	khaq len uei er
@@ -6439,6 +6444,7 @@ use_preset_vocabulary: true
 化學能	huo yuq nen
 化學變化	huo yuq pi huo
 化學鍵	huo yuq ji
+化學電池	huo yuq di dzy
 化學電池	huo yuq di ji
 化學需氧量	huo yuq syu yan lian
 化日	huo gniq
@@ -7000,6 +7006,7 @@ use_preset_vocabulary: true
 原自	gniu zy
 原被告	gniu bei kau
 原鄉人	gniu shian gnin
+原電池	gniu di dzy
 原電池	gniu di ji
 厭世	i syu
 厲娜	li na
@@ -7937,7 +7944,6 @@ use_preset_vocabulary: true
 周大福	cieu da foq
 周家	cieu ko
 周易	cieu yi
-周星馳	cieu shin dzy
 周朝	cieu ciau
 周樹人	cieu zyu zyun
 周率	cieu liq
@@ -8746,6 +8752,7 @@ use_preset_vocabulary: true
 四萬人	sy vae gnin
 四萬個	sy vae goq
 四處張望	sy tshyu cian vaon
+四號電池	sy ghau di dzy
 四號電池	sy ghau di ji
 四行	sy ghaon
 四集	sy jiq
@@ -11386,8 +11393,11 @@ use_preset_vocabulary: true
 太阿倒持	tha ou tau dzy
 太阿倒持	tha ou tau ji
 太陽照在桑乾河上	tha yan ciau dze saon kI ghou zaon
+太陽能電池	tha yan nen di dzy
 太陽能電池	tha yan nen di ji
+太陽電池	tha yan di dzy
 太陽電池	tha yan di ji
+太陽電池板	tha yan di dzy pae
 太陽電池板	tha yan di ji pae
 夫人	fu gnin
 夫妻之間	fu chi tsy ci
@@ -15351,6 +15361,7 @@ use_preset_vocabulary: true
 手拉葫蘆	shieu lha wu lu
 手拿	shieu no
 手指甲	shieu tsy khaq
+手機電池	shieu ci di dzy
 手機電池	shieu ci di ji
 手無縛雞之力	shieu Wu bou ci tsy liq
 手無縛雞之力	shieu vu bou ci tsy liq
@@ -15481,6 +15492,7 @@ use_preset_vocabulary: true
 扣啊	kheu a
 扣啊	kheu gha
 扣問	kheu men
+扣式電池	kheu shiq di dzy
 扣式電池	kheu shiq di ji
 扣牌	kheu ba
 扣率	kheu liq
@@ -22809,6 +22821,7 @@ use_preset_vocabulary: true
 熱鬧哄哄	gniq nau hon hon
 熱點問題	gniq ti ven di
 熾盛	tsy zhin
+燃料電池	zoe liau di dzy
 燃料電池	zoe liau di ji
 燃爆	zoe bau
 燃眉	zoe mei
@@ -27524,6 +27537,7 @@ use_preset_vocabulary: true
 背逆	pei gniq
 背運	pei yun
 背道而馳	pei dau er dzy
+背道而馳	pei dau er ji
 背部	pei bu
 背闊肌	pei khuaq ci
 背離	pei li
@@ -29230,6 +29244,7 @@ use_preset_vocabulary: true
 蒼耳	tshaon er
 蒼顏	tshaon yi
 蓄長髮	shiuq jian faq
+蓄電池	shiuq di dzy
 蓄電池	shiuq di ji
 蓋世	ke syu
 蓋世之才	ke syu tsy dze
@@ -33740,6 +33755,7 @@ use_preset_vocabulary: true
 釣個	tiau goq
 釣去	tiau chi
 鈍學累功	den yuq lei kon
+鉛酸蓄電池	khae soe shiuq di dzy
 鉛酸蓄電池	khae soe shiuq di ji
 鉛錘	khae zei
 鉤了	keu laq
@@ -33804,7 +33820,9 @@ use_preset_vocabulary: true
 鋪家	phu cia
 鋪的	phu tiq
 鋪行	phu ghaon
+鋰離子電池	li li tsy di dzy
 鋰離子電池	li li tsy di ji
+鋰電池	li di dzy
 鋰電池	li di ji
 鋸下	ciu gho
 鋸下來	ciu gho le
@@ -35413,8 +35431,6 @@ use_preset_vocabulary: true
 集體防護	jiq thi baon wu
 集體防護	jiq thi vaon wu
 集體領導	jiq thi lin dau
-雉尾	dzy vi
-雉尾	ji vi
 雌伏	tshy voq
 雌雄同體人	tshy yon don thi gnin
 雌雄莫辨	tshy yon moq bi
@@ -35691,9 +35707,13 @@ use_preset_vocabulary: true
 電教	di ciau
 電料行	di liau ghaon
 電梯間	di thi kae
+電池	di dzy
 電池	di ji
+電池廠	di dzy chian
 電池廠	di ji chian
+電池板	di dzy pae
 電池板	di ji pae
+電池組	di dzy tsu
 電池組	di ji tsu
 電燈架	di ten ko
 電磁學	di dzy yuq
