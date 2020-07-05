@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.04"
+version: "2020.07.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7750,6 +7750,10 @@ use_preset_vocabulary: true
 拆家棚	tshaq ko ban
 家棚精	ko ban cin
 延晏	yi ae
+嵌餡子
+嵌牢
+嵌進
+嵌的
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
