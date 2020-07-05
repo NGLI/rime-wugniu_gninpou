@@ -2660,7 +2660,6 @@ s	迡	gni
 郾	i
 鶠	i
 𥀬	i
-⿱厭肉	i
 魘	i
 檿	i
 黶	i
@@ -3981,8 +3980,6 @@ s	迡	gni
 傺	tsha
 咋	dza	100000
 咱	dza
-⿸尸查	dza
-⿸尸咋	dza
 撒	dza	1%
 射	dza	5%
 𠑞	dza
@@ -4466,8 +4463,6 @@ s	迡	gni
 碯	nau
 閙	nau
 鬧	nau
-⿰閙	nau
-⿰鬧	nau
 踔	nau
 淖	nau
 橈	nau
@@ -5050,7 +5045,6 @@ s	迡	gni
 下	gho
 丅	gho
 嗄	gho
-⿰飠夏	gho
 夏	gho
 暇	gho	1%
 丫	o
@@ -5456,7 +5450,7 @@ s	迡	gni
 鴞	shiau
 呺	shiau
 囂	shiau
-⿰扌囂	shiau
+𢳚	shiau
 嚻	shiau
 虈	shiau
 梟	shiau
@@ -9083,7 +9077,6 @@ s	迡	gni
 暢	chian
 畼	chian
 熗	chian
-⿰鹵倉	chian
 愴	chian
 𪉨	chian
 唴	chian
@@ -16233,7 +16226,6 @@ s	迡	gni
 恹	i
 𫚢	i
 𪠏	i
-⿱厌肉	i
 魇	i
 黡	i
 镱	i
@@ -16565,7 +16557,6 @@ s	迡	gni
 恼	nau
 垴	nau
 闹	nau
-⿰闹	nau
 桡	nau
 劳	lau
 涝	lau
@@ -16641,7 +16632,6 @@ s	迡	gni
 赊	so
 厦	so
 价	ko	0%
-⿰饣夏	gho
 桠	o
 鸦	o
 垩	o
@@ -16747,7 +16737,7 @@ s	迡	gni
 缫	shiau
 鸮	shiau
 嚣	shiau
-⿰扌嚣	shiau
+𫽐	shiau
 枭	shiau
 骁	shiau
 𢙒	shiau
@@ -17504,7 +17494,6 @@ s	迡	gni
 畅	chian
 𪽈	chian
 炝	chian
-⿰卤仓	chian
 怆	chian
 肠	jian
 详	jian
@@ -19720,8 +19709,6 @@ s	迡	gni
 喫口	chioq kheu	55
 拖鼻頭	thou baq deu	55
 哭作包	khoq tsoq pau	55
-⿸尸咋屙樸	dza ou phoq	55
-⿸尸咋尿樸	dza syu phoq	55
 褪褲阿大	then khu aq dou	55
 借八利	cia paq li	55
 四隻眼	sy tsaq ngae	55
@@ -20020,7 +20007,6 @@ s	迡	gni
 大尿	dou syu	55
 大尿血	dou syu shiuq	55
 鏖糟	au tsau	418
-尿⿸尸咋	syu dza	55
 黃汗	waon ghEI	55
 卵子	loe tsy
 卵子	loe tsyu
@@ -20474,8 +20460,6 @@ s	迡	gni
 榨麪	tso mi	55
 澆頭	ciau deu
 下飯	gho vae
-嗄飯	gho vae
-⿰飠夏飯	gho vae	55
 素下飯	su gho vae	55
 葷下飯	huen gho vae	55
 大下飯	dou gho vae	55
@@ -20566,10 +20550,7 @@ s	迡	gni
 蟛蚏蟹	baon gniu ha	55
 毛蟹	mau ha
 稻蟹	dau ha	55
-⿰鹵倉蟹	chian ha	55
 鹹蟹	ghae ha	55
-鹹⿰鹵倉蟹	ghae chian ha	55
-紅膏⿰鹵倉蟹	ghon kau chian ha	55
 蟹醬	ha cian
 蟹糊	ha wu	55
 蟹股	ha ku	55
@@ -20591,7 +20572,6 @@ s	迡	gni
 水蝦	syu huo	55
 白米飯蝦	baq mi vae huo	55
 糯米飯蝦	nou mi vae huo	55
-⿰鹵倉蝦	chian huo	55
 醉蝦	tsei huo	55
 箬鰨	gnioq thaq	55
 鰙鰨	gnioq thaq	55
@@ -22285,13 +22265,6 @@ s	迡	gni
 落夜	loq ya	55
 宿夜	soq ya	418
 曬日頭菩	sa gniq deu bu	55
-⿸尸咋屙	dza ou	55
-⿸尸咋尿	dza syu	55
-⿸尸咋屁	dza phi	55
-⿸尸咋屙出	dza ou tshyuq	55
-屙⿸尸咋出	ou dza tshyuq	55
-⿸尸咋尿出	dza syu tshyuq	55
-尿⿸尸咋出	syu dza tshyuq	55
 揩屁眼	kae phi ngae	55
 揩屁股	kae phi ku	55
 揩屙屁眼	kae ou phi ngae	55
@@ -22329,11 +22302,6 @@ s	迡	gni
 𢪂痚駝	da hau dou	55
 喫熱	chioq gniq	578
 發痧氣	faq so chi	55
-肚皮⿸尸咋	du bi dza	55
-⿸尸咋肚皮	dza du bi	55
-⿸尸咋爛屙	dza lae ou	55
-⿸尸咋爛薄屙	dza lae boq ou	55
-⿸尸咋痢疾	dza li jiq	55
 疰夏	tsyu gho	55
 疰車	tsyu tsho	55
 疰浪	tsyu laon	55
@@ -25602,7 +25570,6 @@ s	迡	gni
 荔枝	li ci
 旅社	li dzo
 旅遊鞋	li yeu gha
-痢疾⿸尸查	li jiq dza	55
 楝樹	li zyu	55
 裏間	li kae
 裏角落頭	li koq loq deu	55
@@ -25926,7 +25893,6 @@ s	迡	gni
 杜勒克	du laq khaq	55
 杜勒克牌	du laq khaq ba	55
 杜勒克牌	du laq khaq bae	55
-肚皮⿸尸查	du bi dza	55
 肚皮痛	du bi thon	55
 肚臍眼	du ji ngae
 肚繃	du pan	55
@@ -26210,15 +26176,6 @@ s	迡	gni
 癩頭花	la deu huo	55
 癩頭兒子	la deu ng tsy	55
 癩蛤蚆	la kaq po	55
-⿸尸查尿	dza syu	55
-⿸尸查屁蟲	dza phi dzon	55
-⿸尸查痢疾	dza li jiq	55
-⿸尸查肚皮	dza du bi	55
-⿸尸查尿撲	dza syu phoq	55
-⿸尸查爛屙	dza lae ou	55
-⿸尸查屙	dza ou	55
-⿸尸查屙撲	dza ou phoq	55
-⿸尸查屙出	dza ou tshyuq	55
 咋依八𠡒	dza i paq tei	55
 咋貌介	dza mau ka	25000
 咋貌介	dza mau kaq	25000
