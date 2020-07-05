@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.04"
+version: "2020.07.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -4239,6 +4239,7 @@ s	迡	gni
 快	khua
 噲	khua
 懷	gua	0%
+懐	gua	0%
 拐	gua	5%
 嘩	hua
 譁	hua
@@ -4246,9 +4247,12 @@ s	迡	gni
 竵	hua
 還	wa
 懷	wa
+懐	wa
 蘹	wa
 壞	wa
+壊	wa
 壞	ua
+壊	ua
 孬	ua
 歪	ua	0%
 竵	ua	0%
@@ -6604,6 +6608,7 @@ s	迡	gni
 抏	wae
 岏	wae
 懷	wae
+懐	wae
 蘹	wae
 瀤	wae
 櫰	wae
