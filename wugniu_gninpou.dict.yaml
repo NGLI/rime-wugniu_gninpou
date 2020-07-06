@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.05"
+version: "2020.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5450,7 +5450,7 @@ s	迡	gni
 鴞	shiau
 呺	shiau
 囂	shiau
-𢳚	shiau
+𢳚	shiau	578
 嚻	shiau
 虈	shiau
 梟	shiau
