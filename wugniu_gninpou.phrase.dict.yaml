@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.05"
+version: "2020.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -628,6 +628,9 @@ use_preset_vocabulary: true
 池塘	dzy daon
 大池	dou dzy
 遲發人	dzy faq gnin
+其其	ji ji
+滑其其	waq ji ji
+腐其涾剌	vu ji daq laq
 
 # 其他詞彙
 
