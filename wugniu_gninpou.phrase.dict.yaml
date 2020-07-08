@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.06"
+version: "2020.07.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -396,6 +396,8 @@ use_preset_vocabulary: true
 漬浞	ciq tsoq	55
 遲早點	dzy tsau ti
 遲了百遲	dzy liau paq dzy
+邊頭邊尾	pi deu pi mi	55
+角頭角尾	koq deu koq mi	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -631,6 +633,7 @@ use_preset_vocabulary: true
 其其	ji ji
 滑其其	waq ji ji
 腐其涾剌	vu ji daq laq
+碗頭碗尾	un deu un mi
 
 # 其他詞彙
 

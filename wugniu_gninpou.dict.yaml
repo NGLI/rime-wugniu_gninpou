@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.06"
+version: "2020.07.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -18905,7 +18905,6 @@ s	迡	gni
 邊沿	pi yi
 旁邊	baon pi
 旁邊頭	baon pi deu	55
-邊頭邊面	pi deu pi mi	55
 坒頭外	bi deu nga	55
 口頭	kheu deu
 橫頭	wan deu	418
@@ -18936,8 +18935,6 @@ s	迡	gni
 蕩隻角	daon tsaq koq	55
 角落頭	koq loq deu	55
 單角落頭	tae koq loq deu	55
-各頭各面	koq deu koq mi	55
-角頭角面	koq deu koq mi	55
 角角落落	koq koq loq loq	55
 晐到各處	ghEI tau koq tshyu	418
 晐到各采	ghEI tau koq tshe	418
@@ -28730,7 +28727,6 @@ s	迡	gni
 緩拖拖	wun thou thou	55
 碗底	un ti	55
 碗爿	un bae	55
-碗頭碗麪	un deu un mi	55
 碗行	un ghaon	55
 碗桶	un don	55
 碗桌底	un tsoq ti	55
