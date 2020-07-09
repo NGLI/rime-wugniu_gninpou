@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.08"
+version: "2020.07.09"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22920,8 +22920,7 @@ s	迡	gni
 鐵蛋介	thiq dae ka	55
 寬心	khun shin
 定定心心	din din shin shin	55
-𢜭力	jiaq liq	418
-着力	jiaq liq
+着力	jiaq liq	10000
 麻扎	mo tsaq	55
 酸出介	soe tshyuq ka	55
 酸出一樣	soe tshyuq iq yan	55
@@ -25082,10 +25081,6 @@ s	迡	gni
 要儂疙瘩𡀂	iau nou kaq taq lei
 嘔俉疙瘩𡀂	eu ng kaq taq lei
 要俉疙瘩𡀂	iau ng kaq taq lei
-嘔儂𢜭力𡀂	eu nou jiaq liq lei
-要儂𢜭力𡀂	iau nou jiaq liq lei
-嘔俉𢜭力𡀂	eu ng jiaq liq lei
-要俉𢜭力𡀂	iau ng jiaq liq lei
 泛登陸阿二	fae ten loq aq gni
 板板六十四	pae pae loq zyuq sy
 看手㬹子頭	khI shieu tsan tsy deu

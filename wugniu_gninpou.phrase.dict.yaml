@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.08"
+version: "2020.07.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -380,17 +380,11 @@ use_preset_vocabulary: true
 謳儂着力了	eu nou jiaq liq lei
 謳俉着力了	eu ng jiaq liq lei
 謳爾着力了	eu ng jiaq liq lei
-謳儂𢜭力了	eu nou jiaq liq lei
-謳俉𢜭力了	eu ng jiaq liq lei
-謳爾𢜭力了	eu ng jiaq liq lei
 謳儂疙瘩𡀂	eu nou kaq taq lei
 謳俉疙瘩𡀂	eu ng kaq taq lei
 謳儂着力𡀂	eu nou jiaq liq lei
 謳俉着力𡀂	eu ng jiaq liq lei
 謳爾着力𡀂	eu ng jiaq liq lei
-謳儂𢜭力𡀂	eu nou jiaq liq lei
-謳俉𢜭力𡀂	eu ng jiaq liq lei
-謳爾𢜭力𡀂	eu ng jiaq liq lei
 跑春	phau tshyun	55
 飯𣖄骨	vae chiau kuaq	55
 漬浞	ciq tsoq	55
@@ -490,10 +484,6 @@ use_preset_vocabulary: true
 睬爾老白眼	tshe ng lau baq ngae
 睬爾瞎子老白眼	tshe ng haq tsy lau baq ngae
 睬爾阿白哥	tshe ng aq baq kou
-嘔爾𢜭力𡀂	eu ng jiaq liq lei
-要爾𢜭力𡀂	iau ng jiaq liq lei
-嘔爾𢜭力了	eu ng jiaq liq lei
-要爾𢜭力了	iau ng jiaq liq lei
 嘔爾着力𡀂	eu ng jiaq liq lei
 要爾着力𡀂	iau ng jiaq liq lei
 䂻爾肚裏勿得	dzan ng du li vaq taq
@@ -576,13 +566,9 @@ use_preset_vocabulary: true
 肉弗𤿏	gnioq vaq nei	55
 稻大肚了	dau dou du lei	55
 告吵儂了	kau tshau nou lei	55
-要儂𢜭力了	iau nou jiaq liq lei
 飯僵脯了	vae cian bu lei	55
 雷打着了	lei tan zyuq lei	55
 屙榨貓壓牢了	ou tso mae aq lau lei
-嘔儂𢜭力了	eu nou jiaq liq lei
-嘔俉𢜭力了	eu ng jiaq liq lei
-要俉𢜭力了	iau ng jiaq liq lei
 嘔俉着力了	eu ng jiaq liq lei
 要俉着力了	iau ng jiaq liq lei
 將煞了	cian saq lei	55
@@ -2957,8 +2943,6 @@ use_preset_vocabulary: true
 穩篤六株過日腳	uen toq loq tsyu kou gniq ciaq
 矮子會長	a tsy wei jian
 寬寬心
-𢜭力勿賺鈿
-賺鈿勿𢜭力
 嚇勒刮刮抖
 凍勒刮刮抖
 飯喫勒悶飽
@@ -3996,9 +3980,7 @@ use_preset_vocabulary: true
 動雷弗做梅	don lei vaq tsou mei
 做梅弗動雷	tsou mei vaq don lei
 弗是怕老婆	vaq zy pho lau bou
-𢜭力弗賺鈿	jiaq liq vaq dzae di
 着力弗賺鈿	jiaq liq vaq dzae di
-賺鈿弗𢜭力	dzae di vaq jiaq liq
 賺鈿弗着力	dzae di vaq jiaq liq
 上樑弗正	zaon lian vaq cin
 人弄人弄弗煞	gnin lon gnin lon vaq saq
@@ -5582,7 +5564,6 @@ use_preset_vocabulary: true
 交關簡單	ciau kuae ci tae
 交關紅	ciau kuae ghon
 交關着力	ciau kuae jiaq liq
-交關𢜭力	ciau kuae jiaq liq
 交關細	ciau kuae shi
 交關緊	ciau kuae cin
 交關美	ciau kuae mei

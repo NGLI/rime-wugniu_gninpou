@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.07.04"
+version: "2020.07.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25013,6 +25013,8 @@ use_preset_vocabulary: true
 眼鏡架	ngae cin ko
 着三不着兩	ciaq sae paq ciaq lian
 着上	ciaq zaon
+着力	dzoq liq
+着力	zyuq liq
 着火	jiaq hou
 着火點	jiaq hou ti
 着着	dzoq dzoq
