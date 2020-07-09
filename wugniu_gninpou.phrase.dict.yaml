@@ -7251,6 +7251,26 @@ use_preset_vocabulary: true
 解牀	ga zaon
 解琴	ga jin
 解解	ga ga
+# 穿
+穿衣裳
+穿褲
+穿褲子
+穿襯衫
+穿羊絨衫
+穿羊毛衫
+穿兩用衫
+穿棉襖
+穿羽絨衫
+穿棉毛衫
+穿棉毛褲
+穿背心
+穿背單
+穿裙
+穿連衫裙
+穿罩衫
+穿襪
+穿鞋
+穿鞋爿
 # 食物
 倭豆鹹肉糯米飯
 糯米飯
@@ -7680,6 +7700,8 @@ use_preset_vocabulary: true
 搵眼的
 𢳚開
 𢳚開來
+羽絨衫
+羊絨衫
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
