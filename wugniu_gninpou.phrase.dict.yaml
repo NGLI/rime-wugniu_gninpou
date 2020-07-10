@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.09"
+version: "2020.07.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5188,6 +5188,8 @@ use_preset_vocabulary: true
 扁舟	phi cieu
 可汗	khaq ghEI
 天可汗	thi khaq ghEI
+會稽	kuei ci
+會稽山	kuei ci sae
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
