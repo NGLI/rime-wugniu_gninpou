@@ -392,6 +392,15 @@ use_preset_vocabulary: true
 遲了百遲	dzy liau paq dzy
 邊頭邊尾	pi deu pi mi	55
 角頭角尾	koq deu koq mi	55
+搞賺	gau dzae	55
+搞軋	gau gaq	55
+搞腦子	gau nau tsy	55
+搞嘴搞得	gau tsyu gau taq	55
+奧搞	au gau	55
+奧裏奧搞	au li au gau	55
+喫搞勢	chioq gau syu	55
+壓弗煞	aq vaq saq	55
+壓勿煞	aq vaq saq	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -542,7 +551,6 @@ use_preset_vocabulary: true
 對弗住	tei vaq dzyu	55
 對弗起	tei vaq chi	55
 推扳弗起	thei pae vaq chi	55
-打弗殺	tan vaq saq	55
 䂻渠肚裏弗得	dzan ji du li vaq taq
 䂻儂肚裏弗得	dzan nou du li vaq taq
 䂻俉肚裏弗得	dzan ng du li vaq taq
@@ -623,6 +631,10 @@ use_preset_vocabulary: true
 寋叉	ge tsho	55
 寋鈸	ge baq	55
 寋尺板	ge tshaq pae	55
+搞七八	gau chiq paq	55
+疄頭頂	lin deu ten	55
+擱頂	koq ten	55
+屋頭頂	oq deu ten	55
 
 # 其他詞彙
 
@@ -3813,7 +3825,6 @@ use_preset_vocabulary: true
 嘔渠一聲	eu ji iq shin
 話渠一頓	wo ji iq ten
 皇帝老官打渠跔	waon ti lau kun tan ji geu
-皇帝老官打渠𧺤	waon ti lau kun tan ji geu
 䂻進渠肚裏勿得	dzan cin ji du li vaq taq
 䂻進渠肚裏弗得	dzan cin ji du li vaq taq
 渠要怏	ji iau aon
@@ -4061,10 +4072,6 @@ use_preset_vocabulary: true
 言話勿能煞潑	ghae wo vaq nen saq phaq
 言話勿可扎	ghae wo vaq khou tsaq
 講言話慢他他	kaon ghae wo mae than than
-腳𧺤攏
-頭𧺤進
-𧺤指末頭
-皇帝老官打其𧺤
 鏤洞眼
 鏤番薯
 鏤耳朵屙	lheu gni to ou
