@@ -2795,6 +2795,10 @@ use_preset_vocabulary: true
 以寡敵衆	yi kua diq tson
 以小人之心	yi shiau zyun tsy shin
 以小見大	yi shiau ci dou
+以己之心度人之心	yi ci tsy shin doq gnin tsy shin
+以己之心度人之心	yi ci tsy shin doq zyun tsy shin
+以己度人	yi ci doq gnin
+以己度人	yi ci doq zyun
 以弗所	yi faq so
 以弗所書	yi faq so syu
 以斯拉記	yi sy lha ci
@@ -6861,6 +6865,7 @@ use_preset_vocabulary: true
 博識洽聞	poq shiq chiaq ven
 卜人	poq gnin
 卜學亮	poq yuq lian
+卜度	poq doq
 卜日	poq gniq
 卜易	poq yi
 占人	ci gnin
@@ -7114,7 +7119,7 @@ use_preset_vocabulary: true
 參展團	tshae tsoe doe
 參差不齊	tshen tshy paq ji
 參差錯落	tshen tshy tshou loq
-參度	tshae du
+參度	tshae doq
 參悟	tshae nu
 參悟	tshae wu
 參戰	tshae ci
@@ -8080,6 +8085,7 @@ use_preset_vocabulary: true
 品味生活	phin vi sen waq
 品學	phin yuq
 品學兼優	phin yuq ci ieu
+品度	phin doq
 品牌	phin ba
 品牌價值	phin ba ko jiq
 品牌建設	phin ba ci shiq
@@ -9153,6 +9159,7 @@ use_preset_vocabulary: true
 圖像用戶介面	du zhian yon wu cia mi
 圖像用戶介面	du zhian yon wu ka mi
 圖利他人	du li tha zyun
+圖度	du doq
 圖拉	du lha
 圖書館學	du syu kun yuq
 圖爾	du er
@@ -12809,8 +12816,12 @@ use_preset_vocabulary: true
 審問	shin ven
 審問權	shin ven jiu
 審問者	shin ven tse
+審己度人	shin ci doq gnin
+審己度人	shin ci doq zyun
+審度	shin doq
 審慎行事	shin zyun yin zy
 審斷	shin toe
+審時度勢	shin zy doq syu
 審稿人	shin kau gnin
 審計人員	shin ci zyun yu
 審計範圍	shin ci vae wei
@@ -14026,8 +14037,11 @@ use_preset_vocabulary: true
 度假勝地	du cia shin di
 度假區	du cia chiu
 度假村	du cia tshen
+度君子之腹	doq ciun tsy tsy foq
+度德量力	doq taq lian liq
 度日	du zyuq
 度日如年	du zyuq zyu gni
+度長絜大	doq jian yiq dou
 座椅	zou i
 座標空間	zou piau khon ci
 庫克船長	khu khaq ZOE cian
@@ -14595,6 +14609,7 @@ use_preset_vocabulary: true
 忍垢偷生	zyun keu theu sen
 忍痛犧牲	zyun thon shi sen
 忍辱偷生	zyun zoq theu sen
+忖度	tshen doq
 志分	tsy fen
 志士仁人	tsy zy zyun zyun
 志學	tsy yuq
@@ -14861,6 +14876,7 @@ use_preset_vocabulary: true
 想啊	shian gha
 想學	shian ghoq
 想家	shian cia
+想度	shian doq
 想找個	shian tsau goq
 想望	shian vaon
 想死	shian sy
@@ -14896,6 +14912,8 @@ use_preset_vocabulary: true
 意大利隊	i da li dei
 意大利青瓜	i da li chin kuo
 意大利麪	i da li mi
+意度	i doq
+意度	i du
 意式濃縮咖啡	i shiq gnion soq kha fi
 意志消沈	i tsy shiau jin
 意斷恩絕	i doe en dzyuq
@@ -16450,6 +16468,7 @@ use_preset_vocabulary: true
 推問	thei ven
 推宕	thei dan
 推己及人	thei ci jiq zyun
+推度	thei doq
 推拉門	thei lha men
 推拿	thei no
 推拿法	thei no faq
@@ -16475,6 +16494,8 @@ use_preset_vocabulary: true
 掩鼻而過	i biq er kou
 措大	tshu da
 掰了	paq laq
+揆度	guei doq
+揆情度理	guei jin doq li
 揉捻	gnieu gni
 揉雜	gnieu dzaq
 揍了	tseu laq
@@ -16529,6 +16550,7 @@ use_preset_vocabulary: true
 換手率	wun shieu liq
 換教	wun ciau
 換行	wun ghaon
+揣度	tshoe doq
 揩乾	kha kI
 揪鬚	cieu syu
 揭人隱私	ciq gnin in sy
@@ -17492,6 +17514,7 @@ use_preset_vocabulary: true
 斗羅大陸	teu lou da loq
 斗轉參橫	teu tsoe sen wan
 斗酒學士	teu cieu yuq zy
+料度	liau doq
 斜了	zhia laq
 斜交	zhia ciau
 斜拉橋	zhia lha jiau
@@ -22072,6 +22095,7 @@ use_preset_vocabulary: true
 渣打銀行	tso tan gnin ghaon
 渥茲尼克	oq tsy gni khaq
 測地曲率	tshaq di chiuq liq
+測度	tshaq doq
 測樹學	tshaq zyu yuq
 測量學	tshaq lian yuq
 測量範圍	tshaq lian vae wei
@@ -23319,6 +23343,7 @@ use_preset_vocabulary: true
 狼號鬼哭	laon ghau kuei khoq
 猛個勁	man goq jin
 猛加	man ko
+猜度	tshe doq
 猜枚行令	tshe mei yin lin
 猝死	tshaq sy
 猝爾	tshaq er
@@ -26159,6 +26184,7 @@ use_preset_vocabulary: true
 籃架	lae ko
 籃狀	lae dzaon
 籃球架	lae jieu ko
+籌度	jieu doq
 籌集	jieu jiq
 籌集資金	jieu jiq tsy cin
 籍沒	zhiq maq
@@ -27788,6 +27814,7 @@ use_preset_vocabulary: true
 臀位分娩	den wei fen mi
 臀圍	den wei
 臂膀	pi paon
+臆度	i doq
 臆斷	i toe
 臉大	li da
 臉盆架	li ben ko
@@ -28049,6 +28076,7 @@ use_preset_vocabulary: true
 自帶	zy ta
 自幼	zy ieu
 自序	zy zyu
+自度	zy du
 自度曲	zy du chiuq
 自建	zy ci
 自強	zy jian
@@ -29209,6 +29237,7 @@ use_preset_vocabulary: true
 落地生根	loq di sen ken
 落埋怨	loq ma iu
 落差	loq tsha
+落度	loq doq
 落後國家	loq gheu koq cia
 落日	loq zyuq
 落日餘暉	loq zyuq yu huei
@@ -30239,6 +30268,7 @@ use_preset_vocabulary: true
 被髮纓冠	phi faq in kun
 被黑	bei haq
 裁判長	ze phun cian
+裁度	ze doq
 裁斷	ze doe
 裂了	liq laq
 裂腦人	liq nau gnin
@@ -30803,6 +30833,7 @@ use_preset_vocabulary: true
 評價分類	bin ko fen lei
 評分	bin fen
 評分標準	bin fen piau tsyun
+評度	bin doq
 評斷	bin toe
 評斷是非	bin toe zy fi
 評泊	bin boq
@@ -33747,6 +33778,9 @@ use_preset_vocabulary: true
 量子學說	lian tsy yuq syuq
 量子色動力學	lian tsy saq don liq yuq
 量子電動力學	lian tsy di don liq yuq
+量度	lian doq
+量度	lian du
+量時度力	lian zy doq liq
 量過去	lian kou chi
 金冠戴菊	cin kun ta ciuq
 金剛不壞之身	cin kaon paq ua tsy shin
@@ -35299,6 +35333,7 @@ use_preset_vocabulary: true
 隨大流	zei da lieu
 隨大溜	zei da lieu
 隨從人員	zei dzon zyun yu
+隨時度勢	zei zy doq syu
 隨機時間	zei ci zy ci
 隨行	zei yin
 隨行人員	zei yin zyun yu
