@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.07.09"
+version: "2020.07.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2758,6 +2758,7 @@ use_preset_vocabulary: true
 仙樂	shi yuq
 代人	de gnin
 代償	de dzaon
+代客泊車	de khaq boq tsho
 代數學	de su yuq
 代數學基本定理	de su yuq ci pen din li
 代數幾何學	de su ci ghou yuq
@@ -3740,6 +3741,8 @@ use_preset_vocabulary: true
 停屍房	din sy vaon
 停屍間	din sy kae
 停業處分	din gniq tshyu ven
+停泊	din boq
+停泊費	din boq fi
 停牌	din ba
 停留時間	din lieu zy ci
 停酒止樂	din cieu tsy loq
@@ -7601,6 +7604,7 @@ use_preset_vocabulary: true
 各族人民	koq dzoq zyun min
 各有所長	koq yeu so jian
 各梳	koq sy
+各湖泊	koq wu phaq
 各生	koq san
 各界人士	koq ka zyun zy
 各種人	koq tson gnin
@@ -12299,6 +12303,7 @@ use_preset_vocabulary: true
 安樂死	EI loq sy
 安樂窩	EI loq ou
 安歇吧	EI shiq pa
+安泊	EI boq
 安琪兒	EI ji er
 安瓦爾	EI ngo er
 安貧樂道	EI bin loq dau
@@ -12656,6 +12661,7 @@ use_preset_vocabulary: true
 宿分	soq fen
 宿務	soq Wu
 宿務	soq vu
+宿泊	soq boq
 宿願已償	soq gniu yi dzaon
 宿願得償	soq gniu taq dzaon
 寂寞歲月	jiq moq sei yuq
@@ -12792,6 +12798,7 @@ use_preset_vocabulary: true
 寧夏回族自治區	gnin gho wei dzoq zy dzyu chiu
 寧夏自治	gnin gho zy dzyu
 寧夏自治區	gnin gho zy dzyu chiu
+寧定淡泊	gnin din dae boq
 寧日	gnin zyuq
 寧死不降	gnin shi paq ghaon
 寧死不降	gnin sy paq ghaon
@@ -13172,6 +13179,7 @@ use_preset_vocabulary: true
 尼泊爾	gni phaq er
 尼泊爾共產黨	gni phaq er gon tshae taon
 尼泊爾國王	gni phaq er koq waon
+尼泊爾王國	gni boq er waon koq
 尼爾	gni er
 尼爾森	gni er sen
 尼爾遜	gni er sen
@@ -15439,6 +15447,7 @@ use_preset_vocabulary: true
 打硬仗	tan ngan cian
 打箍	tan khou
 打箍	tan khu
+打細泊	tan shi boq
 打罵教育	tan mo ciau yuq
 打羣架	tan jiun cia
 打翻了的牛奶而哭泣	tan fae laq tiq ngeu na er khoq chiq
@@ -16420,6 +16429,7 @@ use_preset_vocabulary: true
 接受審問	ciq zhieu shin ven
 接合生殖	ciq ghaq sen jiq
 接棒人	ciq baon gnin
+接泊車	ciq boq tsho
 接洽	ciq chiaq
 接洽人	ciq chiaq gnin
 接班人	ciq pae gnin
@@ -19507,6 +19517,7 @@ use_preset_vocabulary: true
 材料科學	dze liau khou yuq
 材望	dze vaon
 村人	tshen gnin
+村生泊長	tshen sen boq cian
 村裏人	tshen li gnin
 村裏長	tshen li cian
 村長	tshen cian
@@ -19831,6 +19842,7 @@ use_preset_vocabulary: true
 桿狀	kI dzaon
 梁任公	lian zyun kon
 梁家輝	lian cia huei
+梁山泊	lian sae phaq
 梁朝	lian jiau
 梁朝偉	lian jiau wei
 梁羽生	lian yu sen
@@ -19909,6 +19921,7 @@ use_preset_vocabulary: true
 楊百翰大學	yan paq ghEI da ghoq
 楊福家	yan foq cia
 楊貴妃	yan kuei fi
+楓橋夜泊	fon jiau ya boq
 楚人	tshu gnin
 楚漢相爭	tshu he shian tsen
 楚雄彝族自治州	tshu yon yi dzoq zy dzyu cieu
@@ -20290,6 +20303,7 @@ use_preset_vocabulary: true
 歇了	shiq laq
 歇了	shiq lei
 歇伏	shiq voq
+歇泊	shiq boq
 歇洛克福爾摩斯	shiq loq khaq foq er mou sy
 歌唱家	kou tshaon cia
 歌行	kou ghaon
@@ -20302,6 +20316,7 @@ use_preset_vocabulary: true
 歐拉	eu lha
 歐拉朱萬	eu lha tsyu vae
 歐氏幾何學	eu zy ci ghou yuq
+歐泊	eu boq
 歐洲中央銀行	eu cieu tson ian gnin ghaon
 歐洲人	eu cieu gnin
 歐洲國家	eu cieu koq cia
@@ -20328,6 +20343,7 @@ use_preset_vocabulary: true
 止咳劑	tsy khaq ci
 止咳糖漿	tsy khaq daon cian
 止咳藥	tsy khaq yaq
+止泊	tsy boq
 止謗莫如自脩	tsy paon moq zyu zy shieu
 正一教	cin iq ciau
 正中間	cin tson ci
@@ -21440,6 +21456,7 @@ use_preset_vocabulary: true
 河南師範大學	ghou nEI sy vae da ghoq
 河南蒙古族自治縣	ghou nEI mon ku dzoq zy dzyu yu
 河口瑤族自治縣	ghou kheu yau dzoq zy dzyu yu
+河泊所	ghou boq so
 河洛人	ghou loq gnin
 河流匯集	ghou lieu wei jiq
 河涸海乾	ghou hoq he kI
@@ -21470,6 +21487,7 @@ use_preset_vocabulary: true
 治家格言	dzyu cia kaq yi
 治死	dzyu sy
 治病救人	dzyu bin cieu gnin
+沽泊	ku boq
 沾了	ci laq
 沾染世俗	ci gni syu dzoq
 沾染習氣	ci gni zhiq chi
@@ -21480,7 +21498,18 @@ use_preset_vocabulary: true
 泄了	shiq laq
 泄沓	shiq thaq
 泄泄沓沓	shiq shiq thaq thaq
+泊位	boq wei
+泊地	boq di
+泊岸	phaq nge
+泊懷	boq wae
+泊松分佈	boq son fen pu
 泊松分佈	phaq son fen pu
+泊秦淮	boq jin wae
+泊舟	boq cieu
+泊船	boq ZOE
+泊車	boq tsho
+泊頭	boq deu
+泊頭市	boq deu zy
 泌尿	pi gniau
 泌尿器	pi gniau chi
 泌尿外科	pi gniau nga khou
@@ -21744,6 +21773,7 @@ use_preset_vocabulary: true
 浦發銀行	phu faq gnin ghaon
 浩大	ghau da
 浩氣長存	ghau chi jian dzen
+浪泊	laon boq
 浪花四濺	laon huo sy ci
 浪蕩乾坤	laon daon ji khuen
 浪費時間	laon fi zy ci
@@ -21932,6 +21962,10 @@ use_preset_vocabulary: true
 淡忘	dae vaon
 淡水人	dae syu gnin
 淡江大學	dae kaon da ghoq
+淡泊	dae boq
+淡泊名利	dae boq min li
+淡泊寡味	dae boq kua vi
+淡泊明志	dae boq min tsy
 淪沒	len maq
 淫娃	yin ua
 淫樂	yin loq
@@ -22069,6 +22103,7 @@ use_preset_vocabulary: true
 湖南師範大學	wu nEI sy vae da ghoq
 湖大	wu da
 湖沼學	wu ciau yuq
+湖泊	wu phaq
 湘夫人	shian fu gnin
 湘西土家族苗族自治州	shian shi thu cia dzoq miau dzoq zy dzyu cieu
 湮沒	i maq
@@ -22215,6 +22250,7 @@ use_preset_vocabulary: true
 漁家傲	yu cia ngau
 漂了	phiau laq
 漂亮女人	phiau lian gniu gnin
+漂泊	phiau boq
 漂行	phiau yin
 漂零蓬斷	phiau lin bon doe
 漆了	chiq laq
@@ -22302,6 +22338,7 @@ use_preset_vocabulary: true
 澳洲人	au cieu gnin
 澳門人	au men gnin
 澳門特別行政區	au men daq biq yin cin chiu
+澹泊	dae boq
 澹泊寡欲	dae boq kua yuq
 澹泊寡欲	dae boq kuo yuq
 激光二極管	ciq kuaon er jiq kun
@@ -22339,6 +22376,7 @@ use_preset_vocabulary: true
 灌溉渠	kun ke jiu
 灌溉渠道	kun ke jiu dau
 灑淚	sa lei
+灣泊	uae boq
 火上加油	hou zaon ko yeu
 火了	hou laq
 火了	hou lei
@@ -25252,6 +25290,9 @@ use_preset_vocabulary: true
 硬任務	ngan zyun vu
 硬生生	ngan san san
 硬盤空間	ngan bun khon ci
+碇泊	din boq
+碇泊區	din boq chiu
+碇泊費	din boq fi
 碎了	sei lei
 碑學	pei yuq
 碗櫃	un guei
@@ -25676,6 +25717,7 @@ use_preset_vocabulary: true
 積極分子	ciq jiq ven tsy
 積極參加	ciq jiq tshae ko
 積極參與	ciq jiq tshae yu
+積泊	ciq boq
 穎慧過人	yin wei kou gnin
 穗狀	zei dzaon
 穗狀花序	zei dzaon huo zyu
@@ -26837,6 +26879,7 @@ use_preset_vocabulary: true
 羅姆人	lou m gnin
 羅姆人	lou meu gnin
 羅家英	lou cia in
+羅布泊	lou pu phaq
 羅拉	lou lha
 羅拉巴克	lou lha pa khaq
 羅櫃	lou guei
@@ -26849,6 +26892,7 @@ use_preset_vocabulary: true
 羅馬公教	lou mo kon ciau
 羅馬教廷	lou mo ciau din
 羅馬教會	lou mo ciau wei
+羈泊	ci boq
 羊毛狀	yan mau dzaon
 美分	mei fen
 美加	mei cia
@@ -29095,6 +29139,7 @@ use_preset_vocabulary: true
 萊頓大學	le ten da ghoq
 萊齊耶三世	le ji ya sae syu
 萌生	men sen
+萍泊	bin boq
 萬世	vae syu
 萬世一時	vae syu iq zy
 萬世師表	vae syu sy piau
@@ -29167,6 +29212,7 @@ use_preset_vocabulary: true
 落後國家	loq gheu koq cia
 落日	loq zyuq
 落日餘暉	loq zyuq yu huei
+落泊	loq boq
 落淚	loq lei
 落花生	loq huo sen
 落落大方	loq loq da faon
@@ -29604,6 +29650,7 @@ use_preset_vocabulary: true
 血尿	shiuq gniau
 血已乾	shiuq yi kI
 血性男兒	shiuq shin nEI er
+血泊	shiuq phaq
 血淚	shiuq lei
 血淚交織	shiuq lei ciau ciq
 血淚史	shiuq lei sy
@@ -30758,6 +30805,7 @@ use_preset_vocabulary: true
 評分標準	bin fen piau tsyun
 評斷	bin toe
 評斷是非	bin toe zy fi
+評泊	bin boq
 評獎人	bin cian gnin
 評論家	bin len cia
 評選人	bin soe gnin
@@ -33892,6 +33940,7 @@ use_preset_vocabulary: true
 錢櫃雜誌	ji guei dzaq tsy
 錦綸	cin len
 錦繡大地	cin shieu da di
+錨泊	mau boq
 錫克教	shiq khaq ciau
 錫拉庫薩	shiq lha khu saq
 錫爾河	shiq er ghou
@@ -33933,6 +33982,7 @@ use_preset_vocabulary: true
 鏈鋸	li ciu
 鏡中人	cin tson gnin
 鏡架	cin ko
+鏡泊湖	cin phaq wu
 鐘不敲不響	tson paq chiau paq shian
 鐘差	tson tsha
 鐘樂	tson yuq
@@ -36152,6 +36202,7 @@ use_preset_vocabulary: true
 颳了	kuaq laq
 颳去	kuaq chi
 颳大風	kuaq dou fon
+飄泊	phiau boq
 飄灑自如	phiau sa zy zyu
 飄然出世	phiau zoe tshyuq syu
 飄蓬斷梗	phiau bon doe kan
@@ -36406,6 +36457,7 @@ use_preset_vocabulary: true
 馬架	mo ko
 馬歇爾	mo shiq er
 馬歇爾計劃	mo shiq er ci waq
+馬泊六	mo boq loq
 馬爾	mo er
 馬爾他	mo er tha
 馬爾他人	mo er tha gnin
@@ -36447,6 +36499,7 @@ use_preset_vocabulary: true
 駁斥	poq chiq
 駁雜	poq dzaq
 駐大陸	dzyu da loq
+駐泊地	dzyu boq di
 駐留時間	dzyu lieu zy ci
 駐華大使	dzyu wo da sy
 駐華盛頓	dzyu wo zhin ten
@@ -36886,6 +36939,7 @@ use_preset_vocabulary: true
 鳳尾竹	von vi tsoq
 鳳尾草	von vi tshau
 鳳梨乾	von li kI
+鳳泊鸞飄	von boq loe phiau
 鳴人	min zyun
 鳴雁	min yi
 鴉片戰爭	a phi ci tsen
@@ -36954,6 +37008,7 @@ use_preset_vocabulary: true
 鸛鳥	kun gniau
 鸞翔鳳集	loe jian von jiq
 鸞膠續斷	loe ciau dzoq doe
+鸞飄鳳泊	loe phiau von boq
 鹵人	lu gnin
 鹹味	ghae mi
 鹹菜乾	ghae tshe kI

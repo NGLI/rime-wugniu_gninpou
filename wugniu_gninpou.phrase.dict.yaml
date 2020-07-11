@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.10"
+version: "2020.07.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5190,6 +5190,8 @@ use_preset_vocabulary: true
 天可汗	thi khaq ghEI
 會稽	kuei ci
 會稽山	kuei ci sae
+綢繆	jieu meu
+未雨綢繆	vi yu jieu meu
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
@@ -14405,7 +14407,7 @@ VCD	vi shi di
 沿溪村
 沿西河
 泉溪
-泊水塘
+泊水塘	boq syu daon
 泗洲頭溪
 泗港小區
 泗港社區
@@ -14607,7 +14609,7 @@ VCD	vi shi di
 湖心河
 湖景花園
 湖東菜場
-湖泊河
+湖泊河	wu phaq ghou
 湖清墊
 湖芳村
 湖裏陳

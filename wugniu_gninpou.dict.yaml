@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.09"
+version: "2020.07.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8509,6 +8509,7 @@ s	迡	gni
 貿	meu
 茂	meu
 鄮	meu
+繆	meu	0%
 牡	meu
 母	meu
 姥	meu
@@ -12652,7 +12653,7 @@ s	迡	gni
 帕	phaq
 魄	phaq
 珀	phaq
-泊	phaq
+泊	phaq	10%
 舶	phaq
 迫	phaq	1%
 蘗	phaq
@@ -13757,7 +13758,7 @@ s	迡	gni
 袱	boq
 栿	boq
 𢫯	boq
-泊	boq	5%
+泊	boq
 舶	boq
 𦤣	boq
 踣	boq
@@ -17366,6 +17367,7 @@ s	迡	gni
 𫓴	meu
 亩	meu
 贸	meu
+缪	meu
 负	veu
 复	veu
 𨱎	theu
