@@ -7290,6 +7290,27 @@ use_preset_vocabulary: true
 穿襪
 穿鞋
 穿鞋爿
+# 量詞支、枝
+一支	iq tsyu
+兩支	lian tsyu
+一枝筆	iq tsyu piq
+一支筆	iq tsyu piq
+一支菸	iq tsyu i
+一支香菸	iq tsyu shian i
+該支	kiq tsyu
+該支	kiq tsy
+該枝筆	kiq tsyu piq
+該支筆	kiq tsyu piq
+該支菸	kiq tsyu i
+該支香菸	kiq tsyu shian i
+喫一支	chioq iq tsyu
+喫支	chioq tsyu
+香菸喫支	shian i chioq tsyu
+喫支香菸	chioq tsyu shian i
+借枝筆	cia tsyu piq
+筆借枝	piq cia tsyu
+借支筆	cia tsyu piq
+筆借支	piq cia tsyu
 # 食物
 倭豆鹹肉糯米飯
 糯米飯
