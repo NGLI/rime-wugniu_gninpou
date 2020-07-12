@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.11"
+version: "2020.07.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -401,6 +401,11 @@ use_preset_vocabulary: true
 喫搞勢	chioq gau syu	55
 壓弗煞	aq vaq saq	55
 壓勿煞	aq vaq saq	55
+結襞	ciq paq	55
+膚殼𥀬	fu khoq i	55
+小娃屄	shiau uae pi	55
+腐滯滯	vu ji ji	55
+腐滯刮剌	vu ji kuaq laq	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -624,9 +629,8 @@ use_preset_vocabulary: true
 池塘	dzy daon
 大池	dou dzy
 遲發人	dzy faq gnin
-其其	ji ji
-滑其其	waq ji ji
-腐其涾剌	vu ji daq laq
+滑滯滯	waq ji ji
+腐滯涾剌	vu ji daq laq
 碗頭碗尾	un deu un mi
 寋叉	ge tsho	55
 寋鈸	ge baq	55
@@ -635,6 +639,7 @@ use_preset_vocabulary: true
 疄頭頂	lin deu ten	55
 擱頂	koq ten	55
 屋頭頂	oq deu ten	55
+發奤	faq phoq	55
 
 # 其他詞彙
 
