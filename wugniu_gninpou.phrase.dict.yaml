@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.12"
+version: "2020.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -406,6 +406,7 @@ use_preset_vocabulary: true
 小娃屄	shiau uae pi	55
 腐滯滯	vu ji ji	55
 腐滯刮剌	vu ji kuaq laq	55
+鏾雞	shi ci	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -7746,6 +7747,7 @@ use_preset_vocabulary: true
 側過來	tsaq kou le
 側轉來	tsaq tsoe le
 自羯自	zhi ciq zhi
+爽性	saon shin	1500
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian

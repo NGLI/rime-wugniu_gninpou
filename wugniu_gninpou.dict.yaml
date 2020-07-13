@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.12"
+version: "2020.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2322,6 +2322,7 @@ s	迡	gni
 搧	shi
 煽	shi
 騸	shi
+鏾	shi
 謆	shi
 傓	shi
 霰	shi
@@ -6447,7 +6448,7 @@ s	迡	gni
 攕	sae
 檆	sae
 邖	sae
-鏾	sae
+鏾	sae	0%
 霰	sae
 滻	sae
 糤	sae
@@ -16173,6 +16174,7 @@ s	迡	gni
 纤	shi
 线	shi
 骟	shi
+𫔌	shi
 𫍸	shi
 宪	shi
 齐	zhi
