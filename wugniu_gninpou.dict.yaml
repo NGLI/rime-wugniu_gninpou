@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.13"
+version: "2020.07.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -16528,7 +16528,6 @@ s	迡	gni
 鸨	pau
 报	pau
 抛	phau
-炮	bau
 铇	bau
 龅	bau
 鲍	bau

@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.13"
+version: "2020.07.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5208,6 +5208,12 @@ use_preset_vocabulary: true
 會稽山	kuei ci sae
 綢繆	jieu meu
 未雨綢繆	vi yu jieu meu
+豬肚	tsyu tu
+羊肚	yan tu
+魚肚	ng tu
+炮羊肚	bau yan tu
+爆肚	bau tu
+羊肚蕈	yan tu jin
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
@@ -7747,7 +7753,7 @@ use_preset_vocabulary: true
 側過來	tsaq kou le
 側轉來	tsaq tsoe le
 自羯自	zhi ciq zhi
-爽性	saon shin	1500
+爽性		1500
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
