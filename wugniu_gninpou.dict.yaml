@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.14"
+version: "2020.07.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -4109,6 +4109,7 @@ s	迡	gni
 斝	cia
 藉	cia
 借	cia
+縩	cia
 嫁	cia	5%
 介	cia	5%
 玠	cia
@@ -9033,9 +9034,9 @@ s	迡	gni
 痮	cian
 𥇔	cian
 醬	cian
+縩	cian
 仗	cian
 借	cian	0%
-家	cian	0%
 槍	chian
 鎗	chian
 嗆	chian
@@ -11688,6 +11689,7 @@ s	迡	gni
 鮶	ciun
 桊	ciun
 棬	ciun
+牶	ciun
 呁	ciun
 捃	ciun
 攈	ciun
@@ -13093,7 +13095,7 @@ s	迡	gni
 側	tshaq
 惻	tshaq
 𡍫	tshaq
-撮	tshaq
+撮	tshaq	2500
 猝	tshaq
 策	tshaq
 鏼	tshaq
@@ -13978,7 +13980,7 @@ s	迡	gni
 穱	tsoq
 作	tsoq
 筰	tsoq
-撮	tsoq	0%
+撮	tsoq	10
 糳	tsoq
 傶	tsoq
 喌	tsoq
@@ -14039,7 +14041,7 @@ s	迡	gni
 嗾	tshoq
 瘯	tshoq
 閦	tshoq
-撮	tshoq	10%
+撮	tshoq	1000
 矠	tshoq
 剒	tshoq
 逪	tshoq
@@ -14741,6 +14743,8 @@ s	迡	gni
 厔	ciq
 陟	ciq
 騭	ciq
+𨽥	ciq
+隲	ciq
 轍	ciq
 折	ciq
 哲	ciq
@@ -18590,6 +18594,7 @@ s	迡	gni
 职	ciq
 鹡	ciq
 骘	ciq
+𱀑	ciq
 辙	ciq
 詟	ciq
 质	ciq
@@ -21237,8 +21242,6 @@ s	迡	gni
 坐車	zou tshoe
 鐵車	thiq tsho	55
 縫衣機	von i ci
-家空籃	cia khon lae	55
-家空籃	cian khon lae	55
 藤盤	den bun	55
 粉線袋	fen shi de	55
 絎針	ghaon cin	55
