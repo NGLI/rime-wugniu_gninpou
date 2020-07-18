@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.15"
+version: "2020.07.18"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5055,6 +5055,7 @@ s	迡	gni
 鵶	o
 下	o	5%
 搲	o	578
+攨	o
 哦	o
 阿	o	0%
 堊	o	5%
@@ -5647,7 +5648,7 @@ s	迡	gni
 窳	uo
 畖	uo
 搲	uo	5%
-攨	uo
+攨	uo	5%
 家	cio	0%
 傢	cio	0%
 稼	cio	0%
@@ -7407,6 +7408,7 @@ s	迡	gni
 煺	thei
 藬	thei
 貪	thei
+胎	thei	0%
 腿	thei
 骽	thei
 嗿	thei
@@ -13637,7 +13639,7 @@ s	迡	gni
 傄	huaq
 眓	huaq
 劃	waq
-畫	waq	0%
+畫	waq	1%
 划	waq
 嫿	waq
 㗲	waq
@@ -13746,7 +13748,7 @@ s	迡	gni
 箔	boq
 暴	boq	1%
 瀑	boq
-曝	boq
+曝	boq	5%
 㩧	boq
 僕	boq
 鏷	boq
@@ -15713,7 +15715,7 @@ s	迡	gni
 𠄡	ng
 耳	ng
 午	ng	0%
-尾	ng
+尾	ng	1%
 爾	ng	243244
 尒	ng
 尓	ng

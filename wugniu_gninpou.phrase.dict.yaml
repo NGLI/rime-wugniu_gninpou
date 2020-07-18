@@ -1462,8 +1462,6 @@ use_preset_vocabulary: true
 擱幾大座	koq ci dou zou
 踏鐵車
 九月廿七風
-懶婦掏家空	lae vu dau cia khon
-懶婦掏家空	lae vu dau cian khon
 嘔其倒痰瓶
 依路抲蜻蜓
 便桶擔
@@ -4112,6 +4110,8 @@ use_preset_vocabulary: true
 謳渠一聲	eu ji iq shin
 謳渠淘淘米	eu ji dau dau mi
 煩赤佬	vae tshaq lau
+懶婦掏縩空	lae vu dau cia khon
+懶婦掏縩空	lae vu dau cian khon
 # 地名
 寧波市	gnin pou zy
 寧波市	gnin poq zy
@@ -7758,6 +7758,11 @@ use_preset_vocabulary: true
 爽性		1500
 縩孔	cia khon	55
 縩孔	cian khon	55
+啥會	soq wei	55
+啥會	so wei	55
+啥有	soq yeu	55
+啥有	so yeu	55
+燕山夜話
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
