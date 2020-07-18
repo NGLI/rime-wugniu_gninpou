@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.15"
+version: "2020.07.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -409,6 +409,8 @@ use_preset_vocabulary: true
 鏾雞	shi ci	55
 縩孔籃	cia khon lae	55
 縩孔籃	cian khon lae	55
+拖帉	thou fon	799
+屈死	chiuq shi	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -643,6 +645,8 @@ use_preset_vocabulary: true
 擱頂	koq ten	55
 屋頭頂	oq deu ten	55
 發奤	faq phoq	55
+拖帉布	thou fon pu	55
+拖帉柄	thou fon pin	55
 
 # 其他詞彙
 
@@ -10908,6 +10912,7 @@ use_preset_vocabulary: true
 點落去	ti loq chi
 點弗着	ti vaq jiaq
 點勿着	ti vaq jiaq
+炸肉圓	zaq gnioq yu
 # 帶字母的詞彙
 K	khe
 k	khe
