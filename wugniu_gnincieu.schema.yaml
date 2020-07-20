@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gnincieu
   name: 吳語（鄞州）
-  version: "0.4.1"
+  version: "0.4.2"
   author:
     - Electric Sheep <shinzoqchiuq@outlook.com>
   description: |
@@ -91,6 +91,7 @@ speller:
 
     # 胡符不分
     - derive/wu$/vu/
+    - derive/vu$/wu/
     # 亂漏不分
     - derive/loe/leu/
 
