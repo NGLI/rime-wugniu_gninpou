@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.19"
+version: "2020.07.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -20057,8 +20057,8 @@ s	迡	gni
 腳後跟	ciaq gheu ken
 腳橋	ciaq jiau	55
 腳筋	ciaq cin	578
-腳指末頭	ciaq tsy maq deu	55
-腳指末頭	ciaq ciq maq deu	55
+腳指末頭	ciaq tsy maq deu	418
+腳指末頭	ciaq ciq maq deu	418
 腳末頭	ciaq maq deu	418
 腳指甲	ciaq tsy khaq
 腳指甲	ciaq ciq khaq
@@ -29710,8 +29710,6 @@ s	迡	gni
 腳頭	ciaq deu	55
 腳印	ciaq in
 腳魄	ciaq phaq	55
-腳甲末頭	ciaq ciaq maq deu	418
-腳甲掐	ciaq ciaq khaq	55
 腳骨抖抖	ciaq kuaq teu teu	55
 腳鐲	ciaq jiuq
 鰙鰨	gniaq thaq	55
