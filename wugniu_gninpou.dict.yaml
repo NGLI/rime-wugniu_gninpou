@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.21"
+version: "2020.07.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5025,6 +5025,7 @@ s	迡	gni
 嫁	ko
 價	ko
 抲	kho	8000
+揢	kho	0%
 㰤	kho
 咖	go	0%
 茶	go	0%
