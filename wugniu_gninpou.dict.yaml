@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.26"
+version: "2020.07.28"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -6193,7 +6193,7 @@ s	迡	gni
 帯	tae	5%
 攤	thae
 灘	thae
-坍	thae
+坍	thae	1257
 癱	thae
 勯	thae
 毯	thae
