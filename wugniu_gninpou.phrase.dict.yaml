@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.26"
+version: "2020.07.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7936,6 +7936,12 @@ use_preset_vocabulary: true
 頭𢪂𢪂
 肉片撮着	gnioq phi tshaq dzoq
 肉片撮着	gnioq phi tshaq zyuq
+鐵卵脬
+橡皮卵脬
+抖抖卵脬
+倒篤大糊	tau toq dou wu
+燥大糊	sau dou wu
+敲坍	khau thae
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
