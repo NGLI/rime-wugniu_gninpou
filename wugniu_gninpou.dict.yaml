@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.28"
+version: "2020.07.30"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -18409,6 +18409,7 @@ s	迡	gni
 𠵾	waq
 纥	waq
 还	waq
+𬱕	uaq
 锫	poq
 驳	poq
 镈	poq

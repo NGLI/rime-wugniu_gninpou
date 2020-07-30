@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.28"
+version: "2020.07.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7942,6 +7942,9 @@ use_preset_vocabulary: true
 倒篤大糊	tau toq dou wu
 燥大糊	sau dou wu
 敲坍	khau thae
+樣樣色色
+樣樣式式	yan yan shiq shiq
+樣樣啥啥	yan yan sou sou
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
