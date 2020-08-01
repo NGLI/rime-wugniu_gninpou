@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.07.30"
+version: "2020.08.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -26501,7 +26501,6 @@ s	迡	gni
 好好個	hau hau kou	55
 好過	hau kou
 好貨	hau hou
-好相量	hau shian lian	55
 孝子	hau tsy
 孝堂	hau daon
 孝孫	hau sen	55
@@ -28273,7 +28272,6 @@ s	迡	gni
 相思樹	shian sy zyu
 相干	shian kI
 相好	shian hau
-相量盞	shian lian tsae	55
 相幫	shian paon
 相親	shian chin
 香屍蟲	shian sy dzon	55
@@ -30362,7 +30360,6 @@ s	迡	gni
 嘸頭年出	mh deu gni tshyuq	55
 嘸頭鬼	mh deu ciu	55
 嘸頭帖子	mh deu thiaq tsy	55
-嘸相量	mh shian lian	55
 嘸郎黃狗	mh laon waon kI	55
 嘸郎黃狗	mh laon wu kI	55
 嘸弄頭	mh lon deu	55
