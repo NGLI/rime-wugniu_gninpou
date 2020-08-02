@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.01"
+version: "2020.08.02"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -9232,7 +9232,6 @@ s	迡	gni
 鞅	ian
 㹧	ian
 陽	ian	0%
-芽	ian	0%
 養	ian
 岟	ian
 柍	ian
@@ -20287,7 +20286,6 @@ s	迡	gni
 大帽	da mau	55
 開普帽	khe phu mau	55
 鴨舌頭帽	aq zhiq deu mau	55
-羅松帽	lou son mau	55
 活猻帽	waq sen mau	55
 老頭帽	lau deu mau	55
 太陽帽	tha yan mau
@@ -20422,7 +20420,6 @@ s	迡	gni
 燥粥𤿏飯	sau tsoq nei vae	55
 燥烤飯	sau khau vae	55
 純米飯	zyun mi vae	55
-冷飯娘	lan vae gnian	55
 飯黏	vae kni	55
 飯黏碎	vae kni sei	55
 鑊焦	ghoq ciau	578
@@ -20699,7 +20696,6 @@ s	迡	gni
 軟菜	gniu tshe	55
 莙薘	ciun daq	55
 膠菜	ciau tshe	55
-黃芽菜	waon ian tshe
 包心菜	pau shin tshe
 捲心菜	ciu shin tshe
 青大頭	chin dou deu	55
@@ -22985,7 +22981,6 @@ s	迡	gni
 小結結	shiau ciq ciq	55
 小羅嗦	shiau lou sou	55
 小格楞敦	shiau kaq len ten	55
-米米大	mhi mhi dou	55
 蝨末鬼	saq maq ciu	55
 蝨末老鬼	saq maq lau ciu	55
 極細	jiq shi	55
