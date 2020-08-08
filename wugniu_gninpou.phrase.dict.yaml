@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.05"
+version: "2020.08.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7956,6 +7956,9 @@ use_preset_vocabulary: true
 啊唷哇	aq yuq ua
 喔唷	oq yuq
 喔唷哇	oq yuq ua
+來弗及	le vaq ji	578
+來勿及	le vaq ji
+來勒及	le laq ji	578
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
