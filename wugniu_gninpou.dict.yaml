@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.05"
+version: "2020.08.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -645,6 +645,7 @@ import_tables:
 世	syu
 卋	syu
 丗	syu
+笹	syu
 勢	syu
 歲	syu
 嵗	syu
@@ -1214,6 +1215,8 @@ import_tables:
 䡘	di
 鿬	di
 畑	di
+畠	di
+鴫	di
 沺	di
 殿	di
 奠	di
@@ -1434,6 +1437,7 @@ import_tables:
 櫔	li
 禲	li
 蠇	li
+栃	li
 例	li
 吏	li
 𥷗	li
@@ -1552,6 +1556,7 @@ import_tables:
 縑	ci
 堅	ci
 鰹	ci
+樫	ci
 諫	ci
 澗	ci
 鐗	ci
@@ -4027,6 +4032,7 @@ s	迡	gni
 鉲	kha
 咔	kha
 佧	kha
+峠	kha
 嘎	ga
 嘠	ga
 茄	ga
@@ -4488,8 +4494,9 @@ s	迡	gni
 栳	lau
 咾	lau
 銠	lau
-潦	lau	5%
 荖	lau
+蛯	lau
+潦	lau	5%
 轑	lau
 嘮	lau
 嫪	lau
@@ -5044,6 +5051,7 @@ s	迡	gni
 廈	gho
 下	gho
 丅	gho
+雫	gho
 嗄	gho
 夏	gho
 暇	gho	1%
@@ -5616,6 +5624,7 @@ s	迡	gni
 花	huo
 蘤	huo
 芲	huo
+糀	huo
 嘩	huo
 譁	huo
 颬	huo
@@ -6186,6 +6195,7 @@ s	迡	gni
 亶	tae
 紞	tae
 黵	tae
+丼	tae
 打	tae	0%
 笪	tae
 鴠	tae
@@ -6357,6 +6367,7 @@ s	迡	gni
 懺	tshae
 湌	tshae
 飡	tshae
+喰	tshae
 慘	tshae
 產	tshae
 産	tshae
@@ -6416,6 +6427,7 @@ s	迡	gni
 舢	sae
 汕	sae
 訕	sae
+杣	sae
 三	sae
 𭆻	sae
 叁	sae
@@ -7337,6 +7349,7 @@ s	迡	gni
 槑	mei
 莓	mei
 脢	mei
+栂	mei
 枚	mei
 玫	mei
 溦	mei
@@ -8976,6 +8989,7 @@ s	迡	gni
 樑	lian
 粱	lian
 墚	lian
+簗	lian
 量	lian
 糧	lian
 粮	lian
@@ -9576,6 +9590,7 @@ s	迡	gni
 琩	tshaon
 裮	tshaon
 錩	tshaon
+椙	tshaon
 窗	tshaon
 牎	tshaon
 牕	tshaon
@@ -10558,6 +10573,7 @@ s	迡	gni
 窉	pin
 苪	pin
 蛃	pin
+鞆	pin
 餅	pin
 秉	pin
 禀	pin
@@ -10599,6 +10615,7 @@ s	迡	gni
 蚲	bin
 鮃	bin
 屏	bin
+塀	bin
 鵧	bin
 萍	bin
 枰	bin
@@ -10924,6 +10941,7 @@ s	迡	gni
 眞	cin
 禛	cin
 蒖	cin
+槇	cin
 旍	cin
 兓	cin
 瑧	cin
@@ -10941,6 +10959,7 @@ s	迡	gni
 驚	cin
 筋	cin
 巾	cin
+凧	cin
 禁	cin
 襟	cin
 兢	cin
@@ -10970,6 +10989,7 @@ s	迡	gni
 寖	cin
 井	cin
 肼	cin
+丼	cin
 盡	cin	0%
 儘	cin	0%
 堇	cin
@@ -11333,6 +11353,7 @@ s	迡	gni
 騂	shin
 新	shin
 薪	shin
+噺	shin
 垶	shin
 觪	shin
 馨	shin
@@ -11761,6 +11782,7 @@ s	迡	gni
 閠	yun
 韻	yun
 韵	yun
+匂	yun
 鄆	yun
 運	yun
 貟	yun
@@ -11899,6 +11921,7 @@ s	迡	gni
 唇	zyun
 漘	zyun
 神	zyun
+榊	zyun
 辰	zyun
 晨	zyun
 宸	zyun
@@ -11924,6 +11947,7 @@ s	迡	gni
 靭	zyun
 靱	zyun
 肕	zyun	5%
+籾	zyun
 認	zyun	6%
 潤	zyun
 栠	zyun
@@ -12101,6 +12125,7 @@ s	迡	gni
 鉖	don
 鉵	don
 動	don
+働	don
 桶	don
 筒	don
 筩	don
@@ -13116,6 +13141,7 @@ s	迡	gni
 擇	dzaq
 雜	dzaq
 襍	dzaq
+枠	dzaq
 崱	dzaq
 溭	dzaq
 崪	dzaq
@@ -14384,7 +14410,7 @@ s	迡	gni
 肉	gnioq
 𢫭	gnioq
 掿	gnioq
-浴	gnioq	5%
+浴	gnioq	0%
 箬	gnioq	0%
 鰙	gnioq
 鳿	gnioq
@@ -15519,6 +15545,7 @@ s	迡	gni
 浴	yuq
 鵒	yuq
 峪	yuq
+硲	yuq
 曰	yuq
 域	yuq
 閾	yuq
