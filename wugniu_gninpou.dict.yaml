@@ -21,7 +21,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.08"
+version: "2020.08.09"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1874,7 +1874,7 @@ import_tables:
 奇	ji
 琦	ji
 騎	ji
-敧	ji
+敧	ji	578
 觭	ji
 碕	ji
 埼	ji
@@ -3207,7 +3207,7 @@ s	迡	gni
 雇	ku
 僱	ku
 枯	khu
-箍	khu
+箍	khu	5%
 骷	khu
 軲	khu
 刳	khu
@@ -6884,6 +6884,7 @@ s	迡	gni
 州	cieu
 洲	cieu
 揪	cieu
+揫	cieu
 啾	cieu
 鬏	cieu
 盩	cieu
@@ -6925,8 +6926,7 @@ s	迡	gni
 鞦	chieu
 鰍	chieu
 鰌	chieu
-揫	chieu
-揪	chieu	0%
+箍	chieu	5%
 抽	chieu
 𥻤	chieu
 湫	chieu
@@ -8384,7 +8384,7 @@ s	迡	gni
 髁	khou
 稞	khou
 蝌	khou
-箍	khou
+箍	khou	5%
 薖	khou
 𨗲	khou
 可	khou
@@ -22636,7 +22636,6 @@ s	迡	gni
 翻屋	fae oq	55
 捉漏	tsoq leu	55
 刷白	syuq baq
-打𥫷	tan chieu	55
 限卯	ghae mau	55
 釘碗	tin un	55
 碫磨	toe mou	55
@@ -28085,7 +28084,6 @@ s	迡	gni
 打胎	tan the
 打板子	tan pae tsy
 打扮	tan pae
-打揫	tan chieu	55
 打手天心	tan shieu thi shin	55
 打亂草	tan loe tshau	55
 打火石	tan hou zaq
