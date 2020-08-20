@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.16"
+version: "2020.08.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7532,6 +7532,12 @@ use_preset_vocabulary: true
 凍米
 鹹烤蝦
 鹹㸆蝦
+桃膠	dau ciau
+桃膠乾	dau ciau kI
+石花凍	zhiq huo ton
+米仁湯	mi zyun thaon
+糖水黃桃
+黃桃
 # 商業
 倉橋麪結店
 興寧橋烤雞
@@ -7991,6 +7997,10 @@ use_preset_vocabulary: true
 蝦𩻣鮳	huo zae khau
 腔勢
 再弄弄
+簿子
+作業簿
+病歷簿
+戶口簿
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
