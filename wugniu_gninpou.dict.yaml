@@ -10,6 +10,7 @@
 # 詞彙來源：
 #   - 《阿拉宁波话(修订版)》
 #   - 江蘇教育版《寧波方言詞典》
+#   - 汉语大词典版《宁波方言词典》
 #
 # 使用以下項目：
 #   - Electric Sheep:
@@ -21,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.16"
+version: "2020.08.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -509,6 +510,7 @@ import_tables:
 製	tsyu
 𦥐	tsyu
 㨖	tsyu
+𩋩	tsyu
 𡟹	tsyu
 䀸	tsyu
 疐	tsyu
@@ -1812,7 +1814,7 @@ import_tables:
 蜸	chi
 䭤	chi
 𩝡	chi
-𥉻	chi
+𥉻	chi	55
 覷	chi	0%
 覰	chi	0%
 䀙	chi
@@ -1874,7 +1876,7 @@ import_tables:
 奇	ji
 琦	ji
 騎	ji
-敧	ji	578
+敧	ji	1000
 觭	ji
 碕	ji
 埼	ji
@@ -3884,6 +3886,7 @@ s	迡	gni
 嘛	ma
 霾	ma
 薶	ma
+𧻲	ma
 邁	ma	5%
 買	ma
 馬	ma	0%
@@ -3956,6 +3959,7 @@ s	迡	gni
 垃	la
 拉	la	1%
 啦	la
+洡	la	0%
 拉	lha
 啦	lha
 菈	lha
@@ -4252,6 +4256,7 @@ s	迡	gni
 懷	wa
 懐	wa
 蘹	wa
+𠿭	wa
 壞	wa
 壊	wa
 壞	ua
@@ -4472,6 +4477,7 @@ s	迡	gni
 踔	nau
 淖	nau
 橈	nau
+吶	nhau	5%
 勞	lau
 澇	lau
 癆	lau
@@ -4831,6 +4837,7 @@ s	迡	gni
 耙	bo
 掱	bo
 筢	bo
+巴	bo	0%
 稗	bo
 䶕	bo
 無	mo	0%
@@ -5014,7 +5021,6 @@ s	迡	gni
 佘	zo
 婼	zo
 惹	zo
-喏	zo
 若	zo	0%
 射	zo	5%
 麝	zo
@@ -5061,7 +5067,6 @@ s	迡	gni
 枒	o
 鴉	o
 鵶	o
-下	o	5%
 哦	o
 阿	o	0%
 堊	o	5%
@@ -5071,6 +5076,7 @@ s	迡	gni
 𦫪	o
 惑	o	0%
 掗	o
+下	o	5%
 標	piau
 彪	piau
 膘	piau
@@ -6117,6 +6123,7 @@ s	迡	gni
 㤆	fae
 汳	fae
 奿	fae
+𨠒	fae
 嬎	fae
 嬔	fae
 凡	vae
@@ -6243,6 +6250,7 @@ s	迡	gni
 藫	dae
 彈	dae
 弾	dae
+繟	dae
 鷤	dae
 殫	dae
 曇	dae
@@ -6393,6 +6401,7 @@ s	迡	gni
 殘	dzae
 讒	dzae
 饞	dzae
+嚵	dzae
 巉	dzae
 儳	dzae
 孱	dzae
@@ -7197,6 +7206,7 @@ s	迡	gni
 懮	ieu
 幼	ieu
 婆	boe	0%
+耙	boe	0%
 耑	toe
 端	toe
 鍴	toe
@@ -7247,8 +7257,10 @@ s	迡	gni
 圞	loe
 曫	loe
 羉	loe
+螺	loe	0%
 卵	loe
 𤓲	loe
+簍	loe
 亂	loe
 郎	loe	0%
 碑	pei
@@ -7394,6 +7406,7 @@ s	迡	gni
 𩎟	mei
 枺	mei
 妹	mhei	5%
+否	fei	0%
 𣍐	vei	60000
 浮	vei	0%
 堆	tei
@@ -7713,6 +7726,7 @@ s	迡	gni
 許	hEI	5%
 撼	hEI	0%
 憾	hEI	0%
+咳	hEI	5%
 蔊	hEI	0%
 厂	hEI	0%
 漢	hEI	0%
@@ -8779,11 +8793,11 @@ s	迡	gni
 偶	ngeu
 蕅	ngeu
 𩥋	ngeu
-吼	heu
 齁	heu
 呴	heu
 𤘽	heu
 吽	heu
+吼	heu
 鱟	heu
 煦	heu	5%
 蔲	heu
@@ -8792,6 +8806,7 @@ s	迡	gni
 侯	gheu
 喉	gheu
 猴	gheu
+䞀	gheu
 糇	gheu
 餱	gheu
 篌	gheu
@@ -8882,6 +8897,7 @@ s	迡	gni
 掽	ban
 𦝤	ban
 湴	ban
+盲	man	0%
 蜢	man
 艋	man
 猛	man
@@ -10082,7 +10098,6 @@ s	迡	gni
 涴	un	0%
 皖	un
 莞	un
-烏	un	1%
 惋	un
 捥	un
 畚	pen
@@ -10189,6 +10204,7 @@ s	迡	gni
 羵	ven
 豶	ven
 馩	ven
+逢	ven
 鼖	ven
 璺	ven
 抆	ven
@@ -10196,6 +10212,7 @@ s	迡	gni
 脗	ven
 刎	ven
 鱝	ven
+坋	ven
 弅	ven
 分	ven	10%
 份	ven
@@ -10209,6 +10226,7 @@ s	迡	gni
 鐙	ten
 膯	ten
 噔	ten
+𩍐	ten
 蹬	ten
 簦	ten
 豋	ten
@@ -10320,6 +10338,7 @@ s	迡	gni
 倰	len
 薐	len
 𦼊	len
+菱	len	5%
 輘	len
 塄	len
 論	len
@@ -11170,6 +11189,7 @@ s	迡	gni
 嗪	jin
 嶜	jin
 辰	jin	0%
+敐	jin
 凌	jin	0%
 琴	jin
 琹	jin
@@ -11724,6 +11744,7 @@ s	迡	gni
 菌	chiun
 攟	chiun
 𧱝	chiun
+䠻	chiun
 裙	jiun
 羣	jiun
 群	jiun
@@ -11837,6 +11858,7 @@ s	迡	gni
 焌	tsyun
 振	tsyun
 賑	tsyun
+䟴	tsyun
 鎮	tsyun
 鎭	tsyun
 震	tsyun
@@ -12344,6 +12366,7 @@ s	迡	gni
 氄	dzon
 軵	dzon
 尰	dzon
+𧙇	dzon
 誦	dzon
 頌	dzon
 訟	dzon
@@ -12725,6 +12748,7 @@ s	迡	gni
 郣	baq
 佛	baq	0%
 百	baq	0%
+𦤣	baq	5%
 麥	maq
 䥑	maq
 嘜	maq
@@ -13926,6 +13950,7 @@ s	迡	gni
 鍩	noq
 𢜪	noq
 傉	noq
+喏	noq
 錄	loq
 録	loq
 綠	loq
@@ -14053,6 +14078,7 @@ s	迡	gni
 遭	tsoq	0%
 促	tshoq
 趗	tshoq
+珿	tshoq
 莡	tshoq
 甴	tshoq
 戳	tshoq
@@ -15194,6 +15220,7 @@ s	迡	gni
 赥	shiq
 歘	shiq
 虩	shiq
+㩉	shiq
 嗋	shiq
 愶	shiq
 拹	shiq
@@ -15723,6 +15750,7 @@ s	迡	gni
 畮	m
 畆	m
 畂	m
+嘸	m	0%
 鰻	m	5%
 呣	mh
 姆	mh
@@ -15750,6 +15778,7 @@ s	迡	gni
 伱	ng	5%
 俉	ng	121622
 嗯	ng
+㕶	ng	0%
 孲	nk
 嗯	nk
 唔	nk
@@ -16590,6 +16619,7 @@ s	迡	gni
 垴	nau
 闹	nau
 桡	nau
+呐	nhau
 劳	lau
 涝	lau
 痨	lau
@@ -16917,6 +16947,7 @@ s	迡	gni
 谭	dae
 坛	dae
 弹	dae
+𦈎	dae
 𫛴	dae
 殚	dae
 昙	dae
@@ -16974,6 +17005,7 @@ s	迡	gni
 𡶴	tshae
 刬	tshae
 灿	tshae
+𬺅	tshae
 残	dzae
 谗	dzae
 馋	dzae
@@ -17157,6 +17189,7 @@ s	迡	gni
 滦	loe
 娈	loe
 𪢮	loe
+篓	loe
 乱	loe
 贝	pei
 呗	pei
@@ -17720,7 +17753,6 @@ s	迡	gni
 𤩽	wun
 缓	wun
 换	wun
-乌	un
 贲	pen
 锛	pen
 喷	phen
@@ -18774,6 +18806,7 @@ s	迡	gni
 迩	er
 贰	er
 亩	m
+呒	m
 鳗	m
 呒	mh
 儿	ng	0%
@@ -19808,7 +19841,7 @@ s	迡	gni
 啥人	soq gnin	50000
 啥人	sou gnin	5000
 啥人	so gnin	5000
-孰儂	zyu nou	418
+孰儂	zoq nou	418
 啥人家	soq gnin ko	578
 啥人家	sou gnin ko	578
 啥人家	so gnin ko	578
@@ -20311,11 +20344,11 @@ s	迡	gni
 藥圓	yaq yu	55
 藍藥水	lae yaq syu	55
 快口藥	khua kheu yaq	55
-戴頭篷	ta deu bon	55
+戴頭篷	te deu bon	55
 蒲帽	bu mau	55
-涼帽戴篷	lian mau ta bon	55
+涼帽戴篷	lian mau te bon	55
 涼帽篷	lian mau bon	55
-陽帽戴篷	yan mau ta bon	55
+陽帽戴篷	yan mau te bon	55
 陽帽篷	yan mau bon	55
 大帽	da mau	55
 開普帽	khe phu mau	55
@@ -22830,7 +22863,7 @@ s	迡	gni
 翻向	fae shian	55
 翻大向	fae dou shian	55
 倒翻	tau fae	55
-傾轉	chin tsoe	55
+傾轉	jin tsoe	55
 翻肚	fae tu	55
 翻肚肚	fae tu tu	55
 滯底	dzyu ti	55
@@ -24123,9 +24156,7 @@ s	迡	gni
 健健	ji ji	55
 插插	tshaq tshaq
 促促	tshoq tshoq
-勤勤	jin jin
 劇劇	jiq jiq	55
-勤梗括得	jin guan kuaq taq	55
 𨂅𨂅	piq piq	55
 𨂅𨂅	biq biq	55
 𨄇𨄇	den den	55
@@ -24372,9 +24403,9 @@ s	迡	gni
 依路	i lu	55
 依埭	i da	55
 挨埭	a da	55
-原方	gnieu faon	55
-原方	knieu faon	55
-原舊	gnieu jieu	55
+原方	gniu faon	55
+原方	kniu faon	55
+原舊	gniu jieu	55
 仍規	jin kuei	578
 同同	don don	55
 直落	jiq loq
@@ -25030,6 +25061,7 @@ s	迡	gni
 裝棚搭架	tsaon ban taq ko	55
 碎碎塞塞	sei sei saq saq	55
 睬儂瞎子	tshe nou haq tsy
+睬儂老白眼	tshe nou lau baq ngae
 睬儂阿白哥	tshe nou aq baq kou
 睬儂老白	tshe nou lau baq
 矮中取長	a tson tshyu jian	55
@@ -27000,7 +27032,6 @@ s	迡	gni
 罱河泥	ne ghou gni	55
 再三再四	tse sae tse sy
 猜烏字	tshe u zy	55
-睬儂老白眼	tshe nou lau baq ngae
 睬儂瞎子老白眼	tshe nou haq tsy lau baq ngae
 睬渠瞎子	tshe ji haq tsy
 睬渠老白眼	tshe ji lau baq ngae
@@ -27443,6 +27474,8 @@ s	迡	gni
 舅老	jieu lau	55
 舅舅	jieu jieu
 扭痧氣	knieu so chi	55
+原舊	gnieu jieu	55
+原方	gnieu faon	55
 扭轉	gnieu tsoe
 扭紐子	gnieu gnieu tsy	55
 扭秧歌	gnieu ian kou
@@ -30443,3 +30476,684 @@ s	迡	gni
 俉倷個	ng naq goq	55
 俉個	ng goq	578
 俉儂個	ng nou goq	55
+
+# 汉语大词典版《宁波方言词典》
+
+一步樓	iq bu leu
+一定不移	iq din paq yi
+一轉一回	iq tsoe iq wei
+一塌括子	iq thaq kuaq tsy
+一白籃五斗	iq baq lae ng teu
+一報還一報	iq pau wae iq pau
+一退六二五	iq thei loq gni ng
+二五八鳥貓	gni ng paq tiau mae
+廠禮拜	chian li pa
+八分形個	paq fen yin kou
+人來風	gnin le fon
+刁𩍐	tiau ten
+乃該	nae ke
+刀籠𥳖	tau lon bu
+到地	tau di
+三酉	sae yeu
+三話兩句	sae wo lian ciu
+乾燥雄雞	kI sau yon ci
+虧殺	chiu saq
+下巴兜	gho bo teu
+下巴涎	gho bo zae
+丈姆娘	jian m gnian
+大猛	doq man
+大糠	dou khaon
+大火輪	dou hou len
+火輪船	hou len ZOE
+大多數	da tou su
+大嘴䩉	dou tsyu bu
+大眼錄索	dou ngae loq soq
+萬生萬死	vae san vae shi
+上底	zaon ti
+小鬼頭	shiau ciu deu
+小尐尐	shiau ciq ciq
+小牛㹙	shiau ngeu an
+小毛頭	shiau mau dei
+小阿爸	shiau aq paq
+小羅嗦	shiau lhou sou
+小棺材	shiau kun dze
+小鯉花	shiau li huo
+小八拉子	shiau paq la tsy
+小八拉子	shiau paq laq tsy
+丫各亂經	o koq loe cin
+叉木人	tsho moq gnin
+馬藍頭	mo lae deu
+馬藍頭	mo lae dei
+開市	khe zy
+開傘	khe sae
+開交	khe ciau
+開筆	khe piq
+天羅	thi lou
+天亮	thi lian
+天亮飯	thi lian vae
+木老老	moq lau lau
+木麩麩	moq fu fu
+木頭人案	moq deu gnin EI
+五更頭	ng kan dei
+五花爆裂	ng huo pau liq
+不剌	paq la
+仄楞	tsaq len
+仄格楞敦	tsaq kaq len ten
+族長太公	dzoq cian tha kon
+車子	tsho tsy
+車壩	tsho po
+日打日	gniq tan gniq
+日長夜大	gniq jian ya dou
+水頭	syu dei
+水白大蝦	syu baq dou huo
+水菱	syu len
+手板	shieu pae
+手面	shieu mi
+手面頂	shieu mi ten
+手把	shieu po
+牛草𥳖	ngeu tshau bu
+毛慥	mau tshau
+毛頭奶花	mau dei na huo
+毛衣弗動	mau iu vaq don
+毛草火性	mau tshau hou shin
+氣胎	chi thei
+氣弗過	chi vaq kou
+氣急大吼	chi ciq da heu
+長遭	jian tsau
+仍歸	jin kuei
+反梢	fae sau
+分歲	fen syu
+風氣勃勃	fon chi baq baq
+瘋手	fon shieu
+烏骨雞	u kuaq ci
+烏稍蛇	u shiau dzo
+烏肚腸	u du jian
+火栝	hou thi
+火栝棒頭	hou thi baon deu
+火耙	hou boe
+火老鴉	hou lau o
+火螢頭	hou yin dei
+火螢頭	hou yon dei
+火燉酒	hou ten cieu
+鬥帳	teu cian
+軋帳	gaq cian
+認真道話	gnin cin dau wo
+心度	shin du
+引僝	yin zae
+巴弗能夠	po vaq nen keu
+雙夾拄	saon kaq tsyu
+書報架	syu pau ko
+末末豆腐	maq maq deu vu
+打帳	tan cian
+打帳	tae cian
+打渾	tan uen
+打埋	tae mAE
+打獨流	tan doq lieu
+正向	cin shian
+節跟	ciq ken
+本介	pen ka
+龍頭薧	lon deu khau
+平過	bin kou
+軋力軋煞	gaq liq gaq saq
+軋裏軋煞	gaq li gaq saq
+東道	ton dau
+北瓜	poq kuo
+舊挪挪	jieu no no
+歸陰	kuei in
+申報紙	syun pau tsy
+只弗	ciq vaq
+叫子	ciau tsyu
+生起	san chi
+生姆娘	san m gnian
+白大頭	baq dou dei
+白米米	baq mi mi
+白米米	baq mhi mhi
+白身人	baq shin gnin
+白荼荼	baq du du
+白懈懈	baq ga ga
+白黢黢	baq tshyuq tshyuq
+犯界	vae ka
+犯落	vae loq
+捋落	laq loq
+市面	zy mi
+半生裏熟	phun san li zoq
+半弗牢告	pun vaq lau kau
+半弗冷打	pun vaq lan tan
+頭頭前日	deu deu zhi gniq
+頭暈惺轟	deu yun shin hon
+寧使	nen sy
+弗對	vaq tei
+弗過	vaq kou
+弗來	vaq le
+弗知	faq ciq
+弗是	faq zy
+弗像	vaq zhian
+弗入流	vaq zyuq lieu
+弗上課	vaq zaon khou
+弗長毛	vaq cian mau
+弗老氣	vaq lau chi
+弗在內	vaq dze nei
+弗作興	vaq tsoq shin
+弗肯歇	vaq khen shiq
+弗捨得	vaq so taq
+弗怯氣	vaq chiq chi
+弗相似	vaq shian zy
+弗是介	vaq zy ka
+弗爽快	vaq saon khua
+弗做肉	vaq tsou gnioq
+弗得知	vaq toq tsyu
+弗着港	vaq jiaq kaon
+弗管帳	vaq kun cian
+弗二弗三	vaq gni vaq sae
+弗上弗落	vaq zaon vaq loq
+弗打記頭	vaq tan ci deu
+弗生好心	vaq san hau shin
+弗問長短	vaq men jian toe
+弗是話頭	vaq zy wo deu
+弗是生意經	vaq zy san i cin
+出場	tshyuq jian
+出搶花	tshyuq chian huo
+出騙頭	tshyuq phi deu
+出窠娘	tshyuq khou gnian
+奶酣	na he
+加氣煩腦	ko chi vae nau
+邊沿頭	pi yi dei
+邊打邊像	pi tan pi zhian
+發花	faq huo
+對河岸	tei ghou nge
+對河干岸	tei ghou kI nge
+對注	tei tsyu
+對弗住	tei vaq dzyu
+臺閣	de koq
+絲巾	sy cin
+老菱	lau len
+老弗出	lau vaq tshyuq
+老伏卵	lau boq loe
+老話頭	lau wo dei
+老蝦公	lau huo kon
+老班輩	lau pae pei
+老木𢙱倲	lau moq lon ton
+老弗大草	lau vaq dou tshau
+老虎裝萎	lau fu tsaon uei
+老酒窞	lau cieu dei
+地龍	di lon
+地坋	di ven
+地𡍲	di taq
+過去	kou chi
+過帳	kou cian
+過謝	kou zhia
+過帳簿	kou cian bu
+過帳洋鈿	kou cian yan di
+壓末腳	aq maq ciaq
+壓末腳	aq maq cian
+壓倉氣	aq tshaon chi
+百枚	paq mei
+有嘸	yeu m
+有環	yeu wae
+有時節	yeu zy ciq
+有數沒帳	yeu su maq cian
+灰汁團	huei ciq doe
+灰塵膨塳	huei jin ban bon
+死人弗怪	shi gnin vaq kua
+死去還魂	shi chi wae wen
+當路	taon lu
+當𡀂	taon lei
+早辰光	tsau jin kuaon
+叿叿	ghon ghon
+嚇佬佬	haq lau lau
+同隊	don dei
+喫嚇	chioq haq
+斬刀	tsae tau
+喫賠帳	chioq bei cian
+回𩌑	wei iu
+還𩌑	wae iu
+肉㾑㾑	gnioq taq taq
+囡疏	noe su
+囡孫	no sen
+呼嘯絲	fu shiau sy
+份衣	ven i
+自關自過	zhi kuae zhi kou
+自做㕶頭	zhi tsou ng deu
+血出無賴	shiuq tshyuq vu la
+血出無賴	shiuq tshyuq Wu la
+向道	shian dau
+行照	ghan ciau
+肋子	laq tsy
+雜蟹	dzaq ha
+雜格楞敦	dzaq kaq len ten
+各手弗知帳	koq shieu vaq tsyu cian
+多𥈊眼	tou saq ngae
+衝場	tshon jian
+冰碗	pin un
+交子	kau tsy
+交代弗過	kau de vaq kou
+衣櫥凳	u dzyu ten
+米票	mi phiau
+汗毛懍懍	ghEI mau lin lin
+汗出湯流	ghEI tshyuq tho lieu
+安躭	EI tae
+講弗睬	kaon vaq tshe
+講起埭頭	kaon chi da dei
+陽溝頭	ian keu deu
+收罪過	shieu zei khou
+陰溼	in saq
+陰𡍲頭	in thaq dei
+陰陽怪氣	in yan kua chi
+迆風斜雨	yi fon zhia yu
+如弗得知	zyu vaq toq tsyu
+紅房	ghon vaon
+紅稻草	ghon dau tshau
+紅毛雄雞	ghon mau yon ci
+紅出𩈣𩈣	ghon tshyuq he he
+紅粉細白	ghon fen shi baq
+壽勢	zhieu syu
+弄掉	lon diau
+弄弗好	lon vaq hau
+進帳	cin cian
+進舍	cin so
+找湊	tsau tsheu
+扯鈴	tsho lin
+扯篷	tsho bon
+走準	tseu tsyun
+摐矮凳	tshaon a ten
+拔秧凳	baq ian ten
+搶火	chian hou
+投鬼	deu ciu
+坑頭⿰米鬼	khan deu khuei
+扭扭作作	knieu knieu tsoq tsoq
+花杆	huo kI
+花癲大糊	huo ti dou wu
+花癲病	huo ti bin
+花薺菜	huo ji tshe
+杜路克牌	du lu khaq ba
+極克	jiq khaq
+豆莢薧	deu ciaq khau
+兩老頭	lian lau dei
+否則	fei tsaq
+還只	waq ciq
+還包門	wae pau men
+還魂塑料	wae wen soq liau
+步梯	bu the
+步梯	bu thi
+滷菜	lu tshe
+滷滯	lu dzyu
+時件	zy ji
+嘸沒	mh maq
+嘸心想	mh shin shian
+嘸相貌	mh shian mau
+嘸陶嘸成	mh dau mh jin
+嘸心倒事	mh shin tau zy
+嘸帳得算	mh cian taq soe
+嘸數沒帳	mh su maq cian
+嘸數倒帳	mh su tau cian
+園的鈴	yu tiq lin
+吵棚	tshau ban
+嗆潑	chian phaq
+吚哩嗚嚕	i li u lu
+別苗頭	biq miau deu
+亂話大三千	loe wo dou sae chi
+體託	thi thoq
+但明	dae min
+近手弗來	jin shieu vaq le
+坐桶	zou don
+坐堂間	zou daon kae
+岔蕻	tsho hon
+肚皮撒	du bi dza
+角落頭	koq loq dei
+飯窠籮	vae khou lou
+飯黏糝	vae kni sei
+飯𣖄骨	vae chiau kuaq
+凍米	ton mi
+亨棚冷打	han ban lan tan
+庎棚	ka ban
+冷呃	lan aq
+冷飯頭	lan vae dei
+冷灰豆爆	lan huei deu pau
+悶炦炦	mhen baq baq
+悶氣烔烔	mhen chi don don
+悶聲弗響	mhen shin vaq shian
+悶桶弗響	mhen don vaq shian
+竈臺	tsau de
+良士	lian zy
+良士嬸	lian zy shin
+社會禮拜	dzo wei li pa
+尿撒	syu dza
+遲了百遲	ji liau baq ji
+大先生	dou shi san
+阿橫	aq wan
+阿木人	aq moq gnin
+阿壽哥	aq zhieu kou
+環眼	guae ngae
+青⿰米鬼	chin khuei
+青大頭	chin dou dei
+拐拐動	kua kua don
+拐拐動	gua gua don
+拖有病	thou yeu bin
+拆壁腳	tshaq piq ciaq
+抱裙	bau jiun
+拉柴胡子	la za wu tsy
+招商	ciau saon
+苦得頭	khu taq deu
+摘紅	tsaq kon
+直通大道	jiq thon da dau
+鬆䨣䨣	son phoq phoq
+畫鏡線	wo cin shi
+刺菱	tshy len
+雨傘月桌	yu sae yuq tsoq
+賣面子	ma mi tsy
+賣洋盤	ma yan bun
+奇出古樣	ji tshyuq ku yan
+軟照	gniu ciau
+到壩	tau po
+呵鼾	huo he
+明分	min fen
+明瓦臺	min ngo de
+釣鰻	tiau mun
+刮痧氣	kuaq so chi
+和攏三姆	ghou lon sae m
+委實	uei zyuq
+的的斯薄	tiq tiq sy boq
+金豆	cin deu
+金彩邊	cin tshe pi
+貪小	thei shiau
+脹瞪	cian ten
+魚醬油	ng cian yeu
+魚滷	ng lu
+狗氣煞	keu chi saq
+狗尾巴	keu ng po
+放爛草	faon lae tshau
+放大銃	faon dou tshon
+碎票	sei phiau
+單角落頭	tae koq loq dei
+河樁	ghou tsaon
+泥鏝	gni mun
+泥艋船	gni man ZOE
+泥西疙敦	gni shi kaq ten
+泥氣疙敦	gni chi kaq ten
+宕子	dan tsyu
+宕鑼	than lou
+空倉鈿	khon tshaon di
+空倉水鈿	khon tshaon syu di
+話頭	wo dei
+話弗起	wo vaq chi
+話弗睬	wo vaq tshe
+該應	ke in
+該廂	kiq shian
+該對	kiq tei
+該把	kiq po
+該貌	koq mau
+該貌	kiq mau
+該𡀂	kiq lei
+蝨米老鬼	saq mi lau ciu
+蝨米鬼	saq mi ciu
+郝鄔安常	haq u EI dzaon
+挖起	uaq chi
+帶魚絲薧	ta ng sy khau
+草螕奶奶	tshau pi nhe nhe
+胡嚨哮管	wu lon hau kun
+胡嚨哮管	u lon hau kun
+查查叨叨	dzo dzo tau tau
+要鈿嘸郎	iau di m laon
+要鈿嘸郎	iau di m naon
+鹹呵呵	ghae hou hou
+鹹駱駝	ghae loq dou
+硯瓦	gni ngo
+硯瓦爿	gni ngo bae
+麪湯	mi thaon
+面前牙	mi zhi ngo
+耐心耐想	ne shin ne shian
+耐心耐想	nei shin nei shian
+耍賴羊	sa la yan
+揹性命	pei shin min
+背桌凳腳	pei tsoq ten ciaq
+點飢	ti ci
+蝦𩻣薧	huo zae khau
+蝦𩻣薧	huo dzae khau
+咬奶頭	ngau na dei
+貼色十六	thiaq saq zyuq loq
+骨骨斯直	kuaq kuaq sy jiq
+骨裏斯直	kuaq li sy jiq
+看場	khI jian
+看牛小娃	khI ngeu shiau uae
+香蕈	shian zyun
+重隊	dzon dei
+篤落碼	toq loq mo
+狠命	hen min
+狠性命	hen shin min
+閣排凳	koq ba ten
+婁吼	leu heu
+前世	zhi shi
+爛泥糊漿	lae gni wu cian
+活龍介	waq lon ka
+派頭	pha deu
+派弗來	pha vaq le
+洋生時	yan san zy
+洋山時	yan sae zy
+渾滾	wen kuen
+衲頭	naq dei
+神綻	zyun dzae
+神經忥忥	zyun cin shi shi
+屋跟無賴	oq ken vu la
+屋跟無賴	oq ken Wu la
+除𩌑	dzyu iu
+姨娘	yi gnian
+起頭家	chi deu ko
+熱拆骨頭	gniq tshaq kuaq dei
+挨擠弗開	a ci vaq khe
+惡嬲話	oq na wo
+格步路梯	kaq bu lu thi
+樣樣色色	yan yan saq saq
+厝墳	tshu ven
+眠鼾	mi he
+鴨蛋石子	aq dae zaq tsy
+晏貨	ae hou
+圓滾滾	yu kuen kuen
+賊弗貪	zaq vaq thei
+鉛杯	khae pei
+筍麩鹹虀	syun fu ghae ci
+倒向	tau shian
+倒夜笨	tau ya ben
+候着	gheu dzoq
+候着候	gheu dzoq gheu
+侯分候數	gheu fen gheu su
+爹頭娘腳	tia deu gnian ciaq
+舀斗	iau teu
+胸脘頭	shion kun dei
+腦子卜	nau tsy poq
+凋心	tiau shin
+粉滋滋	fen tsy tsy
+料理弗得	liau li vaq taq
+酒館店	cieu kun ti
+浮泥	veu gni
+浮面	vei mi
+澀𦤣幾糟	saq baq ci tsau
+寬帳	khun cian
+家作	ko tsoq
+家主婆	ko tsyu bou
+㝗泛泛	laon fae fae
+袖套籠	zhieu thau lon
+𧙇被	dzon bi
+被檔頭	bi taon deu
+調大	diau dou
+屙缸沙	ou kaon so
+屙缸無賴	ou kaon vu la
+屙缸無賴	ou kaon Wu la
+寧可	nen khou
+珿齊	tshoq zhi
+珿斬齊	tshoq tsae zhi
+珿斬齊	tshaq tsae zhi
+排梢	ba sau
+排排坐	ba ba zou
+掉槍花	diau chian huo
+推扳弗起	thei pae vaq chi
+埠頭	bu dei
+堍頭	thu dei
+勒裏	laq li
+黃蛤	waon kaq
+黃頭毛	waon deu mau
+黃昏頭	waon huen dei
+黃昏頭	wu hun dei
+黃昏頭	waon huei dei
+黃秧菜	waon ian tshe
+黃鮚薧	waon ciq khau
+黃澄澄	waon jin jin
+乾鑼	ji lou
+梅子薧	mei tsy khau
+救火會	cieu hou wei
+嗇刻	saq khaq
+敐敐	jin jin
+爽快	saon khua
+雪面	syuq mi
+雪雪斯白	syuq syuq sy baq
+眼緣	ngae yu
+眼𥈊毛	ngae saq mau
+野氣勃出	ya chi baq tshyuq
+晚娘	mae gnian
+蛀蟲爛末	tsyu dzon lae maq
+蛀蟲末爛	tsyu dzon maq lae
+囉裏百嗦	lhou li paq sou
+第二天亮	di gni thi lian
+做親	tsou chin
+腳划船	ciaq uo ZOE
+腳骨直	ciaq kuaq jiq
+脫氣	thaq chi
+豬尿脬	tsyu syu phau
+麻電	mo di
+麻卒	mo tsaq
+麻團	mo doe
+麻呵呵	mo hou hou
+癢木色嘍	yan moq saq leu
+清早天亮	chin tsau thi lian
+清早百早	chin tsau paq tsau
+添里布衫	thi li pu sae
+淖泥坺頭	na gni baq deu
+淖泥糊漿	na gni wu cian
+淖泥糊漿	na gni u cian
+淘閒氣	dau ghae chi
+淡㽺㽺	dae shiq shiq
+墮民	dou min
+綠鬱郁	loq iuq iuq
+搭地灰扎	taq di huei tsaq
+趁早摸亮	chin tsau moq lian
+插眼	tshaq ngae
+插板桌	tshaq pae tsoq
+落目	loq moq
+落底	loq ti
+落得	loq taq
+棒頭	baon dei
+棒頭糖	baon dei daon
+硬動	ngan don
+硬卜卜	ngan poq poq
+硬要當	ngan iau taon
+硬嘴巴	ngan tsyu po
+紫絳色	tsy cian saq
+跔掉	geu diau
+跑春	phau tshyun
+蜒蚰螺	yi yi loe
+喌喌	tsoq tsoq
+黑括嫩	haq kuaq nen
+黑括斯嫩	haq kuaq sy nen
+黑醜醜	haq chieu chieu
+築漏	tsoq leu
+筒頭面	don deu mi
+釉璃傢伙	yeu li ko hou
+番薯䉭	fae zyu liq
+裝賴羊	tsaon la yan
+蠻長長	mae jian jian
+痗心弗過	mei shin vaq kou
+闄接	iau ciq
+溼人	saq gnin
+溼溚溚	shiq taq taq
+溼溼澾澾	saq saq daq daq
+寋叉	ge tsho
+窩心	ou shin
+謝洋	zhia yan
+強頭強腦	jian deu jian nau
+隔日	kaq gniq
+隔洋過海	kaq yan kou he
+𨠒黃	fae waon
+緩調繟	wun diau dae
+塌蒲帽	thaq bu mau
+擺相	pa shian
+搪粉	daon fen
+搪鉛杯	daon khae pei
+搪口杯	daon kheu pei
+藍扳	lae pae
+賴伏	la bu
+暖房	noe vaon
+歇手	shiq shieu
+歇晝	shiq cieu
+暗氣	EI chi
+路梯	lu thi
+路街	lu ka
+䞁草	i tshau
+䞁棒	i baon
+傿價鈿	i ko di
+傻氣氣	shia chi chi
+像模像樣	zhian moq zhian yan
+觸黴頭	tshoq mei deu
+解樹螂	ka dzyu laon
+煞口	saq kheu
+煞仔人	saq tsy gnin
+醬醭氣	cian phoq chi
+數帳	su cian
+滿筍	mun syun
+塞嘴	saq tsyu
+塞暗亮錢	saq EI lian ji
+福利	foq li
+靜止	zhin tsy
+靜止止	zhin tsy tsy
+碧波清	piq pou chin
+𧻲𧻲動	mha mha don
+摘奶	tsaq na
+摘帽子	tsaq mau tsy
+榨面	tso mi
+酸䐥䐥	soe on on
+算帳	soe cian
+管且啥	kun chie sou
+管且咋	kun chie dza
+敲糖	khau daon
+腐滯滯	vu ji ji
+辣茄	laq jia
+滰腳面桶	jian ciaq mi don
+褓裙	bau jiun
+嫩艾艾	nen nge nge
+撒肚皮	dza du bi
+撒尿樸	dza syu phoq
+撒屙樸	dza ou phoq
+撒潑無賴	saq phaq Wu la
+撒潑無賴	saq phaq vu la
+撩弗着	liau vaq dzoq
+趤頭	dan deu
+撮紙頭	tshaq tsy deu
+撮來依倒	tshaq le i tau
+橫裏	uan li
+橫豎橫	wan zy wan
+黴氣	mei chi
+黴麩	mei fu
+黴頭脫腦	mei deu thaq nau
+瞎眼土鯆	haq ngae thu bu
+踏牀頭	daq zaon deu
+鷂虻	yau man
+熟起	zoq chi
+癟炄炄	piq gnieu gnieu
+癟宕宕	piq than than
+攋鉤	la keu
+䭁掉	tsoq diau
+薧頭	khau dei
+瓢羹	biau kan
+嘴䩉	tsyu bu
+癮頭	gni deu
+糙粒不剌	tshau liq paq la
+懶婦	lae vu
+戴涼帽介	te lian mau ka
+嬲話東西	na wo ton shi
+黏呶那呶	kni nhu nha nhu
+𥳖籃	bu lae
+簟簍	di loe
+餲𦤣氣	aq baq chi
+餲𦤣幾糟	aq baq ci tsau
+蹱蹱動	tshon tshon don
+齈掉	nhon diau
+譬如弗得	phi zyu vaq taq
+譬如弗得	phi zy vaq taq
