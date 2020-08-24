@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.23"
+version: "2020.08.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30557,7 +30557,7 @@ s	迡	gni
 毛衣弗動	mau iu vaq don
 毛草火性	mau tshau hou shin
 氣胎	chi thei
-氣弗過	chi vaq kou
+氣弗過	chi vaq kou	55
 氣急大吼	chi ciq da heu
 長遭	jian tsau
 仍歸	jin kuei
@@ -30580,7 +30580,7 @@ s	迡	gni
 認真道話	gnin cin dau wo
 心度	shin du
 引僝	yin zae
-巴弗能夠	po vaq nen keu
+巴弗能夠	po vaq nen keu	55
 雙夾拄	saon kaq tsyu
 書報架	syu pau ko
 末末豆腐	maq maq deu vu
@@ -30601,7 +30601,7 @@ s	迡	gni
 舊挪挪	jieu no no
 歸陰	kuei in
 申報紙	syun pau tsy
-只弗	ciq vaq
+只弗	ciq vaq	55
 叫子	ciau tsyu
 生起	san chi
 生姆娘	san m gnian
@@ -30617,40 +30617,40 @@ s	迡	gni
 捋落	laq loq
 市面	zy mi
 半生裏熟	phun san li zoq
-半弗牢告	pun vaq lau kau
-半弗冷打	pun vaq lan tan
+半弗牢告	pun vaq lau kau	55
+半弗冷打	pun vaq lan tan	55
 頭頭前日	deu deu zhi gniq
 頭暈惺轟	deu yun shin hon
-寧使	nen sy
-弗對	vaq tei
-弗過	vaq kou
-弗來	vaq le
+寧使	nen sy	1000
+弗對	vaq tei	55
+弗過	vaq kou	55
+弗來	vaq le	60000
 弗知	faq ciq
 弗是	faq zy
-弗像	vaq zhian
+弗像	vaq zhian	55
 弗入流	vaq zyuq lieu
-弗上課	vaq zaon khou
-弗長毛	vaq cian mau
+弗上課	vaq zaon khou	55
+弗長毛	vaq cian mau	55
 弗老氣	vaq lau chi
-弗在內	vaq dze nei
+弗在內	vaq dze nei	55
 弗作興	vaq tsoq shin
-弗肯歇	vaq khen shiq
-弗捨得	vaq so taq
-弗怯氣	vaq chiq chi
-弗相似	vaq shian zy
+弗肯歇	vaq khen shiq	55
+弗捨得	vaq so taq	55
+弗怯氣	vaq chiq chi	55
+弗相似	vaq shian zy	55
 弗是介	vaq zy ka
-弗爽快	vaq saon khua
-弗做肉	vaq tsou gnioq
+弗爽快	vaq saon khua	55
+弗做肉	vaq tsou gnioq	55
 弗得知	vaq toq tsyu
-弗着港	vaq jiaq kaon
+弗着港	vaq jiaq kaon	55
 弗管帳	vaq kun cian
-弗二弗三	vaq gni vaq sae
-弗上弗落	vaq zaon vaq loq
-弗打記頭	vaq tan ci deu
-弗生好心	vaq san hau shin
-弗問長短	vaq men jian toe
+弗二弗三	vaq gni vaq sae	55
+弗上弗落	vaq zaon vaq loq	55
+弗打記頭	vaq tan ci deu	55
+弗生好心	vaq san hau shin	55
+弗問長短	vaq men jian toe	55
 弗是話頭	vaq zy wo deu
-弗是生意經	vaq zy san i cin
+弗是生意經	vaq zy san i cin	55
 出場	tshyuq jian
 出搶花	tshyuq chian huo
 出騙頭	tshyuq phi deu
@@ -30663,17 +30663,17 @@ s	迡	gni
 對河岸	tei ghou nge
 對河干岸	tei ghou kI nge
 對注	tei tsyu
-對弗住	tei vaq dzyu
+對弗住	tei vaq dzyu	55
 臺閣	de koq
 絲巾	sy cin
 老菱	lau len
-老弗出	lau vaq tshyuq
+老弗出	lau vaq tshyuq	55
 老伏卵	lau boq loe
 老話頭	lau wo dei
 老蝦公	lau huo kon
 老班輩	lau pae pei
 老木𢙱倲	lau moq lon ton
-老弗大草	lau vaq dou tshau
+老弗大草	lau vaq dou tshau	55
 老虎裝萎	lau fu tsaon uei
 老酒窞	lau cieu dei
 地龍	di lon
@@ -30694,7 +30694,7 @@ s	迡	gni
 有數沒帳	yeu su maq cian
 灰汁團	huei ciq doe
 灰塵膨塳	huei jin ban bon
-死人弗怪	shi gnin vaq kua
+死人弗怪	shi gnin vaq kua	55
 死去還魂	shi chi wae wen
 當路	taon lu
 當𡀂	taon lei
@@ -30722,17 +30722,17 @@ s	迡	gni
 雜蟹	dzaq ha
 雜格楞敦	dzaq kaq len ten
 各手弗知帳	koq shieu vaq tsyu cian
-多𥈊眼	tou saq ngae
+多𥈊眼	tou saq ngae	418
 衝場	tshon jian
 冰碗	pin un
 交子	kau tsy
-交代弗過	kau de vaq kou
+交代弗過	kau de vaq kou	55
 衣櫥凳	u dzyu ten
 米票	mi phiau
 汗毛懍懍	ghEI mau lin lin
 汗出湯流	ghEI tshyuq tho lieu
 安躭	EI tae
-講弗睬	kaon vaq tshe
+講弗睬	kaon vaq tshe	55
 講起埭頭	kaon chi da dei
 陽溝頭	ian keu deu
 收罪過	shieu zei khou
@@ -30748,7 +30748,7 @@ s	迡	gni
 紅粉細白	ghon fen shi baq
 壽勢	zhieu syu
 弄掉	lon diau
-弄弗好	lon vaq hau
+弄弗好	lon vaq hau	55
 進帳	cin cian
 進舍	cin so
 找湊	tsau tsheu
@@ -30798,11 +30798,11 @@ s	迡	gni
 坐桶	zou don
 坐堂間	zou daon kae
 岔蕻	tsho hon
-肚皮撒	du bi dza
+肚皮撒	du bi dza	55
 角落頭	koq loq dei
 飯窠籮	vae khou lou
 飯黏糝	vae kni sei
-飯𣖄骨	vae chiau kuaq
+飯𣖄骨	vae chiau kuaq	55
 凍米	ton mi
 亨棚冷打	han ban lan tan
 庎棚	ka ban
@@ -30811,13 +30811,13 @@ s	迡	gni
 冷灰豆爆	lan huei deu pau
 悶炦炦	mhen baq baq
 悶氣烔烔	mhen chi don don
-悶聲弗響	mhen shin vaq shian
+悶聲弗響	mhen shin vaq shian	55
 悶桶弗響	mhen don vaq shian
 竈臺	tsau de
 良士	lian zy
 良士嬸	lian zy shin
 社會禮拜	dzo wei li pa
-尿撒	syu dza
+尿撒	syu dza	55
 遲了百遲	ji liau baq ji
 大先生	dou shi san
 阿橫	aq wan
@@ -30875,8 +30875,8 @@ s	迡	gni
 空倉鈿	khon tshaon di
 空倉水鈿	khon tshaon syu di
 話頭	wo dei
-話弗起	wo vaq chi
-話弗睬	wo vaq tshe
+話弗起	wo vaq chi	55
+話弗睬	wo vaq tshe	55
 該應	ke in
 該廂	kiq shian
 該對	kiq tei
@@ -30914,7 +30914,7 @@ s	迡	gni
 骨骨斯直	kuaq kuaq sy jiq
 骨裏斯直	kuaq li sy jiq
 看場	khI jian
-看牛小娃	khI ngeu shiau uae
+看牛小娃	khI ngeu shiau uae	55
 香蕈	shian zyun
 重隊	dzon dei
 篤落碼	toq loq mo
@@ -30926,7 +30926,7 @@ s	迡	gni
 爛泥糊漿	lae gni wu cian
 活龍介	waq lon ka
 派頭	pha deu
-派弗來	pha vaq le
+派弗來	pha vaq le	55
 洋生時	yan san zy
 洋山時	yan sae zy
 渾滾	wen kuen
@@ -30939,7 +30939,7 @@ s	迡	gni
 姨娘	yi gnian
 起頭家	chi deu ko
 熱拆骨頭	gniq tshaq kuaq dei
-挨擠弗開	a ci vaq khe
+挨擠弗開	a ci vaq khe	55
 惡嬲話	oq na wo
 格步路梯	kaq bu lu thi
 樣樣色色	yan yan saq saq
@@ -30948,12 +30948,12 @@ s	迡	gni
 鴨蛋石子	aq dae zaq tsy
 晏貨	ae hou
 圓滾滾	yu kuen kuen
-賊弗貪	zaq vaq thei
+賊弗貪	zaq vaq thei	55
 鉛杯	khae pei
 筍麩鹹虀	syun fu ghae ci
 倒向	tau shian
 倒夜笨	tau ya ben
-候着	gheu dzoq
+候着	gheu dzoq	55
 候着候	gheu dzoq gheu
 侯分候數	gheu fen gheu su
 爹頭娘腳	tia deu gnian ciaq
@@ -30978,14 +30978,14 @@ s	迡	gni
 屙缸沙	ou kaon so
 屙缸無賴	ou kaon vu la
 屙缸無賴	ou kaon Wu la
-寧可	nen khou
+寧可	nen khou	1722
 珿齊	tshoq zhi
 珿斬齊	tshoq tsae zhi
 珿斬齊	tshaq tsae zhi
 排梢	ba sau
 排排坐	ba ba zou
 掉槍花	diau chian huo
-推扳弗起	thei pae vaq chi
+推扳弗起	thei pae vaq chi	55
 埠頭	bu dei
 堍頭	thu dei
 勒裏	laq li
@@ -31006,7 +31006,7 @@ s	迡	gni
 雪面	syuq mi
 雪雪斯白	syuq syuq sy baq
 眼緣	ngae yu
-眼𥈊毛	ngae saq mau
+眼𥈊毛	ngae saq mau	55
 野氣勃出	ya chi baq tshyuq
 晚娘	mae gnian
 蛀蟲爛末	tsyu dzon lae maq
@@ -31047,8 +31047,8 @@ s	迡	gni
 硬要當	ngan iau taon
 硬嘴巴	ngan tsyu po
 紫絳色	tsy cian saq
-跔掉	geu diau
-跑春	phau tshyun
+跔掉	geu diau	55
+跑春	phau tshyun	55
 蜒蚰螺	yi yi loe
 喌喌	tsoq tsoq
 黑括嫩	haq kuaq nen
@@ -31060,12 +31060,12 @@ s	迡	gni
 番薯䉭	fae zyu liq
 裝賴羊	tsaon la yan
 蠻長長	mae jian jian
-痗心弗過	mei shin vaq kou
+痗心弗過	mei shin vaq kou	55
 闄接	iau ciq
 溼人	saq gnin
 溼溚溚	shiq taq taq
 溼溼澾澾	saq saq daq daq
-寋叉	ge tsho
+寋叉	ge tsho	55
 窩心	ou shin
 謝洋	zhia yan
 強頭強腦	jian deu jian nau
@@ -31079,7 +31079,7 @@ s	迡	gni
 搪鉛杯	daon khae pei
 搪口杯	daon kheu pei
 藍扳	lae pae
-賴伏	la bu
+賴伏	la bu	55
 暖房	noe vaon
 歇手	shiq shieu
 歇晝	shiq cieu
@@ -31113,17 +31113,17 @@ s	迡	gni
 管且啥	kun chie sou
 管且咋	kun chie dza
 敲糖	khau daon
-腐滯滯	vu ji ji
+腐滯滯	vu ji ji	55
 辣茄	laq jia
-滰腳面桶	jian ciaq mi don
+滰腳面桶	jian ciaq mi don	418
 褓裙	bau jiun
 嫩艾艾	nen nge nge
-撒肚皮	dza du bi
-撒尿樸	dza syu phoq
-撒屙樸	dza ou phoq
+撒肚皮	dza du bi	55
+撒尿樸	dza syu phoq	55
+撒屙樸	dza ou phoq	55
 撒潑無賴	saq phaq Wu la
 撒潑無賴	saq phaq vu la
-撩弗着	liau vaq dzoq
+撩弗着	liau vaq dzoq	55
 趤頭	dan deu
 撮紙頭	tshaq tsy deu
 撮來依倒	tshaq le i tau
@@ -31155,5 +31155,5 @@ s	迡	gni
 餲𦤣幾糟	aq baq ci tsau
 蹱蹱動	tshon tshon don
 齈掉	nhon diau
-譬如弗得	phi zyu vaq taq
-譬如弗得	phi zy vaq taq
+譬如弗得	phi zyu vaq taq	55
+譬如弗得	phi zy vaq taq	55

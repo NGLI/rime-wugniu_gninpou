@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.23"
+version: "2020.08.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26,14 +26,12 @@ use_preset_vocabulary: true
 
 裏向	li shian	40000
 外向	nga shian
-正向	cin shian
 夜裏向	ya li shian	578
 年裏向	gni li shian	578
 伏裏向	voq li shian	578
 該向	kiq shian	6000
 蕩向	daon shian	578
 門裏向	men li shian	578
-滰腳面桶	jian ciaq mi don	418
 滰腳桶	jian ciaq don	578
 滰起	jian chi	418
 滰人	jian gnin	578
@@ -96,32 +94,19 @@ use_preset_vocabulary: true
 涴挭的	ou kuan tiq	55
 涴𤿏屁鬆	ou nei phi son	55
 把作師父	po tsoq sy vu	55
-半弗牢告	pun vaq lau kau	55
-半弗冷打	pun vaq lan tan	55
 半弗郎當	pun vaq laon taon	55
 半弗拉介	pun vaq la ka	55
-撩弗着	liau vaq dzoq	55
 撩弗着	liau vaq zyuq	55
 壓弗殺	aq vaq saq	55
 打弗煞	tan vaq saq	55
 老弗大	lau vaq dou	55
-老弗大草	lau vaq dou tshau	55
 噦氣弗轉	iuq chi vaq tsoe	55
 𧼱弗着	biq vaq dzoq	55
 𧼱弗着	biq vaq zyuq	55
-氣弗過	chi vaq kou	55
-弗肯歇	vaq khen shiq	55
-交代弗過	kau de vaq kou	55
-痗心弗過	mei shin vaq kou	55
-弗爽快	vaq saon khua	55
 做記弗着	tsou ci vaq dzoq	55
 做記弗着	tsou ci vaq zyuq	55
 歇弗來	shiq vaq le	55
-挨擠弗開	a ci vaq khe	55
-老弗出	lau vaq tshyuq	55
 做鬼弗大	tsou ciu vaq dou	55
-弗對	vaq tei	55
-賊弗貪	zaq vaq thei	55
 賊弗偷	zaq vaq theu	55
 做人弗來	tsou gnin vaq le	55
 毛羽弗動	mau yu vaq don	55
@@ -136,46 +121,27 @@ use_preset_vocabulary: true
 先弗先	shi vaq shi	55
 弗然	vaq zoe	55
 弗然	vaq gni	55
-弗打記頭	vaq tan ci deu	55
 打弗記頭	tan vaq ci deu	55
-弄弗好	lon vaq hau	55
-只弗	ciq vaq	55
 弗知	vaq ciq	55
 弗及	vaq ji	55
 勒及	laq ji	55
-弗來	vaq le	60000
-弗像	vaq zhian	55
 弗相像	vaq shian zhian	55
 弗相相	vaq shian shian	55
-弗過	vaq kou	55
 弗好	vaq hau	55
 弗有	vaq yeu	55
-弗相似	vaq shian zy	55
 弗是	vaq zy	170000
 弗得	vaq taq	55
-弗生好心	vaq san hau shin	55
 弗啦	vaq laq	1000
 三弗像	sae vaq zhian	55
-弗上課	vaq zaon khou	55
-弗長毛	vaq cian mau	55
 弗出產	vaq tshyuq sae	55
-弗在內	vaq dze nei	55
 弗在乎	vaq dze wu	55
 弗討妙	vaq thau miau	55
-弗捨得	vaq so taq	55
-弗怯氣	vaq chiq chi	55
-弗做肉	vaq tsou gnioq	55
-弗着港	vaq jiaq kaon	55
 弗管賬	vaq kun cian	55
 喫弗落	chioq vaq loq	55
 嘔弗應	eu vaq in
 苦弗出	khu vaq tshyuq	55
 杭弗消	ghaon vaq shiau	55
 杭弗住	ghaon vaq dzyu	55
-話弗起	wo vaq chi	55
-話弗睬	wo vaq tshe	55
-講弗睬	kaon vaq tshe	55
-派弗來	pha vaq le	55
 跳弗落	thiau vaq loq	55
 三弗相信	sae vaq shian shin	55
 大大弗大	dou dou vaq dou	55
@@ -186,29 +152,21 @@ use_preset_vocabulary: true
 大貴弗貴	dou ciu vaq ciu	55
 上嘴弗得	zaon tsyu vaq taq	55
 上嘴弗來	zaon tsyu vaq le	55
-弗二弗三	vaq gni vaq sae	55
-弗問長短	vaq men jian toe	55
 上落弗問	zaon loq vaq men	55
 弗燥弗溼	vaq sau vaq shiq	55
-弗上弗落	vaq zaon vaq loq	55
 弗尷弗尬	vaq kae vaq ka	55
-巴弗能夠	po vaq nen keu	55
 巴弗得	po vaq taq	55
-死人弗怪	shi gnin vaq kua	55
 喫氣弗過	chioq chi vaq kou	55
 兩頭弗着	lian deu vaq jiaq	55
 兩頭弗着港	lian deu vaq jiaq kaon
 近手弗	jin shieu vaq	55
 悶咚弗響	mhen ton vaq shian	578
-悶聲弗響	mhen shin vaq shian	55
 悶弗聲響	mhen vaq shin shian	55
 腳弗落地	ciaq vaq loq di	55
 腳弗撩地	ciaq vaq liau di	55
 脫情弗來	thaq jin vaq le	55
 寄手弗動	ci shieu vaq don	55
-譬如弗得	phi zyu vaq taq	55
 譬如弗如	phi zyu vaq zyu	55
-弗是生意經	vaq zy san i cin	55
 弗知咋是咋	vaq ciq dza zy dza	55
 各手弗知賬	koq shieu vaq tsyu cian	55
 渾身弗搭界	wen shin vaq taq ka	55
@@ -276,7 +234,6 @@ use_preset_vocabulary: true
 賴伏雞娘	la bu ci gnian	55
 賴伏草雞	la bu tshau ci	55
 伏胎蛋	bu the dae	55
-賴伏	la bu	55
 伏豆芽	bu deu ngo	55
 撩勿着	liau vaq zyuq	55
 管着	kun zyuq
@@ -300,13 +257,8 @@ use_preset_vocabulary: true
 嬲和嬉頭	na ngou shi deu	55
 作啥幹	tsoq soq khI	578
 阿啥幹	aq soq khI	10000
-多𥈊眼	tou saq ngae	418
-眼𥈊毛	ngae saq mau	55
 雞𥈊覺	ci saq kau	55
-撒屙樸	dza ou phoq	55
 撒涴樸	dza ou phoq	55
-撒尿樸	dza syu phoq	55
-尿撒	syu dza	55
 撒屙	dza ou	55
 撒涴	dza ou	55
 撒尿	dza syu	418
@@ -317,8 +269,6 @@ use_preset_vocabulary: true
 涴撒出	ou dza tshyuq	55
 撒尿出	dza syu tshyuq	55
 尿撒出	syu dza tshyuq	55
-肚皮撒	du bi dza	55
-撒肚皮	dza du bi	55
 撒爛屙	dza lae ou	55
 撒爛薄屙	dza lae boq ou	55
 撒爛涴	dza lae ou	55
@@ -385,8 +335,6 @@ use_preset_vocabulary: true
 謳儂着力𡀂	eu nou jiaq liq lei
 謳俉着力𡀂	eu ng jiaq liq lei
 謳爾着力𡀂	eu ng jiaq liq lei
-跑春	phau tshyun	55
-飯𣖄骨	vae chiau kuaq	55
 漬浞	ciq tsoq	55
 遲早點	dzy tsau ti
 遲了百遲	dzy liau paq dzy
@@ -404,21 +352,17 @@ use_preset_vocabulary: true
 結襞	ciq paq	55
 膚殼𥀬	fu khoq i	55
 小娃屄	shiau uae pi	55
-腐滯滯	vu ji ji	55
 腐滯刮剌	vu jiq kuaq la	55
 腐滯刮剌	vu ji guaq la	55
 腐滯刮剌	vu jiq guaq la	55
 腐滯刮剌	vu ji kuaq laq	55
 腐滯刮剌	vu jiq kuaq laq	55
 腐滯刮剌	vu jiq guaq laq	55
-腐滯刮剌	vu jiq guaq laq	55
 鏾雞	shi ci	55
 縩孔籃	cia khon lae	55
 縩孔籃	cian khon lae	55
 拖帉	thou fon	799
 屈死	chiuq shi	55
-寧可	nen khou	1722
-寧使	nen sy	1000
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -460,7 +404,6 @@ use_preset_vocabulary: true
 隨嫁阿姆	zei ko a m	55
 大大阿姆	dou dou a m	55
 娘子阿姆	gnian tsy a m	55
-看牛小娃	khI ngeu shiau uae	55
 伏蛋	bu dae	55
 伏小雞	bu shiau ci	55
 伏秧子	bu ian tsy	55
@@ -470,7 +413,6 @@ use_preset_vocabulary: true
 啥犯着	sou vae dzoq	55
 雷打着𡀂	lei tan dzoq lei
 雷打着了	lei tan dzoq lei
-候着	gheu dzoq	55
 候着記把	gheu dzoq ci po	55
 碰着	ban dzoq
 碰着	phon dzoq
@@ -555,7 +497,6 @@ use_preset_vocabulary: true
 𠑞屁蟲	dza phi dzon	55
 𠑞尿撲	dza syu phoq	55
 𠑞屙撲	dza ou phoq	55
-譬如弗得	phi zy vaq taq	55
 氣耐弗牢	chi ne vaq lau	55
 疑惑弗決	gni ghoq vaq ciuq	55
 看弗起	khI vaq chi	55
@@ -566,9 +507,7 @@ use_preset_vocabulary: true
 話弗理睬	wo vaq li tshe	55
 話弗出	wo vaq tshyuq	55
 尷裏弗尷尬	kae li vaq kae ka	55
-對弗住	tei vaq dzyu	55
 對弗起	tei vaq chi	55
-推扳弗起	thei pae vaq chi	55
 䂻渠肚裏弗得	dzan ji du li vaq taq
 䂻儂肚裏弗得	dzan nou du li vaq taq
 䂻俉肚裏弗得	dzan ng du li vaq taq
@@ -599,7 +538,6 @@ use_preset_vocabulary: true
 要俉着力了	iau ng jiaq liq lei
 將煞了	cian saq lei	55
 脹煞了	cian saq lei	55
-跔掉	geu diau	55
 𠞭眼	lheu ngae	55
 𠞭耳朵	lheu ng to	55
 𠞭耳朵	lheu gni to	55
@@ -644,7 +582,6 @@ use_preset_vocabulary: true
 滑滯滯	waq ji ji
 腐滯涾剌	vu ji daq laq
 碗頭碗尾	un deu un mi
-寋叉	ge tsho	55
 寋鈸	ge baq	55
 寋尺板	ge tshaq pae	55
 搞七八	gau chiq paq	55
