@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.08.16"
+version: "2020.08.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -42,24 +42,42 @@ use_preset_vocabulary: true
 一代人	iq de gnin
 一代新人換舊人	iq de shin gnin wun jieu gnin
 一佛出世	iq baq chiq shi
+一個不小心	iq ghoq paq shiau shin
 一個不小心	iq goq paq shiau shin
+一個中國政策	iq ghoq tson koq cin tshaq
 一個中國政策	iq goq tson koq cin tshaq
+一個人	iq ghoq gnin
 一個人	iq goq gnin
+一個人住	iq ghoq gnin dzyu
 一個人住	iq goq gnin dzyu
+一個人走	iq ghoq gnin tseu
 一個人走	iq goq gnin tseu
+一個個	iq ghoq ghoq
 一個個	iq goq goq
+一個勁	iq ghoq jin
 一個勁	iq goq jin
+一個勁兒	iq ghoq jin er
 一個勁兒	iq goq jin er
+一個女生	iq ghoq gniu san
 一個女生	iq goq gniu san
 一個女生	iq kou gniu san
+一個子兒	iq ghoq tsy er
 一個子兒	iq goq tsy er
+一個心眼兒	iq ghoq shin ngae er
 一個心眼兒	iq goq shin ngae er
+一個接一個	iq ghoq ciq iq ghoq
 一個接一個	iq goq ciq iq goq
+一個樣	iq ghoq yan
 一個樣	iq goq yan
+一個樣兒	iq ghoq yan er
 一個樣兒	iq goq yan er
+一個準	iq ghoq tsyun
 一個準	iq goq tsyun
+一個紅臉一個白臉	iq ghoq ghon li iq ghoq baq li
 一個紅臉一個白臉	iq goq ghon li iq goq baq li
+一個蘿蔔一個坑	iq ghoq lou boq iq ghoq khan
 一個蘿蔔一個坑	iq goq lou boq iq goq khan
+一個蘿蔔一個坑兒	iq ghoq lou boq iq ghoq khan er
 一個蘿蔔一個坑兒	iq goq lou boq iq goq khan er
 一停兒	iq din er
 一億人	iq i gnin
@@ -79,6 +97,7 @@ use_preset_vocabulary: true
 一分鐘	iq fen tson
 一加侖	iq cia len
 一千人	iq chi gnin
+一千個	iq chi ghoq
 一千個	iq chi goq
 一口價兒	iq kheu ko er
 一口氣兒	iq kheu chi er
@@ -153,7 +172,9 @@ use_preset_vocabulary: true
 一條道兒走到黑	iq diau dau er tseu tau haq
 一櫃	iq guei
 一次生	iq tshy san
+一步一個腳印	iq bu iq ghoq ciaq in
 一步一個腳印	iq bu iq goq ciaq in
+一步一個腳印兒	iq bu iq ghoq ciaq in er
 一步一個腳印兒	iq bu iq goq ciaq in er
 一死兒	iq shi er
 一段時間	iq doe zy ci
@@ -176,6 +197,7 @@ use_preset_vocabulary: true
 一生受用不盡	iq sen zhieu yon paq jin
 一畫	iq waq
 一百人	iq paq gnin
+一百個	iq paq ghoq
 一百個	iq paq goq
 一百分	iq paq fen
 一盆火兒	iq ben hou er
@@ -208,6 +230,7 @@ use_preset_vocabulary: true
 一般狀況	iq pae dzaon huaon
 一般貿易	iq pae meu yiq
 一萬人	iq vae gnin
+一萬個	iq vae ghoq
 一萬個	iq vae goq
 一蒂兒到底	iq ti er tau ti
 一號電池	iq ghau di dzy
@@ -274,8 +297,11 @@ use_preset_vocabulary: true
 七了八當	chiq liau paq taon
 七事兒	chiq zy er
 七人	chiq gnin
+七個	chiq ghoq
 七個	chiq goq
+七個人	chiq ghoq gnin
 七個人	chiq goq gnin
+七個八個	chiq ghoq paq ghoq
 七個八個	chiq goq paq goq
 七億人	chiq i gnin
 七分	chiq fen
@@ -317,16 +343,28 @@ use_preset_vocabulary: true
 三人行	sae zyun yin
 三人行必有我師	sae zyun yin piq yeu ngo sy
 三伏天	sae voq thi
+三個世界	sae ghoq syu ka
 三個世界	sae goq syu ka
+三個人	sae ghoq gnin
 三個人	sae goq gnin
+三個代表	sae ghoq de piau
 三個代表	sae goq de piau
+三個女人一臺戲	sae ghoq gniu gnin iq de shi
 三個女人一臺戲	sae goq gniu gnin iq de shi
+三個字	sae ghoq zy
 三個字	sae goq zy
+三個方面	sae ghoq faon mi
 三個方面	sae goq faon mi
+三個臭皮匠	sae ghoq chieu bi zhian
 三個臭皮匠	sae goq chieu bi zhian
+三個臭皮匠勝過諸葛亮	sae ghoq chieu bi zhian shin kou tsyu kaq lian
 三個臭皮匠勝過諸葛亮	sae goq chieu bi zhian shin kou tsyu kaq lian
+三個臭皮匠賽過諸葛亮	sae ghoq chieu bi zhian se kou tsyu kaq lian
 三個臭皮匠賽過諸葛亮	sae goq chieu bi zhian se kou tsyu kaq lian
+三個臭皮匠頂個諸葛亮	sae ghoq chieu bi zhian tin ghoq tsyu kaq lian
 三個臭皮匠頂個諸葛亮	sae goq chieu bi zhian tin goq tsyu kaq lian
+三個階段	sae ghoq cie doe
+三個階段	sae ghoq ka doe
 三個階段	sae goq cie doe
 三個階段	sae goq ka doe
 三億人	sae i gnin
@@ -342,11 +380,13 @@ use_preset_vocabulary: true
 三分頭	sae fen deu
 三分頭	sae ven deu
 三十二	sae zyuq gni
+三十六個牙齒捉對兒廝打	sae zyuq loq ghoq ngo tsy tsoq tei er sy tan
 三十六個牙齒捉對兒廝打	sae zyuq loq goq ngo tsy tsoq tei er sy tan
 三十日	sae zyuq gniq
 三十歲	sae zyuq syu
 三千世界	sae chi syu ka
 三千人	sae chi gnin
+三千個	sae chi ghoq
 三千個	sae chi goq
 三句不離本行	sae ciu paq li pen ghaon
 三句話不離本行	sae ciu wo paq li pen ghaon
@@ -398,6 +438,7 @@ use_preset_vocabulary: true
 三生石	sae sen zaq
 三申五令	sae syun ng lin
 三百人	sae paq gnin
+三百個	sae paq ghoq
 三百個	sae paq goq
 三百六十行行行出狀元	sae paq loq zyuq ghaon ghaon ghaon tshyuq dzaon gniu
 三省	sae san
@@ -412,6 +453,7 @@ use_preset_vocabulary: true
 三自教會	sae zy ciau wei
 三色貓	sae saq mae
 三萬人	sae vae gnin
+三萬個	sae vae ghoq
 三萬個	sae vae goq
 三萬兩千	sae vae lian chi
 三號電池	sae ghau di dzy
@@ -432,6 +474,7 @@ use_preset_vocabulary: true
 三魂七魄	sae wen chiq phaq
 三鹿集團	sae loq jiq doe
 三點水兒	sae ti syu er
+上一個	zaon iq ghoq
 上一個	zaon iq goq
 上下交困	zaon gho ciau khuen
 上下班時間	zaon gho pae zy ci
@@ -440,8 +483,11 @@ use_preset_vocabulary: true
 上交	zaon ciau
 上交所	zaon ciau so
 上人兒	zaon gnin er
+上個	zaon ghoq
 上個	zaon goq
+上個世紀	zaon ghoq syu ci
 上個世紀	zaon goq syu ci
+上個星期	zaon ghoq shin ji
 上個星期	zaon goq shin ji
 上傳	zaon dzOE
 上傳到	zaon dzOE tau
@@ -506,9 +552,12 @@ use_preset_vocabulary: true
 上酒家	zaon cieu cia
 上鉤兒	zaon keu er
 上集	zaon jiq
+下一個	gho iq ghoq
 下一個	gho iq goq
 下人	gho gnin
+下個	gho ghoq
 下個	gho goq
+下個星期	gho ghoq shin ji
 下個星期	gho goq shin ji
 下傳	gho dzOE
 下層階級	gho zen cie ciq
@@ -701,6 +750,7 @@ use_preset_vocabulary: true
 不易	paq yi
 不易	paq yiq
 不易之論	paq yiq tsy len
+不是一個	paq zy iq ghoq
 不是一個	paq zy iq goq
 不是個兒	paq zy kou er
 不是味兒	paq zy vi er
@@ -1371,7 +1421,9 @@ use_preset_vocabulary: true
 乙種維生素	iq tson vi sen su
 九世紀	cieu syu ci
 九二一	cieu er iq
+九個	cieu ghoq
 九個	cieu goq
+九個人	cieu ghoq gnin
 九個人	cieu goq gnin
 九分	cieu fen
 九分之一	cieu fen tsy iq
@@ -1379,6 +1431,7 @@ use_preset_vocabulary: true
 九分熟	cieu fen zoq
 九分鐘	cieu fen tson
 九千人	cieu chi gnin
+九千個	cieu chi ghoq
 九千個	cieu chi goq
 九千個	cieu chi kou
 九命怪貓	cieu min kua mae
@@ -1392,9 +1445,11 @@ use_preset_vocabulary: true
 九死不悔	cieu sy paq huei
 九流三教	cieu lieu sae ciau
 九百人	cieu paq gnin
+九百個	cieu paq ghoq
 九百個	cieu paq goq
 九萬二千	cieu vae er chi
 九萬人	cieu vae gnin
+九萬個	cieu vae ghoq
 九萬個	cieu vae goq
 九集	cieu jiq
 乞人	chiq gnin
@@ -1947,8 +2002,11 @@ use_preset_vocabulary: true
 五人	ng gnin
 五人份	ng gnin ven
 五人墓碑記	ng gnin mou pei ci
+五個	ng ghoq
 五個	ng goq
+五個人	ng ghoq zyun
 五個人	ng goq zyun
+五個方面	ng ghoq faon mi
 五個方面	ng goq faon mi
 五分	ng fen
 五分之一	ng fen tsy iq
@@ -1961,6 +2019,7 @@ use_preset_vocabulary: true
 五分鐘熱度	ng fen tson gniq du
 五十歲	ng zyuq syu
 五千人	ng chi gnin
+五千個	ng chi ghoq
 五千個	ng chi goq
 五口之家	ng kheu tsy cia
 五味	ng vi
@@ -1993,6 +2052,7 @@ use_preset_vocabulary: true
 五氧化二釩	ng yan huo er vae
 五濁惡世	ng dzoq oq syu
 五百人	ng paq gnin
+五百個	ng paq ghoq
 五百個	ng paq goq
 五穀不分	ng koq paq fen
 五穀雜糧	ng koq dzaq lian
@@ -2000,6 +2060,7 @@ use_preset_vocabulary: true
 五花三層兒	ng huo sae zen er
 五花大綁	ng huo da paon
 五萬人	ng vae gnin
+五萬個	ng vae ghoq
 五萬個	ng vae goq
 五蘊熾盛苦	ng iun tsy zhin khu
 五號電池	ng ghau di dzy
@@ -2081,6 +2142,7 @@ use_preset_vocabulary: true
 交併	ciau pin
 交保	kau pau
 交保釋放	kau pau shiq faon
+交個	ciau ghoq
 交個	ciau goq
 交兵	ciau pin
 交出	kau tshyuq
@@ -2993,6 +3055,7 @@ use_preset_vocabulary: true
 仰面朝天	gnian mi jiau thi
 仲家	dzon ko
 仲裁人	dzon ze gnin
+任一個	zyun iq ghoq
 任一個	zyun iq goq
 任丘	zyun chieu
 任丘市	zyun chieu zy
@@ -3232,6 +3295,7 @@ use_preset_vocabulary: true
 但該	dae ke
 但還	dae wa
 但還是	dae wa zy
+佈一個	pu iq ghoq
 佈一個	pu iq goq
 佈教	pu ciau
 佈道大會	pu dau da wei
@@ -3266,9 +3330,13 @@ use_preset_vocabulary: true
 佔了	tsoe laq
 佔人便宜	ci gnin bi gni
 佔人便宜	tsoe gnin bi gni
+佔個	ci ghoq
 佔個	ci goq
+佔個	tsoe ghoq
 佔個	tsoe goq
+佔個位	ci ghoq wei
 佔個位	ci goq wei
+佔個位	tsoe ghoq wei
 佔個位	tsoe goq wei
 佔分	ci fen
 佔分	tsoe fen
@@ -3664,6 +3732,7 @@ use_preset_vocabulary: true
 個位	kou wei
 個位數	kou wei su
 個例	kou li
+個個	ghoq ghoq
 個個	goq goq
 個個	kou kou
 個兒	kou er
@@ -3680,9 +3749,11 @@ use_preset_vocabulary: true
 個別生產價格	kou biq sen tshae ko kaq
 個別談話	kou biq dae wo
 個別輔導	kou biq fu dau
+個半	ghoq pun
 個半	goq pun
 個半	kou pun
 個唱	kou tshaon
+個大	ghoq dou
 個大	goq dou
 個女人	ghoq gniu gnin
 個女人	goq gniu gnin
@@ -3783,6 +3854,7 @@ use_preset_vocabulary: true
 借人	cia gnin
 借個	cia ghoq
 借個	cia goq
+借個火	cia ghoq hou
 借個火	cia goq hou
 借債人	cia tsa gnin
 借債度日	cia tsa du gniq
@@ -4008,6 +4080,7 @@ use_preset_vocabulary: true
 傍亮兒	baon lian er
 傍人籬壁	baon gnin li piq
 傍人門戶	baon gnin men wu
+傍個影兒	baon ghoq in er
 傍個影兒	baon goq in er
 傍大款	baon da khun
 傍家兒	baon cia er
@@ -4356,6 +4429,7 @@ use_preset_vocabulary: true
 儀仗隊	gni jian dei
 儂好	nou hau
 億人	i gnin
+億個	i ghoq
 億個	i goq
 儉學	ji yuq
 儉省	ji san
@@ -4426,6 +4500,7 @@ use_preset_vocabulary: true
 充滿希望	tshon mun shi vaon
 充盛	tshon zhin
 充耳不聞	tshon er paq ven
+兆個	zhiau ghoq
 兆個	zhiau goq
 兆電子伏	zhiau di tsy voq
 兇人	shion gnin
@@ -4763,16 +4838,27 @@ use_preset_vocabulary: true
 兩人同心	lian gnin don shin
 兩份	lian ven
 兩位	lian wei
+兩個中國	lian ghoq tson koq
 兩個中國	lian goq tson koq
+兩個人	lian ghoq gnin
 兩個人	lian goq gnin
+兩個兒子	lian ghoq ng tsy
 兩個兒子	lian goq ng tsy
+兩個女人	lian ghoq gniu gnin
 兩個女人	lian goq gniu gnin
+兩個字	lian ghoq zy
 兩個字	lian goq zy
+兩個孩子	lian ghoq ghe tsy
 兩個孩子	lian goq ghe tsy
+兩個或兩個以上	lian ghoq ghoq lian ghoq yi zaon
 兩個或兩個以上	lian goq ghoq lian goq yi zaon
+兩個或更多	lian ghoq ghoq ken tou
 兩個或更多	lian goq ghoq ken tou
+兩個文明	lian ghoq ven min
 兩個文明	lian goq ven min
+兩個方面	lian ghoq faon mi
 兩個方面	lian goq faon mi
+兩個男人	lian ghoq nEI gnin
 兩個男人	lian goq nEI gnin
 兩倍	lian bei
 兩側	lian tshaq
@@ -4787,6 +4873,7 @@ use_preset_vocabulary: true
 兩千	lian chi
 兩千人	lian chi gnin
 兩千人	lian chi zyun
+兩千個	lian chi ghoq
 兩千個	lian chi goq
 兩千個	lian chi kou
 兩千元	lian chi gniu
@@ -4864,6 +4951,7 @@ use_preset_vocabulary: true
 兩男兩女	lian nEI lian gniu
 兩百	lian paq
 兩百人	lian paq gnin
+兩百個	lian paq ghoq
 兩百個	lian paq goq
 兩百元	lian paq gniu
 兩百塊	lian paq khuei
@@ -4893,6 +4981,7 @@ use_preset_vocabulary: true
 兩萬九千	lian vae cieu chi
 兩萬五千	lian vae ng chi
 兩萬人	lian vae gnin
+兩萬個	lian vae ghoq
 兩萬個	lian vae goq
 兩萬元	lian vae gniu
 兩萬兩千	lian vae lian chi
@@ -4942,6 +5031,7 @@ use_preset_vocabulary: true
 八世紀	paq syu ci
 八二三炮戰	paq er sae phau ci
 八二三炮戰	paq er sae phau tsoe
+八個	paq ghoq
 八個	paq goq
 八分	paq fen
 八分之一	paq fen tsy iq
@@ -5057,7 +5147,9 @@ use_preset_vocabulary: true
 六世紀	loq syu ci
 六人	loq gnin
 六人份	loq gnin ven
+六個	loq ghoq
 六個	loq goq
+六個人	loq ghoq gnin
 六個人	loq goq gnin
 六億人	loq i gnin
 六兒	loq er
@@ -5068,6 +5160,7 @@ use_preset_vocabulary: true
 六分儀座	loq fen gni zou
 六分鐘	loq fen tson
 六千人	loq chi gnin
+六千個	loq chi ghoq
 六千個	loq chi goq
 六口之家	loq kheu tsy cia
 六家	loq cia
@@ -5081,8 +5174,10 @@ use_preset_vocabulary: true
 六歲	loq syu
 六歲時	loq syu zy
 六百人	loq paq gnin
+六百個	loq paq ghoq
 六百個	loq paq goq
 六萬人	loq vae gnin
+六萬個	loq vae ghoq
 六萬個	loq vae goq
 六親不認	loq chin paq gnin
 六集	loq jiq
@@ -5149,6 +5244,7 @@ use_preset_vocabulary: true
 再也沒有	tse gha maq yeu
 再也沒有	tse ya maq yeu
 再乾一杯	tse kI iq pei
+再來一個	tse le iq ghoq
 再來一個	tse le iq goq
 再傳	tse dzOE
 再加	tse ko
@@ -5934,6 +6030,7 @@ use_preset_vocabulary: true
 判若兩人	phun zoq lian gnin
 別人	biq gnin
 別人的	biq gnin tiq
+別個	biq ghoq
 別個	biq goq
 別傳	biq dzoe
 別傻了	biq sa lei
@@ -6156,6 +6253,7 @@ use_preset_vocabulary: true
 創作家	tshaon tsoq cia
 創價學會	tshaon ko yuq wei
 創始人	tshaon sy gnin
+創建一個	tshaon ci iq ghoq
 創建一個	tshaon ci iq goq
 創建人	tshaon ci gnin
 創牌子	tshaon ba tsy
@@ -6245,6 +6343,7 @@ use_preset_vocabulary: true
 加來海峽	cia le he ciaq
 加來海峽	cia le he yaq
 加侖	cia len
+加個	ko ghoq
 加個	ko goq
 加倍	ko bei
 加倍努力	ko bei nu liq
@@ -6684,6 +6783,7 @@ use_preset_vocabulary: true
 勝率	shin liq
 勝負乃兵家常事	shin veu nae pin cia dzaon zy
 勝造七級浮屠	shin zau chiq ciq vu du
+勝過一個諸葛亮	shin kou iq ghoq tsyu kaq lian
 勝過一個諸葛亮	shin kou iq goq tsyu kaq lian
 勞動人民	lau don zyun min
 勞動密集型	lau don miq jiq yin
@@ -6901,17 +7001,20 @@ use_preset_vocabulary: true
 區間	chiu ci
 區間車	chiu ci tsho
 十一人	zyuq iq gnin
+十一個	zyuq iq ghoq
 十一個	zyuq iq goq
 十一分	zyuq iq fen
 十一日	zyuq iq gniq
 十一歲	zyuq iq syu
 十七人	zyuq chiq gnin
+十七個	zyuq chiq ghoq
 十七個	zyuq chiq goq
 十七分	zyuq chiq fen
 十七大	zyuq chiq da
 十七日	zyuq chiq gniq
 十七歲	zyuq chiq syu
 十三人	zyuq sae gnin
+十三個	zyuq sae ghoq
 十三個	zyuq sae goq
 十三分	zyuq sae fen
 十三日	zyuq sae gniq
@@ -6921,12 +7024,14 @@ use_preset_vocabulary: true
 十世紀	zyuq syu ci
 十九世紀	zyuq cieu syu ci
 十九人	zyuq cieu gnin
+十九個	zyuq cieu ghoq
 十九個	zyuq cieu goq
 十九分	zyuq cieu fen
 十九日	zyuq cieu gniq
 十九歲	zyuq cieu syu
 十二	zyuq gni
 十二人	zyuq gni gnin
+十二個	zyuq gni ghoq
 十二個	zyuq gni goq
 十二個	zyuq gni kou
 十二元	zyuq gni gniu
@@ -6966,27 +7071,34 @@ use_preset_vocabulary: true
 十二面體	zyuq gni mi thi
 十二點	zyuq gni ti
 十五人	zyuq ng gnin
+十五個	zyuq ng ghoq
 十五個	zyuq ng goq
+十五個吊桶打水	zyuq ng ghoq tiau don tan syu
 十五個吊桶打水	zyuq ng goq tiau don tan syu
 十五分	zyuq ng fen
 十五日	zyuq ng gniq
 十五歲	zyuq ng syu
 十人	zyuq gnin
 十人份	zyuq gnin ven
+十來個	zyuq le ghoq
 十來個	zyuq le goq
 十來分	zyuq le fen
+十個人	zyuq ghoq zyun
 十個人	zyuq goq zyun
+十個指頭有長短	zyuq ghoq tsy deu yeu jian toe
 十個指頭有長短	zyuq goq tsy deu yeu jian toe
 十傳百	zyuq dzOE paq
 十克拉	zyuq khaq lha
 十全老人	zyuq dzoe lau gnin
 十八人	zyuq paq gnin
+十八個	zyuq paq ghoq
 十八個	zyuq paq goq
 十八分	zyuq paq fen
 十八日	zyuq paq gniq
 十八歲	zyuq paq syu
 十公分	zyuq kon fen
 十六人	zyuq loq gnin
+十六個	zyuq loq ghoq
 十六個	zyuq loq goq
 十六分	zyuq loq fen
 十六分音符	zyuq loq fen in vu
@@ -7002,6 +7114,7 @@ use_preset_vocabulary: true
 十分鐘	zyuq fen tson
 十加侖	zyuq cia len
 十四人	zyuq sy gnin
+十四個	zyuq sy ghoq
 十四個	zyuq sy goq
 十四分	zyuq sy fen
 十四大	zyuq sy da
@@ -7020,6 +7133,7 @@ use_preset_vocabulary: true
 十家	zyuq ko
 十幾二十	zyuq ci er zyuq
 十幾人	zyuq ci gnin
+十幾個	zyuq ci ghoq
 十幾個	zyuq ci goq
 十幾分	zyuq ci fen
 十幾歲	zyuq ci syu
@@ -7031,6 +7145,7 @@ use_preset_vocabulary: true
 十歲	zyuq syu
 十歲時	zyuq syu zy
 十萬人	zyuq vae gnin
+十萬個	zyuq vae ghoq
 十萬個	zyuq vae goq
 十萬分	zyuq vae fen
 十行	zyuq ghaon
@@ -7046,6 +7161,7 @@ use_preset_vocabulary: true
 千人	chi gnin
 千人所指	chi gnin so tsy
 千伏	chi voq
+千個	chi ghoq
 千個	chi goq
 千兒八百	chi er paq paq
 千刀萬剮	chi tau vae kua
@@ -7111,7 +7227,9 @@ use_preset_vocabulary: true
 半世紀	pun syu ci
 半乾	pun kI
 半些兒	pun shiq er
+半個世紀	pun ghoq syu ci
 半個世紀	pun goq syu ci
+半個小時	pun ghoq shiau zy
 半個小時	pun goq shiau zy
 半個月	pun kou yuq
 半分	pun fen
@@ -7150,6 +7268,7 @@ use_preset_vocabulary: true
 半自動化	pun zy don huo
 半自耕農	pun zy kan non
 半路出家	pun lu tshyuq cia
+半路殺出個程咬金	pun lu saq tshyuq ghoq jin ngau cin
 半路殺出個程咬金	pun lu saq tshyuq goq jin ngau cin
 半途自畫	pun du zy waq
 半道兒	pun dau er
@@ -7638,7 +7757,9 @@ use_preset_vocabulary: true
 又大	yi dou
 又從	yeu dzon
 又從	yi dzon
+又是一個	yeu zy iq ghoq
 又是一個	yeu zy iq goq
+又是一個	yi zy iq ghoq
 又是一個	yi zy iq goq
 又沒	yeu mhaq
 又沒	yi mhaq
@@ -7815,7 +7936,9 @@ use_preset_vocabulary: true
 句子成分	ciu tsy jin ven
 句斷	ciu doe
 句法分析	ciu faq fen shiq
+另一個	lin iq ghoq
 另一個	lin iq goq
+另一個人	lin iq ghoq gnin
 另一個人	lin iq goq gnin
 另加	lin ko
 另成一家	lin jin iq cia
@@ -7861,6 +7984,7 @@ use_preset_vocabulary: true
 只戴	ciq ta
 只教	ciq kau
 只於	ciq yu
+只是個	ciq zy ghoq
 只是個	ciq zy goq
 只是爲了	ciq zy wei laq
 只有出的氣沒有進的氣	ciq yeu tshyuq tiq chi maq yeu cin tiq chi
@@ -7885,6 +8009,7 @@ use_preset_vocabulary: true
 叫了	ciau laq
 叫了	ciau lei
 叫人	ciau gnin
+叫個	ciau ghoq
 叫個	ciau goq
 叫牌	ciau ba
 叫的	ciau tiq
@@ -7992,10 +8117,15 @@ use_preset_vocabulary: true
 各人兒洗面兒各人兒光	koq gnin er shi mi er koq gnin er kuaon
 各人民團體	koq zyun min doe thi
 各人自掃門前雪	koq gnin zy sau men zhi syuq
+各個	koq ghoq
 各個	koq goq
+各個國家	koq ghoq koq cia
 各個國家	koq goq koq cia
+各個擊破	koq ghoq ciq phou
 各個擊破	koq goq ciq phou
+各個方面	koq ghoq faon mi
 各個方面	koq goq faon mi
+各個環節	koq ghoq wae ciq
 各個環節	koq goq wae ciq
 各分	koq fen
 各大	koq da
@@ -8047,6 +8177,7 @@ use_preset_vocabulary: true
 合夥人	ghaq hou gnin
 合家大小	ghaq cia dou shiau
 合意兒	ghaq i er
+合成一個諸葛亮	ghaq jin iq ghoq tsyu kaq lian
 合成一個諸葛亮	ghaq jin iq goq tsyu kaq lian
 合成樂器	ghaq jin yuq chi
 合成橡膠	ghaq jin zhian ciau
@@ -8100,6 +8231,7 @@ use_preset_vocabulary: true
 吉野家	ciq ya cia
 吉電子伏	ciq di tsy voq
 吊了	tiau laq
+吊個	tiau ghoq
 吊個	tiau goq
 吊兒郎當	tiau er laon taon
 吊墜	tiau dzei
@@ -8114,12 +8246,17 @@ use_preset_vocabulary: true
 吊衣架	tiau i ko
 吊車尾	tiau tsho vi
 同一人	don iq gnin
+同一個	don iq ghoq
 同一個	don iq goq
+同一個世界	don iq ghoq syu ka
 同一個世界	don iq goq syu ka
+同一個世界同一個夢想	don iq ghoq syu ka don iq ghoq mon shian
 同一個世界同一個夢想	don iq goq syu ka don iq goq mon shian
+同一個夢想	don iq ghoq mon shian
 同一個夢想	don iq goq mon shian
 同事家	don zy ko
 同位素分離	don wei su fen li
+同個	don ghoq
 同個	don goq
 同分	don fen
 同分數	don fen su
@@ -8705,13 +8842,20 @@ use_preset_vocabulary: true
 哩嗹花兒	lhi li huo er
 哩嚕	lhi lu
 哩溜歪斜	lhi lieu hua zhia
+哪一個	nha iq ghoq
 哪一個	nha iq goq
 哪些人	nha shiq gnin
+哪個	nha ghoq
 哪個	nha goq
+哪個人	nha ghoq gnin
 哪個人	nha goq gnin
+哪個國家	nha ghoq koq cia
 哪個國家	nha goq koq cia
+哪個地方	nha ghoq di faon
 哪個地方	nha goq di faon
+哪個好	nha ghoq hau
 哪個好	nha goq hau
+哪個月	nha ghoq yuq
 哪個月	nha goq yuq
 哪兒	nha er
 哪兒來	nha er le
@@ -8720,6 +8864,7 @@ use_preset_vocabulary: true
 哪去	nha chi
 哪吒	no tso
 哪堝兒	nha kou er
+哪幾個	nha ci ghoq
 哪幾個	nha ci goq
 哪種人	nha tson gnin
 哪羣人	nha jiun gnin
@@ -8731,8 +8876,11 @@ use_preset_vocabulary: true
 哪集	nha jiq
 哭了	khoq laq
 哭了	khoq lei
+哭個	khoq ghoq
 哭個	khoq goq
+哭個夠	khoq ghoq keu
 哭個夠	khoq goq keu
+哭個痛快	khoq ghoq thon khua
 哭個痛快	khoq goq thon khua
 哭吧	khoq pa
 哭天兒抹淚	khoq thi er maq lei
@@ -8753,6 +8901,7 @@ use_preset_vocabulary: true
 哲學範疇	ciq yuq vae jieu
 哲學系	ciq yuq shi
 哼了	han laq
+哼個	han ghoq
 哼個	han goq
 哼兒哈兒	han er ha er
 哼哈二將	han ha er cian
@@ -8784,6 +8933,7 @@ use_preset_vocabulary: true
 唯你是問	vi gni zy ven
 唯生產力論	vi sen tshae liq len
 唱了	tshaon laq
+唱個	tshaon ghoq
 唱個	tshaon goq
 唱門詞兒	tshaon men dzy er
 唱高調兒	tshaon kau diau er
@@ -8845,7 +8995,9 @@ use_preset_vocabulary: true
 問來問去	men le men chi
 問供	men kon
 問俗	men dzoq
+問個	men ghoq
 問個	men goq
+問個問題	men ghoq ven di
 問個問題	men goq ven di
 問倒	men tau
 問候	men gheu
@@ -8994,6 +9146,7 @@ use_preset_vocabulary: true
 喝乾	haq kI
 喝了	haq laq
 喝交杯	haq ciau pei
+喝個	haq ghoq
 喝個	haq goq
 喝咖啡	haq kha fi
 喝問	haq ven
@@ -9015,6 +9168,8 @@ use_preset_vocabulary: true
 喪魂失魄	saon wen syuq phaq
 喪魂落魄	saon wen loq phaq
 喫了蜜蜂兒屎似的	chioq liau miq fon er sy zy tiq
+喫人一個蛋恩情無法斷	chioq gnin iq ghoq dae en jin Wu faq doe
+喫人一個蛋恩情無法斷	chioq gnin iq ghoq dae en jin vu faq doe
 喫人一個蛋恩情無法斷	chioq gnin iq goq dae en jin Wu faq doe
 喫人一個蛋恩情無法斷	chioq gnin iq goq dae en jin vu faq doe
 喫人兒的	chioq zyun er tiq
@@ -9039,6 +9194,7 @@ use_preset_vocabulary: true
 單人舞	tae gnin Wu
 單人間	tae gnin kae
 單位負責人	tae wei veu tsaq gnin
+單個	tae ghoq
 單個	tae goq
 單個兒	tae kou er
 單傳	tae dzOE
@@ -9138,6 +9294,7 @@ use_preset_vocabulary: true
 噴濺	phen ci
 噴鼻兒香	phen biq er shian
 噴鼻息	phen biq shiq
+噶個點兒	kaq ghoq ti er
 噶個點兒	kaq goq ti er
 嚇不了	haq paq liau
 嚇了	haq laq
@@ -9148,6 +9305,7 @@ use_preset_vocabulary: true
 嚇死人	haq sy gnin
 嚎啕大哭	ghau dau da khoq
 嚐了	zaon laq
+嚐個	zaon ghoq
 嚐個	zaon goq
 嚥不了	i paq liau
 嚥了	i laq
@@ -9185,11 +9343,17 @@ use_preset_vocabulary: true
 四人份	sy gnin ven
 四人幫	sy gnin paon
 四伏	sy voq
+四個人	sy ghoq gnin
 四個人	sy goq gnin
+四個堅持	sy ghoq ci dzy
+四個堅持	sy ghoq ci ji
 四個堅持	sy goq ci dzy
 四個堅持	sy goq ci ji
+四個字	sy ghoq zy
 四個字	sy goq zy
+四個月	sy ghoq yuq
 四個月	sy goq yuq
+四個現代化	sy ghoq yi de huo
 四個現代化	sy goq yi de huo
 四億人	sy i gnin
 四分	sy fen
@@ -9206,6 +9370,7 @@ use_preset_vocabulary: true
 四十二章經	sy zyuq er tsaon cin
 四十歲	sy zyuq syu
 四千人	sy chi gnin
+四千個	sy chi ghoq
 四千個	sy chi goq
 四周圍	sy cieu wei
 四國銀行	sy koq gnin ghaon
@@ -9252,11 +9417,13 @@ use_preset_vocabulary: true
 四海皆準	sy he cie tsyun
 四濺	sy ci
 四百人	sy paq gnin
+四百個	sy paq ghoq
 四百個	sy paq goq
 四維空間	sy vi khon ci
 四腳朝天	sy ciaq jiau thi
 四至兒	sy tsy er
 四萬人	sy vae gnin
+四萬個	sy vae ghoq
 四萬個	sy vae goq
 四處張望	sy tshyu cian vaon
 四號電池	sy ghau di dzy
@@ -9269,6 +9436,7 @@ use_preset_vocabulary: true
 回交	wei ciau
 回人	wei gnin
 回來吧	wei le pa
+回個	wei ghoq
 回個	wei goq
 回傳	wei dzOE
 回到家	wei tau cia
@@ -9723,6 +9891,7 @@ use_preset_vocabulary: true
 在傳輸過程中	dze dzOE syu kou jin tson
 在全國範圍	dze dzoe koq vae wei
 在全國範圍內	dze dzoe koq vae wei nei
+在兩個	dze lian ghoq
 在兩個	dze lian goq
 在哪	dze nha
 在哪兒	dze nha er
@@ -10120,6 +10289,7 @@ use_preset_vocabulary: true
 塞舌爾	se zhiq er
 塞舌爾羣島	se zhiq er jiun tau
 填了	di laq
+填個	di ghoq
 填個	di goq
 填鴨	di aq
 填鴨式	di aq shiq
@@ -10127,6 +10297,7 @@ use_preset_vocabulary: true
 塵埃	jin e
 塵埃落定	jin e loq din
 墊了	di laq
+墊個	di ghoq
 墊個	di goq
 墊底兒	di ti er
 墊根兒	di ken er
@@ -10263,6 +10434,7 @@ use_preset_vocabulary: true
 壯志未酬身先死	tsaon tsy vi jieu shin shi sy
 壯烈犧牲	tsaon liq shi sen
 壯盛	tsaon zhin
+壹個人	iq ghoq gnin
 壹個人	iq goq gnin
 壺狀	wu dzaon
 壽星老兒	zhieu shin lau er
@@ -10378,6 +10550,7 @@ use_preset_vocabulary: true
 多任務	tou zyun vu
 多伊爾	tou i er
 多佛爾	tou vaq er
+多個	tou ghoq
 多個	tou goq
 多元入學	tou gniu zyuq yuq
 多分	tou fen
@@ -10643,6 +10816,7 @@ use_preset_vocabulary: true
 大千	da chi
 大千世界	da chi syu ka
 大半	dou pun
+大半個	dou pun ghoq
 大半個	dou pun goq
 大半天	dou pun thi
 大半年	dou pun gni
@@ -12022,6 +12196,7 @@ use_preset_vocabulary: true
 夸爾	khua er
 夾了	kaq laq
 夾人	kaq gnin
+夾個	kaq ghoq
 夾個	kaq goq
 夾塞兒	kaq saq er
 夾山國家森林公園	kaq sae koq cia sen lin kon yu
@@ -12049,6 +12224,7 @@ use_preset_vocabulary: true
 奔頭兒	pen deu er
 套中人	thau tson gnin
 套了	thau laq
+套個	thau ghoq
 套個	thau goq
 套兒	thau er
 套問	thau ven
@@ -12160,6 +12336,7 @@ use_preset_vocabulary: true
 她自己	tha zy ci
 她認爲	tha zyun wei
 她過去	tha kou chiu
+好一個	hau iq ghoq
 好一個	hau iq goq
 好一日兒	hau iq gniq er
 好一會兒	hau iq wei er
@@ -12182,6 +12359,7 @@ use_preset_vocabulary: true
 好人家	hau gnin ko
 好人難作	hau gnin nae tsoq
 好人難做	hau gnin nae tsou
+好個	hau ghoq
 好個	hau goq
 好借好還再借不難	hau cia hau wae tse cia paq nae
 好假	hau ko
@@ -12197,6 +12375,7 @@ use_preset_vocabulary: true
 好善樂施	hau zoe loq sy
 好壞不分	hau ua paq fen
 好多人	hau tou gnin
+好多個	hau tou ghoq
 好多個	hau tou goq
 好大	hau dou
 好大喜功	hau da shi kon
@@ -12450,6 +12629,7 @@ use_preset_vocabulary: true
 娥眉	ngou mei
 娶了	tshyu laq
 娶你	tshyu gni
+娶個	tshyu ghoq
 娶個	tshyu goq
 娶回家	tshyu wei cia
 娼家	tshaon ko
@@ -12490,7 +12670,9 @@ use_preset_vocabulary: true
 媽媽論兒	mha mha len er
 嫁了	ko laq
 嫁作人婦	ko tsoq zyun vu
+嫁個	ko ghoq
 嫁個	ko goq
+嫁個老公	ko ghoq lau kon
 嫁個老公	ko goq lau kon
 嫁出去的女兒	ko tshyuq chi tiq gniu er
 嫁出去的女兒潑出去的水	ko tshyuq chi tiq gniu er phaq tshyuq chi tiq syu
@@ -13506,6 +13688,7 @@ use_preset_vocabulary: true
 審計長	shin ci cian
 寫了	shia laq
 寫作家	shia tsoq cia
+寫個	shia ghoq
 寫個	shia goq
 寫吧	shia pa
 寫字兒	shia zy er
@@ -13549,6 +13732,7 @@ use_preset_vocabulary: true
 封了	fon lei
 封了火	fon laq hou
 封二	fon gni
+封個	fon ghoq
 封個	fon goq
 封兒	fon er
 封建禮教	fon ci li ciau
@@ -14593,7 +14777,9 @@ use_preset_vocabulary: true
 帶人	ta gnin
 帶你	ta gni
 帶你	ta ng
+帶個	ta ghoq
 帶個	ta goq
+帶個好	ta ghoq hau
 帶個好	ta goq hau
 帶兒	ta er
 帶分數	ta fen su
@@ -14638,6 +14824,7 @@ use_preset_vocabulary: true
 幫人	paon gnin
 幫你	paon gni
 幫你	paon ng
+幫個場子	paon ghoq jian tsy
 幫個場子	paon goq jian tsy
 幫兒	paon er
 幫助別人	paon dzu biq gnin
@@ -14648,7 +14835,9 @@ use_preset_vocabulary: true
 平交道	bin ciau dau
 平伏	bin voq
 平伏下來	bin voq gho le
+平個	bin ghoq
 平個	bin goq
+平個人	bin ghoq zyun
 平個人	bin goq zyun
 平假名	bin cia min
 平分	bin fen
@@ -14790,22 +14979,31 @@ use_preset_vocabulary: true
 幾何光學	ci ghou kuaon yuq
 幾何學	ci ghou yuq
 幾何拓撲學	ci ghou thoq phoq yuq
+幾個人	ci ghoq gnin
 幾個人	ci goq gnin
+幾個問題	ci ghoq ven di
 幾個問題	ci goq ven di
+幾個字	ci ghoq zy
 幾個字	ci goq zy
+幾個小時	ci ghoq shiau zy
 幾個小時	ci goq shiau zy
+幾個方面	ci ghoq faon mi
 幾個方面	ci goq faon mi
+幾個月	ci ghoq yuq
 幾個月	ci goq yuq
 幾個月	ci kou yuq
 幾兒	ci er
+幾兒個	ci er ghoq
 幾兒個	ci er goq
 幾分	ci fen
 幾分之幾	ci fen tsy ci
 幾分收穫	ci fen shieu ghoq
 幾分鐘	ci fen tson
 幾十人	ci zyuq gnin
+幾十個	ci zyuq ghoq
 幾十個	ci zyuq goq
 幾千人	ci chi gnin
+幾千個	ci chi ghoq
 幾千個	ci chi goq
 幾大	ci da
 幾大塊	ci da khuei
@@ -14826,8 +15024,10 @@ use_preset_vocabulary: true
 幾炷香	ci tsyu shian
 幾番家	ci fae cia
 幾百人	ci paq gnin
+幾百個	ci paq ghoq
 幾百個	ci paq goq
 幾萬人	ci vae gnin
+幾萬個	ci vae ghoq
 幾萬個	ci vae goq
 幾行	ci ghaon
 幾間	ci kae
@@ -14978,6 +15178,7 @@ use_preset_vocabulary: true
 建設銀行	ci shiq gnin ghaon
 廿五萬	nE ng vae
 弄乾	lon kI
+弄個	lon ghoq
 弄個	lon goq
 弄刺子兒	lon tshy tsy er
 弄壞	lon ua
@@ -15121,6 +15322,7 @@ use_preset_vocabulary: true
 彆彆扭扭	piq piq gnieu gnieu
 彆扭	piq gnieu
 彈了	dae laq
+彈出一個	dae tshyuq iq ghoq
 彈出一個	dae tshyuq iq goq
 彈射座椅	dae zhiq zou i
 彈布爾	dae pu er
@@ -15445,6 +15647,7 @@ use_preset_vocabulary: true
 心腸壞	shin jian ua
 心腹大患	shin foq da wae
 心臟學	shin dzaon yuq
+心裏有個譜	shin li yeu ghoq pu
 心裏有個譜	shin li yeu goq pu
 心裏有鬼	shin li yeu kuei
 心路文教基金會	shin lu ven ciau ci cin wei
@@ -15748,14 +15951,18 @@ use_preset_vocabulary: true
 想了想	shian laq shian
 想你	shian gni
 想你了	shian gni lei
+想個	shian ghoq
 想個	shian goq
+想個方法	shian ghoq faon faq
 想個方法	shian goq faon faq
+想個辦法	shian ghoq bae faq
 想個辦法	shian goq bae faq
 想啊	shian a
 想啊	shian gha
 想學	shian ghoq
 想家	shian cia
 想度	shian doq
+想找個	shian tsau ghoq
 想找個	shian tsau goq
 想望	shian vaon
 想死	shian sy
@@ -15804,7 +16011,9 @@ use_preset_vocabulary: true
 愚人節快樂	gniu zyun ciq khua loq
 愚妄	gniu vaon
 愚弄人民	gniu lon zyun min
+愛一個人	e iq ghoq gnin
 愛一個人	e iq goq gnin
+愛上一個	e zaon iq ghoq
 愛上一個	e zaon iq goq
 愛了	e laq
 愛人	e gnin
@@ -16127,10 +16336,12 @@ use_preset_vocabulary: true
 我拿	ngo no
 我是你	ngo zy gni
 我是你	ngo zy ng
+我是個	ngo zy ghoq
 我是個	ngo zy goq
 我是個	ngo zy kou
 我更	ngo ken
 我曾	ngo dzen
+我有個	ngo yeu ghoq
 我有個	ngo yeu goq
 我有個	ngo yeu kou
 我沒	ngo mhaq
@@ -16184,7 +16395,9 @@ use_preset_vocabulary: true
 截長補短	jiq jian pu toe
 戰了	ci laq
 戰了	tsoe laq
+戰個	ci ghoq
 戰個	ci goq
+戰個	tsoe ghoq
 戰個	tsoe goq
 戰前戰後	ci zhi ci gheu
 戰前戰後	tsoe zhi tsoe gheu
@@ -16221,7 +16434,9 @@ use_preset_vocabulary: true
 戴了	ta lei
 戴了	te laq
 戴了	te lei
+戴個	ta ghoq
 戴個	ta goq
+戴個	te ghoq
 戴個	te goq
 戴克	te khaq
 戴克拉克	te khaq lha khaq
@@ -16335,21 +16550,33 @@ use_preset_vocabulary: true
 扒自飯碗兒	bo zhi vae un er
 扒頭兒	bo deu er
 打乾淨毬兒	tan kI zhin jieu er
+打了一個悶雷	tan laq iq ghoq mhen lei
 打了一個悶雷	tan laq iq goq mhen lei
+打了個	tan laq ghoq
 打了個	tan laq goq
+打了個千兒	tan laq ghoq chi er
 打了個千兒	tan laq goq chi er
+打了個盹兒	tan laq ghoq ten er
 打了個盹兒	tan laq goq ten er
+打了個落花流水	tan laq ghoq loq huo lieu syu
 打了個落花流水	tan laq goq loq huo lieu syu
 打交道	tan ciau dau
 打人	tan gnin
 打仗	tan cian
 打佯兒	tan yan er
+打個	tan ghoq
 打個	tan goq
+打個千兒	tan ghoq chi er
 打個千兒	tan goq chi er
+打個問號	tan ghoq ven ghau
 打個問號	tan goq ven ghau
+打個沉兒	tan ghoq jin er
 打個沉兒	tan goq jin er
+打個照面	tan ghoq ciau mi
 打個照面	tan goq ciau mi
+打個花	tan ghoq huo
 打個花	tan goq huo
+打個電話	tan ghoq di wo
 打個電話	tan goq di wo
 打出去	tan tshyuq chi
 打分	tan fen
@@ -16567,6 +16794,7 @@ use_preset_vocabulary: true
 找了	tsau laq
 找人	tsau gnin
 找你	tsau gni
+找個	tsau ghoq
 找個	tsau goq
 找刺兒	tsau tshy er
 找死	tsau sy
@@ -16620,6 +16848,7 @@ use_preset_vocabulary: true
 把人	po gnin
 把你	po gni
 把你幹	po gni kI
+把個	po ghoq
 把個	po goq
 把兒	po er
 把兒缸子	po er kaon tsy
@@ -16849,6 +17078,7 @@ use_preset_vocabulary: true
 拉住	lha dzyu
 拉來	lha le
 拉便宜手兒	lha bi gni shieu er
+拉個手	lha ghoq shieu
 拉個手	lha goq shieu
 拉倒	lha tau
 拉傷	lha saon
@@ -17107,8 +17337,10 @@ use_preset_vocabulary: true
 拓撲空間	thoq phoq khon ci
 拓樸學	thoq phoq yuq
 拔了	baq laq
+拔了一個尖兒	baq laq iq ghoq ci er
 拔了一個尖兒	baq laq iq goq ci er
 拔了蘿蔔地皮寬	baq laq lou boq di bi khun
+拔個	baq ghoq
 拔個	baq goq
 拔刀斷席	baq tau doe zhiq
 拔地參天	baq di tshae thi
@@ -17203,7 +17435,9 @@ use_preset_vocabulary: true
 拿人	na gnin
 拿人	no gnin
 拿俄米	na ngou mi
+拿個	na ghoq
 拿個	na goq
+拿個	no ghoq
 拿個	no goq
 拿刀靶兒	no tau po er
 拿印把兒	no in po er
@@ -17465,6 +17699,7 @@ use_preset_vocabulary: true
 掘去	jiuq chi
 掘墓工人	jiuq mou kon gnin
 掛了	kuo laq
+掛個	kuo ghoq
 掛個	kuo goq
 掛冠求去	kuo kun jieu chiu
 掛冠而去	kuo kun er chiu
@@ -17511,6 +17746,7 @@ use_preset_vocabulary: true
 接二連三	ciq er li sae
 接人	ciq gnin
 接任	ciq zyun
+接個	ciq ghoq
 接個	ciq goq
 接受不了	ciq zhieu paq liau
 接受審問	ciq zhieu shin ven
@@ -17583,6 +17819,7 @@ use_preset_vocabulary: true
 提交	di ciau
 提交日期	di ciau zyuq ji
 提任	di zyun
+提個	di ghoq
 提個	di goq
 提出問題	di tshyuq ven di
 提出申請	di tshyuq syun chin
@@ -17625,6 +17862,7 @@ use_preset_vocabulary: true
 換了	wun laq
 換交	wun ciau
 換人	wun gnin
+換個	wun ghoq
 換個	wun goq
 換個兒	wun kou er
 換口味	wun kheu vi
@@ -17704,6 +17942,7 @@ use_preset_vocabulary: true
 搬家公司	pun cia kon sy
 搬石頭砸自己的腳	pun zaq deu tsaq zy ci tiq ciaq
 搬起石頭砸自己的腳	pun chi zaq deu tsaq zy ci tiq ciaq
+搭個	taq ghoq
 搭個	taq goq
 搭分兒	taq fen er
 搭咕	taq ku
@@ -17825,6 +18064,8 @@ use_preset_vocabulary: true
 撞了	dzaon laq
 撞了	dzaon lei
 撞人	dzaon gnin
+撞個滿懷	dzaon ghoq mun wa
+撞個滿懷	dzaon ghoq mun wae
 撞個滿懷	dzaon goq mun wa
 撞個滿懷	dzaon goq mun wae
 撞壞	dzaon ua
@@ -17864,8 +18105,11 @@ use_preset_vocabulary: true
 撰稿人	dzoe kau gnin
 撲上去	phoq zaon chi
 撲了	phoq laq
+撲個滿懷	phoq ghoq mun wa
+撲個滿懷	phoq ghoq mun wae
 撲個滿懷	phoq goq mun wa
 撲個滿懷	phoq goq mun wae
+撲個空	phoq ghoq khon
 撲個空	phoq goq khon
 撲兒	phoq er
 撲臉兒	phoq li er
@@ -18075,6 +18319,7 @@ use_preset_vocabulary: true
 改了	ke lei
 改了又改	ke laq yeu ke
 改任	ke zyun
+改個	ke ghoq
 改個	ke goq
 改大	ke dou
 改弦易轍	ke yi yiq ciq
@@ -18103,6 +18348,7 @@ use_preset_vocabulary: true
 攻無不克戰無不勝	kon Wu paq khaq tsoe Wu paq shin
 攻無不克戰無不勝	kon vu paq khaq ci vu paq shin
 攻無不克戰無不勝	kon vu paq khaq tsoe vu paq shin
+放一百二十個心	faon iq paq er zyuq ghoq shin
 放一百二十個心	faon iq paq er zyuq goq shin
 放之四海皆準	faon tsy sy he cie tsyun
 放之四海而皆準	faon tsy sy he er cie tsyun
@@ -18113,6 +18359,7 @@ use_preset_vocabulary: true
 放任主義	faon zyun tsyu gni
 放任政策	faon zyun cin tshaq
 放任自流	faon zyun zy lieu
+放個	faon ghoq
 放個	faon goq
 放假日	faon ko gniq
 放參	faon tshae
@@ -18534,11 +18781,16 @@ use_preset_vocabulary: true
 整人	cin gnin
 整人法	cin gnin faq
 整人遊戲	cin gnin yeu shi
+整個世界	cin ghoq syu ka
 整個世界	cin goq syu ka
+整個人	cin ghoq gnin
 整個人	cin goq gnin
+整個來說	cin ghoq le syuq
 整個來說	cin goq le syuq
+整個地球	cin ghoq di jieu
 整個地球	cin goq di jieu
 整個月	cin kou yuq
+整個過程	cin ghoq kou jin
 整個過程	cin goq kou jin
 整合行銷傳播	cin ghaq yin shiau dzOE pou
 整形外科醫生	cin yin nga khou i san
@@ -18561,6 +18813,7 @@ use_preset_vocabulary: true
 數一數二	su iq su gni
 數了	su laq
 數人	su gnin
+數個	su ghoq
 數個	su goq
 數個	su kou
 數值分析	su jiq fen shiq
@@ -19610,6 +19863,7 @@ use_preset_vocabulary: true
 昧死	mei sy
 昧沒	mei maq
 昨兒	dzoq er
+昨兒個	dzoq er ghoq
 昨兒個	dzoq er goq
 昨夜	dzoq ya
 昨夜裏	dzoq ya li
@@ -19631,6 +19885,7 @@ use_preset_vocabulary: true
 是人	zy gnin
 是你	zy gni
 是你	zy ng
+是個	zy ghoq
 是個	zy goq
 是假	zy ko
 是假的	zy ko tiq
@@ -20197,6 +20452,7 @@ use_preset_vocabulary: true
 會乾脆	wei kI tshei
 會乾裂	wei kI liq
 會了	wei lei
+會個	wei ghoq
 會個	wei goq
 會兒	wei er
 會分	wei fen
@@ -20229,9 +20485,11 @@ use_preset_vocabulary: true
 月落參橫	yuq loq sen wan
 月間	yuq ci
 月頭兒	yuq deu er
+有一個人	yeu iq ghoq gnin
 有一個人	yeu iq goq gnin
 有一手兒	yeu iq shieu er
 有一點兒	yeu iq ti er
+有三個	yeu sae ghoq
 有三個	yeu sae goq
 有了	yeu laq
 有了人家	yeu laq gnin ko
@@ -20251,17 +20509,24 @@ use_preset_vocabulary: true
 有佛出世	yeu baq chiq shi
 有你	yeu gni
 有信兒	yeu shin er
+有個	yeu ghoq
 有個	yeu goq
+有個人	yeu ghoq gnin
 有個人	yeu goq gnin
+有個好歹	yeu ghoq hau te
 有個好歹	yeu goq hau te
+有個屁用	yeu ghoq phi yon
 有個屁用	yeu goq phi yon
+有個數兒	yeu ghoq su er
 有個數兒	yeu goq su er
+有個說兒	yeu ghoq syuq er
 有個說兒	yeu goq syuq er
 有借有還再借不難	yeu cia yeu wae tse cia paq nae
 有償	yeu dzaon
 有償使用	yeu dzaon sy yon
 有償轉讓	yeu dzaon tsoe gnian
 有兒靠兒	yeu er khau er
+有兩個	yeu lian ghoq
 有兩個	yeu lian goq
 有分	yeu ven
 有分兒	yeu ven er
@@ -20271,10 +20536,13 @@ use_preset_vocabulary: true
 有哪	yeu nha
 有啊	yeu a
 有啊	yeu gha
+有四個	yeu sy ghoq
 有四個	yeu sy goq
+有多個	yeu tou ghoq
 有多個	yeu tou goq
 有多大	yeu tou dou
 有多少人	yeu tou shiau gnin
+有多少個	yeu tou shiau ghoq
 有多少個	yeu tou shiau goq
 有多長	yeu tou jian
 有大	yeu dou
@@ -20287,6 +20555,7 @@ use_preset_vocabulary: true
 有家歸不得	yeu cia kuei paq taq
 有容乃大	yeu yon nae da
 有希望	yeu shi vaon
+有幾個	yeu ci ghoq
 有幾個	yeu ci goq
 有幾分	yeu ci fen
 有幾家	yeu ci cia
@@ -20944,6 +21213,7 @@ use_preset_vocabulary: true
 架了	ko laq
 架住	ko dzyu
 架來架去	ko le ko chi
+架個	ko ghoq
 架個	ko goq
 架兒	ko er
 架入	ko zyuq
@@ -20999,7 +21269,9 @@ use_preset_vocabulary: true
 柏遼茲	paq liau tsy
 某些人	mou shiq gnin
 某人	mou gnin
+某個	mou ghoq
 某個	mou goq
+某個人	mou ghoq gnin
 某個人	mou goq gnin
 某大學	mou da ghoq
 某家	mou ko
@@ -22079,12 +22351,18 @@ use_preset_vocabulary: true
 母子間	meu tsy ci
 母教	meu ciau
 母鴨	meu ae
+每一個	mei iq ghoq
 每一個	mei iq goq
+每一個人	mei iq ghoq gnin
 每一個人	mei iq goq gnin
 每人	mei gnin
+每個	mei ghoq
 每個	mei goq
+每個人	mei ghoq gnin
 每個人	mei goq gnin
+每個人都	mei ghoq gnin tu
 每個人都	mei goq gnin tu
+每個月	mei ghoq yuq
 每個月	mei goq yuq
 每分	mei fen
 每分每秒	mei fen mei miau
@@ -22110,8 +22388,11 @@ use_preset_vocabulary: true
 比人	pi gnin
 比你	pi gni
 比你	pi ng
+比個	pi ghoq
 比個	pi goq
+比個高下	pi ghoq kau gho
 比個高下	pi goq kau gho
+比個高低	pi ghoq kau ti
 比個高低	pi goq kau ti
 比兒	pi er
 比分	pi fen
@@ -22525,10 +22806,15 @@ use_preset_vocabulary: true
 沒來歷	mhaq le liq
 沒來由	mhaq le yeu
 沒來頭	mhaq le deu
+沒個好結果	mhaq ghoq hau ciq kou
 沒個好結果	mhaq goq hau ciq kou
+沒個是處	mhaq ghoq zy tshyu
 沒個是處	mhaq goq zy tshyu
+沒個裏兒表兒	mhaq ghoq li er piau er
 沒個裏兒表兒	mhaq goq li er piau er
+沒個見識	mhaq ghoq ci shiq
 沒個見識	mhaq goq ci shiq
+沒個開交	mhaq ghoq khe ciau
 沒個開交	mhaq goq khe ciau
 沒借	mhaq cia
 沒做	mhaq tsou
@@ -22799,6 +23085,7 @@ use_preset_vocabulary: true
 沒轍	mhaq ciq
 沒辦	mhaq bae
 沒辦法	mhaq bae faq
+沒這個店兒	mhaq tsyuq ghoq ti er
 沒這個店兒	mhaq tsyuq goq ti er
 沒通	mhaq thon
 沒造化	mhaq zau huo
@@ -23091,6 +23378,7 @@ use_preset_vocabulary: true
 洗上去	shi zaon chi
 洗乾淨	shi kI zhin
 洗了	shi laq
+洗個	shi ghoq
 洗個	shi goq
 洗冤集錄	shi iu jiq loq
 洗去	shi chiu
@@ -23160,6 +23448,7 @@ use_preset_vocabulary: true
 流乾	lieu kI
 流了	lieu laq
 流人	lieu zyun
+流個	lieu ghoq
 流個	lieu goq
 流傳	lieu dzOE
 流傳後世	lieu dzOE gheu syu
@@ -23469,6 +23758,7 @@ use_preset_vocabulary: true
 淺耕	chi kan
 淺顯易懂	chi shi yi ton
 添了	thi laq
+添個	thi ghoq
 添個	thi goq
 清了	chin laq
 清了	chin lei
@@ -23508,6 +23798,7 @@ use_preset_vocabulary: true
 清點人數	chin ti gnin su
 清黨行動	chin taon yin don
 減了	kae laq
+減個	kae ghoq
 減個	kae goq
 減價時間	kae ko zy ci
 減去	kae chiu
@@ -23549,6 +23840,7 @@ use_preset_vocabulary: true
 渺茫無望	miau maon Wu vaon
 渺茫無望	miau maon vu vaon
 渾人	wen gnin
+渾個	wen ghoq
 渾個	wen goq
 渾家	wen cia
 渾樸自然	wen phoq zy zoe
@@ -23601,6 +23893,7 @@ use_preset_vocabulary: true
 溜了	lhieu laq
 溜來溜去	lhieu le lhieu chi
 溜來溜去	lieu le lieu chi
+溜個	lhieu ghoq
 溜個	lhieu goq
 溜兒	lhieu er
 溜冰	lieu pin
@@ -23705,6 +23998,7 @@ use_preset_vocabulary: true
 滿人	mun gnin
 滿分	mun fen
 滿剌加	mun la cia
+滿好個	mun hau ghoq
 滿好個	mun hau goq
 滿州人	mun cieu gnin
 滿懷希望	mun wa shi vaon
@@ -23737,6 +24031,7 @@ use_preset_vocabulary: true
 漏行	leu yin
 漏電斷路器	leu di doe lu chi
 漓漓拉拉	li li lha lha
+演個	yi ghoq
 演個	yi goq
 演出人	yi tshyuq gnin
 演奏家	yi tseu cia
@@ -23847,6 +24142,7 @@ use_preset_vocabulary: true
 瀟灑自如	shiau sa zy zyu
 瀾滄拉祜族自治縣	lae tshaon lha wu dzoq zy dzyu yu
 灌了	kun laq
+灌個	kun ghoq
 灌個	kun goq
 灌木狀	kun moq dzaon
 灌死	kun sy
@@ -24001,6 +24297,7 @@ use_preset_vocabulary: true
 烙鐵印兒	loq thiq in er
 烤乾	khau kI
 烤了	khau laq
+烤個	khau ghoq
 烤個	khau goq
 烤架	khau ko
 烤鴨肉	khau aq gnioq
@@ -24265,6 +24562,7 @@ use_preset_vocabulary: true
 焦急萬分	ciau ciq vae fen
 焦耳	ciau er
 煎了	ci laq
+煎個	ci ghoq
 煎個	ci goq
 煎炸	ci zaq
 煎炸油	ci zaq yeu
@@ -24289,6 +24587,7 @@ use_preset_vocabulary: true
 煦日	shiu zyuq
 照了	ciau laq
 照人	ciau gnin
+照個	ciau ghoq
 照個	ciau goq
 照價賠償	ciau ko bei dzaon
 照常進行	ciau dzaon cin yin
@@ -24399,7 +24698,9 @@ use_preset_vocabulary: true
 燕尾蝶	i vi diaq
 燕爾	i er
 燕爾新婚	i er shin huen
+燙個	thaon ghoq
 燙個	thaon goq
+燙個髮	thaon ghoq faq
 燙個髮	thaon goq faq
 燙手山芋	thaon shieu sae yu
 燙死	thaon sy
@@ -24864,6 +25165,7 @@ use_preset_vocabulary: true
 狼狽萬狀	laon pei vae dzaon
 狼號鬼哭	laon ghau kuei khoq
 猘兒	ci er
+猛個勁	man ghoq jin
 猛個勁	man goq jin
 猛加	man ko
 猛勁兒	man jin er
@@ -24920,6 +25222,7 @@ use_preset_vocabulary: true
 獨立自主	doq liq zy tsyu
 獨臂人	doq pi gnin
 獨自	doq zy
+獨自個	doq zy ghoq
 獨自個	doq zy goq
 獨行	doq yin
 獨行俠	doq yin yaq
@@ -25097,11 +25400,14 @@ use_preset_vocabulary: true
 琅邪	laon ya
 琅邪山	laon ya sae
 琅邪臺刻石	laon ya de khaq zaq
+理一個髮	li iq ghoq faq
 理一個髮	li iq goq faq
 理了	li laq
 理事長	li zy cian
 理你	li gni
+理個	li ghoq
 理個	li goq
+理個髮	li ghoq faq
 理個髮	li goq faq
 理則學	li tsaq yuq
 理去	li chiu
@@ -25850,6 +26156,7 @@ use_preset_vocabulary: true
 留了	lieu laq
 留人	lieu gnin
 留任	lieu zyun
+留個	lieu ghoq
 留個	lieu goq
 留傳	lieu dzOE
 留學	lieu ghoq
@@ -25964,6 +26271,7 @@ use_preset_vocabulary: true
 當代新儒家	taon de shin zyu cia
 當你	taon gni
 當你	taon ng
+當個	taon ghoq
 當個	taon goq
 當兒	taon er
 當回事兒	taon wei zy er
@@ -26068,6 +26376,7 @@ use_preset_vocabulary: true
 癮頭	gni deu
 癮頭兒	in deu er
 登了	ten laq
+登個	ten ghoq
 登個	ten goq
 登山家	ten sae cia
 登機手續櫃檯	ten ci shieu dzoq guei de
@@ -26084,6 +26393,7 @@ use_preset_vocabulary: true
 發佈日期	faq pu zyuq ji
 發佈時間	faq pu zy ci
 發信人	faq shin gnin
+發個	faq ghoq
 發個	faq goq
 發個兒	faq kou er
 發光顏料	faq kuaon ngae liau
@@ -26229,6 +26539,7 @@ use_preset_vocabulary: true
 百事可樂	paq zy khou loq
 百二	paq gni
 百人	paq gnin
+百個	paq ghoq
 百個	paq goq
 百元大鈔	paq gniu da tshau
 百兒八十	paq er paq zyuq
@@ -26264,6 +26575,7 @@ use_preset_vocabulary: true
 百年戰爭	paq gni ci tsen
 百年戰爭	paq gni tsoe tsen
 百年樹人	paq gni zyu gnin
+百幾個	paq ci ghoq
 百幾個	paq ci goq
 百度十大神獸	paq du zyuq da zyun shieu
 百度貼吧	paq du thiaq po
@@ -26578,6 +26890,7 @@ use_preset_vocabulary: true
 省了	san laq
 省人事廳	san zyun zy thin
 省人大	san zyun da
+省個	san ghoq
 省個	san goq
 省優	san ieu
 省分	san ven
@@ -26639,7 +26952,9 @@ use_preset_vocabulary: true
 看人臉色	khI gnin li saq
 看你	khI gni
 看你	khI ng
+看個	khI ghoq
 看個	khI goq
+看個究竟	khI ghoq cieu cin
 看個究竟	khI goq cieu cin
 看傻了眼	khI sa laq ngae
 看出了神	khI tshyuq laq zyun
@@ -26761,9 +27076,13 @@ use_preset_vocabulary: true
 睡一覺	zei iq ciau
 睡了	zei laq
 睡了又睡	zei laq yeu zei
+睡個	zei ghoq
 睡個	zei goq
+睡個夠	zei ghoq keu
 睡個夠	zei goq keu
+睡個痛快	zei ghoq thon khua
 睡個痛快	zei goq thon khua
+睡個覺	zei ghoq ciau
 睡個覺	zei goq ciau
 睡午覺	zei wu ciau
 睡去	zei chiu
@@ -27070,7 +27389,9 @@ use_preset_vocabulary: true
 磁學	dzy yuq
 磁放大器	dzy faon da chi
 磊落大方	lei loq da faon
+磕個響頭	khaq ghoq shian deu
 磕個響頭	khaq goq shian deu
+磕個頭	khaq ghoq deu
 磕個頭	khaq goq deu
 磕碰兒	khaq ban er
 磕頭兒	khaq deu er
@@ -27572,6 +27893,7 @@ use_preset_vocabulary: true
 立體交叉	liq thi ciau tsho
 站乾岸兒	dzae kI nge er
 站了	dzae laq
+站個	dzae ghoq
 站個	dzae goq
 站櫃檯	dzae guei de
 站牌	dzae ba
@@ -27644,8 +27966,11 @@ use_preset_vocabulary: true
 第一人	di iq gnin
 第一人稱	di iq zyun chin
 第一任	di iq zyun
+第一個	di iq ghoq
 第一個	di iq goq
+第一個層次	di iq ghoq zen tshy
 第一個層次	di iq goq zen tshy
+第一個月	di iq ghoq yuq
 第一個月	di iq goq yuq
 第一個月	di iq kou yuq
 第一品牌	di iq phin ba
@@ -27660,15 +27985,18 @@ use_preset_vocabulary: true
 第一行	di iq ghaon
 第一部分	di iq bu ven
 第一集	di iq jiq
+第七個	di chiq ghoq
 第七個	di chiq goq
 第三世界	di sae syu ka
 第三人	di sae gnin
 第三人稱	di sae zyun chin
+第三個	di sae ghoq
 第三個	di sae goq
 第三大	di sae da
 第三狀態	di sae dzaon the
 第三部分	di sae bu fen
 第三集	di sae jiq
+第九個	di cieu ghoq
 第九個	di cieu goq
 第二	di gni
 第二世界	di gni syu ka
@@ -27678,6 +28006,7 @@ use_preset_vocabulary: true
 第二位	di gni wei
 第二信號	di gni shin ghau
 第二信號系統	di gni shin ghau shi thon
+第二個	di gni ghoq
 第二個	di gni goq
 第二冊	di gni tshaq
 第二十	di er zyuq
@@ -27730,17 +28059,24 @@ use_preset_vocabulary: true
 第二頁	di gni yiq
 第二項	di gni ghaon
 第二點	di gni ti
+第五個	di ng ghoq
 第五個	di ng goq
+第五個現代化	di ng ghoq yi de huo
 第五個現代化	di ng goq yi de huo
+第八個	di paq ghoq
 第八個	di paq goq
+第六個	di loq ghoq
 第六個	di loq goq
 第六感覺	di loq kI ciuq
 第十二	di zyuq gni
 第十二屆	di zyuq gni ka
 第十二條	di zyuq gni diau
+第十個	di zyuq ghoq
 第十個	di zyuq goq
+第四個	di sy ghoq
 第四個	di sy goq
 第四大	di sy da
+第幾個	di ci ghoq
 第幾個	di ci goq
 第納爾	di naq er
 筆下生花	piq gho sen huo
@@ -27760,6 +28096,7 @@ use_preset_vocabulary: true
 等人	ten gnin
 等你	ten gni
 等你	ten ng
+等個	ten ghoq
 等個	ten goq
 等價交換	ten ko ciau wun
 等分	ten fen
@@ -27819,6 +28156,7 @@ use_preset_vocabulary: true
 算了又算	soe laq yeu soe
 算你	soe gni
 算你	soe ng
+算個	soe ghoq
 算個	soe goq
 算出去	soe tshyuq chi
 算命家	soe min cia
@@ -27834,6 +28172,7 @@ use_preset_vocabulary: true
 管了	kun laq
 管人	kun gnin
 管人弔腳兒事	kun zyun tiau ciaq er zy
+管個	kun ghoq
 管個	kun goq
 管家	kun cia
 管家娘子	kun cia gnian tsy
@@ -28314,6 +28653,7 @@ use_preset_vocabulary: true
 給你	ciq gni
 給你的	ciq gni tiq
 給你看	ciq gni khI
+給個	ciq ghoq
 給個	ciq goq
 給假	ciq ko
 絮狀物	syu dzaon vaq
@@ -28497,6 +28837,7 @@ use_preset_vocabulary: true
 緣分已盡	yu ven yi jin
 緣覺	yu ciuq
 編了	pi laq
+編個	pi ghoq
 編個	pi goq
 編碼字符集	pi mo zy vu jiq
 編纂家	pi tsoe cia
@@ -28515,6 +28856,7 @@ use_preset_vocabulary: true
 縣差	yu tsha
 縣長	yu cian
 縫了	von laq
+縫個	von ghoq
 縫個	von goq
 縫兒	von er
 縫死	von sy
@@ -28598,6 +28940,7 @@ use_preset_vocabulary: true
 繫上	ci zaon
 繫上	shi zaon
 繫了	shi laq
+繫個	shi ghoq
 繫個	shi goq
 繫到	ci tau
 繫好	ci hau
@@ -28685,6 +29028,7 @@ use_preset_vocabulary: true
 罵不還口	mo paq wae kheu
 罵了	mo laq
 罵人	mo gnin
+罵個	mo ghoq
 罵個	mo goq
 罵大街	mo da ka
 罵架	mo cia
@@ -28879,6 +29223,7 @@ use_preset_vocabulary: true
 翹望	chiau vaon
 翹首以望	chiau shieu yi vaon
 翻了	fae laq
+翻個	fae ghoq
 翻個	fae goq
 翻揀	fae ci
 翻毛兒	fae mau er
@@ -28997,6 +29342,7 @@ use_preset_vocabulary: true
 老鼻子	lau biq tsy
 考上大學	khau zaon da ghoq
 考了	khau laq
+考個	khau ghoq
 考個	khau goq
 考分	khau fen
 考前大猜題	khau zhi da tshe di
@@ -29204,8 +29550,11 @@ use_preset_vocabulary: true
 聊以自慰	liau yi zy wei
 聊以解嘲	liau yi ka jiau
 聊以解悶	liau yi ka mhen
+聊個	liau ghoq
 聊個	liau goq
+聊個天	liau ghoq thi
 聊個天	liau goq thi
+聊個痛快	liau ghoq thon khua
 聊個痛快	liau goq thon khua
 聊吧	liau pa
 聊天兒	liau thi er
@@ -30747,6 +31096,7 @@ use_preset_vocabulary: true
 芭比娃娃	pa pi ua ua
 芭比娃娃	po pi ua ua
 花了	huo laq
+花個	huo ghoq
 花個	huo goq
 花兒	huo er
 花兒洞子	huo er don tsy
@@ -30812,7 +31162,9 @@ use_preset_vocabulary: true
 若即若離	zoq ciq zoq li
 若干人	zhiaq kI gnin
 若干人	zoq kI gnin
+若干個	zhiaq kI ghoq
 若干個	zhiaq kI goq
+若干個	zoq kI ghoq
 若干個	zoq kI goq
 若干問題	zhiaq kI ven di
 若干問題	zoq kI ven di
@@ -31145,6 +31497,7 @@ use_preset_vocabulary: true
 萬人次	vae gnin tshy
 萬人空巷	vae gnin khon ghaon
 萬人迷	vae gnin mi
+萬個	vae ghoq
 萬個	vae goq
 萬兒	vae er
 萬兒八千	vae er paq chi
@@ -31746,6 +32099,7 @@ use_preset_vocabulary: true
 行使政權	yin sy cin jiu
 行使職權	yin sy ciq jiu
 行俠仗義	yin yaq jian gni
+行個方便	yin ghoq faon bi
 行個方便	yin goq faon bi
 行兇	yin shion
 行兇前	yin shion zhi
@@ -32307,6 +32661,7 @@ use_preset_vocabulary: true
 裂腦人	liq nau gnin
 裂變炸彈	liq pi tso dae
 裏外不是人	li nga paq zy gnin
+裏有個	li yeu ghoq
 裏有個	li yeu goq
 裏沒有	li maq yeu
 裏還	li wa
@@ -32465,6 +32820,7 @@ use_preset_vocabulary: true
 見了面	ci laq mi
 見人	ci gnin
 見你	ci gni
+見個	ci ghoq
 見個	ci goq
 見光死	ci kuaon shi
 見分曉	ci fen shiau
@@ -32767,6 +33123,7 @@ use_preset_vocabulary: true
 言論自由	yi len zy yeu
 訂了	tin laq
 訂交	tin ciau
+訂個	tin ghoq
 訂個	tin goq
 訂房間	tin vaon kae
 訂死	tin sy
@@ -32799,8 +33156,11 @@ use_preset_vocabulary: true
 討人喜歡	thau gnin shi hun
 討人嫌	thau gnin i
 討人歡心	thau gnin hun shin
+討個	thau ghoq
 討個	thau goq
+討個分曉	thau ghoq fen shiau
 討個分曉	thau goq fen shiau
+討個吉利	thau ghoq ciq li
 討個吉利	thau goq ciq li
 討價還價	thau ko wae ko
 討厭鬼	thau i kuei
@@ -32887,7 +33247,9 @@ use_preset_vocabulary: true
 詐眼兒	tso ngae er
 詐降	tso ghaon
 評了	bin laq
+評個	bin ghoq
 評個	bin goq
+評個分數	bin ghoq fen su
 評個分數	bin goq fen su
 評傳	bin dzoe
 評價分類	bin ko fen lei
@@ -33061,6 +33423,7 @@ use_preset_vocabulary: true
 認人兒	gni gni er
 認作	gnin tsoq
 認供	gnin kon
+認個	gnin ghoq
 認個	gnin goq
 認做	gnin tsou
 認出	gnin tshyuq
@@ -33196,6 +33559,7 @@ use_preset_vocabulary: true
 說了就算了	syuq liau jieu soe lei
 說了算	syuq laq soe
 說來話長	syuq le wo jian
+說個	syuq ghoq
 說個	syuq goq
 說假話	syuq ko wo
 說參請	syuq tshae chin
@@ -33249,6 +33613,7 @@ use_preset_vocabulary: true
 調了	diau laq
 調人	diau gnin
 調任	diau zyun
+調個	diau ghoq
 調個	diau goq
 調停人	diau din gnin
 調兒	diau er
@@ -33458,6 +33823,7 @@ use_preset_vocabulary: true
 變不了	pi paq liau
 變了	pi laq
 變了又變	pi laq yeu pi
+變個	pi ghoq
 變個	pi goq
 變分	pi fen
 變分原理	pi fen gniu li
@@ -33543,6 +33909,7 @@ use_preset_vocabulary: true
 豚兒	den er
 豚兒犬子	den er chiu tsy
 象人	zhian gnin
+象個	zhian ghoq
 象個	zhian goq
 象鼻	zhian biq
 象鼻山	zhian biq sae
@@ -33794,6 +34161,7 @@ use_preset_vocabulary: true
 貴點	kuei ti
 貶斥	pi chiq
 買了	ma laq
+買個	ma ghoq
 買個	ma goq
 買受人	ma zhieu gnin
 買回去	ma wei chi
@@ -33809,7 +34177,9 @@ use_preset_vocabulary: true
 買辦階級	ma bae cie ciq
 貸了	de laq
 貸了	the laq
+貸個	de ghoq
 貸個	de goq
+貸個	the ghoq
 貸個	the goq
 貸款人	de khun gnin
 貸款人	the khun gnin
@@ -33921,6 +34291,7 @@ use_preset_vocabulary: true
 賠了	bei laq
 賠了夫人	bei laq fu gnin
 賠了夫人又折兵	bei laq fu gnin yeu ciq pin
+賠個不是	bei ghoq paq zy
 賠個不是	bei goq paq zy
 賠償責任	bei dzaon tsaq zyun
 賠償責任	bei saon tsaq zyun
@@ -33931,6 +34302,7 @@ use_preset_vocabulary: true
 賣了兒子招女婿	ma laq ng tsy ciau gniu shi
 賣人情	ma zyun jin
 賣俏行奸	ma chiau yin kae
+賣個破綻	ma ghoq phou dzae
 賣個破綻	ma goq phou dzae
 賣光了	ma kuaon lei
 賣兒鬻女	ma er yuq gniu
@@ -33961,6 +34333,7 @@ use_preset_vocabulary: true
 賺人眼淚	dzae gnin ngae li
 賺個	dzae ghoq
 賺個	dzae goq
+賺個飽	dzae ghoq pau
 賺個飽	dzae goq pau
 賺大錢	dzae da ji
 購物大廈	keu vaq da gho
@@ -33968,6 +34341,7 @@ use_preset_vocabulary: true
 購自	keu zy
 賽拉圖	se lha du
 賽爾	se er
+賽過一個諸葛亮	se kou iq ghoq tsyu kaq lian
 賽過一個諸葛亮	se kou iq goq tsyu kaq lian
 贊助人	tsae dzu gnin
 贊布拉諾	tsae pu lha noq
@@ -34346,6 +34720,7 @@ use_preset_vocabulary: true
 躲得不知去向	to taq paq tsyu chiu shian
 躲猾兒	to waq er
 躲貓貓	to mhau mhau
+躺個	thaon ghoq
 躺個	thaon goq
 躺椅	thaon i
 躺櫃	thaon guei
@@ -34479,7 +34854,9 @@ use_preset_vocabulary: true
 轉了	tsoe laq
 轉交	tsoe kau
 轉任	tsoe zyun
+轉個	tsoe ghoq
 轉個	tsoe goq
+轉個彎	tsoe ghoq uae
 轉個彎	tsoe goq uae
 轉口貿易	tsoe kheu meu yiq
 轉向架	tsoe shian ko
@@ -34526,6 +34903,7 @@ use_preset_vocabulary: true
 辣乎乎	laq fu fu
 辣瓣兒醬	laq bae er cian
 辦事效率	bae zy yau liq
+辦個	bae ghoq
 辦個	bae goq
 辦公傢俱	bae kon cia jiu
 辦公大樓	bae kon da leu
@@ -34724,7 +35102,9 @@ use_preset_vocabulary: true
 逗樂	deu loq
 逗笑兒	deu shiau er
 逗趣兒	deu tshyu er
+這一個	tsyuq iq ghoq
 這一個	tsyuq iq goq
+這三個	tsyuq sae ghoq
 這三個	tsyuq sae goq
 這也	tsyuq gha
 這也是	tsyuq gha zy
@@ -34734,40 +35114,69 @@ use_preset_vocabulary: true
 這些兒	tsyuq shiq er
 這些問題	tsyuq shiq ven di
 這人	tsyuq gnin
+這個	tsyuq ghoq
 這個	tsyuq goq
+這個世界	tsyuq ghoq syu ka
 這個世界	tsyuq goq syu ka
+這個人	tsyuq ghoq zyun
 這個人	tsyuq goq zyun
+這個傢伙	tsyuq ghoq cia hou
 這個傢伙	tsyuq goq cia hou
+這個名字	tsyuq ghoq min zy
 這個名字	tsyuq goq min zy
+這個問題	tsyuq ghoq ven di
 這個問題	tsyuq goq ven di
+這個國家	tsyuq ghoq koq cia
 這個國家	tsyuq goq koq cia
+這個地方	tsyuq ghoq di faon
 這個地方	tsyuq goq di faon
+這個城市	tsyuq ghoq jin zy
 這個城市	tsyuq goq jin zy
+這個夏天	tsyuq ghoq gho thi
 這個夏天	tsyuq goq gho thi
+這個女人	tsyuq ghoq gniu gnin
 這個女人	tsyuq goq gniu gnin
+這個女孩	tsyuq ghoq gniu ghe
 這個女孩	tsyuq goq gniu ghe
+這個字	tsyuq ghoq zy
 這個字	tsyuq goq zy
+這個擋口	tsyuq ghoq taon kheu
 這個擋口	tsyuq goq taon kheu
+這個故事	tsyuq ghoq ku zy
 這個故事	tsyuq goq ku zy
+這個數字	tsyuq ghoq su zy
 這個數字	tsyuq goq su zy
+這個文件	tsyuq ghoq ven ji
 這個文件	tsyuq goq ven ji
+這個時代	tsyuq ghoq zy de
 這個時代	tsyuq goq zy de
+這個時候	tsyuq ghoq zy gheu
 這個時候	tsyuq goq zy gheu
 這個月	tsyuq kou yuq
+這個東西	tsyuq ghoq ton shi
 這個東西	tsyuq goq ton shi
+這個機會	tsyuq ghoq ci wei
 這個機會	tsyuq goq ci wei
+這個消息	tsyuq ghoq shiau shiq
 這個消息	tsyuq goq shiau shiq
+這個男人	tsyuq ghoq nEI gnin
 這個男人	tsyuq goq nEI gnin
+這個當兒	tsyuq ghoq taon er
 這個當兒	tsyuq goq taon er
 這個當兒	tsyuq kou taon er
+這個網站	tsyuq ghoq maon dzae
 這個網站	tsyuq goq maon dzae
+這個詞	tsyuq ghoq dzy
 這個詞	tsyuq goq dzy
+這個遊戲	tsyuq ghoq yeu shi
 這個遊戲	tsyuq goq yeu shi
+這個那個	tsyuq ghoq nha ghoq
 這個那個	tsyuq goq nha goq
 這傢伙	tsyuq cia hou
 這兒	tsyuq er
 這兒來	tsyuq er le
 這兒是	tsyuq er zy
+這兩個	tsyuq lian ghoq
 這兩個	tsyuq lian goq
 這塊兒	tsyuq khuei er
 這夥人	tsyuq hou gnin
@@ -34775,14 +35184,18 @@ use_preset_vocabulary: true
 這學期	tsyuq ghoq ji
 這家	tsyuq cia
 這家人	tsyuq cia gnin
+這幾個	tsyuq ci ghoq
 這幾個	tsyuq ci goq
+這幾個人	tsyuq ci ghoq zyun
 這幾個人	tsyuq ci goq zyun
 這幾個月	tsyuq ci kou yuq
 這忽兒	tsyuq huaq er
 這搭兒	tsyuq taq er
 這早晚兒	tsyuq tsau vae er
+這是一個	tsyuq zy iq ghoq
 這是一個	tsyuq zy iq goq
 這是你	tsyuq zy gni
+這是個	tsyuq zy ghoq
 這是個	tsyuq zy goq
 這更	tsyuq ken
 這會兒	tsyuq wei er
@@ -34801,6 +35214,7 @@ use_preset_vocabulary: true
 這間	tsyuq kae
 這陣兒	tsyuq jin er
 這集	tsyuq jiq
+這麼個	tsyuq mou ghoq
 這麼個	tsyuq mou goq
 這麼多人	tsyuq mou tou gnin
 這麼大	tsyuq mou da
@@ -34868,6 +35282,7 @@ use_preset_vocabulary: true
 連了	li laq
 連人	li gnin
 連任	li zyun
+連個	li ghoq
 連個	li goq
 連分數	li fen su
 連南瑤族自治縣	li nEI yau dzoq zy dzyu yu
@@ -34988,8 +35403,10 @@ use_preset_vocabulary: true
 過了	kou laq
 過了	kou lei
 過了一會兒	kou laq iq wei er
+過了這個村兒	kou laq tsyuq ghoq tshen er
 過了這個村兒	kou laq tsyuq goq tshen er
 過了這個村兒	kou laq tsyuq kou tshen er
+過了這個村兒沒這個店兒	kou laq tsyuq ghoq tshen er maq tsyuq ghoq ti er
 過了這個村兒沒這個店兒	kou laq tsyuq goq tshen er maq tsyuq goq ti er
 過了這個村兒沒這個店兒	kou laq tsyuq kou tshen er maq tsyuq kou ti er
 過了這村沒這店	kou laq tsyuq tshen mhaq tsyuq ti
@@ -35157,6 +35574,7 @@ use_preset_vocabulary: true
 遷怒於人	chi nu yu gnin
 選人	soe gnin
 選任	soe zyun
+選個	soe ghoq
 選個	soe goq
 選揀	soe kae
 選擇率	soe dzaq liq
@@ -35736,14 +36154,22 @@ use_preset_vocabulary: true
 那也是	nha gha zy
 那些人	nha shiq gnin
 那人	nha gnin
+那個	nha ghoq
 那個	nha goq
+那個人	nha ghoq gnin
 那個人	nha goq gnin
+那個地方	nha ghoq di faon
 那個地方	nha goq di faon
+那個女人	nha ghoq gniu gnin
 那個女人	nha goq gniu gnin
+那個女孩	nha ghoq gniu ghe
 那個女孩	nha goq gniu ghe
+那個時候	nha ghoq zy gheu
 那個時候	nha goq zy gheu
 那個月	nha kou yuq
+那個男人	nha ghoq nEI gnin
 那個男人	nha goq nEI gnin
+那個貓兒不喫腥	nha ghoq mau er paq chioq shin
 那個貓兒不喫腥	nha goq mau er paq chioq shin
 那個貓兒不喫腥	nha kou mau er paq chioq shin
 那傢伙	nha cia hou
@@ -35753,6 +36179,7 @@ use_preset_vocabulary: true
 那夥人	nha hou gnin
 那女人	nha gniu gnin
 那家	nha cia
+那幾個	nha ci ghoq
 那幾個	nha ci goq
 那拉提草原	nha lha di tshau gniu
 那日	nha zyuq
@@ -36118,6 +36545,7 @@ use_preset_vocabulary: true
 釕銱兒	liau tiau er
 釘了	tin laq
 釘人	tin gnin
+釘個	tin ghoq
 釘個	tin goq
 釘問	tin ven
 釘死	tin sy
@@ -36133,6 +36561,7 @@ use_preset_vocabulary: true
 針鼻兒	cin biq er
 釣上去	tiau zaon chi
 釣了	tiau laq
+釣個	tiau ghoq
 釣個	tiau goq
 釣去	tiau chi
 釣鉤兒	tiau keu er
@@ -36263,6 +36692,7 @@ use_preset_vocabulary: true
 鋼鐵行業	kaon thiq ghaon gniq
 鋼鐵長城	kaon thiq jian jin
 錄了	loq laq
+錄個	loq ghoq
 錄個	loq goq
 錄取人數	loq tshyu gnin su
 錄取分數	loq tshyu fen su
@@ -36379,7 +36809,9 @@ use_preset_vocabulary: true
 鑑定人	ci din gnin
 鑑賞家	ci saon cia
 鑲了	shian laq
+鑽個	tsoe ghoq
 鑽個	tsoe goq
+鑽個洞	tsoe ghoq don
 鑽個洞	tsoe goq don
 鑽兒	tsoe er
 鑽勁兒	tsoe jin er
@@ -36821,6 +37253,7 @@ use_preset_vocabulary: true
 開仗	khe cian
 開伯爾	khe paq er
 開伯爾山口	khe paq er sae kheu
+開個	khe ghoq
 開個	khe goq
 開元盛世	khe gniu zhin syu
 開區間	khe chiu ci
@@ -36995,6 +37428,7 @@ use_preset_vocabulary: true
 關了釘兒	kuae laq tin er
 關人	kuae gnin
 關係人	kuae shi gnin
+關個	kuae ghoq
 關個	kuae goq
 關島大學	kuae tau da ghoq
 關嶺布依族苗族自治縣	kuae lin pu i dzoq miau dzoq zy dzyu yu
@@ -37026,7 +37460,9 @@ use_preset_vocabulary: true
 防人之心不可無	vaon gnin tsy shin paq khou vu
 防來防去	baon le baon chi
 防來防去	vaon le vaon chi
+防個	baon ghoq
 防個	baon goq
+防個	vaon ghoq
 防個	vaon goq
 防城各族自治縣	baon jin koq dzoq zy dzyu yu
 防城各族自治縣	vaon jin koq dzoq zy dzyu yu
@@ -38128,6 +38564,7 @@ use_preset_vocabulary: true
 雲開見日	yun khe ci zyuq
 雲霓之望	yun gni tsy vaon
 雲頭兒	yun deu er
+零個	lin ghoq
 零個	lin goq
 零兒	lin er
 零分	lin fen
@@ -38464,7 +38901,9 @@ use_preset_vocabulary: true
 頁眉	yiq mei
 頂一下	tin iq gho
 頂了	tin laq
+頂個	tin ghoq
 頂個	tin goq
+頂個諸葛亮	tin ghoq tsyu kaq lian
 頂個諸葛亮	tin goq tsyu kaq lian
 頂呱呱	tin kua kua
 頂尖人物	tin ci zyun vaq
@@ -38564,6 +39003,7 @@ use_preset_vocabulary: true
 頻率響應	bin liq shian in
 顆粒狀	khou liq dzaon
 題了	di laq
+題個	di ghoq
 題個	di goq
 題解	di ka
 額勒貝格道爾吉	ngaq laq pei kaq dau er ciq
@@ -38682,6 +39122,7 @@ use_preset_vocabulary: true
 飛個	fi ghoq
 飛個	fi goq
 飛兒	fi er
+飛出個未來	fi tshyuq ghoq vi le
 飛出個未來	fi tshyuq goq vi le
 飛奔而去	fi pen er chiu
 飛沫傳染	fi maq dzOE gni
@@ -38789,6 +39230,7 @@ use_preset_vocabulary: true
 餓貓	ngou mae
 餘二	yu gni
 餘人	yu gnin
+餘個	yu ghoq
 餘個	yu goq
 餘勇可賈	yu ion khou ku
 餘家	yu ko
@@ -38822,6 +39264,7 @@ use_preset_vocabulary: true
 饞貓	dzae mau
 饞鬼	dzae kuei
 首任	shieu zyun
+首個	shieu ghoq
 首個	shieu goq
 首創人	shieu tshaon gnin
 首家	shieu cia
@@ -39703,9 +40146,11 @@ use_preset_vocabulary: true
 點不着	ti paq jiaq
 點了	ti laq
 點交	ti ciau
+點個	ti ghoq
 點個	ti goq
 點兒	ti er
 點吧	ti pa
+點擊一個鏈接	ti ciq iq ghoq li ciq
 點擊一個鏈接	ti ciq iq goq li ciq
 點擊率	ti ciq liq
 點的	ti tiq

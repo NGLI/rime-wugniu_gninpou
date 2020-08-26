@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.24"
+version: "2020.08.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -458,12 +458,17 @@ use_preset_vocabulary: true
 䂻爾肚裏勿得	dzan ng du li vaq taq
 䂻爾肚裏弗得	dzan ng du li vaq taq
 爾倷個	ng naq goq	55
+爾倷個	ng naq ghoq	55
 爾個	ng goq	578
+爾個	ng ghoq	578
 爾儂個	ng nou goq	55
+爾儂個	ng nou ghoq	55
 眼睛𥈊𥈊	ngae cin saq saq	55
 眼睛一𥈊	ngae cin iq saq	55
 其個	ji goq	10000
+其個	ji ghoq	10000
 其儂個	ji nou goq	55
+其儂個	ji nou ghoq	55
 𧟰其	fe ji	578
 睬其瞎子	tshe ji haq tsy
 睬其老白眼	tshe ji lau baq ngae
@@ -476,6 +481,7 @@ use_preset_vocabulary: true
 喫喫其拉	chioq chioq jiq laq
 其拉兩人	jiq laq lian gnin	55
 其拉個	jiq laq goq	578
+其拉個	jiq laq ghoq	578
 滰面	jian mi	578
 滰面水	jian mi syu	578
 滰衣裳	jian i zaon	578
@@ -596,6 +602,26 @@ use_preset_vocabulary: true
 腳指末頭	ciaq ciaq maq deu
 腳指甲	ciaq ciaq khaq
 打箍	tan chieu	55
+四個	sy ghoq
+幾個	ci ghoq
+千把個	chi po ghoq	55
+前個月	zhi ghoq yuq	55
+好幾個	hau ci ghoq
+下個月	gho ghoq yuq
+多少個	tou shiau ghoq
+儂個	nou ghoq	578
+個把個	kou po ghoq	55
+兩個	lian ghoq
+蕩個月	daon ghoq yuq	578
+蕩個	daon ghoq	578
+上個月	zaon ghoq yuq
+半個	pun ghoq
+百把個	paq po ghoq	55
+該個月	kiq ghoq yuq	418
+該個	kiq ghoq	578
+一個	iq ghoq
+十多個	zyuq tou ghoq
+十個	zyuq ghoq
 
 # 其他詞彙
 
@@ -850,10 +876,11 @@ use_preset_vocabulary: true
 忘記孃	maon ci gnian
 三個老𡢿抵潮鴨	sae goq lau gnion ti jiau ae
 三個老𡢿抵潮鴨	sae ghoq lau gnion ti jiau ae
+三個老𡢿抵潮鴨	sae ghoq lau gnion ti jiau ae
 快手勢勿及慢兩爹
 兩孃拼條褲
 一個穿來一個跍	iq goq tshOE le iq goq gu
-一個穿來一個跍	iq ghoq tshOE le iq goq gu
+一個穿來一個跍	iq ghoq tshOE le iq ghoq gu
 六月日頭	loq yuq gniq deu
 晚孃拳頭
 囡出嫁	noe tshyuq ko
@@ -1440,6 +1467,7 @@ use_preset_vocabulary: true
 刨鑊墨灰
 千揀萬揀	chi kae vae kae
 揀個嘸底飯傘	kae goq mh ti vae sae
+揀個嘸底飯傘	kae ghoq mh ti vae sae
 揀個嘸底飯傘	kae ghoq mh ti vae sae
 掏柴株
 柴株當棉襖
@@ -2149,7 +2177,9 @@ use_preset_vocabulary: true
 話撥儂聽
 懶婦是介話	lae vu zy ka wo
 十月還有一個夏	zyuq yuq gha yeu iq goq gho
+十月還有一個夏	zyuq yuq gha yeu iq ghoq gho
 十月還有一個夏	zyuq yuq wa yeu iq goq gho
+十月還有一個夏	zyuq yuq wa yeu iq ghoq gho
 十月還有一個夏	zyuq yuq gha yeu iq ghoq gho
 十月還有一個夏	zyuq yuq wa yeu iq ghoq gho
 話其一頓
@@ -5625,6 +5655,7 @@ use_preset_vocabulary: true
 交關奇怪	ciau kuae ji kua
 交關好	ciau kuae hau
 交關好個	ciau kuae hau goq
+交關好個	ciau kuae hau ghoq
 交關好看	ciau kuae hau khI
 交關好聽	ciau kuae hau thin
 交關容易	ciau kuae yon yi
@@ -5865,6 +5896,7 @@ use_preset_vocabulary: true
 忖打
 忖尋
 忖尋個	tshen zhin goq
+忖尋個	tshen zhin ghoq
 忖搭
 忖投
 忖抱
@@ -5898,6 +5930,7 @@ use_preset_vocabulary: true
 忖裝
 忖要
 忖要個	tshen iau goq
+忖要個	tshen iau ghoq
 忖見
 忖講
 忖變
@@ -5952,6 +5985,7 @@ use_preset_vocabulary: true
 尋來
 尋來尋去
 尋個	zhin goq
+尋個	zhin ghoq
 尋出
 尋出來
 尋出去
@@ -6063,6 +6097,7 @@ use_preset_vocabulary: true
 挈來
 挈來挈去
 挈個	chiq goq
+挈個	chiq ghoq
 挈出
 挈出來
 挈出去
@@ -6101,6 +6136,7 @@ use_preset_vocabulary: true
 馱來
 馱來馱去
 馱個	dou goq
+馱個	dou ghoq
 馱出
 馱出來
 馱出去
@@ -6458,6 +6494,7 @@ use_preset_vocabulary: true
 嘸沒來由	mhiq le yeu	55
 嘸沒來頭	mhiq le deu	55
 嘸沒個好結果	mhiq goq hau ciq kou	55
+嘸沒個好結果	mhiq ghoq hau ciq kou	55
 嘸沒借	mhiq cia	55
 嘸沒做	mhiq tsou	418
 嘸沒傳	mhiq dzOE	55
@@ -6742,6 +6779,7 @@ use_preset_vocabulary: true
 滰來
 滰來滰去
 滰個	jian goq
+滰個	jian ghoq
 滰去
 滰好
 滰手
@@ -6782,8 +6820,11 @@ use_preset_vocabulary: true
 睏來
 睏來睏去
 睏個	khuen goq
+睏個	khuen ghoq
 睏個夠	khuen goq keu
+睏個夠	khuen ghoq keu
 睏個爽快	khuen goq saon khua
+睏個爽快	khuen ghoq saon khua
 睏到
 睏前
 睏去
@@ -6869,8 +6910,11 @@ use_preset_vocabulary: true
 啥人勒	so gnin laq
 啥人勒	sou gnin laq
 啥人個	soq gnin goq
+啥人個	soq gnin ghoq
 啥人個	so gnin goq
+啥人個	so gnin ghoq
 啥人個	sou gnin goq
+啥人個	sou gnin ghoq
 啥人先	soq gnin shi
 啥人先	so gnin shi
 啥人先	sou gnin shi
@@ -6926,8 +6970,11 @@ use_preset_vocabulary: true
 啥人做的	so gnin tsou tiq
 啥人做的	sou gnin tsou tiq
 啥人做個	soq gnin tsou goq
+啥人做個	soq gnin tsou ghoq
 啥人做個	so gnin tsou goq
+啥人做個	so gnin tsou ghoq
 啥人做個	sou gnin tsou goq
+啥人做個	sou gnin tsou ghoq
 啥人做個	soq gnin tsou ghoq
 啥人做個	so gnin tsou ghoq
 啥人做個	sou gnin tsou ghoq
@@ -7026,6 +7073,7 @@ use_preset_vocabulary: true
 該一記	kiq iq ci
 該一些	kiq iq shiq
 該一個	kiq iq goq
+該一個	kiq iq ghoq
 該一切	kiq iq chiq
 該一日	kiq iq gniq
 該一年	kiq iq gni
@@ -7036,6 +7084,7 @@ use_preset_vocabulary: true
 該一點	kiq iq ti
 該三	kiq sae
 該三個	kiq sae goq
+該三個	kiq sae ghoq
 該記	kiq ci
 該主要是	kiq tsyu iau zy
 該也	kiq gha
@@ -7046,6 +7095,7 @@ use_preset_vocabulary: true
 該眼事	kiq ngae zy
 該眼人	kiq ngae gnin
 該些個	kiq shiq goq
+該些個	kiq shiq ghoq
 該眼問題	kiq ngae ven di
 該眼東西	kiq ngae ton shi
 該眼言話	kiq ngae ghae wo
@@ -7060,34 +7110,47 @@ use_preset_vocabulary: true
 該位	kiq wei
 該位是	kiq wei zy
 該個	kiq goq
+該個	kiq ghoq
 該個世界	kiq goq syu ka
+該個世界	kiq ghoq syu ka
 該隻名字	kiq tsaq min zy
 該個問題	kiq goq ven di
+該個問題	kiq ghoq ven di
 該個國家	kiq goq koq cia
+該個國家	kiq ghoq koq cia
 該個地方	kiq goq di faon
+該個地方	kiq ghoq di faon
 該隻城市	kiq tsaq jin zy
 該個女人	kiq goq gniu gnin
+該個女人	kiq ghoq gniu gnin
 該個小娘	kiq goq shiau gnian
+該個小娘	kiq ghoq shiau gnian
 該個字	kiq goq zy
+該個字	kiq ghoq zy
 該隻擋口	kiq tsaq taon kheu
 該隻故事	kiq tsaq ku zy
 該個數字	kiq goq su zy
+該個數字	kiq ghoq su zy
 該隻數字	kiq tsaq su zy
 該隻文件	kiq tsaq ven ji
 該個文件	kiq goq ven ji
+該個文件	kiq ghoq ven ji
 該隻辰光	kiq tsaq zyun kuaon
 該個月	kiq goq yuq
+該個月	kiq ghoq yuq
 該個月	kiq kou yuq
 該隻東西	kiq tsaq ton shi
 該隻機會	kiq tsaq ci wei
 該隻消息	kiq tsaq shiau shiq
 該個男人	kiq goq nEI gnin
+該個男人	kiq ghoq nEI gnin
 該隻網站	kiq tsaq maon dzae
 該隻遊戲	kiq tsaq yeu shi
 該倒	kiq tau
 該倒	ke tau
 該兩	kiq lian
 該兩個	kiq lian goq
+該兩個	kiq lian ghoq
 該兩隻	kiq lian tsaq
 該兩日	kiq lian gniq
 該兩種	kiq lian tson
@@ -7130,8 +7193,11 @@ use_preset_vocabulary: true
 該年	kiq gni
 該幾	kiq ci
 該幾個	kiq ci goq
+該幾個	kiq ci ghoq
 該幾個人	kiq ci goq gnin
+該幾個人	kiq ci ghoq gnin
 該幾個月	kiq ci goq yuq
+該幾個月	kiq ci ghoq yuq
 該幾個月	kiq ci kou yuq
 該兩年	kiq lian gni
 該所	kiq so
@@ -7144,6 +7210,7 @@ use_preset_vocabulary: true
 該早晏	kiq tsau ae
 該是	kiq zy
 該是一個	kiq zy iq goq
+該是一個	kiq zy iq ghoq
 該是一種	kiq zy iq tson
 該是其	kiq zy ji
 該是渠	kiq zy ji
@@ -7151,6 +7218,7 @@ use_preset_vocabulary: true
 該是爾	kiq zy ng
 該是儂	kiq zy nou
 該是個	kiq zy goq
+該是個	kiq zy ghoq
 該是隻	kiq zy tsaq
 該是我	kiq zy ngo
 該辰光	kiq zyun kuaon
@@ -7980,10 +8048,15 @@ use_preset_vocabulary: true
 一九九兩	iq cieu cieu lian
 一兩三	iq lian sae
 一個勿小心	iq goq vaq shiau shin
+一個勿小心	iq ghoq vaq shiau shin
 一個弗小心	iq goq vaq shiau shin
+一個弗小心	iq ghoq vaq shiau shin
 一個巴掌拍勿響	iq goq po tsaon phaq vaq shian
+一個巴掌拍勿響	iq ghoq po tsaon phaq vaq shian
 一個巴掌拍弗響	iq goq po tsaon phaq vaq shian
+一個巴掌拍弗響	iq ghoq po tsaon phaq vaq shian
 一個心眼	iq goq shin ngae
+一個心眼	iq ghoq shin ngae
 一隻跟斗十萬八千里	iq tsaq ken teu zyuq vae paq chi li
 一隻鑊裏喫飯個	iq tsaq ghoq li chioq vae goq
 一隻鑊裏喫飯個	iq tsaq ghoq li chioq vae ghoq
@@ -7994,6 +8067,7 @@ use_preset_vocabulary: true
 一千零兩	iq chi lin lian
 一口喫隻胖子	iq kheu chioq tsaq phaon tsy
 一日一個樣	iq gniq iq goq yan
+一日一個樣	iq gniq iq ghoq yan
 一字勿差	iq zy vaq tsho
 一字弗差	iq zy vaq tsho
 一心兩用	iq shin lian yon
@@ -8019,7 +8093,9 @@ use_preset_vocabulary: true
 丈二和尚摸勿着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
 丈二和尚摸弗着頭腦	jian gni ghou zaon moq vaq zyuq deu nau
 三個和尚嘸沒水喝	sae goq ghou zaon mhiq syu haq
+三個和尚嘸沒水喝	sae ghoq ghou zaon mhiq syu haq
 三個和尚嘸沒水喫	sae goq ghou zaon mhiq syu chioq
+三個和尚嘸沒水喫	sae ghoq ghou zaon mhiq syu chioq
 三分之兩	sae fen tsy lian
 三十兩	sae zyuq lian
 三十兩萬	sae zyuq lian vae
@@ -8037,6 +8113,7 @@ use_preset_vocabulary: true
 上勿去	zaon vaq chi
 上弗去	zaon vaq chi
 上個禮拜	zaon goq li pa
+上個禮拜	zaon ghoq li pa
 上禮拜	zaon li pa
 上牀睏覺	zaon zaon khuen kau
 上班辰光	zaon pae zyun kuaon
@@ -8049,6 +8126,7 @@ use_preset_vocabulary: true
 下勿去	gho vaq chi
 下弗去	gho vaq chi
 下個禮拜	gho goq li pa
+下個禮拜	gho ghoq li pa
 下禮拜	gho li pa
 下班辰光	gho pae zyun kuaon
 落課時間	loq khou zy ci
@@ -8184,6 +8262,7 @@ use_preset_vocabulary: true
 勿干儂	vaq kI nou
 弗干儂	vaq kI nou
 不幸中個大幸	paq yin tson goq da yin
+不幸中個大幸	paq yin tson ghoq da yin
 勿從	vaq dzon
 弗從	vaq dzon
 勿忘本	vaq vaon pen
@@ -8234,7 +8313,9 @@ use_preset_vocabulary: true
 勿明確	vaq min chiuq
 弗明確	vaq min chiuq
 勿是一個	vaq zy iq goq
+勿是一個	vaq zy iq ghoq
 弗是一個	vaq zy iq goq
+弗是一個	vaq zy iq ghoq
 勿是儂	vaq zy nou
 弗是儂	vaq zy nou
 勿是俉	vaq zy ng
@@ -9318,6 +9399,7 @@ use_preset_vocabulary: true
 全國頂大	dzoe koq tin dou
 全球頂大	dzoe jieu tin dou
 兩個小人	lian goq shiau gnin
+兩個小人	lian ghoq shiau gnin
 兩面勿是人	lian mi vaq zy gnin
 兩面弗是人	lian mi vaq zy gnin
 八字嘸沒一撇	paq zy mhiq iq phiq
@@ -9479,6 +9561,7 @@ use_preset_vocabulary: true
 十多兩分	zyuq tou lian fen
 十多兩歲	zyuq tou lian syu
 十多兩個	zyuq tou lian goq
+十多兩個	zyuq tou lian ghoq
 十多兩月	zyuq tou lian yuq
 十月十號	zyuq yuq zyuq ghau
 十歲辰光	zyuq syu zyun kuaon
@@ -9761,6 +9844,7 @@ use_preset_vocabulary: true
 學堂裏	ghoq daon li
 學堂領導	ghoq daon lin dau
 學個	ghoq goq
+學個	ghoq ghoq
 學眼	ghoq ngae
 守勒	shieu laq
 安靜落去	EI zhin loq chi
@@ -9771,6 +9855,7 @@ use_preset_vocabulary: true
 害煞	ghe saq
 家政專科學堂	cia cin tsoe khou ghoq daon
 屋裏個	oq li goq
+屋裏個	oq li ghoq
 屋裏向	oq li shian
 寄宿學堂	ci soq ghoq daon
 寫落去	shia loq chi
@@ -9809,7 +9894,9 @@ use_preset_vocabulary: true
 就讓儂	jieu gnian nou
 屬於自家	dzoq yu zhi ko
 差勿多個	tsho vaq tou goq
+差勿多個	tsho vaq tou ghoq
 差弗多個	tsho vaq tou goq
+差弗多個	tsho vaq tou ghoq
 差勒多	tsho laq tou
 差勒	tsho laq
 巾幗勿讓鬚眉	cin koq vaq gnian syu mei
@@ -10426,7 +10513,9 @@ use_preset_vocabulary: true
 炸勒	tso laq
 炸煞	tso saq
 炸個	tso goq
+炸個	tso ghoq
 炸個	zaq goq
+炸個	zaq ghoq
 無菌個	vu chiun goq
 無菌個	vu chiun ghoq
 無菌個	Wu chiun goq
