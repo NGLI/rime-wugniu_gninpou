@@ -5204,7 +5204,6 @@ use_preset_vocabulary: true
 鉛山	yi sae
 通通樣樣	thon thon gnian gnian
 統統樣樣	thon thon gnian gnian
-像模像樣	zhian moq zhian yan
 拓碑	thaq pei
 虧煞	tshu saq
 虧煞	khuei saq
@@ -5325,7 +5324,6 @@ use_preset_vocabulary: true
 孫悟空	sen wu khon
 輪胎	len thei
 輪胎	len the
-氣胎	chi thei
 爆胎	pau thei
 眠牀底下	mi zaon tiau gho
 眠牀底下	mi zaon diau gho
@@ -7543,7 +7541,6 @@ use_preset_vocabulary: true
 片片鴨	phi phi ae
 慈城年糕
 米仁	mi zyun
-凍米
 鹹烤蝦
 鹹㸆蝦
 桃膠	dau ciau
@@ -7552,6 +7549,7 @@ use_preset_vocabulary: true
 米仁湯	mi zyun thaon
 糖水黃桃
 黃桃
+青塊
 # 商業
 倉橋麪結店
 興寧橋烤雞
@@ -7979,7 +7977,6 @@ use_preset_vocabulary: true
 倒篤大糊	tau toq dou wu
 燥大糊	sau dou wu
 敲坍	khau thae
-樣樣色色
 樣樣式式	yan yan shiq shiq
 樣樣啥啥	yan yan sou sou
 亂鐘	loe tson
@@ -8043,6 +8040,7 @@ use_preset_vocabulary: true
 稻鬚	dau syu
 稻鬚穀	dau syu koq
 嘴革瘡
+坑頭塊
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian

@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.24"
+version: "2020.08.26"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30482,13 +30482,11 @@ s	迡	gni
 一步樓	iq bu leu
 一定不移	iq din paq yi
 一轉一回	iq tsoe iq wei
-一塌括子	iq thaq kuaq tsy
 一白籃五斗	iq baq lae ng teu
 一報還一報	iq pau wae iq pau
 一退六二五	iq thei loq gni ng
 二五八鳥貓	gni ng paq tiau mae
 廠禮拜	chian li pa
-八分形個	paq fen yin kou
 人來風	gnin le fon
 刁𩍐	tiau ten
 乃該	nae ke
@@ -30496,19 +30494,13 @@ s	迡	gni
 到地	tau di
 三酉	sae yeu
 三話兩句	sae wo lian ciu
-乾燥雄雞	kI sau yon ci
-虧殺	chiu saq
 下巴兜	gho bo teu
-下巴涎	gho bo zae
-丈姆娘	jian m gnian
 大猛	doq man
 大糠	dou khaon
 大火輪	dou hou len
 火輪船	hou len ZOE
 大多數	da tou su
 大嘴䩉	dou tsyu bu
-大眼錄索	dou ngae loq soq
-萬生萬死	vae san vae shi
 上底	zaon ti
 小鬼頭	shiau ciu deu
 小尐尐	shiau ciq ciq
@@ -30518,27 +30510,17 @@ s	迡	gni
 小羅嗦	shiau lhou sou
 小棺材	shiau kun dze
 小鯉花	shiau li huo
-小八拉子	shiau paq la tsy
-小八拉子	shiau paq laq tsy
 丫各亂經	o koq loe cin
 叉木人	tsho moq gnin
-馬藍頭	mo lae deu
-馬藍頭	mo lae dei
 開市	khe zy
 開傘	khe sae
 開交	khe ciau
 開筆	khe piq
 天羅	thi lou
-天亮	thi lian
-天亮飯	thi lian vae
-木老老	moq lau lau
-木麩麩	moq fu fu
 木頭人案	moq deu gnin EI
 五更頭	ng kan dei
 五花爆裂	ng huo pau liq
 不剌	paq la
-仄楞	tsaq len
-仄格楞敦	tsaq kaq len ten
 族長太公	dzoq cian tha kon
 車子	tsho tsy
 車壩	tsho po
@@ -30568,15 +30550,11 @@ s	迡	gni
 烏骨雞	u kuaq ci
 烏稍蛇	u shiau dzo
 烏肚腸	u du jian
-火栝	hou thi
-火栝棒頭	hou thi baon deu
 火耙	hou boe
 火老鴉	hou lau o
 火螢頭	hou yin dei
 火螢頭	hou yon dei
 火燉酒	hou ten cieu
-鬥帳	teu cian
-軋帳	gaq cian
 認真道話	gnin cin dau wo
 心度	shin du
 引僝	yin zae
@@ -30584,8 +30562,6 @@ s	迡	gni
 雙夾拄	saon kaq tsyu
 書報架	syu pau ko
 末末豆腐	maq maq deu vu
-打帳	tan cian
-打帳	tae cian
 打渾	tan uen
 打埋	tae mAE
 打獨流	tan doq lieu
@@ -30643,7 +30619,6 @@ s	迡	gni
 弗做肉	vaq tsou gnioq	55
 弗得知	vaq toq tsyu
 弗着港	vaq jiaq kaon	55
-弗管帳	vaq kun cian
 弗二弗三	vaq gni vaq sae	55
 弗上弗落	vaq zaon vaq loq	55
 弗打記頭	vaq tan ci deu	55
@@ -30654,7 +30629,6 @@ s	迡	gni
 出場	tshyuq jian
 出搶花	tshyuq chian huo
 出騙頭	tshyuq phi deu
-出窠娘	tshyuq khou gnian
 奶酣	na he
 加氣煩腦	ko chi vae nau
 邊沿頭	pi yi dei
@@ -30672,18 +30646,13 @@ s	迡	gni
 老話頭	lau wo dei
 老蝦公	lau huo kon
 老班輩	lau pae pei
-老木𢙱倲	lau moq lon ton
 老弗大草	lau vaq dou tshau	55
 老虎裝萎	lau fu tsaon uei
 老酒窞	lau cieu dei
 地龍	di lon
 地坋	di ven
 地𡍲	di taq
-過去	kou chi
-過帳	kou cian
 過謝	kou zhia
-過帳簿	kou cian bu
-過帳洋鈿	kou cian yan di
 壓末腳	aq maq ciaq
 壓末腳	aq maq cian
 壓倉氣	aq tshaon chi
@@ -30691,9 +30660,6 @@ s	迡	gni
 有嘸	yeu m
 有環	yeu wae
 有時節	yeu zy ciq
-有數沒帳	yeu su maq cian
-灰汁團	huei ciq doe
-灰塵膨塳	huei jin ban bon
 死人弗怪	shi gnin vaq kua	55
 死去還魂	shi chi wae wen
 當路	taon lu
@@ -30704,13 +30670,11 @@ s	迡	gni
 同隊	don dei
 喫嚇	chioq haq
 斬刀	tsae tau
-喫賠帳	chioq bei cian
 回𩌑	wei iu
 還𩌑	wae iu
 肉㾑㾑	gnioq taq taq
 囡疏	noe su
 囡孫	no sen
-呼嘯絲	fu shiau sy
 份衣	ven i
 自關自過	zhi kuae zhi kou
 自做㕶頭	zhi tsou ng deu
@@ -30721,7 +30685,6 @@ s	迡	gni
 肋子	laq tsy
 雜蟹	dzaq ha
 雜格楞敦	dzaq kaq len ten
-各手弗知帳	koq shieu vaq tsyu cian
 多𥈊眼	tou saq ngae	418
 衝場	tshon jian
 冰碗	pin un
@@ -30749,7 +30712,6 @@ s	迡	gni
 壽勢	zhieu syu
 弄掉	lon diau
 弄弗好	lon vaq hau	55
-進帳	cin cian
 進舍	cin so
 找湊	tsau tsheu
 扯鈴	tsho lin
@@ -30783,16 +30745,12 @@ s	迡	gni
 嘸相貌	mh shian mau
 嘸陶嘸成	mh dau mh jin
 嘸心倒事	mh shin tau zy
-嘸帳得算	mh cian taq soe
-嘸數沒帳	mh su maq cian
-嘸數倒帳	mh su tau cian
 園的鈴	yu tiq lin
 吵棚	tshau ban
 嗆潑	chian phaq
 吚哩嗚嚕	i li u lu
 別苗頭	biq miau deu
 亂話大三千	loe wo dou sae chi
-體託	thi thoq
 但明	dae min
 近手弗來	jin shieu vaq le
 坐桶	zou don
@@ -30830,13 +30788,10 @@ s	迡	gni
 拐拐動	gua gua don
 拖有病	thou yeu bin
 拆壁腳	tshaq piq ciaq
-抱裙	bau jiun
-拉柴胡子	la za wu tsy
 招商	ciau saon
 苦得頭	khu taq deu
 摘紅	tsaq kon
 直通大道	jiq thon da dau
-鬆䨣䨣	son phoq phoq
 畫鏡線	wo cin shi
 刺菱	tshy len
 雨傘月桌	yu sae yuq tsoq
@@ -30856,7 +30811,6 @@ s	迡	gni
 金豆	cin deu
 金彩邊	cin tshe pi
 貪小	thei shiau
-脹瞪	cian ten
 魚醬油	ng cian yeu
 魚滷	ng lu
 狗氣煞	keu chi saq
@@ -30866,10 +30820,7 @@ s	迡	gni
 碎票	sei phiau
 單角落頭	tae koq loq dei
 河樁	ghou tsaon
-泥鏝	gni mun
 泥艋船	gni man ZOE
-泥西疙敦	gni shi kaq ten
-泥氣疙敦	gni chi kaq ten
 宕子	dan tsyu
 宕鑼	than lou
 空倉鈿	khon tshaon di
@@ -30878,7 +30829,6 @@ s	迡	gni
 話弗起	wo vaq chi	55
 話弗睬	wo vaq tshe	55
 該應	ke in
-該廂	kiq shian
 該對	kiq tei
 該把	kiq po
 該貌	koq mau
@@ -30899,10 +30849,8 @@ s	迡	gni
 鹹駱駝	ghae loq dou
 硯瓦	gni ngo
 硯瓦爿	gni ngo bae
-麪湯	mi thaon
+面湯	mi thaon	55
 面前牙	mi zhi ngo
-耐心耐想	ne shin ne shian
-耐心耐想	nei shin nei shian
 耍賴羊	sa la yan
 揹性命	pei shin min
 背桌凳腳	pei tsoq ten ciaq
@@ -30917,11 +30865,9 @@ s	迡	gni
 看牛小娃	khI ngeu shiau uae	55
 香蕈	shian zyun
 重隊	dzon dei
-篤落碼	toq loq mo
 狠命	hen min
 狠性命	hen shin min
 閣排凳	koq ba ten
-婁吼	leu heu
 前世	zhi shi
 爛泥糊漿	lae gni wu cian
 活龍介	waq lon ka
@@ -30932,11 +30878,9 @@ s	迡	gni
 渾滾	wen kuen
 衲頭	naq dei
 神綻	zyun dzae
-神經忥忥	zyun cin shi shi
 屋跟無賴	oq ken vu la
 屋跟無賴	oq ken Wu la
 除𩌑	dzyu iu
-姨娘	yi gnian
 起頭家	chi deu ko
 熱拆骨頭	gniq tshaq kuaq dei
 挨擠弗開	a ci vaq khe	55
@@ -30967,7 +30911,6 @@ s	迡	gni
 浮泥	veu gni
 浮面	vei mi
 澀𦤣幾糟	saq baq ci tsau
-寬帳	khun cian
 家作	ko tsoq
 家主婆	ko tsyu bou
 㝗泛泛	laon fae fae
@@ -30984,7 +30927,6 @@ s	迡	gni
 珿斬齊	tshaq tsae zhi
 排梢	ba sau
 排排坐	ba ba zou
-掉槍花	diau chian huo
 推扳弗起	thei pae vaq chi	55
 埠頭	bu dei
 堍頭	thu dei
@@ -31000,27 +30942,23 @@ s	迡	gni
 乾鑼	ji lou
 梅子薧	mei tsy khau
 救火會	cieu hou wei
-嗇刻	saq khaq
 敐敐	jin jin
 爽快	saon khua
-雪面	syuq mi
 雪雪斯白	syuq syuq sy baq
 眼緣	ngae yu
 眼𥈊毛	ngae saq mau	55
 野氣勃出	ya chi baq tshyuq
-晚娘	mae gnian
 蛀蟲爛末	tsyu dzon lae maq
 蛀蟲末爛	tsyu dzon maq lae
 囉裏百嗦	lhou li paq sou
 第二天亮	di gni thi lian
 做親	tsou chin
-腳划船	ciaq uo ZOE
 腳骨直	ciaq kuaq jiq
 脫氣	thaq chi
 豬尿脬	tsyu syu phau
 麻電	mo di
 麻卒	mo tsaq
-麻團	mo doe
+麻糰	mo doe
 麻呵呵	mo hou hou
 癢木色嘍	yan moq saq leu
 清早天亮	chin tsau thi lian
@@ -31032,7 +30970,7 @@ s	迡	gni
 淘閒氣	dau ghae chi
 淡㽺㽺	dae shiq shiq
 墮民	dou min
-綠鬱郁	loq iuq iuq
+綠鬱鬱	loq iuq iuq
 搭地灰扎	taq di huei tsaq
 趁早摸亮	chin tsau moq lian
 插眼	tshaq ngae
@@ -31051,10 +30989,7 @@ s	迡	gni
 跑春	phau tshyun	55
 蜒蚰螺	yi yi loe
 喌喌	tsoq tsoq
-黑括嫩	haq kuaq nen
-黑括斯嫩	haq kuaq sy nen
 黑醜醜	haq chieu chieu
-築漏	tsoq leu
 筒頭面	don deu mi
 釉璃傢伙	yeu li ko hou
 番薯䉭	fae zyu liq
@@ -31068,7 +31003,6 @@ s	迡	gni
 寋叉	ge tsho	55
 窩心	ou shin
 謝洋	zhia yan
-強頭強腦	jian deu jian nau
 隔日	kaq gniq
 隔洋過海	kaq yan kou he
 𨠒黃	fae waon
@@ -31078,7 +31012,6 @@ s	迡	gni
 搪粉	daon fen
 搪鉛杯	daon khae pei
 搪口杯	daon kheu pei
-藍扳	lae pae
 賴伏	la bu	55
 暖房	noe vaon
 歇手	shiq shieu
@@ -31096,11 +31029,9 @@ s	迡	gni
 煞口	saq kheu
 煞仔人	saq tsy gnin
 醬醭氣	cian phoq chi
-數帳	su cian
 滿筍	mun syun
 塞嘴	saq tsyu
 塞暗亮錢	saq EI lian ji
-福利	foq li
 靜止	zhin tsy
 靜止止	zhin tsy tsy
 碧波清	piq pou chin
@@ -31109,7 +31040,6 @@ s	迡	gni
 摘帽子	tsaq mau tsy
 榨面	tso mi
 酸䐥䐥	soe on on
-算帳	soe cian
 管且啥	kun chie sou
 管且咋	kun chie dza
 敲糖	khau daon
@@ -31131,7 +31061,6 @@ s	迡	gni
 橫豎橫	wan zy wan
 黴氣	mei chi
 黴麩	mei fu
-黴頭脫腦	mei deu thaq nau
 瞎眼土鯆	haq ngae thu bu
 踏牀頭	daq zaon deu
 鷂虻	yau man
