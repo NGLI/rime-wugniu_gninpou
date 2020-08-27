@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.26"
+version: "2020.08.27"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -23068,7 +23068,6 @@ s	迡	gni
 好猛	hau man
 對帶	tei ta	55
 對帶	tei tan	55
-堆打	tei tan	55
 滿掉	mun diau	55
 一大摙	iq dou li	55
 極刻	jiq khaq	55
@@ -27620,7 +27619,6 @@ s	迡	gni
 𤈦焦泥	mei ciau gni	55
 𠡒布	tei pu	55
 對蝦	tei huo
-對打	tei tan
 對襟	tei cin
 對攏	tei lon	55
 對勿住	tei vaq dzyu	55

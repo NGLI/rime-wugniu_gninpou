@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.26"
+version: "2020.08.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8041,7 +8041,7 @@ use_preset_vocabulary: true
 稻鬚穀	dau syu koq
 嘴革瘡
 坑頭塊
-堆堆動
+對對動
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
