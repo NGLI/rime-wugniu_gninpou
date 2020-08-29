@@ -5585,6 +5585,7 @@ s	迡	gni
 訞	iau
 僥	iau
 徼	iau
+么	iau
 幺	iau
 吆	iau
 邀	iau
@@ -6439,6 +6440,7 @@ s	迡	gni
 訕	sae
 杣	sae
 三	sae
+仨	sae
 𭆻	sae
 叁	sae
 叄	sae
@@ -17359,7 +17361,7 @@ s	迡	gni
 缚	bou
 馍	mou
 谟	mou
-么	mou
+么	mou	0%
 亸	tou
 缍	tou
 𫜒	thou
@@ -18491,7 +18493,7 @@ s	迡	gni
 镆	moq
 钼	moq
 鹜	moq
-么	moq
+么	moq	0%
 辐	foq
 复	foq
 𫛳	voq
