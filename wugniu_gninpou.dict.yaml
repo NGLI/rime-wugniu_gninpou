@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.06"
+version: "2020.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -29272,7 +29272,7 @@ s	迡	gni
 鐘頭	tson deu
 腫起	tson chi	55
 種豬	tson tsyu
-總歸	tson kuei
+總歸	tson kuei	3000
 總歸仔	tson kuei tsy	55
 總督羹	tson toq kan	55
 種牛痘	tson ngeu deu

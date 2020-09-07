@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.08.29"
+version: "2020.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8048,6 +8048,8 @@ use_preset_vocabulary: true
 坑頭塊
 對對動
 吐綻
+總歸是
+總是
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
