@@ -8251,7 +8251,7 @@ s	迡	gni
 垛	dou
 肚	dou	0%
 大	dou
-捼	nou	20
+捼	nou	25
 挼	nou
 儺	nou
 挪	nou	6%
@@ -12918,7 +12918,6 @@ s	迡	gni
 𡍲	thaq	578
 撻	thaq
 闥	thaq
-貼	thaq	5%
 沓	thaq
 䵬	thaq
 㒓	thaq
@@ -13041,7 +13040,7 @@ s	迡	gni
 竻	laq
 氻	laq
 泐	laq
-叻	laq
+叻	laq	25
 捋	laq
 埒	laq
 𩛝	laq
@@ -13895,7 +13894,7 @@ s	迡	gni
 厾	toq
 䐁	toq
 𡰪	toq
-㞘	toq	10
+㞘	toq	25
 沰	toq
 啄	toq
 裰	toq
@@ -14037,7 +14036,7 @@ s	迡	gni
 穱	tsoq
 作	tsoq
 筰	tsoq
-撮	tsoq	10
+撮	tsoq	25
 糳	tsoq
 傶	tsoq
 喌	tsoq
@@ -18333,7 +18332,6 @@ s	迡	gni
 𦈖	thaq
 挞	thaq
 闼	thaq
-贴	thaq
 𠉂	thaq
 脱	thaq
 𪉍	thaq
