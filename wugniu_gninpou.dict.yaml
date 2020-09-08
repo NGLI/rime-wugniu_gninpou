@@ -8382,7 +8382,6 @@ s	迡	gni
 餜	kou
 惈	kou
 猓	kou
-管	kou	0%
 個	kou	300000
 箇	kou	6%
 軻	khou
@@ -10027,6 +10026,7 @@ s	迡	gni
 遦	kun
 鏆	kun
 鱹	kun
+個	kun	55
 寬	khun
 寛	khun
 髖	khun
@@ -17745,6 +17745,7 @@ s	迡	gni
 鹳	kun
 贯	kun
 𨱌	kun
+个	kun
 宽	khun
 髋	khun
 欢	hun
@@ -19710,7 +19711,6 @@ s	迡	gni
 賴臭皮	la chieu bi	55
 賴屙皮	la ou bi	55
 出頭椽子	tshyuq deu dzoe tsy	55
-老貼蛋	lau thaq dae	55
 老樸屍	lau phoq sy	55
 浮屍	vei sy	578
 浮屍	veu sy	578
@@ -19907,10 +19907,8 @@ s	迡	gni
 咋呢	dza gni	55
 咋回事體	dza wei zy thi	578
 咋西孃格	dza shi gnian kaq	55
-咋管	dza kun	418
-咋管	dza kou	418
-介管	ka kun	418
-介管	ka kou	418
+咋管	dza kun	55
+介管	ka kun	55
 介眼	ka ngae	418
 介眼眼	ka ngae ngae	418
 格打	kaq tan	55
@@ -20949,10 +20947,8 @@ s	迡	gni
 粢飯糕	tshy vae kau	55
 米饅頭	mi mun deu	55
 黃𤿏糕	waon nei kau	55
-水貼糕	syu thaq kau	55
 方糕	faon kau	55
 灰汁糰	huei ciq doe	55
-油貼黃	yeu thaq waon	55
 箸夾管	ji kaq kun	55
 麻餅	mo pin	55
 千層餅	chi zen pin	55
@@ -22213,7 +22209,6 @@ s	迡	gni
 打襉	tan kae	55
 敲邊	khau pi	55
 大做	dou tsou	55
-貼襪底	thaq maq ti	55
 夾襠	kaq taon	55
 跍倒	gu tau	55
 𢲔跌	pae tiq	55
@@ -28582,10 +28577,6 @@ s	迡	gni
 戇大女婿	gaon dou gniu shi	55
 戇戇鵝	gaon gaon ngou	55
 行會	ghaon wei
-行勿住	ghaon vaq dzyu	578
-行勿消	ghaon vaq shiau	578
-行勒住	ghaon laq dzyu	578
-行勒消	ghaon laq shiau	578
 項圈	ghaon chiu
 光是	kuaon zy
 光芋	kuaon gniu	55
@@ -29312,8 +29303,6 @@ s	迡	gni
 兄弟	shion di
 兄弟家	shion di ko	55
 胸脯	shion bu
-胸管頭	shion kun deu	55
-胸管頭肉	shion kun deu gnioq	55
 雄驢	yon lu	55
 雄雞	yon ci
 雄馬	yon mo

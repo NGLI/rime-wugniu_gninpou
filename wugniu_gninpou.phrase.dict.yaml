@@ -402,6 +402,11 @@ use_preset_vocabulary: true
 過昶	kou chian	55
 過一昶	kou iq chian	55
 再昶	tse chian	55
+老搨蛋	lau thaaq dae	55
+咋個	dza kun	1500
+咋個	dza kou	578
+介個	ka kun	1000
+介個	ka kou	418
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -663,6 +668,7 @@ use_preset_vocabulary: true
 十個	zyuq ghoq
 礌沙圓	lei so yu	55
 礌銅板	lei don pae	55
+胸脘頭肉	shion kun deu gnioq	55
 
 # 其他詞彙
 
@@ -1389,7 +1395,6 @@ use_preset_vocabulary: true
 苔條粢飯糕	de diau tshy vae kau
 下飯嘸沒龍頭鮳
 點心嘸沒黃𤿏糕
-鴨肉骨頭水貼糕	aq gnioq kuaq deu syu thaq kau
 八月十六等勿到
 分麻餅	fen mo pin
 三北豆酥糖
@@ -2741,13 +2746,7 @@ use_preset_vocabulary: true
 煠雞
 面拖蝦
 拖黃魚	thou waon ng
-貼蛋	thaq dae
-貼帶魚	thaq ta ng
-貼老豆腐	thaq lau deu vu
-貼大餅	thaq dou pin
-貼金糰	thaq cin doe
 小兵張嘎
-大餅貼貼	dou pin thaq thaq
 煙囪塞塞
 老太婆𧮙煞	lau tha bou zoq saq
 𰟫苔條	koq de diau
@@ -4135,6 +4134,17 @@ use_preset_vocabulary: true
 礌來礌去當中央	lei le lei chi taon tson gnian
 𨀤𨀤倒
 𨀤倒就睏熟
+鴨肉骨頭水搨糕	aq gnioq kuaq deu syu thaq kau
+搨蛋	thaq dae
+搨帶魚	thaq ta ng
+搨老豆腐	thaq lau deu vu
+搨大餅	thaq dou pin
+搨金糰	thaq cin doe
+大餅搨搨	dou pin thaq thaq
+咋個長	dza kun jian	55
+咋個大	dza kun dou	55
+咋個長	dza kou jian
+咋個大	dza kou dou
 # 地名
 寧波市	gnin pou zy
 寧波市	gnin poq zy
