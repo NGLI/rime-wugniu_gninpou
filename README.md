@@ -45,7 +45,7 @@
 - [iRime](https://github.com/jimmy54/iRime)
 - [字海网，叶典网](http://yedict.com/)
 - [汉典](http://www.zdic.net/)
-- [古音小鏡](http://www.guguolin.com/)
+- [古音小鏡](http://www.kaom.net/)
 - [OpenCC](https://opencc.byvoid.com/)
 
 ## 聯繫
