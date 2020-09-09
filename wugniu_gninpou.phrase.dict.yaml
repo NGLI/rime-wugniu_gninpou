@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.08"
+version: "2020.09.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -140,8 +140,6 @@ use_preset_vocabulary: true
 喫弗落	chioq vaq loq	55
 嘔弗應	eu vaq in
 苦弗出	khu vaq tshyuq	55
-杭弗消	ghaon vaq shiau	55
-杭弗住	ghaon vaq dzyu	55
 跳弗落	thiau vaq loq	55
 三弗相信	sae vaq shian shin	55
 大大弗大	dou dou vaq dou	55
@@ -407,6 +405,12 @@ use_preset_vocabulary: true
 咋個	dza kou	578
 介個	ka kun	1000
 介個	ka kou	418
+抗弗消	ghaon vaq shiau	55
+抗弗住	ghaon vaq dzyu	55
+抗勿消	ghaon vaq shiau
+抗勿住	ghaon vaq dzyu
+抗勒消	ghaon laq shiau	55
+抗勒住	ghaon laq dzyu	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 

@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.08"
+version: "2020.09.09"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -9772,6 +9772,7 @@ s	迡	gni
 筕	ghaon
 航	ghaon
 杭	ghaon
+抗	ghaon	0%
 貥	ghaon
 頏	ghaon
 沆	ghaon
@@ -24631,10 +24632,6 @@ s	迡	gni
 苦勿出	khu vaq tshyuq	55
 苦勒出	khu laq tshyuq	55
 苦相出	khu shian tshyuq	55
-杭勿消	ghaon vaq shiau	55
-杭勿住	ghaon vaq dzyu	55
-杭勒消	ghaon laq shiau	55
-杭勒住	ghaon laq dzyu	55
 直落三	jiq loq sae
 奔腳頭	pen ciaq deu	55
 抲白郎	kho baq laon	55
