@@ -12173,7 +12173,6 @@ s	迡	gni
 癑	non
 襛	nhon
 齈	nhon
-齆	nhon
 噥	nhon
 隆	lon
 窿	lon
@@ -12518,7 +12517,7 @@ s	迡	gni
 𤌏	on
 䩺	on
 鶲	on
-齆	on	1%
+齆	on
 紅	on	0%
 屋	on	0%
 蓊	on
@@ -12682,7 +12681,7 @@ s	迡	gni
 哵	paq
 玐	paq
 釟	paq
-不	paq
+不	paq	100000
 鈈	paq
 撥	paq	331919
 癶	paq
@@ -12813,7 +12812,7 @@ s	迡	gni
 珐	faq
 琺	faq
 鍅	faq
-弗	faq
+弗	faq	5000
 彿	faq
 佛	faq	2%
 髴	faq
@@ -12840,7 +12839,7 @@ s	迡	gni
 笰	faq
 紱	faq
 翇	faq
-勿	faq	5%
+勿	faq	25
 乏	vaq
 罰	vaq
 罸	vaq
@@ -12854,7 +12853,7 @@ s	迡	gni
 垡	vaq
 瞂	vaq
 藅	vaq
-勿	vaq	295400
+勿	vaq	100000
 物	vaq
 伆	vaq
 弗	vaq	590801
@@ -20820,8 +20819,6 @@ s	迡	gni
 木蓮	moq li	55
 金鈴子	cin lin tsy
 紫葡萄	tsy bu dau
-紫胡桃	tsy wu dau	578
-水胡桃	syu wu dau	55
 白蒲棗	baq bu tsau	55
 圓眼	yu ngae
 杏梅	ghan mei
@@ -22144,7 +22141,6 @@ s	迡	gni
 失眼	syuq ngae	55
 顧野	ku ya	55
 閒野	ghae ya	55
-彈眼落睛	dae ngae loq cin	55
 䀨瞎	kuaq haq	55
 翻白	fae baq
 眼淚出	ngae li tshyuq	55
@@ -22771,7 +22767,6 @@ s	迡	gni
 慣常	kuae dzaon
 依依名	i i min	55
 脹膯	cian ten	55
-縋膯	dzyu ten	55
 積食	ciq zhiq
 賴孵	la bu	55
 打水	tan syu
@@ -23346,7 +23341,6 @@ s	迡	gni
 𨉖𨉖側側	iq iq tsaq tsaq	55
 頂真	tin tsyun
 仔潔	tsy ciq	55
-仔跡	tsy ciq	55
 面孔重	mi khon dzon	55
 賊笨	zaq ben	578
 倒爺笨	tau ya ben	55
@@ -25109,7 +25103,7 @@ s	迡	gni
 紙行	tsy ghaon
 紙襞箱	tsy paq shian	55
 紙箱店	tsy shian ti	55
-紫胡萄	tsy wu dau	55
+紫胡萄	tsy wu dau	578
 紫菜	tsy tshe
 紫檀	tsy dae
 紫藤	tsy den
@@ -25805,7 +25799,6 @@ s	迡	gni
 煙囪	i tshon
 菸盒子	i ghaq tsy	55
 菸葉	i yiq
-嫌貶	i pi	55
 嫌憎	i tsen
 醃篤鮮	i toq shi	55
 醫生	i san
@@ -26640,7 +26633,6 @@ s	迡	gni
 痧藥	so yaq	55
 蓑衣	so i
 賒賬	so cian
-惹嫌	zo i	55
 惹厭貓	zo i mae	55
 瓜子	kuo tsy
 瓜子臉	kuo tsy li
@@ -27418,7 +27410,6 @@ s	迡	gni
 臭花娘子	shieu huo gnian tsy	55
 臭豆腐	chieu deu vu
 臭醬豆腐	chieu cian deu vu	55
-臭齆齆	chieu nhon nhon	55
 臭蟲	chieu dzon
 臭烘烘	chieu hon hon
 臭墨	chieu moq	55
@@ -28431,10 +28422,6 @@ s	迡	gni
 湯藥	thaon yaq
 耥田	thaon di	55
 燙衣裳	thaon i zaon	55
-燙壺子	thaon wu tsy	55
-燙盤子	thaon bun tsy	55
-燙婆子	thaon bou tsy	55
-燙水壺	thaon syu wu	55
 堂房	daon vaon
 堂房姊妹	daon vaon ci mei	55
 堂姊妹	daon ci mei
@@ -28689,7 +28676,6 @@ s	迡	gni
 門口頭	men kheu deu	418
 門口	men kheu
 門槍	men chian	55
-門門帳	men men cian	578
 門框	men khuaon
 門襟	men cin	55
 門神	men zyun
@@ -29189,7 +29175,6 @@ s	迡	gni
 桶耳朵皮	don ng to bi	55
 桶耳朵皮	don gni to bi	55
 筒子	don tsy
-齆鼻頭	nhon baq deu	55
 龍鬚竹	lon syu tsoq	55
 龍蝦	lon huo
 龍頭魚	lon deu ng	55
@@ -29475,8 +29460,6 @@ s	迡	gni
 衲爿	naq bae	55
 倷兩人	naq lian gnin	55
 倷個	naq goq	578
-肋膈肢下	laq kaq tsy gho	578
-肋膈肢下毛	laq kaq tsy gho mau	55
 勒渠	laq ji	55
 辣椒粉	laq ciau fen
 辣椒	laq ciau
@@ -30471,6 +30454,7 @@ s	迡	gni
 水頭	syu dei
 水白大蝦	syu baq dou huo
 水菱	syu len
+水胡桃	syu wu dau	55
 手板	shieu pae
 手面	shieu mi
 手面頂	shieu mi ten
@@ -30851,6 +30835,7 @@ s	迡	gni
 酒館店	cieu kun ti
 浮泥	veu gni
 浮面	vei mi
+燙水壺	thaon syu wu	55
 澀𦤣幾糟	saq baq ci tsau
 家作	ko tsoq
 家主婆	ko tsyu bou
@@ -30926,6 +30911,7 @@ s	迡	gni
 硬要當	ngan iau taon
 硬嘴巴	ngan tsyu po
 紫絳色	tsy cian saq
+紫胡萄	tsy wu dau	55
 跔掉	geu diau	55
 跑春	phau tshyun	55
 蜒蚰螺	yi yi loe
