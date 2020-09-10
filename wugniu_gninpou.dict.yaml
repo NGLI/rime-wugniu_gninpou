@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.09"
+version: "2020.09.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30454,7 +30454,6 @@ s	迡	gni
 水頭	syu dei
 水白大蝦	syu baq dou huo
 水菱	syu len
-水胡桃	syu wu dau	55
 手板	shieu pae
 手面	shieu mi
 手面頂	shieu mi ten
@@ -30835,7 +30834,6 @@ s	迡	gni
 酒館店	cieu kun ti
 浮泥	veu gni
 浮面	vei mi
-燙水壺	thaon syu wu	55
 澀𦤣幾糟	saq baq ci tsau
 家作	ko tsoq
 家主婆	ko tsyu bou
@@ -30911,7 +30909,6 @@ s	迡	gni
 硬要當	ngan iau taon
 硬嘴巴	ngan tsyu po
 紫絳色	tsy cian saq
-紫胡萄	tsy wu dau	55
 跔掉	geu diau	55
 跑春	phau tshyun	55
 蜒蚰螺	yi yi loe
