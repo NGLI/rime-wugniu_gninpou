@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.10"
+version: "2020.09.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -14257,6 +14257,8 @@ s	迡	gni
 杓	zoq
 芍	zoq
 仢	zoq
+著	zoq	0%
+着	zoq	6%
 國	koq
 国	koq
 囯	koq
@@ -15704,8 +15706,6 @@ s	迡	gni
 集	zyuq	10%
 隰	zyuq
 踅	zyuq
-著	zyuq	0%
-着	zyuq	10%
 兒	er
 児	er
 唲	er
@@ -22263,7 +22263,6 @@ s	迡	gni
 睏覺	khuen kau	20000
 睏⿰忄態覺	khuen the kau	55
 打中覺	tan tson kau	55
-睏熟	khuen zoq	55
 調覺	diau kau	1000
 醒覺轉	shin kau tsoe	55
 睏失覺	khuen syuq kau	55
@@ -24216,8 +24215,8 @@ s	迡	gni
 藍扮頭	lae pae deu	55
 千年藍扮	chi gni lae pae	55
 賴花頭	la huo deu	55
-候着	gheu zyuq	55
-候着記把	gheu zyuq ci po	55
+候着	gheu dzoq	55
+候着記把	gheu dzoq ci po	55
 有兩遭	yeu lian tsau	55
 有辰光	yeu zyun kuaon	55
 每遭	mei tsau	55
@@ -24668,7 +24667,7 @@ s	迡	gni
 䟕洪洞	tsho ghon don	55
 乘風涼	zhin fon lian	55
 借肩背	cia ci pei	55
-候着候	gheu zyuq gheu	55
+候着候	gheu dzoq gheu	55
 𣍐難熬	vei nae ngau	55
 屙挭的	ou kuan tiq	55
 擄順毛	lou zyun mau	55
@@ -25908,8 +25907,8 @@ s	迡	gni
 姑嬤頭	ku mho deu	55
 古銅色	ku don saq
 僱工	ku kon
-僱着	ku zyuq	55
-顧着	ku zyuq
+僱着	ku zoq	55
+顧着	ku zoq
 箍桶師父	khu don sy vu	55
 骷顱頭瓶	khu lu deu bin	55
 苦膽	khu tae
@@ -26625,8 +26624,8 @@ s	迡	gni
 啥地方	so di faon	55
 啥地方	soq di faon	55
 啥地方	sou di faon	55
-啥犯着	so vae zyuq	55
-啥犯着	sou vae zyuq	55
+啥犯着	so vae zoq	55
+啥犯着	sou vae zoq	55
 稍勢	so syu	55
 稍爲	so wei	578
 稍便	so bi	55
@@ -26760,7 +26759,7 @@ s	迡	gni
 瞭高	liau kau	55
 料車	liau tsho
 料酒	liau cieu
-料着	liau zyuq	55
+料着	liau zoq	55
 交交關	ciau ciau kuae	578
 交交關關	ciau ciau kuae kuae	578
 交杯酒	ciau pei cieu
@@ -27105,7 +27104,7 @@ s	迡	gni
 犯人車	vae gnin tsho	55
 犯法	vae faq
 犯罪	vae zei
-犯着	vae zyuq	55
+犯着	vae zoq	55
 飯師父	vae sy vu	55
 飯店	vae ti
 飯盂	vae yu	55
@@ -27601,7 +27600,7 @@ s	迡	gni
 𤿏飯	nei vae	55
 雷雨	lei yu
 雷陣雨	lei jin yu
-雷打着𡀂	lei tan zyuq lei	55
+雷打着𡀂	lei tan zoq lei	55
 錐子	tsei tsy
 醉雞肉	tsei ci gnioq	55
 隨便渠法	zei bi ji faq
@@ -28028,6 +28027,8 @@ s	迡	gni
 候我話話過	gheu ngo wo wo kou
 候儂話話過	gheu nou wo wo kou
 候人家話話過	gheu gnin ko wo wo kou
+候着	gheu zoq	55
+候着記把	gheu zoq ci po	55
 傴倒	eu tau	578
 繃子	pan tsy
 伯伯	pan pan
@@ -28036,8 +28037,8 @@ s	迡	gni
 朋友道裏	ban yeu dau li	55
 彭祖暴	ban tsu pau	55
 棚梯	ban the	55
-碰着	ban zyuq
-碰着	phon zyuq
+碰着	ban zoq
+碰着	phon zoq
 甏腳	ban ciaq	55
 蟛蟲	ban dzon	55
 猛日頭	man gniq deu	55
@@ -28736,7 +28737,7 @@ s	迡	gni
 嫩頭	nen deu	55
 嫩筍頭	nen syun deu	55
 輪船	len zoe
-輪着	len zyuq
+輪着	len zoq
 忖紋理	tshen ven li	55
 襯布	tshen pu
 襯鞋底	tshen gha ti	55
@@ -28835,7 +28836,7 @@ s	迡	gni
 零用鈿	lin yon di	578
 零拆躉買	lin tshaq ten ma	55
 臨帖	lin thiaq
-臨着	lin zyuq	55
+臨着	lin zoq	55
 靈巧	lin chiau
 領來兒子	lin le ng tsy	55
 領口	lin kheu
@@ -29008,7 +29009,7 @@ s	迡	gni
 信紙	shin tsy
 興致	shin tsy
 尋開心	zhin khe shin
-尋着	zhin zyuq	55
+尋着	zhin zoq	55
 甚多莫少	zhin tou moq shiau	55
 淨更半夜	zhin ken pun ya	418
 靜靜個	zhin zhin kou	55
@@ -29056,6 +29057,7 @@ s	迡	gni
 滾壯活脫	kuen tsaon waq thaq	55
 睏褲	khuen khu	55
 睏衫	khuen sae	55
+睏勿着	khuen vaq zoq	418
 睏落	khuen loq	578
 昏頭	huen deu
 婚事	huen zy
@@ -29928,7 +29930,7 @@ s	迡	gni
 穀倉	koq tshaon
 擱沙	koq so	55
 擱板	koq pae
-覺着	koq zyuq	10000
+覺着	koq zoq	10000
 殼貨	khoq hou	55
 殼㝗	khoq laon	55
 霍亂吐瀉	hoq loe thu shia	55
@@ -30034,7 +30036,7 @@ s	迡	gni
 別針	biq cin
 別別跳	biq biq thiau	55
 鼻翼	biq yiq
-𧼱勿着	biq vaq zyuq
+𧼱勿着	biq vaq zoq
 蹩腳	biq ciaq
 蹩腳貨	biq ciaq hou	55
 嘸沒啥好	mhiq so hau	55
@@ -30821,8 +30823,6 @@ s	迡	gni
 筍麩鹹虀	syun fu ghae ci
 倒向	tau shian
 倒夜笨	tau ya ben
-候着	gheu dzoq	55
-候着候	gheu dzoq gheu
 侯分候數	gheu fen gheu su
 爹頭娘腳	tia deu gnian ciaq
 舀斗	iau teu
