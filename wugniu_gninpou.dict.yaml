@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.11"
+version: "2020.09.12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -16252,7 +16252,7 @@ s	迡	gni
 鳡	ki-ke
 赣	ki-ke
 绀	ki-ke
-干	khi-khe
+干	khi-khe	0%
 𫘱	yi
 𫘬	yi
 鲑	yi
@@ -17251,7 +17251,7 @@ s	迡	gni
 锤	zei
 谁	zei
 坠	zei
-蚕	zei-ze
+蚕	zei-ze	0%
 錾	zei-ze
 锐	zei
 𫠐	hei-
@@ -29057,7 +29057,7 @@ s	迡	gni
 滾壯活脫	kuen tsaon waq thaq	55
 睏褲	khuen khu	55
 睏衫	khuen sae	55
-睏勿着	khuen vaq zoq	418
+睏勿着	khuen vaq zoq	55
 睏落	khuen loq	578
 昏頭	huen deu
 婚事	huen zy
