@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.11"
+version: "2020.09.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5421,6 +5421,8 @@ use_preset_vocabulary: true
 炮羊肚	bau yan tu
 爆肚	pau tu
 羊肚蕈	yan tu jin
+肯定	khen din
+肯定	khen gnin
 # 多音義詞彙
 明朝	min jiau
 肚子	du tsy
@@ -6921,6 +6923,8 @@ use_preset_vocabulary: true
 睏醒
 睏長覺	khuen jian kau
 睏飽
+睏勒着	khuen laq zoq
+睏勒着	khuen laq dzoq
 # 立
 立上
 立上來
