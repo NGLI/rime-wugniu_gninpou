@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.14"
+version: "2020.09.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4827,11 +4827,8 @@ use_preset_vocabulary: true
 雅戈爾動物園	ia kou er don vaq yu
 莫枝	moq tsy
 莫枝人	moq tsy gnin
-東吳鎮	ton ng tsyun
-東吳人	ton ng gnin
 東吳鎮	ton wu tsyun
 東吳人	ton wu gnin
-東吳	ton ng
 東吳	ton wu
 天童
 天童寺
@@ -14222,9 +14219,7 @@ vcd	vi shi di
 東保線
 東六房村
 東勝路
-東吳中學	ton ng tson ghoq
 東吳中學	ton wu tson ghoq
-東吳小學	ton ng shiau ghoq
 東吳小學	ton wu shiau ghoq
 東吳市場
 東吳鎮政府
