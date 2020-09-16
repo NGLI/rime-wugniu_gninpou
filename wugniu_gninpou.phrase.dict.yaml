@@ -4539,7 +4539,8 @@ use_preset_vocabulary: true
 泰山西路
 江南中路
 江南東路
-駱霞公路	loq gho kon lu
+駱霞公路	loq ya kon lu
+駱霞公路	loq ia kon lu
 海警武裝學院	he cin wu-vu tsaon ghoq yu
 東海路
 黃山西路
@@ -4561,9 +4562,15 @@ use_preset_vocabulary: true
 大碶街道	da chi ka dau
 大碶人	da chi gnin
 大碶	da chi
-霞浦街道	gho phu ka dau
-霞浦人	gho phu gnin
-霞浦	gho phu
+大碶頭	dou chi deu
+霞浦街道	ya phu ka dau
+霞浦街道	ia phu ka dau
+霞浦人	ya phu gnin
+霞浦人	ia phu gnin
+霞浦	ya phu
+霞浦	ia phu
+霞浦張	gho phu cian
+霞浦漲	gho phu cian
 柴橋街道
 柴橋人	za jiau gnin
 柴橋
@@ -4614,12 +4621,10 @@ use_preset_vocabulary: true
 蛟川
 駱駝街道
 駱駝人	loq dou gnin
-貴駟街道	ciu sy ka dau
-貴駟人	ciu sy gnin
 貴駟街道	kuei sy ka dau
 貴駟人	kuei sy gnin
-貴駟	ciu sy
 貴駟	kuei sy
+貴駟橋	ciu sy jiau
 澥浦鎮
 澥浦人	ha phu gnin
 澥浦
@@ -15465,7 +15470,8 @@ vcd	vi shi di
 盛嶴	zhin au
 盛梅路	zhin mei lu
 盛達氣動公司	zhin daq chi don kon sy
-盛霞路	dzan gho lu
+盛霞路	dzan ya lu
+盛霞路	dzan ia lu
 盤棋山路
 盧一
 直塘
@@ -16572,7 +16578,8 @@ vcd	vi shi di
 迎春水岸
 迎春路
 迎豐村
-迎霞北路	gnin gho poq lu
+迎霞北路	gnin ya poq lu
+迎霞北路	gnin ia poq lu
 迎鳳巷
 迎鳳街
 迎鳳路
@@ -16927,7 +16934,8 @@ vcd	vi shi di
 錦苑社區
 錦苑西巷
 錦誠明都
-錦霞路	cin gho lu
+錦霞路	cin ya lu
+錦霞路	cin ia lu
 鍾公廟中學	tson kon miau tson ghoq
 鍾公廟職業高中
 鍾公廟菜場
@@ -17231,11 +17239,16 @@ vcd	vi shi di
 霓虹路
 霞南
 霞景水岸
-霞浦南路	gho phu nei-nae lu
-霞浦派出所
-霞浦西路	gho phu shi lu
-霞浦路	gho phu lu
-霞西新村	gho shi shin tshen
+霞浦南路	ya phu nei-nae lu
+霞浦南路	ia phu nei-nae lu
+霞浦派出所	ya phu pha tshyuq so
+霞浦派出所	ia phu pha tshyuq so
+霞浦西路	ya phu shi lu
+霞浦西路	ia phu shi lu
+霞浦路	ya phu lu
+霞浦路	ia phu lu
+霞西新村	ya shi shin tshen
+霞西新村	ia shi shin tshen
 靈塔醫院
 靈峯公寓
 靈峯山路

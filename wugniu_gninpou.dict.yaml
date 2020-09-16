@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.13"
+version: "2020.09.16"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -4209,6 +4209,7 @@ s	迡	gni
 迓	ia
 䃁	ia
 錏	ia
+霞	ia	0%
 耶	ia	6%
 椰	ia	6%
 雅	ia
