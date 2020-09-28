@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.27"
+version: "2020.09.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7615,15 +7615,19 @@ use_preset_vocabulary: true
 一瓶頭
 兩瓶頭
 三瓶頭
+該瓶頭	kiq bin deu
 包頭
 一包頭
 兩包頭
 三包頭
+該包頭	kiq pau deu
 一聽頭
 兩聽頭
 三聽頭
+該聽頭	kiq thin deu
 一窠生
 兩窠生
+做窠生
 一塊頭
 兩塊頭
 五塊頭
@@ -7634,7 +7638,14 @@ use_preset_vocabulary: true
 一張頭	iq cian deu
 一張頭	iq jian deu
 兩張頭	lian cian deu
-兩張頭	llian jian deu
+兩張頭	lian jian deu
+三張頭	sae cian deu
+三張頭	sae jian deu
+單件頭
+一件頭
+兩件頭
+三件頭
+該件頭	kiq ji deu
 # 食物
 倭豆鹹肉糯米飯
 糯米飯
