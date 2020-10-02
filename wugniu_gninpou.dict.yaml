@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.26"
+version: "2020.10.02"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7714,29 +7714,29 @@ s	迡	gni
 篲	zei
 鏏	zei
 蔧	zei
-蚶	hei-	0%
-酣	hei-	0%
-邯	hei-	0%
-炶	hei-	0%
-甝	hei-	0%
-魽	hei-	0%
-鼾	hei-	0%
-頇	hei-	0%
-憨	hei-	0%
-𩈣	hei-	0%
-㟏	hei-	0%
-谽	hei-	0%
-馠	hei-	0%
-罕	hei-	0%
+蚶	hei-	6%
+酣	hei-	6%
+邯	hei-	6%
+炶	hei-	6%
+甝	hei-	6%
+魽	hei-	6%
+鼾	hei-	6%
+頇	hei-	6%
+憨	hei-	6%
+𩈣	hei-	6%
+㟏	hei-	6%
+谽	hei-	6%
+馠	hei-	6%
+罕	hei-	6%
 許	hei-	5%
-撼	hei-	0%
-憾	hei-	0%
+撼	hei-	6%
+憾	hei-	6%
 咳	hei-	5%
-蔊	hei-	0%
-厂	hei-	0%
-漢	hei-	0%
+蔊	hei-	6%
+厂	hei-	6%
+漢	hei-	6%
 熯	hei-	55
-旰	hei-	0%
+旰	hei-	6%
 哎	ghei-ghe
 含	ghei-ghe
 焓	ghei-ghe
@@ -20127,6 +20127,7 @@ s	迡	gni
 身關	shin kuae	55
 後影	gheu in
 奶酣	na he	55
+奶酣	na hei-
 個子頭	kou tsy deu	55
 塊頭	khuei deu
 塊碼	khuei mo	55
@@ -20156,7 +20157,9 @@ s	迡	gni
 頭埭	deu da	55
 章程	tsaon jin
 呵鼾	huo he	55
+呵鼾	huo hei-
 眠鼾	mi he	55
+眠鼾	mi hei-
 雞眨覺	ci saq kau	55
 亂夢地裏	loe maon di li	55
 心網	shin maon	55
@@ -20565,6 +20568,7 @@ s	迡	gni
 淡菜	dae tshe
 蠣黃	li uaon
 毛蚶	mau he
+毛蚶	mau hei-
 蛤螷	kaq bi	55
 蛤皮	kaq bi	55
 圓蛤	yu kaq	55
@@ -20717,6 +20721,7 @@ s	迡	gni
 豆板	deu pae	55
 蘭花倭豆	lae huo ou deu	55
 羅漢豆	lou he deu
+羅漢豆	lou hei- deu
 蠶豆	zei-ze deu
 細倭豆	shi ou deu	55
 赤豆	tshaq deu
@@ -21856,6 +21861,7 @@ s	迡	gni
 辣蓼	laq liau	55
 艾青	nge chin
 艾漢	nge he	55
+艾漢	nge hei-	55
 苧麻	ji mo
 絡麻	loq mo	55
 糖蔗	daon tso	55
@@ -22256,7 +22262,9 @@ s	迡	gni
 伸懶勢	shin lae syu	55
 拗腰骨	au iau kuaq	55
 打呵鼾	tan huo he	55
+打呵鼾	tan huo hei-	55
 打眠鼾	tan mi he	55
+打眠鼾	tan mi hei-	55
 打瞌𥅻	tan khaq tshon	418
 睏晏覺	khuen ae kau	578
 睏覺	khuen kau	20000
@@ -23239,6 +23247,7 @@ s	迡	gni
 結棍	ciq kuen	55
 鐵倉介	thiq tshaon ka	55
 紅出𩈣𩈣	ghon tshyuq he he	55
+紅出𩈣𩈣	ghon tshyuq hei- hei-	55
 𦫪色	o saq	55
 㽺東東	shiq ton ton	55
 㽺倲倲	shiq ton ton	55

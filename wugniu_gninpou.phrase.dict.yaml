@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.09.28"
+version: "2020.10.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -692,6 +692,9 @@ use_preset_vocabulary: true
 睏弗着	khuen vaq dzoq	418
 睏勿着	khuen vaq dzoq	55
 儘儘夠	cin cin keu	55
+蚶子口棉鞋	hei- tsy kheu mi gha
+漢郎頭	hei- laon deu
+羅漢	lou hei-
 
 # 其他詞彙
 
@@ -1170,6 +1173,7 @@ use_preset_vocabulary: true
 看看前頭
 嚇出活靈
 奶酣好	na he hau
+奶酣好	na hei- hau
 塊頭大	khuei deu dou
 塑子好	su tsy hau
 賣相難看
@@ -2491,7 +2495,8 @@ use_preset_vocabulary: true
 份成三股生	ven jin sae ku san
 腳骨𤖼開
 衣裳𤖼開
-好漢勿上兩
+好漢勿上兩	hau he vaq zaon lian
+好漢勿上兩	hau hei- vaq zaon lian
 上兩要𤖼鯗
 劙黃鱔
 玻璃劙腐𡀂
@@ -4004,6 +4009,7 @@ use_preset_vocabulary: true
 有眼弗識泰山	yeu ngae vaq shiq tha sae	1
 月裏奶花弗可𢱤	yuq li na hun vaq khou son	1
 好漢弗上兩	hau he vaq zaon lian	1
+好漢弗上兩	hau hei- vaq zaon lian	1
 弗是碰就是別	vaq zy ban jieu zy biq	1
 嫖賭弗論錢	biau tu vaq len ji	1
 弗鞔鼓中心	vaq mun ku tson shin	1
@@ -4702,7 +4708,9 @@ use_preset_vocabulary: true
 寧波一中	gnin poq iq tson
 一中
 諾丁漢大學	noq tin he da ghoq
-諾丁漢
+諾丁漢大學	noq tin hei- da ghoq
+諾丁漢	noq tin he
+諾丁漢	noq tin hei-
 羅蒙環球城
 潘火街道
 潘火人	phun hou gnin
@@ -8319,7 +8327,9 @@ use_preset_vocabulary: true
 勿利於	vaq li yu
 弗利於	vaq li yu	1
 勿到長城非好漢	vaq tau jian jin fi hau he
+勿到長城非好漢	vaq tau jian jin fi hau hei-
 弗到長城非好漢	vaq tau jian jin fi hau he	1
+弗到長城非好漢	vaq tau jian jin fi hau hei-	1
 勿動了	vaq don lei
 弗動了	vaq don lei	1
 勿區分大小寫	vaq chiu fen dou shiau shia
@@ -9973,7 +9983,9 @@ use_preset_vocabulary: true
 好死弗如歹活	hau shi vaq zyu te waq	1
 好死弗如賴活	hau shi vaq zyu la waq	1
 好漢勿喫眼前虧	hau he vaq chioq ngae zhi khuei
+好漢勿喫眼前虧	hau hei- vaq chioq ngae zhi khuei
 好漢弗喫眼前虧	hau he vaq chioq ngae zhi khuei	1
+好漢弗喫眼前虧	hau hei- vaq chioq ngae zhi khuei	1
 嫁撥你	ko paq ng
 嫁撥俉	ko paq ng
 嫁撥爾	ko paq ng
@@ -13138,11 +13150,16 @@ vcd	vi shi di
 宏潤花園
 宏興公寓
 宏遠路
-宗漢停車場
-宗漢環衛所
-宗漢菜市
-宗漢街道
+宗漢停車場	tson he din tsho jian
+宗漢停車場	tson hei- din tsho jian
+宗漢環衛所	tson he wae wei so
+宗漢環衛所	tson hei- wae wei so
+宗漢菜市	tson he tshe zy
+宗漢菜市	tson hei- tshe zy
+宗漢街道	tson he ka dau
+宗漢街道	tson hei- ka dau
 宗漢人	tson he gnin
+宗漢人	tson hei- gnin
 宗興停車場
 官倉港
 官園
@@ -13264,6 +13281,8 @@ vcd	vi shi di
 寧波腫瘤醫院	gnin pou tson lieu i yu
 寧波諾丁漢大學	gnin poq noq tin he da ghoq
 寧波諾丁漢大學	gnin pou noq tin he da ghoq
+寧波諾丁漢大學	gnin poq noq tin hei- da ghoq
+寧波諾丁漢大學	gnin pou noq tin hei- da ghoq
 寧波都市農業園區	gnin poq tu zy non gniq yu chiu
 寧波都市農業園區	gnin pou tu zy non gniq yu chiu
 寧波鄞州高教園區	gnin poq gnin cieu kau ciau yu chiu
@@ -13772,7 +13791,8 @@ vcd	vi shi di
 慈溪國土局
 慈溪大酒店	dzy chi da cieu ti
 慈溪天元
-慈溪宗漢
+慈溪宗漢	dzy chi tson he
+慈溪宗漢	dzy chi tson hei-
 慈溪客運東站
 慈溪客運西站
 慈溪實驗小學	dzy chi zyuq ne-gnie shiau ghoq
@@ -15187,8 +15207,10 @@ vcd	vi shi di
 演武
 演武公園
 漕港
-漢塘
-漢塘村
+漢塘	he daon
+漢塘	hei- daon
+漢塘村	he daon tshen
+漢塘村	hei- daon tshen
 漲浦景苑
 潘天壽中學	phun thi zhieu tson ghoq
 潘家	phun ko
@@ -15448,7 +15470,8 @@ vcd	vi shi di
 白羅橋
 白羅浦
 白衣巷
-白金漢爵
+白金漢爵	baq cin he ciaq
+白金漢爵	baq cin hei- ciaq
 白金灣小區
 白雲
 白雲二村	baq yun gni tshen
