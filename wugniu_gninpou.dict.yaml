@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.03"
+version: "2020.10.04"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -27408,7 +27408,6 @@ s	迡	gni
 抽腳筋	chieu ciaq cin	55
 秋收	chieu shieu
 秋分	chieu fen
-臭花娘子	shieu huo gnian tsy	55
 臭豆腐	chieu deu vu
 臭醬豆腐	chieu cian deu vu	55
 臭蟲	chieu dzon
