@@ -17,7 +17,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.02"
+version: "2020.10.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -422,6 +422,8 @@ use_preset_vocabulary: true
 咸到各采	ghei-ghe tau koq tshe	418
 咸到四采	ghei-ghe tau sy tshe	418
 塌地壤	thaq di gnian	55
+蜘蛛亂網	tsyu tsyu loe maon	55
+蜘蛛	tsyu tsyu
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -695,6 +697,8 @@ use_preset_vocabulary: true
 蚶子口棉鞋	hei- tsy kheu mi gha
 漢郎頭	hei- laon deu
 羅漢	lou hei-
+蜘蛛網	tsyu tsyu maon
+蜘蛛網絲	tsyu tsyu maon sy
 
 # 其他詞彙
 
@@ -8195,6 +8199,8 @@ use_preset_vocabulary: true
 和計		55
 和結		55
 木鬼	moq ciu
+幾千年庚
+老鼠窠	lau tsy khou
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian

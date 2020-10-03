@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.02"
+version: "2020.10.03"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -14795,7 +14795,6 @@ s	迡	gni
 只	ciq
 祇	ciq	0%
 知	ciq	0%
-蜘	ciq	0%
 楫	ciq
 檝	ciq
 郅	ciq
@@ -21786,10 +21785,8 @@ s	迡	gni
 米蟲	mi dzon
 穀蝴蝶	koq wu diaq	55
 結蛛	ciq tsyu	55
-蛛蛛	tsyu tsyu
 𧋥蛛	tsoq tsyu	55
 結蛛亂網	ciq tsyu loe maon	55
-蛛蛛亂網	tsyu tsyu loe maon	55
 𧋥蛛亂網	tsoq tsyu loe maon	55
 壁蟹	piq ha	55
 壁老虎	piq lau fu	55
@@ -25198,8 +25195,6 @@ s	迡	gni
 硃紅	tsyu ghon
 侏栗	tsyu liq	55
 珠花	tsyu huo	55
-蛛蛛網	tsyu tsyu maon	55
-蛛蛛網絲	tsyu tsyu maon sy	55
 主意	tsyu i
 主主意意	tsyu tsyu i i	55
 主人家	tsyu gnin ko
@@ -29476,7 +29471,7 @@ s	迡	gni
 辣醬油	laq cian yeu
 辣白菜	laq baq tshe	55
 辣辣茄	laq laq jie	55
-邋裏邋遢	laq li laq thaq	55
+邋裏邋遢	laq li laq thaq	445
 臘梅	laq mei
 臘腸	laq jian
 臘肉	laq gnioq
