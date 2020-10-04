@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.03"
+version: "2020.10.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
