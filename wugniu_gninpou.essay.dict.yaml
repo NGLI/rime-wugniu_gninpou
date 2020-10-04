@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.10.03"
+version: "2020.10.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -21396,6 +21396,7 @@ use_preset_vocabulary: true
 栗尾	liq vi
 栗爆	liq pau
 校勘學	ciau khae yuq
+校對	ciau tei
 校讎學	ciau jieu yuq
 校長	yau cian
 校長室	yau cian syuq
