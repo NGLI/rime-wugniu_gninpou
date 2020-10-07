@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.04"
+version: "2020.10.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -373,7 +373,7 @@ use_preset_vocabulary: true
 攔軋	laq gaq	55
 打攔軋	tan laq gaq	55
 尋軋攔門	zhin gaq laq men	55
-礌倒牌子	lei tau ba tsy	55
+𨀤倒牌子	lei tau ba tsy	55
 礌盤	lei bun	55
 礌木圓	lei moq yu	55
 𨀤倒	lei tau	55
@@ -1256,7 +1256,7 @@ use_preset_vocabulary: true
 正打正砌	cin tan cin chi
 正打正氣	cin tan cin chi
 心直口快	shin jiq kheu khua
-斷斷落甩	doe doe loq huaq
+斷斷落環	doe doe loq guae
 丫頭腳輕	o deu ciaq chin
 花頭百出	huo deu paq tshyuq
 腳進腳出	ciaq cin ciaq tshyuq
@@ -1286,7 +1286,6 @@ use_preset_vocabulary: true
 充乖的得	tshon kua tiq taq
 克節克理	khaq ciq khaq li
 惡形惡狀	oq yin oq dzaon
-𨀤倒牌子	lei tau ba tsy
 晦氣蓬鬆	huei chi bon son
 蹊蹺瓦爿	chi chiau ngo bae
 跳穀黃虻	thiau koq waon man
@@ -9366,6 +9365,13 @@ use_preset_vocabulary: true
 幾千年庚
 老鼠窠	lau tsy khou
 癢趣趣	yan tshyu tshyu
+大貨	dou hou
+老貨
+涴衲
+涴衲一樣
+屙衲
+屙衲一樣
+敲脆瓜
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
@@ -12575,8 +12581,8 @@ vcd	vi shi di
 七夫山
 七甲江
 七甲路
-七裏墊新村	chiq li ti shin tshen
-七裏廟
+七里墊新村	chiq li ti shin tshen
+七里廟
 丈亭交警隊	jian din ciau cin dei
 丈亭工商所
 丈亭站
@@ -12633,7 +12639,7 @@ vcd	vi shi di
 三聯河
 三菱化學	sae lin huo yuq
 三號橋市場
-三裏
+三里
 三迸橋村
 三靈電子
 三鳳村
@@ -13476,7 +13482,7 @@ vcd	vi shi di
 南雷公寓
 南雷南路
 南雷村
-南雷裏
+南雷里
 南頭門
 博威集團	poq uei jiq doe
 博宏工業區
@@ -13539,7 +13545,7 @@ vcd	vi shi di
 同三村
 同光小學	don kuaon shiau ghoq
 同光村
-同大裏
+同大里
 同山
 同德路
 同心橋
@@ -13696,7 +13702,7 @@ vcd	vi shi di
 啓明星辰
 啓明路
 啓航橋
-喬裏
+喬里
 單家	zoe ko
 嘉儀鋼板公司
 嘉利路
@@ -15455,7 +15461,7 @@ vcd	vi shi di
 東嚴
 東園新村
 東坑
-東坑裏水庫
+東坑里水庫
 東城名苑
 東城峯匯大廈	ton jin fon wei da gho
 東城峯匯大廈	ton jin fon wei da so
