@@ -98,7 +98,6 @@ use_preset_vocabulary: true
 半弗郎當	pun vaq laon taon	55
 半弗拉介	pun vaq la ka	55
 撩弗着	liau vaq zoq	55
-壓弗殺	aq vaq saq	55
 打弗煞	tan vaq saq	55
 老弗大	lau vaq dou	55
 噦氣弗轉	iuq chi vaq tsoe	55
@@ -400,7 +399,7 @@ use_preset_vocabulary: true
 過昶	kou chian	55
 過一昶	kou iq chian	55
 再昶	tse chian	55
-老搨蛋	lau thaaq dae	55
+老搨蛋	lau thaq dae	55
 咋個	dza kun	1500
 咋個	dza kou	578
 介個	ka kun	1000
@@ -425,6 +424,10 @@ use_preset_vocabulary: true
 塌地壤	thaq di gnian	55
 蜘蛛亂網	tsyu tsyu loe maon	55
 蜘蛛	tsyu tsyu
+腳膊絡頭	ciaq boq loq deu	55
+腳部絡頭	ciaq bu loq deu	55
+腳膊路頭	ciaq boq lu deu	55
+腳部路頭	ciaq bu lu deu	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -561,6 +564,7 @@ use_preset_vocabulary: true
 射屁蟲	dza phi dzon	55
 射尿撲	dza syu phoq	55
 射屙撲	dza ou phoq	55
+痢疾𠑞	li jiq dza	55
 𠑞屁蟲	dza phi dzon	55
 𠑞尿撲	dza syu phoq	55
 𠑞屙撲	dza ou phoq	55
@@ -653,11 +657,10 @@ use_preset_vocabulary: true
 疄頭頂	lin deu ten	55
 擱頂	koq ten	55
 屋頭頂	oq deu ten	55
+山頭頂	sae deu ten	55
 發奤	faq phoq	55
 拖帉布	thou fon pu	55
 拖帉柄	thou fon pin	55
-搲船	uo zoe	55
-搲龍船	uo lon zoe	55
 腳指末頭	ciaq ciaq maq deu
 腳指甲	ciaq ciaq khaq
 打箍	tan chieu	55
@@ -686,7 +689,7 @@ use_preset_vocabulary: true
 胸脘頭肉	shion kun deu gnioq	55
 肋胳肢下毛	laq kaq tsy gho mau	55
 湯壺子	thaon wu tsy	55
-湯盤子	thaon bun tsy	55
+湯婆子	thaon bun tsy	55
 湯婆子	thaon bou tsy	55
 湯水壺	thaon syu wu	55
 睏弗着	khuen vaq zoq	418
@@ -698,6 +701,10 @@ use_preset_vocabulary: true
 羅漢	lou hei-
 蜘蛛網	tsyu tsyu maon
 蜘蛛網絲	tsyu tsyu maon sy
+正鏾雞	cin shi ci
+嘴巴嘟起	tsyu po tu chi
+無千達萬	wu- chi daq vae
+無千達萬	vu chi daq vae
 
 # 活色生香寧波話
 
@@ -1443,7 +1450,6 @@ use_preset_vocabulary: true
 引引衝衝	yin yin tshon tshon
 敲敲篤篤	khau khau toq toq
 繞繞煞煞	gniau gniau saq saq
-尋軋迾門	zhin gaq laq men
 尋扳頭門	zhin pae deu men
 打纜頭扳	tan lae deu pae
 泥涴泥纏	gni ou gni ji
@@ -9372,6 +9378,26 @@ use_preset_vocabulary: true
 屙衲
 屙衲一樣
 敲脆瓜
+着港	jiaq kaon
+絮枕頭	shi cin deu
+絮枕頭心	shi cin deu shin
+稀稀朗朗	shi shi laon laon
+䞁房	i vaon
+差魚頭	tsha ng deu
+竈頭地康	tsau deu di khaon
+𠺢𠺢	ko ko
+卵𠺢𠺢	loe ko ko
+下卯	gho mau
+下兩卯	gho lian mau
+頭卯	deu mau
+頭卯子	deu mau tsy
+該卯	kiq mau
+蕩卯	daon mau
+爛唾水	lae do syu
+手膊絡頭	shieu boq loq deu	55
+手部絡頭	shieu bu loq deu	55
+手膊路頭	shieu boq lu deu	55
+手部路頭	shieu bu lu deu	55
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
