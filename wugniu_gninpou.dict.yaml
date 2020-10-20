@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.11"
+version: "2020.10.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5855,7 +5855,7 @@ s	迡	gni
 湊	tshe	0%
 凑	tshe	0%
 菜	tshe
-啐	tshe
+啐	tshe	1%
 嘬	tshe
 才	dze
 纔	dze
@@ -7609,6 +7609,7 @@ s	迡	gni
 湊	tshei	5%
 凑	tshei	5%
 焠	tshei
+啐	tshei
 韢	tshei
 𪙞	tshei	5%
 ⿱咋會	dzei

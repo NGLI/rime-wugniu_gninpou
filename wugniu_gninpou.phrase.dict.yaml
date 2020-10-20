@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.11"
+version: "2020.10.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3437,7 +3437,7 @@ use_preset_vocabulary: true
 喚狗
 喚雞
 嘔其一聲
-啐活靈
+啐活靈	tshe waq lin
 老人勿掏古	lau gnin vaq dau ku
 後生會失譜	gheu san wei syuq pu
 買只豬娘
@@ -8875,6 +8875,9 @@ use_preset_vocabulary: true
 糖水黃桃
 黃桃
 青塊
+蟹腳末頭
+大腳鉗	dou ciaq ji
+小腳鉗
 # 商業
 倉橋麪結店
 興寧橋烤雞
@@ -9368,6 +9371,8 @@ use_preset_vocabulary: true
 和計		55
 和結		55
 木鬼	moq ciu
+木木鬼	moq moq ciu
+小木鬼	shiau moq ciu
 幾千年庚
 老鼠窠	lau tsy khou
 癢趣趣	yan tshyu tshyu
@@ -9398,6 +9403,27 @@ use_preset_vocabulary: true
 手部絡頭	shieu bu loq deu	55
 手膊路頭	shieu boq lu deu	55
 手部路頭	shieu bu lu deu	55
+涴精寶	ou cin pau
+屙精寶	ou cin pau
+啊啐	gha tshei
+煞可憐		578
+勒可憐
+弄煞可憐
+做煞可憐
+講煞可憐
+聽煞可憐
+煩煞可憐
+謳煞可憐
+奔煞可憐
+𧮙煞可憐
+弄勒可憐
+做勒可憐
+講勒可憐
+聽勒可憐
+煩勒可憐
+謳勒可憐
+奔勒可憐
+𧮙勒可憐
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
@@ -15487,7 +15513,7 @@ vcd	vi shi di
 東嚴
 東園新村
 東坑
-東坑里水庫
+東坑裏水庫
 東城名苑
 東城峯匯大廈	ton jin fon wei da gho
 東城峯匯大廈	ton jin fon wei da so
