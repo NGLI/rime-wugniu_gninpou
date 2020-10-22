@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.10.21"
+version: "2020.10.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26722,11 +26722,7 @@ use_preset_vocabulary: true
 的人	tiq gnin
 的家	tiq cia
 的的確確	tiq tiq chiuq chiuq
-的確	tiq chiuq
-的確如此	tiq chiuq zyu tshy
-的確是	tiq chiuq zy
-的確會	tiq chiuq wei
-的確良	tiq chiuq lian
+的的確確	tiq tiq khoq khoq
 皆大歡喜	cie da hun shi
 皇冠假日酒店	waon kun cia zyuq cieu ti
 皇冠出版集團	waon kun tshyuq pae jiq doe
