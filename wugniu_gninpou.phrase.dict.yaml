@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.21"
+version: "2020.10.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8836,6 +8836,29 @@ use_preset_vocabulary: true
 兩件頭
 三件頭
 該件頭	kiq ji deu
+# X煞可憐
+煞可憐		578
+勒可憐
+弄煞可憐
+做煞可憐
+講煞可憐
+聽煞可憐
+煩煞可憐
+謳煞可憐
+奔煞可憐
+𧮙煞可憐
+忙煞可憐
+尋煞可憐
+弄勒可憐
+做勒可憐
+講勒可憐
+聽勒可憐
+煩勒可憐
+謳勒可憐
+奔勒可憐
+𧮙勒可憐
+忙勒可憐
+尋勒可憐
 # 食物
 倭豆鹹肉糯米飯
 糯米飯
@@ -9406,24 +9429,7 @@ use_preset_vocabulary: true
 涴精寶	ou cin pau
 屙精寶	ou cin pau
 啊啐	gha tshei
-煞可憐		578
-勒可憐
-弄煞可憐
-做煞可憐
-講煞可憐
-聽煞可憐
-煩煞可憐
-謳煞可憐
-奔煞可憐
-𧮙煞可憐
-弄勒可憐
-做勒可憐
-講勒可憐
-聽勒可憐
-煩勒可憐
-謳勒可憐
-奔勒可憐
-𧮙勒可憐
+咋記意思
 # 八股文拆分詞彙
 〇兩	lin lian
 一九九兩	iq cieu cieu lian
