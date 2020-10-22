@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.22"
+version: "2020.10.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -73,7 +73,6 @@ use_preset_vocabulary: true
 狼基涴樸	laon ci ou phoq	55
 涴蛋分	ou dae fen	418
 涴講	ou kaon	55
-揩涴屁眼	kae ou phi ngae	55
 涴賴	ou la	55
 涴塞煞	ou saq saq	418
 涴塞飽	ou saq pau	55
@@ -428,6 +427,7 @@ use_preset_vocabulary: true
 腳部絡頭	ciaq bu loq deu	55
 腳膊路頭	ciaq boq lu deu	55
 腳部路頭	ciaq bu lu deu	55
+扴涴屁眼	kae ou phi ngae	55
 
 # 江蘇教育版《寧波方言詞典》 其他寫法
 
@@ -2582,7 +2582,6 @@ use_preset_vocabulary: true
 菜心蘑菇
 花蓮菜炒年糕
 三月三
-地菜馬蘭揩屁眼
 苔條月餅	de diau yuq pin
 苔條燜花生米	de diau mhen huo sen mi
 碗頭蔥烤河鯽魚	un deu tshon khau ghou ci ng
@@ -5362,6 +5361,7 @@ use_preset_vocabulary: true
 咋個大	dza kun dou	55
 咋個長	dza kou jian
 咋個大	dza kou dou
+地菜馬蘭扴屁眼
 # 地名
 寧波市	gnin pou zy
 寧波市	gnin poq zy

@@ -22,7 +22,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.21"
+version: "2020.10.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -6508,6 +6508,7 @@ s	迡	gni
 襉	kae
 𧟉	kae
 橄	kae
+扴	kae	578
 諫	kae	5%
 鑒	kae	5%
 鍳	kae	5%
@@ -6515,7 +6516,6 @@ s	迡	gni
 椷	kae
 尷	kae
 尶	kae
-揩	kae	5%
 鉛	khae
 鈆	khae
 堪	khae
@@ -9098,7 +9098,7 @@ s	迡	gni
 僘	chian
 搶	chian
 鋹	chian
-昶	chian	578
+昶	chian	1000
 摤	chian
 羥	chian
 强	chian	5%
@@ -13283,7 +13283,6 @@ s	迡	gni
 鵊	kaq
 圿	kaq
 忦	kaq
-扴	kaq
 鞂	kaq
 鴶	kaq
 介	kaq	5%
