@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.10.31"
+version: "2020.11.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -6283,6 +6283,7 @@ s	迡	gni
 繵	dae
 嘾	dae
 疍	dae
+膻	dae
 蛋	dae
 憚	dae
 澶	dae
@@ -25574,6 +25575,7 @@ s	迡	gni
 空肚	khon du
 空口白話	khon kheu baq wo
 空殼	khon khoq
+空殼瓶	khon khoq bin
 空殼花生	khon khoq huo sen
 空殼狼刺	khon khoq laon tshy	55
 空殼棉襖	khon khoq mi au
@@ -26220,6 +26222,7 @@ s	迡	gni
 該對	kiq tei
 該等	kiq ten
 該趟	kiq thaon
+該𡍲	kiq thaq
 該𡍲地方	kiq thaq di faon
 該脫帶魚	kiq thaq ta ng
 該套	kiq thau
@@ -26244,6 +26247,7 @@ s	迡	gni
 該樁	kiq tsaon
 該樁事	kiq tsaon zy
 該樁事體	kiq tsaon zy thi
+該則	kiq tsaq	55
 該隻	kiq tsaq	100000
 該隻機會	kiq tsaq ci wei
 該隻城市	kiq tsaq jin zy
@@ -32500,6 +32504,7 @@ s	迡	gni
 燉蛋湯	ten dae thaon	55
 蹲地炮	ten di phau
 燉茶	ten dzo	55
+燉茶壺	ten dzo wu	55
 凳櫥	ten dzyu	55
 敦枋	ten faon	55
 頓枋	ten faon	55
@@ -35754,6 +35759,7 @@ s	迡	gni
 延晏	yi ae
 鹽甏	yi ban	55
 鹽白菜	yi baq tshe	55
+鹽肥皂	yi bi zau
 姨婆	yi bou
 延藤	yi den	55
 檐頭水	yi deu syu	55
@@ -36237,6 +36243,7 @@ s	迡	gni
 愁愁拖	zeu zeu thou
 齊氣	zhi chi	55
 前昶	zhi chian	418
+齊巧	zhi chiau	55
 前幾年	zhi ci gni
 前腳後頭	zhi ciaq gheu deu	55
 前腳後跟	zhi ciaq gheu ken	55
