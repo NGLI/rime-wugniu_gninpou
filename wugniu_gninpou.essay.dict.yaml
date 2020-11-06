@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.11.05"
+version: "2020.11.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -12929,6 +12929,7 @@ use_preset_vocabulary: true
 學政	ghoq cin
 學文	ghoq ven
 學時	yuq zy
+學會	ghoq wei
 學會	yuq wei
 學會院士	yuq wei yu zy
 學有專長	yuq yeu tsoe jian
