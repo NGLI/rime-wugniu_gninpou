@@ -20725,7 +20725,7 @@ s	迡	gni
 浸煞	cin saq	55
 精瘦颳得	cin seu kuaq taq	55
 京戲	cin shi
-正鏾雞	cin shi ci
+真鏾雞	cin shi ci
 正向	cin shian
 正式	cin shiq	40000
 進舍	cin so
@@ -20789,6 +20789,7 @@ s	迡	gni
 只認衣衫弗認人	ciq gnin i sae vaq gnin gnin	1
 節日頭間	ciq gniq deu kae	55
 結𥀬	ciq i	55
+摺衣裳	ciq i zaon
 摺襉	ciq kae	55
 結嗝	ciq kaq	55
 結夾	ciq kaq	55
@@ -22019,6 +22020,7 @@ s	迡	gni
 咋話	dza wo	578
 射藥	dza yaq
 撒藥	dza yaq
+𠑞藥	dza yaq	1
 賺進	dzae cin	55
 蹔𧉆	dzae ciq	55
 站頭	dzae deu	418
@@ -22415,6 +22417,7 @@ s	迡	gni
 發奤	faq phoq	55
 發醭	faq phoq	55
 發䨣泥螺	faq phoq gni lou	55
+發奤泥螺	faq phoq gni lou	55
 發奤浮屍	faq phoq vei sy
 發奤浮屍	faq phoq veu sy
 弗燥弗溼	faq sau faq shiq	55
@@ -23460,7 +23463,7 @@ s	迡	gni
 肉圓	gnioq yu
 玉石	gnioq zaq
 熱勃勃	gniq baq baq	55
-熱炦幾糟	gniq baq ci tsau
+熱勃幾糟	gniq baq ci tsau
 熱氣肉	gniq chi gnioq	55
 日長夜大	gniq cian ya dou	55
 日腳	gniq ciaq	578
@@ -26380,7 +26383,7 @@ s	迡	gni
 嫁男人	ko nei-nae gnin	55
 嫁囡	ko noe	55
 家生	ko san	578
-假騸雞	ko shi ci
+假鏾雞	ko shi ci
 假戲頭	ko shi deu	55
 家小	ko shiau
 傢俬	ko sy
@@ -28147,7 +28150,6 @@ s	迡	gni
 美人肩	mei zyun ci	55
 美人蕉	mei zyun ciau
 門牌號頭	men ba ghau deu	55
-悶勃勃	men baq baq	55
 門栿	men boq	55
 問籤詩	men chi sy	55
 門槍	men chian	55
@@ -28326,7 +28328,7 @@ s	迡	gni
 莫煩	mhau vae
 莫煩吶	mhau vae naq
 妹妹	mhei mhei
-悶炦炦	mhen baq baq	55
+悶勃勃	mhen baq baq	55
 悶氣特塞	mhen chi daq saq	55
 悶氣烔烔	mhen chi don don
 悶地躬	mhen di kon
@@ -30982,7 +30984,6 @@ s	迡	gni
 細巧	shi chiau
 癬喫癩頭	shi chioq la deu
 鏾雞	shi ci	55
-騸雞	shi ci	55
 線腳	shi ciaq	55
 箲帚	shi cieu	55
 絮枕頭	shi cin deu
