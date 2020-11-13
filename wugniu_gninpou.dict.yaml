@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.11.08"
+version: "2020.11.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -21159,6 +21159,8 @@ s	迡	gni
 玳玳花	de de huo	55
 擡頭	de deu
 苔條	de diau	55
+苔條千層餅	de diau chi zen pin
+苔條花生	de diau huo sen
 苔條燜花生米	de diau mhen huo sen mi
 苔條餅	de diau pin	55
 苔條拖黃魚	de diau thou waon ng	55
@@ -21265,6 +21267,7 @@ s	迡	gni
 頭髮	deu faq
 頭髮兌針	deu faq dei cin
 頭髮甩散	deu faq huaq sae	55
+頭髮絲	deu faq sy
 頭髮禿頂	deu faq thaq tin
 頭後日	deu gheu gniq	55
 投人身	deu gnin shin	55
