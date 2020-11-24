@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.11.13"
+version: "2020.11.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -27298,6 +27298,7 @@ s	迡	gni
 拎弗清	lhin vaq chin	1
 摝鼓	lhoq ku	55
 摝摝動	lhoq lhoq don	55
+摝摝寶	lhoq lhoq pau
 囉裏百唆	lhou li paq sou	55
 囉裏百嗦	lhou li paq sou
 囉唆	lhou sou
@@ -27454,7 +27455,9 @@ s	迡	gni
 兩老頭	lian lau dei
 兩老頭	lian lau deu	55
 兩連襟	lian li cin	55
+亮亮	lian lian
 量量看	lian lian khe
+亮亮燈	lian lian ten
 涼柳	lian lieu	55
 涼柳樹	lian lieu zyu	55
 涼帽篷	lian mau bon	55
@@ -34652,7 +34655,7 @@ s	迡	gni
 烏賊韌	u zaq gnin	55
 烏賊骨	u zaq kuaq
 烏賊骨頭	u zaq kuaq deu
-烏賊卵黃	u zaq loe waon	55
+烏賊卵黃	u zaq loe uaon	55
 烏賊卵丸	u zaq loe wun	55
 烏賊鯗	u zaq shian	55
 烏賊混子	u zaq wen tsy	55
