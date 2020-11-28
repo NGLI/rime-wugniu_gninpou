@@ -21263,7 +21263,6 @@ s	迡	gni
 但明	dae min
 彈墨線	dae moq shi
 彈眼睩睛	dae ngae loq cin	55
-彈眼落睛	dae ngae loq cin
 彈硬	dae ngan	55
 檀硬	dae ngan	55
 淡包	dae pau	55
@@ -21748,10 +21747,8 @@ s	迡	gni
 第二天亮	di gni thiq gnian	55
 地壤	di gnian	578
 地壤下頭	di gnian gho deu	55
-地樣下頭	di gnian gho deu	55
 地壤下底	di gnian gho ti	55
 地壤裏	di gnian li	55
-地壤裏	di gnian li
 電熱餅	di gniq pin
 田要買做畈	di iau ma tsou pae
 田要種其骨敦	di iau tson ji kuaq ten
@@ -21822,9 +21819,8 @@ s	迡	gni
 地袱蹵勩	di voq tshoq yi
 田橫頭	di wan deu	55
 地垟	di yan	578
-地樣下底	di yan gho ti	55
-地垟裏	di yan li
-地樣裏	di yan li	55
+地垟下底	di yan gho ti	55
+地垟裏	di yan li	55
 田塍	di yin	55
 地園	di yu	55
 地牀	di zaon	55
@@ -22325,11 +22321,8 @@ s	迡	gni
 咋個長	dza kou jian
 咋光景	dza kuaon cin	578
 咋個	dza kun	1500
-咋管	dza kun	55
 咋個大	dza kun dou	55
-咋管大	dza kun dou
 咋個長	dza kun jian	55
-咋管長	dza kun jian
 射爛薄屙	dza lae boq ou
 射爛薄涴	dza lae boq ou	55
 撒爛薄屙	dza lae boq ou
@@ -22641,7 +22634,6 @@ s	迡	gni
 治漏	dzyu leu	55
 廚頓	dzyu ten	55
 滯膯	dzyu ten	55
-縋膯	dzyu ten	55
 滯底	dzyu ti	55
 柱底石	dzyu ti zaq	55
 除出	dzyu tshyuq	55
@@ -23332,7 +23324,6 @@ s	迡	gni
 咸到各態	ghei-ghe tau koq the
 咸到各退	ghei-ghe tau koq thei
 咸到各采	ghei-ghe tau koq tshe	418
-咸到各處	ghei-ghe tau koq tshyu
 咸到各處	ghei-ghe tau koq tshyu	418
 咸到四態	ghei-ghe tau sy the
 咸到四退	ghei-ghe tau sy thei
@@ -24461,7 +24452,6 @@ s	迡	gni
 火車通蘇杭	hou tsho thon su ghaon
 火叉	hou tshoe	55
 火熜	hou tshon	55
-火銃	hou tshon	55
 火種彭生	hou tshon ban san	55
 火熜蓋頭	hou tshon ke deu
 火赤練	hou tshoq li	55
@@ -25701,7 +25691,6 @@ s	迡	gni
 介看既看	ka khi-khe ci khi-khe	55
 介個	ka kou	418
 介個	ka kun	1000
-介管	ka kun	55
 解纜	ka lae
 介勒	ka laq	55
 介癆槽	ka lau zau
@@ -26107,7 +26096,6 @@ s	迡	gni
 鉸鏈	kau li
 高包	kau pau	55
 珓杯	kau pei	55
-珓背	kau pei	55
 絞山	kau sae
 膠碎搗臼	kau sei tau jieu
 高靴套鞋	kau shiu thau gha	55
@@ -28187,8 +28175,7 @@ s	迡	gni
 老相	lau shian
 老相好	lau shian hau	55
 老相扮出	lau shian pae tshyuq	55
-老小無欺	lau shiau vu chi	55
-老少無欺	lau shiau vu chi
+老少無欺	lau shiau vu chi	55
 老少無欺	lau shiau wu- chi	55
 老手	lau shieu
 老手勢	lau shieu syu
@@ -28346,28 +28333,18 @@ s	迡	gni
 誏話	lhaon wo	418
 撈把揀揀	lhau po kae kae	55
 撈錫箔灰	lhau shiq boq huei
-鏤洞眼	lheu don ngae
 𠞭洞眼	lheu don ngae
-鏤番薯	lheu fae zyu
 𠞭番薯	lheu fae zyu
-鏤耳朵	lheu gni to	55
 𠞭耳朵	lheu gni to	55
-鏤耳朵屙	lheu gni to ou
-鏤耳朵涴	lheu gni to ou
 𠞭耳朵屙	lheu gni to ou
 𠞭耳朵涴	lheu gni to ou	1
 鏤空皮鞋	lheu khon bi gha	55
 𠞭𠞭挖挖	lheu lheu uaq uaq	55
-鏤耳朵	lheu ng to	55
 𠞭耳朵	lheu ng to	55
-鏤耳朵屙	lheu ng to ou
-鏤耳朵涴	lheu ng to ou
 𠞭耳朵屙	lheu ng to ou
 𠞭耳朵涴	lheu ng to ou	1
 𠞭眼	lheu ngae	55
-鏤膿刮髓	lheu non kuaq shi	55
 𠞭膿刮髓	lheu non kuaq shi	55
-鏤種	lheu tson
 𠞭種	lheu tson
 𠞭形刮髓	lheu yin kuaq shi	55
 謰謰謱謱	lhi lhi lho lho	55
@@ -31223,7 +31200,6 @@ s	迡	gni
 涴衲	ou naq
 屙衲一樣	ou naq iq yan
 涴衲一樣	ou naq iq yan	55
-涴衲一樣	ou naq iq yan
 屙𤿏屁鬆	ou nei phi son
 涴𤿏屁鬆	ou nei phi son	55
 𤉦暖	ou noe	55
@@ -32969,7 +32945,6 @@ s	迡	gni
 手腳慢泛	shieu ciaq mae fae
 手腳做忌	shieu ciaq tsou ji
 手巾	shieu cin
-手巾布	shieu cin pu
 手巾布	shieu cin pu	55
 收據	shieu ciu
 收稻	shieu dau	55
@@ -39006,7 +38981,6 @@ s	迡	gni
 席席𧼰𧼰	zhiq zhiq zaq zaq
 惹彈梅	zo dae mei	55
 惹厭	zo i	55
-惹嫌	zo i	55
 惹厭頭	zo i deu
 惹厭貓	zo i mae	55
 惹得得	zo taq taq	55
