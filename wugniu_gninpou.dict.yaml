@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.11.30"
+version: "2020.12.02"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -39066,7 +39066,8 @@ s	迡	gni
 是介話	zy ka wo	55
 自講自話	zy kaon zy wo
 時格	zy kaq	50000
-事幹	zy ki-ke	5000
+事幹	zy khi-khe	5000
+事幹	zy ki-ke	3000
 自來火	zy le hou	418
 自來水筆	zy le syu piq
 士林藍	zy lin lae	55
