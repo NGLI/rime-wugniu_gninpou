@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.02"
+version: "2020.12.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8381,6 +8381,7 @@ s	迡	gni
 蝸	kou
 楇	kou
 瘑	kou
+渦	kou	1%
 柯	kou	1%
 過	kou
 果	kou
@@ -17418,6 +17419,7 @@ s	迡	gni
 埚	kou
 蜗	kou
 𣒌	kou
+涡	kou
 过	kou
 锞	kou
 馃	kou
