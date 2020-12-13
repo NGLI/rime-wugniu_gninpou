@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.11"
+version: "2020.12.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -26317,6 +26317,7 @@ s	迡	gni
 開豁	khe huaq
 開葷	khe huen
 開場	khe jian
+開着	khe jiaq
 開庎櫥門	khe ka dzyu men	55
 開交	khe kau
 開口	khe kheu
