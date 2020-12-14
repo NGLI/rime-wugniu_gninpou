@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.13"
+version: "2020.12.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -4142,7 +4142,7 @@ s	迡	gni
 呿	chia
 笡	chia
 趄	chia	0%
-且	chia
+且	chia	5%
 𢲶	chia
 髂	chia
 伽	jia
@@ -6021,7 +6021,7 @@ s	迡	gni
 誡	cie
 烗	cie
 丯	cie
-且	chie	5%
+且	chie
 趄	chie
 茄	jie
 諧	ye
