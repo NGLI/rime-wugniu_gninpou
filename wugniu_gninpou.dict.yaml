@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.15"
+version: "2020.12.20"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -11477,6 +11477,7 @@ s	迡	gni
 葚	zhin
 夝	zhin
 枔	zhin
+贏	zhin	1%
 甚	zhin
 凈	zhin
 淨	zhin
@@ -18073,6 +18074,7 @@ s	迡	gni
 荨	zhin
 鲟	zhin
 𫊻	zhin
+赢	zhin
 净	zhin
 静	zhin
 饪	zhin
@@ -23525,6 +23527,7 @@ s	迡	gni
 下種	gho tson
 下作	gho tsoq
 下作貨	gho tsoq hou	55
+下作坯	gho tsoq phei
 下作坯子	gho tsoq phei tsy	55
 夏至	gho tsy
 下飯	gho vae	55
@@ -27585,6 +27588,7 @@ s	迡	gni
 裹餛飩	kou wen den	55
 過戶	kou wu
 過夜	kou ya
+過油飽	kou yeu pau
 過雲雨	kou yun yu
 過晌	kou zaon
 過謝	kou zhia
