@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.20"
+version: "2020.12.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -440,7 +440,7 @@ import_tables:
 邾	tsyu
 茱	tsyu
 洙	tsyu
-玍	tsyu
+玍	tsyu	0%
 知	tsyu
 蜘	tsyu
 智	tsyu
@@ -12057,6 +12057,7 @@ s	迡	gni
 獴	mon
 瞢	mon
 懵	mon
+明	mon	0%
 曚	mon
 夢	mon
 鄸	mon
@@ -14093,6 +14094,7 @@ s	迡	gni
 諑	tsoq
 椓	tsoq
 卓	tsoq
+䓬	tsoq
 倬	tsoq
 踔	tsoq
 桌	tsoq
@@ -22815,6 +22817,7 @@ s	迡	gni
 番薯癟	fae zyu piq	55
 番薯屑	fae zyu shiq	55
 番薯錫	fae zyu shiq	55
+番薯湯果	fae zyu thaon kou
 番薯糊剌	fae zyu wu la	55
 番薯糊辣	fae zyu wu laq	55
 方矮凳	faon a ten	55
@@ -28886,6 +28889,7 @@ s	迡	gni
 弄賺	lon dzae
 弄仿	lon faon	55
 弄發弄發	lon faq lon faq	55
+弄下飯	lon gho vae
 龍蝦	lon huo
 礱糠	lon khaon
 籠褲	lon khu	55
@@ -29053,8 +29057,10 @@ s	迡	gni
 落雨淋勿着	loq yu lin vaq zoq
 落雨淋弗着	loq yu lin vaq zoq	1
 落雨落雪	loq yu loq syuq
+落雨明朝	loq yu men ciau
 落雨明朝	loq yu mi ciau
 落雨明朝	loq yu min ciau
+落雨明朝	loq yu mon ciau
 落雨天家	loq yu thi ko	578
 落月	loq yuq
 六月日頭	loq yuq gniq deu
@@ -29158,6 +29164,7 @@ s	迡	gni
 買田買水路	ma di ma syu lu
 馬桶箱	ma don shian	55
 買着買	ma dzoq ma	55
+買下飯	ma gho vae
 買海蜒放生	ma he yi faon san
 埋怨	ma iu
 賣爛泥膏藥	ma lae gni kau yaq
@@ -30280,6 +30287,16 @@ s	迡	gni
 麻舌頭	mo zhiq deu	55
 𩞁餈	mo zy	55
 𩞁餈	mo zyu	55
+明朝	mon ciau	55
+明朝晝過	mon ciau cieu kou
+明朝下半日	mon ciau gho pun gniq
+明朝日裏	mon ciau gniq li
+明朝天亮	mon ciau thi gnian
+明朝天亮	mon ciau thiq gnian
+明朝子	mon ciau tsy	55
+明朝夜裏	mon ciau ya li
+明朝夜到	mon ciau ya tau
+明朝上半日	mon ciau zaon pun gniq
 懵懂	mon ton
 懵懂先生	mon ton shi san
 木器店	moq chi ti
@@ -36754,6 +36771,7 @@ s	迡	gni
 紙行	tsy ghaon
 之後	tsy gheu
 煮下飯	tsy gho vae	55
+煮下飯	tsy gho vae
 子女	tsy gniu
 子蟹	tsy ha	55
 子蝦	tsy huo	55
@@ -36853,7 +36871,7 @@ s	迡	gni
 嘴巴嘟起	tsyu po tu chi	55
 嘴巴環	tsyu po wae
 侏掃帚	tsyu sau cieu	55
-玍掃帚	tsyu sau cieu	55
+玍掃帚	tsyu sau cieu
 豬心	tsyu shin
 豬血	tsyu shiuq
 豬舍	tsyu so
