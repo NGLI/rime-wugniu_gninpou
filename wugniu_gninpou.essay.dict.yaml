@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2020.12.13"
+version: "2020.12.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -571,7 +571,6 @@ use_preset_vocabulary: true
 下斷	gho doe
 下斷語	gho toe gniu
 下朝	gho jiau
-下本	gho pen
 下板兒	gho pae er
 下架	gho ko
 下流人士	gho lieu zyun zy
@@ -5446,7 +5445,7 @@ use_preset_vocabulary: true
 出生證	tshyuq san cin
 出生證明	tshyuq san cin min
 出生證明書	tshyuq san cin min syu
-出產	tshyuq tshae	903
+出產	tshyuq tshae
 出發日	tshyuq faq gniq
 出的	tshyuq tiq
 出租人	tshyuq tsu gnin
@@ -6852,7 +6851,6 @@ use_preset_vocabulary: true
 勾肩搭背	keu ci taq pei
 勾魂攝魄	keu wen shiq phaq
 勾魂蕩魄	keu wen daon phaq
-勿出產	vaq tshyuq tshae
 勿忘	vaq vaon
 勿忘國恥	vaq vaon koq tshyu
 勿忘我	vaq vaon ngo
@@ -12115,7 +12113,6 @@ use_preset_vocabulary: true
 天乾物燥	thi ki-ke vaq sau
 天亮	thi lian
 天亮了	thi lian lei
-天亮𡀂	thi lian lei
 天人	thi zyun
 天人之分	thi zyun tsy fen
 天人之際	thi zyun tsy ci
@@ -15317,7 +15314,6 @@ use_preset_vocabulary: true
 引自	yin zy
 引進人才	yin cin zyun dze
 引風吹火	yin fon tshyu hou
-弗出產	vaq tshyuq tshae	1
 弗吉尼亞	faq ciq gni ia
 弗吉尼亞州	faq ciq gni ia cieu
 弗塞奇	faq se ji
@@ -16637,7 +16633,6 @@ use_preset_vocabulary: true
 才秀人微	dze shieu zyun vi
 才華蓋世	dze wo ke syu
 才行	dze yin
-才被	dze bei
 才貫二酉	dze kun er yeu
 才高行厚	dze kau ghan gheu
 才高行潔	dze kau ghan ciq
@@ -21487,12 +21482,6 @@ use_preset_vocabulary: true
 查覺	dzo ciuq
 查覺到	dzo ciuq tau
 柬埔寨人民黨	ci phu za zyun min taon
-柯橋	khou jiau
-柯橋	kou jiau
-柯橋人	khou jiau gnin
-柯橋人	kou jiau gnin
-柯橋區	khou jiau chiu
-柯橋區	kou jiau chiu
 柯爾克孜	khou er khaq tsy
 柯爾克孜族	khou er khaq tsy dzoq
 柯爾克孜語	khou er khaq tsy gniu
@@ -29205,6 +29194,7 @@ use_preset_vocabulary: true
 纔沒有	dze maq yeu
 纔沒能	dze mhaq nen
 纔派人	dze pha gnin
+纔被	dze bei
 纖人	shi gnin
 纖兒	shi er
 纖維光學	shi vi kuaon yuq
@@ -29311,7 +29301,6 @@ use_preset_vocabulary: true
 羈泊	ci boq
 羊兒風	yan er fon
 羊毛狀	yan mau dzaon
-羊肚	yan tu
 羊肚蕈	yan tu jin
 美人兒	mei gnin er
 美人燈兒	mei gnin ten er
@@ -35307,7 +35296,6 @@ use_preset_vocabulary: true
 送信人	son shin gnin
 送報人	son pau gnin
 送報生	son pau san
-送產	son tshae
 送禮大方	son li da faon
 送行	son yin
 送行人	son yin gnin
@@ -38153,7 +38141,7 @@ use_preset_vocabulary: true
 阿芙樂爾號	a vu loq er ghau
 阿芙羅狄忒	a vu lou diq thaq
 阿芙蓉	a vu yon
-阿芝特剋人	a tsy daq khaq gnin
+阿芝特克人	a tsy daq khaq gnin
 阿花	aq huo
 阿茲海默	a tsy he maq
 阿茲海默氏症	a tsy he maq zy cin
