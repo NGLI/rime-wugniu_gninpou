@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.26"
+version: "2020.12.27"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8922,7 +8922,7 @@ s	迡	gni
 虻	man	0%
 蝱	man	0%
 孟	man
-厖	man	1%
+櫻	man	0%
 𩜠	mhan
 𩛎	mhan
 飯	mhan	0%
@@ -17535,6 +17535,7 @@ s	迡	gni
 𨸂	pan
 鹏	ban
 锰	man
+樱	man
 带	tan
 铴	than
 争	tsan
@@ -21021,8 +21022,8 @@ s	迡	gni
 蒸籠	cin lon
 蒸籠頭	cin lon deu	55
 蒸籠格	cin lon kaq	55
-金厖	cin man	55
-金孟	cin man	55
+金孟	cin man
+金櫻	cin man	55
 精明	cin min
 證明人	cin min gnin
 金魚	cin ng
@@ -30627,6 +30628,7 @@ s	迡	gni
 能使	nen sy	578
 能使買蒲薺	nen sy ma bu ji
 能使買金孟	nen sy ma cin man
+能使買金櫻	nen sy ma cin man	1
 能使買甘蔗	nen sy ma ki-ke tso
 能使買廣橘	nen sy ma kuaon ciuq
 能使買梨頭	nen sy ma li deu
@@ -30749,6 +30751,7 @@ s	迡	gni
 五月端午晴	ng yuq ton ng zhin
 五月煮蒲羹	ng yuq tsy bu kan
 五月石榴結金孟	ng yuq zaq lieu ciq cin man
+五月石榴結金櫻	ng yuq zaq lieu ciq cin man	1
 五事	ng zy	55
 五十	ng zyuq
 五十一	ng zyuq iq
