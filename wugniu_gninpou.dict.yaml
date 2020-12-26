@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2020.12.23"
+version: "2020.12.26"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -34567,6 +34567,7 @@ s	迡	gni
 褪殼	then khoq	55
 褪褲阿大	then khu aq dou	55
 褪褲阿舅	then khu aq jieu
+褪落	then loq
 偷爬	theu bo
 偷伴	theu bun	55
 偷盤	theu bun	55
@@ -36771,7 +36772,6 @@ s	迡	gni
 紙行	tsy ghaon
 之後	tsy gheu
 煮下飯	tsy gho vae	55
-煮下飯	tsy gho vae
 子女	tsy gniu
 子蟹	tsy ha	55
 子蝦	tsy huo	55
