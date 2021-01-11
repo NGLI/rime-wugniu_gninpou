@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.01.05"
+version: "2021.01.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -10096,7 +10096,7 @@ s	迡	gni
 緩	wun
 嵈	wun
 鰀	wun
-援	wun	5%
+援	wun	10%
 換	wun
 逭	wun
 漶	wun
@@ -25202,7 +25202,9 @@ s	迡	gni
 一世嘸計較	iq shi mh ci kau
 一世難熬	iq shi nae ngau
 一世湊隊嘸後還	iq shi tshei dei mh gheu wae
+一世湊頭嘸後還	iq shi tshei deu mh gheu wae
 一世湊隊嘸後還	iq shi tsheu dei mh gheu wae
+一世湊頭嘸後還	iq shi tsheu deu mh gheu wae
 一世爲人	iq shi wei gnin	55
 一手一腳	iq shieu iq ciaq	55
 抑手抑腳	iq shieu iq ciaq
@@ -35866,6 +35868,7 @@ s	迡	gni
 菜油	tshe yeu
 菜葉爿	tshe yiq bae	55
 湊隊	tshei dei	55
+湊隊夥	tshei dei hou
 湊隊家	tshei dei ko
 湊頭	tshei deu	55
 𢶀頭毛子	tshei deu mau tsy
@@ -36052,7 +36055,6 @@ s	迡	gni
 忖坐勒	tshen zou laq
 湊巧	tsheu chiau
 湊隊	tsheu dei	55
-湊頭	tsheu dei	55
 湊隊夥	tsheu dei hou
 湊隊家	tsheu dei ko	55
 湊頭	tsheu deu	55
@@ -37153,8 +37155,7 @@ s	迡	gni
 飯窠	vae khou	55
 飯窠籮	vae khou lou
 飯黏	vae kni	55
-飯黏碎	vae kni sei	55
-飯黏糝	vae kni sei
+飯黏糝	vae kni sei	55
 煩過去	vae kou chi
 犯關	vae kuae	578
 飯瓜	vae kuo	55
@@ -39216,7 +39217,6 @@ s	迡	gni
 時時道道	zy zy dau dau
 豎蜻蜓	zyu chin din
 聚隊	zyu dei	578
-聚頭	zyu dei
 聚頭	zyu deu
 鋤頭	zyu deu
 鋤頭褪缺	zyu deu then chiuq
