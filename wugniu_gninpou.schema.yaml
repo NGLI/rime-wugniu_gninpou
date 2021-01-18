@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gninpou
   name: 吳語（寧波）
-  version: "0.6.0"
+  version: "0.6.1"
   author:
     - Electric Sheep <shinzoqchiuq@outlook.com>
   description: |
@@ -182,7 +182,7 @@ stroke:
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase # 用戶詞典名
-  db_class: stabledb       # 詞典類型爲文本格式
+  db_class: stabledb       # 詞典類型爲只讀格式
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
