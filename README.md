@@ -31,6 +31,7 @@
 - [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音)
 - [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示)
 - [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查)
+- [自定義短語](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语)
 
 ## 資源
 
