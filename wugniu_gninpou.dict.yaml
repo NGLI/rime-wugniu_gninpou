@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.01.12"
+version: "2021.01.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -28207,8 +28207,7 @@ s	迡	gni
 老菱	lau lin	55
 老門檻	lau men khae	55
 老麻將	lau mo cian	55
-老木朧懂	lau moq lon ton	55
-老木龍東	lau moq lon ton	55
+老木儱倲	lau moq lon ton	55
 老木躘踵	lau moq lon tshon	55
 老呆大	lau nge dou
 老鴉	lau o
@@ -30942,8 +30941,8 @@ s	迡	gni
 呆古古	nge ku ku	55
 呆臉呆得	nge li nge taq	55
 呆裏呆得	nge li nge taq
-呆剝龍東	nge poq lon ton	55
-呆剝𢙱倲	nge poq lon ton	55
+呆不愣敦	nge paq len ten	55
+呆剝儱倲	nge poq lon ton	55
 呆剝剝	nge poq poq	55
 呆性性	nge shin shin	55
 呆頓頓	nge ten ten	55
@@ -33239,7 +33238,6 @@ s	迡	gni
 溼溚溚	shiq taq taq
 吸鐵石	shiq thiq zaq
 㽺倲倲	shiq ton ton	55
-㽺東東	shiq ton ton	55
 溼扎扎	shiq tsaq tsaq	55
 溼漬漬	shiq tsaq tsaq	55
 歇作	shiq tsoq	55
