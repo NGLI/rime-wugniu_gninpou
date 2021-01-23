@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.01.22"
+version: "2021.01.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -12037,6 +12037,7 @@ s	迡	gni
 韸	bon
 芃	bon
 鬅	bon
+嘣	bon
 㷯	bon
 埲	bon
 蒙	mon
@@ -12165,7 +12166,8 @@ s	迡	gni
 𩍅	don
 獞	don
 佟	don
-咚	don	0%
+鼕	don
+咚	don
 彤	don
 哃	don
 犝	don
@@ -13830,6 +13832,7 @@ s	迡	gni
 𩍩	boq
 穙	boq
 瞨	boq
+噗	boq
 亳	boq
 僰	boq
 伏	boq	10%
@@ -19526,20 +19529,24 @@ s	迡	gni
 蓬頭獅	bon deu sy	55
 蓬頭獅子	bon deu sy tsy
 蓬頭活鬼	bon deu waq ciu	55
+嘣咚	bon don
 蓬蒿菜	bon hau tshe	55
 塳灰	bon huei	55
 塳塵	bon jin	55
+嘣介	bon ka
 蓬草	bon tshau
 蓬柴	bon za
 薄薄個	boq boq kou	55
-卜咚	boq don
-卜咚一跌𢲔	boq don iq tiq pae
+噗咚	boq don
+噗咚一跌𢲔	boq don iq tiq pae
 薄衣裳	boq i zaon
 薄舀舀	boq iau iau
 薄褲	boq khu
 伏勒睏	boq laq khuen	55
 匐勒睏	boq laq khuen
+噗隆咚	boq lon don
 薄落頭	boq loq deu
+噗碌獨	boq loq doq
 薄落柱	boq loq dzyu
 伏倒	boq tau
 匐倒	boq tau
@@ -20546,7 +20553,7 @@ s	迡	gni
 腳盆	ciaq ben
 腳蹁蹁	ciaq bi bi
 腳膊絡頭	ciaq boq loq deu	55
-腳卜絡頭蹩出	ciaq boq loq deu biq tshyuq
+腳膊絡頭蹩出	ciaq boq loq deu biq tshyuq
 腳膊路頭	ciaq boq lu deu	55
 腳部絡頭	ciaq bu loq deu	55
 腳部路頭	ciaq bu lu deu	55
@@ -21993,6 +22000,7 @@ s	迡	gni
 同業公會	don gniq kon wei
 動伙	don hou	418
 動火	don hou
+咚介	don ka
 同庚	don kan
 同庚年紀	don kan gni ci	55
 瞳孔	don khon
@@ -22677,7 +22685,7 @@ s	迡	gni
 庵堂	ei-e daon
 暗頭	ei-e deu	418
 暗頭裏	ei-e deu li	418
-暗笛卜朧	ei-e diq boq lon	55
+暗笛薄朧	ei-e diq boq lon	55
 暗笛薄龍	ei-e diq boq lon	55
 暗洞洞	ei-e don don	55
 安安耽耽	ei-e ei-e tae tae	55
@@ -22688,7 +22696,7 @@ s	迡	gni
 安陰陽	ei-e in yan	55
 按杖棒	ei-e jian baon	55
 暗裏墨洞	ei-e li moq don
-暗力卜朧	ei-e liq boq lon	55
+暗力薄朧	ei-e liq boq lon	55
 暗弄慫	ei-e lon son	55
 安落去	ei-e loq chi	55
 暗墨侖寸	ei-e moq len tshen	55
@@ -22697,10 +22705,8 @@ s	迡	gni
 安板子	ei-e pae tsy	55
 暗手	ei-e shieu	55
 安耽	ei-e tae	55
-安躭	ei-e tae
 暗探	ei-e thei
 暗鐵撲朧	ei-e thiq phoq lon	55
-暗鐵撲龍	ei-e thiq phoq lon	55
 暗寸寸	ei-e tshen tshen	55
 暗黢黢	ei-e tshyuq tshyuq	578
 按拄棒	ei-e tsyu baon	55
@@ -24152,8 +24158,10 @@ s	迡	gni
 跫跫來	gon gon le
 跫跫奔到戲文場	gon gon pen tau shi ven jian
 共總	gon tson
-個個郎	goq goq laon	55
-個個𧮙	goq goq zoq
+嗰嗰郎	goq goq laon	55
+嗰嗰𧮙	goq goq zoq
+嗰隆咚	goq lon don
+嗰碌獨	goq loq doq
 咕咕叨叨	gu gu tau tau
 咕咕忖忖	gu gu tshen tshen
 咕咕注	gu gu tsyu
@@ -35649,7 +35657,7 @@ s	迡	gni
 撮着撮	tshaq dzoq tshaq	55
 撮着自	tshaq dzoq zhi
 漆暗	tshaq ei-e	55
-漆暗卜朧	tshaq ei-e boq lon	55
+漆暗薄朧	tshaq ei-e boq lon	55
 漆暗墨朧	tshaq ei-e moq lon	55
 漆黑	tshaq haq
 漆黑泥藍	tshaq haq gni lae	55
