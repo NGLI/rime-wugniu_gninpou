@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.01.23"
+version: "2021.01.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -31031,7 +31031,7 @@ s	迡	gni
 牙齒拐拐動	ngo tshy kua kua don
 牙齒雪雪白	ngo tshy syuq syuq baq
 我種南瓜	ngo tson nei-nae kuo
-我種菠𦼊	ngo tson pou len
+我種菠薐	ngo tson pou len
 牙齒	ngo tsy
 牙齒垽	ngo tsy gnin	55
 牙齒朝北	ngo tsy jiau poq
@@ -32018,8 +32018,8 @@ s	迡	gni
 䃗石墈	poq zaq khi-khe
 駁船	poq zoe
 菠薐	pou len	55
-菠𦼊	pou len	55
-菠𦼊氽豆腐	pou len then deu vu
+菠𦼊	pou len
+菠薐氽豆腐	pou len then deu vu
 玻璃劙腐了	pou li li vu lei
 玻璃劙腐𡀂	pou li li vu lei
 菠蘿	pou lou
