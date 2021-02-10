@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.02.08"
+version: "2021.02.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -20686,8 +20686,6 @@ s	迡	gni
 招頭紙	ciau deu tsy	55
 招風耳朵	ciau fon gni to	55
 招風耳朵	ciau fon ng to	55
-叫花子喫鮮白蟹	ciau huo tsy chioq shi baq ha
-叫花子勿留過夜食	ciau huo tsy vaq lieu kou ya zhiq
 澆槓	ciau kaon	55
 叫哥哥	ciau kou kou	55
 招怪	ciau kua	55
@@ -26130,6 +26128,8 @@ s	迡	gni
 絞花被	kau huo bi	55
 叫花子	kau huo tsy
 絞花子	kau huo tsy	55
+叫花子喫鮮白蟹	kau huo tsy chioq shi baq ha
+叫花子勿留過夜食	kau huo tsy vaq lieu kou ya zhiq
 叫花子弗留過夜食	kau huo tsy vaq lieu kou ya zhiq	1
 校場長𢿞𢿞	kau jian jian liau liau
 絞腸痧	kau jian so	55
@@ -32637,6 +32637,7 @@ s	迡	gni
 西瓜血血紅	shi kuo shiuq shiuq ghon
 西瓜時	shi kuo zy	55
 鮮辣粉	shi laq fen	55
+鮮荔枝	shi li ci
 稀裏吼嘍	shi li heu leu	55
 稀裏糊塗	shi li wu du
 閃龍光閃	shi lon kuaon shi	55
@@ -32674,7 +32675,6 @@ s	迡	gni
 細相	shi shian	55
 西鄉十八𡍲	shi shian zyuq paq taq
 西式頭	shi shiq deu
-稀索	shi soq	55
 鮮索	shi soq	55
 死屍	shi sy
 死屍發䨣	shi sy faq phoq
@@ -36773,7 +36773,7 @@ s	迡	gni
 紫絳紅	tsy cian ghon	55
 紫絳色	tsy cian saq
 紙筋	tsy cin	55
-仔潔	tsy ciq	55
+仔跡	tsy ciq	55
 紫檀	tsy dae
 紫藤	tsy den
 紙頭	tsy deu	578
