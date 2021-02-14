@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.02.10"
+version: "2021.02.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30311,6 +30311,8 @@ s	迡	gni
 懵懂	mon ton
 懵懂先生	mon ton shi san
 木器店	moq chi ti
+木器店阿大	moq chi ti aq dou
+木記木記	moq ci moq ci
 墨汁	moq ciq
 木鬼	moq ciu
 木頭	moq deu
@@ -30359,6 +30361,7 @@ s	迡	gni
 摸奶奶	moq nhe nhe
 木倭樹	moq ou zyu	55
 墨筆	moq piq
+木死哥	moq shi kou
 木箱	moq shian
 木手木腳	moq shieu moq ciaq	55
 木性性	moq shin shin	578
