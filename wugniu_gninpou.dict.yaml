@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.02.14"
+version: "2021.02.18"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -28346,7 +28346,6 @@ s	迡	gni
 礌來礌去當中央	lei le lei chi taon tson gnian
 礌來礌去𣍐倒翻	lei le lei chi vei tau fae
 𨀤𨀤倒	lei lei tau
-擂木圓	lei moq yu
 礌木圓	lei moq yu	55
 鰳魚	lei ng	55
 洡手	lei shieu	55
