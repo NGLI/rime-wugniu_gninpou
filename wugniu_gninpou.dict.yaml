@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.02.18"
+version: "2021.02.19"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8942,6 +8942,7 @@ s	迡	gni
 撐	tsan	5%
 掙	tsan	5%
 㬹	tsan
+棦	tsan
 柼	tsan
 撑	tshan
 撐	tshan
@@ -10407,7 +10408,7 @@ s	迡	gni
 睜	tsen	6%
 錚	tsen
 猙	tsen
-棦	tsen
+棦	tsen	0%
 琤	tsen
 崢	tsen
 䋫	tsen
@@ -35405,7 +35406,7 @@ s	迡	gni
 趲牆腳	tsae zhian ciaq
 掙家計	tsan ko ci	55
 爭爭吵吵	tsan tsan tshau tshau
-掙株	tsan tsyu	55
+棦株	tsan tsyu	55
 爭上游	tsan zaon yeu	55
 裝棚搭架	tsaon ban taq ko	55
 裝白泥其	tsaon baq gni ji	55
@@ -37417,8 +37418,8 @@ s	迡	gni
 勿是生意經	vaq zy san i cin
 弗是生意經	vaq zy san i cin	55
 弗是話頭	vaq zy wo deu
-勿如值鈿樹掙	vaq zyu jiq di zyu tsan
-弗如值鈿樹掙	vaq zyu jiq di zyu tsan	1
+勿如值鈿樹棦	vaq zyu jiq di zyu tsan
+弗如值鈿樹棦	vaq zyu jiq di zyu tsan	1
 勿如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci
 弗如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci	1
 勿入料	vaq zyuq liau
@@ -39249,7 +39250,7 @@ s	迡	gni
 樹丫子	zyu o tsy	55
 豎屋酒	zyu oq cieu	55
 如心像意	zyu shin zhian i	55
-樹掙	zyu tsan	55
+樹棦	zyu tsan	55
 樹樁	zyu tsaon
 如弗得知	zyu vaq toq tsyu
 如話	zyu wo	50000
