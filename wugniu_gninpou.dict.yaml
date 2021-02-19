@@ -15,7 +15,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.02.19"
+version: "2021.02.20"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -37650,9 +37650,8 @@ s	迡	gni
 旺三無陳	waon sae wu- jin	55
 黃蜆	waon shi	55
 旺興	waon shin	55
-旺興結夾	waon shin ciq kaq	55
+旺興腳夾	waon shin ciaq kaq
 旺興夾腳	waon shin kaq ciaq	55
-旺興夾結	waon shin kaq ciq	55
 旺興帶爛泥	waon shin ta na gni	55
 旺興丁	waon shin tin	55
 黃沙	waon so
