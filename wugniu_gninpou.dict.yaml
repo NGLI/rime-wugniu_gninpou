@@ -22699,7 +22699,7 @@ s	迡	gni
 按杖棒	ei-e jian baon	55
 暗裏墨洞	ei-e li moq don
 暗力薄朧	ei-e liq boq lon	55
-暗弄慫	ei-e lon son	55
+暗弄送	ei-e lon son	55
 安落去	ei-e loq chi	55
 暗墨侖寸	ei-e moq len tshen	55
 暗墨朧充	ei-e moq lon tshon	55
@@ -23984,7 +23984,7 @@ s	迡	gni
 認樣	gnin yan	55
 銀洋鈿	gnin yan di	55
 銀匠	gnin zhian
-寧席	gnin zhiq	55
+寧蓆	gnin zhiq	55
 人是鐵	gnin zy thiq
 絨褲	gnion khu	55
 絨衫	gnion sae	55
@@ -24918,13 +24918,12 @@ s	迡	gni
 壅料	ion liau	55
 壅芋艿	ion n na
 永生永世	ion san ion shi	578
-甬席	ion zhiq	55
 甬蓆	ion zhiq	55
 一排生	iq ba san	55
 一爿廠	iq bae chian
 一爿店	iq bae ti
 一爿葉爿	iq bae yiq bae
-一爿席子	iq bae zhiq tsy
+一爿蓆子	iq bae zhiq tsy
 一坺灰塵	iq baq huei jin
 一白籃五斗	iq baq lae ng teu
 一坺冷飯頭	iq baq lan vae deu
@@ -26804,7 +26803,7 @@ s	迡	gni
 該爿廠	kiq bae chian
 該爿店	kiq bae ti
 該爿葉爿	kiq bae yiq bae
-該爿席子	kiq bae zhiq tsy
+該爿蓆子	kiq bae zhiq tsy
 該坒人	kiq bi gnin
 該坒椅子	kiq bi i tsy
 該坒椅子	kiq bi iu tsy
@@ -26937,7 +26936,7 @@ s	迡	gni
 該一爿廠	kiq iq bae chian
 該一爿店	kiq iq bae ti
 該一爿葉爿	kiq iq bae yiq bae
-該一爿席子	kiq iq bae zhiq tsy
+該一爿蓆子	kiq iq bae zhiq tsy
 該一坒人	kiq iq bi gnin
 該一坒椅子	kiq iq bi i tsy
 該一坒椅子	kiq iq bi iu tsy
@@ -28921,11 +28920,11 @@ s	迡	gni
 弄落	lon loq
 龍山	lon sae
 弄煞可憐	lon saq khou li
-弄慫	lon son	418
-弄松	lon son	55
-弄聳	lon son	418
+弄慫	lon son
+弄鬆	lon son
+弄聳	lon son
 弄送	lon son	418
-弄慫煞人	lon son saq gnin
+弄送煞人	lon son saq gnin
 龍鬚筍	lon syu syun	55
 龍鬚竹	lon syu tsoq	55
 攏總	lon tson
@@ -30202,7 +30201,6 @@ s	迡	gni
 抿子	min tsy
 抿子梗	min tsy kuan	55
 命與財相連	min yu dze shian li
-明席	min zhiq	55
 明蓆	min zhiq	55
 民事	min zy
 名字戒	min zy ka	55
@@ -31195,7 +31193,7 @@ s	迡	gni
 屋裏燒缸竈	oq li shiau kaon tsau
 屋裏無賴	oq li vu la	55
 屋裏無賴	oq li wu- la	55
-惡弄慫	oq lon son	55
+惡弄送	oq lon son	55
 屋落	oq loq	578
 沃貌	oq mau	55
 惡蚊蟲	oq men dzon	55
@@ -39081,7 +39079,7 @@ s	迡	gni
 舌苔	zhiq the
 食罩	zhiq tsau	55
 蓆草要種睏	zhiq tshau iau tson khuen
-蓆子	zhiq tsy	55
+蓆子	zhiq tsy	691
 食指	zhiq tsy
 席席嫩	zhiq zhiq nen	55
 席席𧼰𧼰	zhiq zhiq zaq zaq
