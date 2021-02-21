@@ -33108,7 +33108,6 @@ s	迡	gni
 水白大蝦	syu baq dou huo
 尿瓶	syu bin	55
 水平	syu bin
-尿瓶挈隻環	syu bin chiq tsaq guae
 貰器店	syu chi ti
 水缺	syu chiuq	55
 水缺頭	syu chiuq deu	55
@@ -35078,7 +35077,6 @@ s	迡	gni
 拆短	tshaq toe	55
 珿斬斯齊	tshaq tsae sy zhi	55
 珿斬齊	tshaq tsae zhi
-撮隻櫓烏珠想打船	tshaq tsaq lu u tsyu shian tan zoe
 插插	tshaq tshaq
 𨔨𨔨	tshaq tshaq	55
 漆漆暗	tshaq tshaq ei-e
@@ -36491,7 +36489,6 @@ s	迡	gni
 飯阿講喫	vae oq kaon chioq
 飯包	vae pau	55
 萬寶全書	vae pau dzoe syu	55
-萬寶全書缺只角	vae pau dzoe syu chiuq ciq koq
 煩比牢糟	vae pi lau tsau	55
 帆布矮凳	vae pu a ten	55
 帆布椅	vae pu i
@@ -38964,7 +38961,7 @@ s	迡	gni
 百夜夫妻海洋深	paq ya fu chi he yan shin
 少年夫妻甜如蜜	shiau gni fu chi di zyu miq
 老年夫妻恩如漆	lau gni fu chi en zyu chiq
-家常便飯粗布衣	ko dzaon bi vae tshu pu i
+家常便飯粗布衣	cia dzaon bi vae tshu pu i
 知冷知暖是夫妻	tsyu lan tsyu noe zy fu chi
 好甮看我妻	hau ven khi-khe ngo chi
 只要看我身上衣	ciq iau khi-khe ngo shin zaon i
@@ -38983,7 +38980,7 @@ s	迡	gni
 勿如夫妻同到老	vaq zyu fu chi don tau lau
 夫妻和	fu chi ghou
 萬事妥	vae zy thou
-夫妻和睦家業興	fu chi ghou moq ko gniq shin
+夫妻和睦家業興	fu chi ghou moq cia gniq shin
 夫妻弗和睏弗寧	fu chi vaq ghou khuen vaq gnin
 夫妻勿和睏勿寧	fu chi vaq ghou khuen vaq gnin
 捆綁弗成夫妻	khuen paon vaq jin fu chi
@@ -39240,9 +39237,13 @@ s	迡	gni
 唸經堂講新婦	ne-gnie cin daon kaon shin vu
 新婦壞罵兒子	shin vu ua mo ng tsy
 兒子好誇新婦	ng tsy hau khuo shin vu
+兒子好誇新婦	ng tsy hau khua shin vu
 孃誇囡好弗算好	gnian khuo noe hau vaq soe hau
 婆誇新婦一朵花	bou khuo shin vu iq to huo
+孃誇囡好弗算好	gnian khua noe hau vaq soe hau
+婆誇新婦一朵花	bou khua shin vu iq to huo
 孃誇囡好勿算好	gnian khuo noe hau vaq soe hau
+孃誇囡好勿算好	gnian khua noe hau vaq soe hau
 月裏新婦弗可哄	yuq li shin vu vaq khou hon
 月裏奶花弗可𢱤	yuq li na huo vaq khou son
 月裏新婦勿可哄	yuq li shin vu vaq khou hon
@@ -39413,7 +39414,7 @@ s	迡	gni
 生蔥	san tshon
 熟大蒜	zoq da soe
 地裏三樣葷	di li sae yan huen
-海里三樣蔬	he li sae yan su
+海裏三樣蔬	he li sae yan su
 鹹齏炒炒	ghae ci tshau tshau
 冷飯咬咬	lan vae ngau ngau
 家有鹹齏	cia yeu ghae ci
@@ -39740,7 +39741,7 @@ s	迡	gni
 毒癢散	doq yan sae
 針嘸四兩重	cin mh sy lian dzon
 根根筋骨動	ken ken cin kuaq don
-窮醫管三家	jion i kun sae cia
+窮醫管三家	jion i kun sae ko
 窮算命	jion soe min
 富喫藥	fu chioq yaq
 三分喫藥	sae fen chioq yaq
@@ -40323,7 +40324,7 @@ s	迡	gni
 八月十六頭夜種	paq yuq zyuq loq deu ya tson
 若要批花紅	zoq iau phi huo ghon
 霜降種草子	saon kaon tson tshau tsy
-幼苗容易死	ieu miau yon yi shi
+幼苗容易死	ieu miau yon yi sy
 年裏春花月裏稻	gni li tshyun huo yuq li dau
 草子過冬壅遍灰	tshau tsy kou ton ion pi huei
 賽過冬天蓋牀被	se kou ton thi ke zaon bi
@@ -40651,7 +40652,7 @@ s	迡	gni
 在山靠山	dze sae khau sae
 若要富	zhiaq iau fu
 若要富	zoq iau fu
-家有千株樹	ko yeu chi tsyu zyu
+家有千株樹	cia yeu chi tsyu zyu
 一世弗窮苦	iq shi vaq jion khu
 一世勿窮苦	iq shi vaq jion khu
 種樹造林	tson zyu zau lin
@@ -40704,7 +40705,7 @@ s	迡	gni
 頭茶荒	deu dzo huaon
 二茶光	gni dzo kuaon
 薔薇花開頭朵	jian vi huo khe deu to
-家家好喫新茶	ko ko hau chioq shin dzo
+家家好喫新茶	cia cia hau chioq shin dzo
 若要果樹長勒好	zhiaq iau kou zyu cian laq hau
 施肥治蟲水喫飽	sy vi dzyu dzon syu chioq pau
 若要果樹長勒好	zoq iau kou zyu cian laq hau
@@ -40945,7 +40946,8 @@ s	迡	gni
 正月十四夜亮	cin yuq zyuq sy ya lian
 烏賊擺擺樣	u zaq pa pa yan
 正月十四夜暗	cin yuq zyuq sy ya ei-e
-烏賊沒上磡	u zaq maq zaon khae
+烏賊沒上墈	u zaq maq zaon khi-khe
+烏賊沒上墈	u zaq maq zaon khe
 二月二晴	gni yuq gni zhin
 船艙前而掛銀瓶	zoe tshaon zhi er kuo gnin bin
 二月二落	gni yuq gni loq
@@ -41037,15 +41039,15 @@ s	迡	gni
 只怕貨比貨	ciq pho hou pi hou
 勿怕勿識貨	vaq pho vaq shiq hou
 眼睛看過別高低	ngae cin khi-khe kou biq kau ti
-貨問三家弗喫虧	hou men sae ko vaq chioq khuei
+貨問三家弗喫虧	hou men sae cia vaq chioq khuei
 路走三遍弗生頭	lu tseu sae pi vaq san deu
-貨問三家勿喫虧	hou men sae ko vaq chioq khuei
+貨問三家勿喫虧	hou men sae cia vaq chioq khuei
 路走三遍勿生頭	lu tseu sae pi vaq san deu
 貨到地頭爛	hou tau di deu lae
 人靠衣裝	gnin khau i tsaon
 貨靠包裝	hou khau pau tsaon
 辦事體看人頭	bae zy thi khi-khe gnin deu
-做生意靠嬸頭	tsou san i khau shin deu
+做生意靠㜅頭	tsou san i khau shiuq deu
 種田弗離田頭	tson di vaq li di deu
 做生意弗離櫃頭	tsou san i vaq li jiu deu
 種田勿離田頭	tson di vaq li di deu
@@ -41198,7 +41200,7 @@ s	迡	gni
 嘸手藝喫爛泥	mh shieu gni chioq na gni
 荒年餓弗煞手藝人	huaon gni ngou vaq saq shieu gni gnin
 荒年餓勿煞手藝人	huaon gni ngou vaq saq shieu gni gnin
-家有千金	ko yeu chi cin
+家有千金	cia yeu chi cin
 弗如薄藝在身	vaq zyu boq gni dze shin
 勿如薄藝在身	vaq zyu boq gni dze shin
 扁擔兩頭環	pi tae lian deu wae
@@ -41257,6 +41259,8 @@ s	迡	gni
 一個將軍一個令	iq ghoq cian ciun iq ghoq lin
 兵垮垮一人	pin khuo khuo iq gnin
 將垮垮千人	cian khuo khuo chi gnin
+兵垮垮一人	pin khua khua iq gnin
+將垮垮千人	cian khua khua chi gnin
 養兵千日	ian pin chi zyuq
 用力一朝	yon liq iq ciau
 一人拼命	iq gnin phin min
@@ -41615,12 +41619,12 @@ s	迡	gni
 大雨打崩塘	dou yu tan pon daon
 日頭倒照	gniq deu tau ciau
 雨落倒掉	yu loq tau diau
-日暈雨	gniq yun yu
+日暈雨	zyuq yun yu
 月暈風	yuq yun fon
-日暈三更雨	gniq yun sae kan yu
+日暈三更雨	zyuq yun sae kan yu
 月暈午時風	yuq yun wu zy fon
 月亮邊有暈	yuq lian pi yeu yun
-明日要發風	min gniq iau faq fon
+明日要發風	min zyuq iau faq fon
 大暈暈風	dou yun yun fon
 小暈暈雨	shiau yun yun yu
 初三見星月	tshu sae ci shin yuq
@@ -42017,7 +42021,7 @@ s	迡	gni
 立冬晴	liq ton zhin
 立冬落	liq ton loq
 一冬落	iq ton loq
-十月十日晴	zyuq yuq zyuq gniq zhin
+十月十日晴	zyuq yuq zyuq zyuq zhin
 小麥大麥像鼓釘	shiau maq dou maq zhian ku tin
 乾淨冬至邋遢年	ki-ke zhin ton tsy laq thaq gni
 邋遢冬至乾淨年	laq thaq ton tsy ki-ke zhin gni
@@ -42179,9 +42183,9 @@ s	迡	gni
 漲潮風起	cian jiau fon chi
 潮平風止	jiau bin fon tsy
 春分秋分	tshyun fen chieu fen
-日夜平分	gniq ya bin fen
+日夜平分	zyuq ya bin fen
 夏至冬至	gho tsy ton tsy
-日夜參差	gniq ya tshen tshy
+日夜參差	zyuq ya tshen tshy
 冬至止短	ton tsy tsy toe
 夏至止長	gho tsy tsy jian
 嬉嬉夏至日	shi shi gho tsy gniq
@@ -42331,7 +42335,7 @@ s	迡	gni
 燕低飛	i ti fi
 蛇過道	dzo kou dau
 大雨馬上就要到	dou yu mo zaon jieu iau tau
-鳥兒飛勒高	tiau er fi laq kau
+鳥兒飛勒高	gniau er fi laq kau
 天家一定好	thi ko iq din hau
 久雨聞鳥聲	cieu yu ven tiau shin
 弗久天轉晴	vaq cieu thi tsoe zhin
@@ -42510,9 +42514,9 @@ s	迡	gni
 人美弗在衫	gnin mei vaq dze sae
 馬好勿在鞍	mo hau vaq dze ei-e
 人美勿在衫	gnin mei vaq dze sae
-萬貫家財弗算富	vae kun ko dze vaq soe fu
+萬貫家財弗算富	vae kun cia dze vaq soe fu
 一分仁義值千金	iq fen zyun gni jiq chi cin
-萬貫家財勿算富	vae kun ko dze vaq soe fu
+萬貫家財勿算富	vae kun cia dze vaq soe fu
 寧可清貧	nen khou chin bin
 弗可濁富	vaq khou dzoq fu
 勿可濁富	vaq khou dzoq fu
@@ -42689,7 +42693,7 @@ s	迡	gni
 手腳慢泛	shieu ciaq mae fae
 快手勢弗及慢兩爹	khua shieu syu vaq jiq mae lian tia
 快手勢勿及慢兩爹	khua shieu syu vaq jiq mae lian tia
-家有一雙勤儉手	ko yeu iq saon jin ji shieu
+家有一雙勤儉手	cia yeu iq saon jin ji shieu
 四季好甮愁喫穿	sy ci hau ven zeu chioq tshoe
 頭苦蘿蔔頭	deu khu lou boq deu
 喫穿好甮愁	chioq tshoe hau ven zeu
@@ -42707,8 +42711,8 @@ s	迡	gni
 三年添牀被	sae gni thi zaon bi
 緊緊一天	cin cin iq thi
 寬寬一年	khun khun iq gni
-弗如日進分文	vaq zyu gniq cin fen ven
-勿如日進分文	vaq zyu gniq cin fen ven
+弗如日進分文	vaq zyu zyuq cin fen ven
+勿如日進分文	vaq zyu zyuq cin fen ven
 會賺弗如會積	wei dzae vaq zyu wei ciq
 會賺勿如會積	wei dzae vaq zyu wei ciq
 省喫儉用	san chioq ji yon
@@ -43265,8 +43269,8 @@ s	迡	gni
 頭夜忖忖千條路	deu ya tshen tshen chi diau lu
 第二天亮摸原路	di gni thiq gnian moq gniu lu
 第二天亮摸原路	di gni thi gnian moq gniu lu
-見死弗救大惡人	ci shi vaq cieu dou oq gnin
-見死勿救大惡人	ci shi vaq cieu dou oq gnin
+見死弗救大惡人	ci sy vaq cieu dou oq gnin
+見死勿救大惡人	ci sy vaq cieu dou oq gnin
 大欺小	dou chi shiau
 弗公道	vaq kon dau
 大幫小	dou paon shiau
@@ -43348,7 +43352,7 @@ s	迡	gni
 等忘記	ten maon ci
 裝睏着	tsaon khuen zoq
 三兩蝤蛑四兩縛	sae lian jieu meu sy lian bou
-撮只櫓烏珠想打船	tshaq ciq lu u tsyu shian tan zoe
+撮隻櫓烏珠想打船	tshaq tsaq lu u tsyu shian tan zoe
 蘿蔔賣完	lou boq ma wun
 秤花還只曉得	chin huo wa ciq shiau taq
 秤花還只曉得	chin huo gha ciq shiau taq
@@ -43360,7 +43364,6 @@ s	迡	gni
 挑豬屙勿曉得重	thiau tsyu ou vaq shiau taq dzon
 日裏扛到夜裏	gniq li kaon tau ya li
 菩薩還來廟裏	bu saq wa le miau li
-日裏扛到夜裏	gniq li gaon tau ya li
 菩薩還來廟裏	bu saq gha le miau li
 日裏講到夜裏	gniq li kaon tau ya li
 城隍廟得病	jin waon miau taq bin
@@ -43607,7 +43610,7 @@ s	迡	gni
 眼眼叫碰着眼眼叫	ngae ngae ciau ban dzoq ngae ngae ciau
 眼眼叫碰着眼眼叫	ngae ngae ciau ban zoq ngae ngae ciau
 各廟各菩薩	koq miau koq bu saq
-各人懺念法	koq gnin tshae ne-gnie faq
+各人懺唸法	koq gnin tshae ne-gnie faq
 又要等先生	yi iau ten shi san
 又要候年庚	yi iau gheu gni kan
 上弗上	zaon vaq zaon
@@ -43806,7 +43809,7 @@ s	迡	gni
 三個廚工殺穀蜢	sae goq dzyu kon saq koq man
 三個廚工殺穀蜢	sae ghoq dzyu kon saq koq man
 死貓嚇煞活老鼠	shi mae haq saq waq lau tsy
-遠來和尚會念經	yu le ghou zaon wei ne-gnie cin
+遠來和尚會唸經	yu le ghou zaon wei ne-gnie cin
 擺勒和尚罵賊禿	pa laq ghou zaon mo zaq thaq
 皇帝弗羯太監羯	waon ti vaq ciq tha kae ciq
 皇帝勿羯太監羯	waon ti vaq ciq tha kae ciq
@@ -43817,6 +43820,7 @@ s	迡	gni
 嘴巴嘟起掛油瓶	tsyu po tu chi kuo yeu bin
 蒼蠅飛過打滑脫	tshaon in fi kou tan waq thaq
 老虎頭上拍蒼蠅	lau fu deu zaon phaq tshaon in
+萬寶全書缺隻角	vae pau dzoe syu chiuq tsaq koq
 新造茅坑三日香	shin zau mau khan sae gniq shian
 飯店臭蟲叮客人	vae ti chieu dzon tin khaq gnin
 苦竹根頭出苦筍	khu tsoq ken deu tshyuq khu syun
@@ -44192,7 +44196,7 @@ s	迡	gni
 粗粗糙	tshu tshu tshau
 牢牢靠	lau lau khau
 要緊弗得慢	iau cin vaq taq mae
-尿瓶挈只環	syu bin chiq ciq guae
+尿瓶挈隻環	syu bin chiq tsaq guae
 要緊勿得慢	iau cin vaq taq mae
 紙團撮過	tsy doe tshaq kou
 並嘸罪過	bin mh zei kou
@@ -44238,8 +44242,8 @@ s	迡	gni
 天上跌落地下撮	thi zaon tiq loq di gho tshaq
 撮了還好做菩薩	tshaq laq wa hau tsou bu saq
 撮了還好做菩薩	tshaq laq gha hau tsou bu saq
-搶只料勺	chian ciq liau zoq
-搶只銅鑼	chian ciq don lou
+搶隻料勺	chian tsaq liau zoq
+搶隻銅鑼	chian tsaq don lou
 後生三鬥三升火	gheu san sae teu sae shin hou
 草蓬腳下弗可坐	tshau bon ciaq gho vaq khou zou
 草蓬腳下勿可坐	tshau bon ciaq gho vaq khou zou
@@ -44450,7 +44454,7 @@ s	迡	gni
 弗覺着	vaq koq zoq
 勿覺着	vaq koq dzoq
 勿覺着	vaq koq zoq
-肉里加麻油	gnioq li ko mo yeu
+肉裏加麻油	gnioq li ko mo yeu
 左右爲難	tsou yeu wei nae
 癢地方弗𢪂	yan di faon vaq da
 痛地方𢪂	thon di faon da
