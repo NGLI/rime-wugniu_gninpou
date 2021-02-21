@@ -11,6 +11,7 @@
 使用以下項目：
 
 - [甬江話字詞表](https://github.com/ionkaon/dictionary) (CC BY 4.0)
+- [寧波方言資料整理](https://github.com/ionkaon/data) (CC BY 4.0)
 - [寧波話【八股文】](https://github.com/ionkaon/gninpou-essay) (LGPLv3)
 
 ## 幫助文檔
