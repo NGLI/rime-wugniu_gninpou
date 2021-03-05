@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.02"
+version: "2021.03.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -15618,6 +15618,7 @@ import_tables:
 盒	ghaq
 頜	ghaq
 餄	ghaq
+𬌗	ghaq
 轄	ghaq
 曷	ghaq
 褐	ghaq
