@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.11"
+version: "2021.03.12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -11787,6 +11787,7 @@ import_tables:
 琬	un
 踠	un
 涴	un	0%
+菀	un
 皖	un
 莞	un
 惋	un
