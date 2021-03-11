@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.05"
+version: "2021.03.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7565,7 +7565,6 @@ import_tables:
 饞	zae	5%
 鑱	zae
 𡓦	zae
-涎	zae
 僝	zae
 劖	zae
 𩻣	zae
@@ -19792,6 +19791,7 @@ import_tables:
 谗	dzae
 馋	dzae
 惭	dzae
+𰊅	dzae
 𫏐	dzae
 𡺄	dzae
 骣	dzae
@@ -19812,6 +19812,8 @@ import_tables:
 钐	sae
 馋	zae
 镵	zae
+𰾠	zae
+𰊅	zae
 监	kae
 间	kae
 𰾫	kae
@@ -31058,7 +31060,7 @@ import_tables:
 犁鑱	li zae	55
 犁鑱頭	li zae deu	55
 犁鑱蝮	li zae phoq	55
-𤃀涎唾水	li zae thu syu
+𤃀饞唾水	li zae thu syu
 連坐	li zou
 利市	li zy
 利市頭	li zy deu	55
