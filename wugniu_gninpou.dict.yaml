@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.12"
+version: "2021.03.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -11834,6 +11834,7 @@ import_tables:
 蚊	men
 螡	men
 蟁	men
+汶	men	0%
 蜈	men	0%
 氓	men	0%
 甿	men
