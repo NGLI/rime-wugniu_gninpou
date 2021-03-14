@@ -678,6 +678,7 @@ import_tables:
 捶	dzyu
 搥	dzyu
 𩣷	dzyu
+垂	dzyu	0%
 炷	dzyu
 幮	dzyu
 趎	dzyu
@@ -4692,7 +4693,6 @@ import_tables:
 拉	lha
 啦	lha
 菈	lha
-剌	lha	0%
 齋	tsa
 斎	tsa
 亝	tsa
@@ -23352,7 +23352,6 @@ import_tables:
 漿粉	cian fen	55
 賬軋勿平	cian gaq vaq bin
 賬軋弗平	cian gaq vaq bin	1
-仗人勢	cian gnin syu	55
 醬肉	cian gnioq
 醬貨店	cian hou ti	55
 帳衣	cian i	55
@@ -24461,11 +24460,8 @@ import_tables:
 豆稭稈	deu ciq ki-ke	55
 投鬼	deu ciu
 頭埭	deu da	55
-頭大	deu da
 頭𢪂𢪂	deu da da
 頭埭怪青	deu da kuan chin
-頭大不剌	deu da paq la
-頭大不剌	deu da paq laq	55
 頭擡起	deu de chi	55
 頭頭	deu deu
 投投動	deu deu don	55
@@ -24477,6 +24473,7 @@ import_tables:
 頭頭順流	deu deu zyun lieu	55
 頭鈿	deu di	55
 頭大	deu dou
+頭大不剌	deu dou paq la	55
 頭大不剌	deu dou paq laq	55
 頭大煞	deu dou saq
 頭重腳輕	deu dzon ciaq chin
@@ -26039,7 +26036,6 @@ import_tables:
 絎針	ghaon cin	55
 行販	ghaon fae	55
 行行差一拓	ghaon ghaon tsho iq thoq
-行人勢	ghaon gnin syu	55
 行業	ghaon gniq
 行情行市	ghaon jin ghaon zy	578
 抗勒住	ghaon laq dzyu	578
@@ -26531,6 +26527,7 @@ import_tables:
 膩腥	gni shin	578
 疑心疑惑	gni shin gni ghoq	55
 疑心疑惑	gni shin gni o	55
+膩腥不剌	gni shin paq la	578
 膩腥不剌	gni shin paq laq	578
 年數	gni su
 泥水	gni syu
@@ -26547,7 +26544,7 @@ import_tables:
 耳朵皮軟	gni to bi gniu	55
 耳朵宕頭	gni to dan deu	55
 耳朵洞眼	gni to don ngae	55
-耳朵墜	gni to dzyu	55
+耳朵垂	gni to dzyu	55
 耳朵發隔	gni to faq kaq
 耳朵紅紅響	gni to ghon ghon shian
 耳朵環	gni to guae	55
@@ -27226,6 +27223,7 @@ import_tables:
 豁上虎背	huaq zaon fu pei
 晦氣	huei chi
 晦氣蓬鬆	huei chi bon son
+晦氣不剌	huei chi paq la
 晦氣不剌	huei chi paq laq
 灰汁糰	huei ciq doe	55
 灰蛋	huei dae	55
@@ -27312,6 +27310,7 @@ import_tables:
 花老頭	huo lau deu
 花佬兒子	huo lau ng tsy	55
 花裏花繃	huo li huo pan	55
+花裏不剌	huo li paq la	55
 花裏不剌	huo li paq laq	55
 花蓮菜	huo li tshe	55
 花蓮菜炒年糕	huo li tshe tshau gni kau
@@ -30419,6 +30418,7 @@ import_tables:
 攋草耙	la tshau bo	55
 攋草耙	la tshau bun	55
 攋草絨	la tshau gnion
+癩嘴	la tsyu
 癩嘴小娘	la tsyu shiau gnian	55
 剌胡嚨	la wu lon
 剌柴	la za	55
@@ -32991,6 +32991,7 @@ import_tables:
 難弄	nae lon	55
 乃末	nae maq	55
 難熬	nae ngau
+難熬不剌	nae ngau paq la
 難熬不剌	nae ngau paq laq
 難熬相	nae ngau shian
 難相	nae shian	55
@@ -33212,7 +33213,7 @@ import_tables:
 耳朵皮軟	ng to bi gniu	55
 耳朵宕頭	ng to dan deu	55
 耳朵洞眼	ng to don ngae	55
-耳朵墜	ng to dzyu	55
+耳朵垂	ng to dzyu	55
 耳朵發隔	ng to faq kaq
 耳朵紅紅響	ng to ghon ghon shian
 耳朵屙	ng to ou
@@ -33903,9 +33904,8 @@ import_tables:
 百果糕	paq kou kau
 八哥湯果	paq kou thaon kou
 八梗	paq kuan
-不剌	paq la
+不剌	paq la	55
 不剌	paq laq	55
-不剌	paq lha	55
 八兩	paq lian	55
 808	paq lin paq	55
 八六	paq loq
@@ -34178,6 +34178,7 @@ import_tables:
 劈面相	phiq mi shian	55
 劈柴看絲流	phiq za khi-khe sy lieu
 怕人	pho gnin
+怕人不剌	pho gnin paq la
 怕人不剌	pho gnin paq laq
 怕其	pho ji	418
 怕渠	pho ji	418
@@ -34943,6 +34944,7 @@ import_tables:
 賽過	se kou
 祟勃勃	sei baq baq	55
 祟氣	sei chi	55
+祟氣不剌	sei chi paq la
 祟氣不剌	sei chi paq laq
 雖即	sei ciq	55
 賽過	sei khou
@@ -37513,6 +37515,7 @@ import_tables:
 跌倒勢話	tiq tau syu wo
 跌倒當禮拜	tiq tau taon li pa
 的的薄	tiq tiq boq	55
+滴滴金	tiq tiq cin
 的的刮刮	tiq tiq kuaq kuaq	55
 的的糯	tiq tiq nou
 的的斯薄	tiq tiq sy boq
@@ -38070,7 +38073,7 @@ import_tables:
 草穀人案	tshau koq gnin e
 炒冷飯	tshau lan vae
 糙拉拉	tshau lha lha	55
-糙粒不剌	tshau liq paq la
+糙粒不剌	tshau liq paq la	55
 糙粒不剌	tshau liq paq laq	55
 草綠	tshau loq
 草帽	tshau mau
@@ -39969,8 +39972,8 @@ import_tables:
 衛生間	wei sen kae
 衛生褲	wei sen khu
 衛生衫	wei sen sae	418
-危險不剌	wei shi paq laq
-危險八剌	wei shi paq laq	55
+危險不剌	wei shi paq la	55
+危險不剌	wei shi paq laq	55
 茴香	wei shian
 茴香倭豆	wei shian ou deu	55
 爲啥道理	wei soq dau li	55
@@ -40921,6 +40924,7 @@ import_tables:
 隨嫁阿姆	zei ko a m	55
 隨嫁阿姆	zei ko an m	55
 罪過	zei kou	578
+罪過不剌	zei kou paq la	418
 罪過不剌	zei kou paq laq	418
 隨路	zei lu	55
 隨面	zei mi	55
