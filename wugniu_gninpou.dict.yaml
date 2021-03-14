@@ -15152,7 +15152,7 @@ import_tables:
 蠟	laq
 臘	laq
 臈	laq
-剌	laq
+剌	laq	1%
 喇	laq	0%
 瘌	laq
 蝲	laq
@@ -22586,6 +22586,8 @@ import_tables:
 氣門絕煞	chi men dzyuq saq	55
 氣悶	chi mhen
 氣味	chi mi
+氣味不剌	chi mi paq la
+氣味不剌	chi mi paq laq
 牽磨	chi mou	55
 氣惱糟	chi nau tsau	55
 氣耐勿牢	chi ne vaq lau
@@ -22604,6 +22606,8 @@ import_tables:
 千世年庚	chi shi gni kan
 千辛萬苦	chi shin vae khu
 氣息	chi shiq
+氣息不剌	chi shiq paq la
+氣息不剌	chi shiq paq laq
 氣血	chi shiuq
 起血性	chi shiuq shin	55
 起沙	chi so	55
@@ -32987,6 +32991,8 @@ import_tables:
 乃該	nae ke
 難看	nae khi-khe
 難看掉	nae khi-khe diau	55
+難看不剌	nae khi-khe paq la
+難看不剌	nae khi-khe paq laq
 難過	nae kou
 難弄	nae lon	55
 乃末	nae maq	55
@@ -39230,8 +39236,9 @@ import_tables:
 捂心	u shin	55
 焐心	u shin	55
 污素	u su	55
-烏蘇	u su
 焐酥豆	u su deu	55
+污素不剌	u su paq la
+污素不剌	u su paq laq
 烏筍	u syun	55
 萵筍	u syun
 捂雪	u syuq	55
