@@ -22653,7 +22653,7 @@ import_tables:
 縴繩	chi zhin
 欺善怕惡	chi zoe pho oq
 笡頭	chia deu	55
-笡格愣敦	chia kaq len ten	55
+笡格楞敦	chia kaq len ten	55
 且叩	chia kheu	55
 且看	chia khi-khe
 且可	chia khou	55
@@ -37744,7 +37744,6 @@ import_tables:
 扎臍帶	tsaq ji ta	55
 卒格	tsaq kaq
 卒格爛眼	tsaq kaq lae ngae
-仄格楞敦	tsaq kaq len ten
 側格楞敦	tsaq kaq len ten	55
 扎鉤	tsaq keu	55
 摘公	tsaq kon	55
@@ -37752,8 +37751,7 @@ import_tables:
 側角	tsaq koq	55
 側過來	tsaq kou le
 扎括	tsaq kuaq
-側棱	tsaq len	55
-側楞	tsaq len
+側楞	tsaq len	55
 側楞睏	tsaq len khuen	55
 責理太婆	tsaq li tha bou
 摘帽子	tsaq mau tsy
@@ -40827,8 +40825,7 @@ import_tables:
 賊舊	zaq jieu
 石階凳	zaq ka ten	55
 石階沿	zaq ka yi	55
-雜格愣敦	zaq kaq len ten	578
-雜格楞敦	zaq kaq len ten	55
+雜格楞敦	zaq kaq len ten	578
 賊苦	zaq khu	578
 石庫門	zaq khu men
 賊苦出	zaq khu tshyuq	55
