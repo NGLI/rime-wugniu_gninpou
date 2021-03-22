@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.22"
+version: "2021.03.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -12409,6 +12409,7 @@ import_tables:
 坪	bin
 蚲	bin
 鮃	bin
+呯	bin
 屏	bin
 塀	bin
 鵧	bin
@@ -22366,6 +22367,7 @@ import_tables:
 鐾自來火	bi zy le hou
 瓢蟲	biau dzon
 瓢羹	biau kan
+呯嘭	bin ban
 平耙	bin bo	55
 平腳	bin ciaq	55
 平腳橋	bin ciaq jiau
@@ -24882,7 +24884,6 @@ import_tables:
 大排	dou ba	55
 大排肆場	dou ba sy jian
 大彭彭	dou ban ban	55
-大膨膨	dou ban ban	55
 大佛	dou baq
 大白	dou baq
 大白靈性	dou baq lin shin	55
@@ -28228,12 +28229,12 @@ import_tables:
 盡一頭	jin iq deu
 陳歧	jin ji
 敐敐	jin jin
-勤勤敲	jin jin khau
-敐敐挭挭	jin jin kuan kuan
-陣陣奔	jin jin pen
-勤勤奔去	jin jin pen chi
-勤勤奔來	jin jin pen le
-勤勤打	jin jin tan
+敐敐敲	jin jin khau
+敐敐梗梗	jin jin kuan kuan
+敐敐奔	jin jin pen
+敐敐奔去	jin jin pen chi
+敐敐奔來	jin jin pen le
+敐敐打	jin jin tan
 敐敐走	jin jin tseu
 陳家段	jin ko doe
 辰光	jin kuaon	578
@@ -28243,7 +28244,7 @@ import_tables:
 城裏頭	jin li deu	418
 城裏頭人	jin li deu gnin	418
 城裏人	jin li gnin
-敐零挭冷	jin lin kuan lan
+敐零梗冷	jin lin kuan lan
 勤力	jin liq
 勤力無價之寶	jin liq vu cia tsy pau
 勤力無價之寶	jin liq wu- cia tsy pau
@@ -36178,7 +36179,6 @@ import_tables:
 雪白	syuq baq
 雪白粉嫩	syuq baq fen nen	55
 雪白憐	syuq baq li
-刷平	syuq bin	55
 雪平	syuq bin	55
 刷帚	syuq cieu	55
 雪淡	syuq dae	418
@@ -36565,7 +36565,6 @@ import_tables:
 搗子頭	tau tsy deu	55
 倒環楊柳	tau wae yan lieu
 倒夜	tau ya	55
-倒夜笨	tau ya ben
 倒爺笨	tau ya ben	55
 倒陽	tau yan	55
 倒運	tau yun
@@ -39245,13 +39244,13 @@ import_tables:
 捂雪	u syuq	55
 熓敦敦	u ten ten	55
 熓頓頓	u ten ten	55
-塢湯	u thaon	55
-塢態	u the	418
-塢退	u thei
+於湯	u thaon	55
+於態	u the	418
+於退	u thei
 烏早天亮	u tsau thi gnian
 烏早天亮	u tsau thiq gnian	55
-塢采	u tshe	418
-塢處	u tshyu	55
+於采	u tshe	418
+於處	u tshyu	55
 焐粥甏	u tsoq ban
 椅子	u tsy
 烏子	u tsy	55
