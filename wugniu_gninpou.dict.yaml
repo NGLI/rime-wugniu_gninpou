@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.14"
+version: "2021.03.22"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -40243,13 +40243,9 @@ import_tables:
 楊梅時	yan mei zy	55
 羊尾筍	yan mi syun	55
 癢麻嘍嗖	yan mo leu seu	55
-癢麻嘍搜	yan mo leu seu	55
 癢麻色嘍	yan mo saq leu	55
-癢木樓颼	yan moq leu seu	55
-癢麻嘍嗖	yan moq leu seu	55
-癢麻嘍搜	yan moq leu seu	55
-癢木色嘍	yan moq saq leu
-癢麻色嘍	yan moq saq leu	55
+癢木嘍嗖	yan moq leu seu	55
+癢木色嘍	yan moq saq leu	55
 洋芋艿	yan n na	55
 洋瓦	yan ngo	55
 洋囡囡	yan noe noe
