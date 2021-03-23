@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.03.23"
+version: "2021.03.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -27055,7 +27055,6 @@ import_tables:
 海棠	he daon
 海棠糕	he daon kau	55
 海棠果	he daon kou	55
-海夫絨	he fu gnion	55
 海虎絨	he fu gnion	55
 熯下飯	he gho vae
 許願心	he gniu shin	55
@@ -29264,7 +29263,6 @@ import_tables:
 快活	khua wo
 筷箸籠	khuae ji lon	55
 闊剌柴	khuaq la za	55
-闊拉柴	khuaq lha za	55
 闊扁毛豆	khuaq pi mau deu	55
 塊頭	khuei deu
 塊頭大	khuei deu dou
@@ -30430,7 +30428,7 @@ import_tables:
 癩嘴小娘	la tsyu shiau gnian	55
 剌胡嚨	la wu lon
 剌柴	la za	55
-拉柴胡子	la za wu tsy
+剌柴鬍子	la za wu tsy	55
 爛鼻頭管正經人	lae baq deu kun cin cin gnin
 爛薄屙	lae baq ou
 爛薄涴	lae baq ou	55
@@ -30950,8 +30948,6 @@ import_tables:
 拉手	lha shieu
 拉車	lha tsho
 拉衛生	lha wei sen
-拉柴	lha za	55
-拉柴胡子	lha za wu tsy	55
 拉打	lhan tan	55
 誏話	lhaon wo	418
 撈把揀揀	lhau po kae kae	55
@@ -38514,7 +38510,6 @@ import_tables:
 初二十六大水頭	tshu gni zyuq loq dou syu deu
 粗糠	tshu khaon
 粗剌柴	tshu la za	55
-粗拉柴	tshu la za	55
 初外	tshu nga	55
 初八廿三當小水	tshu paq ne-gnie sae taon shiau syu
 粗坯	tshu phei	55
@@ -39244,13 +39239,13 @@ import_tables:
 捂雪	u syuq	55
 熓敦敦	u ten ten	55
 熓頓頓	u ten ten	55
-於湯	u thaon	55
-於態	u the	418
-於退	u thei
+烏湯	u thaon	55
+烏態	u the	418
+烏退	u thei
 烏早天亮	u tsau thi gnian
 烏早天亮	u tsau thiq gnian	55
-於采	u tshe	418
-於處	u tshyu	55
+烏采	u tshe	418
+烏處	u tshyu	55
 焐粥甏	u tsoq ban
 椅子	u tsy
 烏子	u tsy	55
