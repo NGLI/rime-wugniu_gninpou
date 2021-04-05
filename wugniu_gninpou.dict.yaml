@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.04.02"
+version: "2021.04.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -25415,7 +25415,9 @@ import_tables:
 妯娌	dzoq li
 㪬裏㪬煞	dzoq li dzoq saq	55
 族裏人	dzoq li gnin	55
+㪬落僵鴨	dzoq loq cian ae
 㪬落羹	dzoq loq kan	55
+㪬落養生	dzoq loq yan san
 㪬芋艿皮	dzoq n na bi
 着把	dzoq po	55
 濁瘟	dzoq uen	55
@@ -25450,9 +25452,8 @@ import_tables:
 廚房間	dzyu vaon kae	55
 絕頭絕腦	dzyuq deu dzyuq nau	55
 絕絕煞煞	dzyuq dzyuq saq saq
-絕裏絕塞	dzyuq li dzyuq saq
-絕落僵鴨	dzyuq loq cian ae
-絕落養生	dzyuq loq yan san
+絕裏絕煞	dzyuq li dzyuq saq
+絕煞	dzyuq saq
 愛陰陽	e in yan	55
 愛惜	e shiq
 暗氣	ei-e chi
