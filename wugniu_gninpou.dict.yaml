@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.04.05"
+version: "2021.04.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -38495,7 +38495,6 @@ import_tables:
 戳人色剌	tshoq gnin saq laq	55
 促掐	tshoq khaq
 觸霉頭	tshoq mei deu
-觸黴頭	tshoq mei deu
 戳壁腳	tshoq piq ciaq
 珿斬齊	tshoq tsae zhi
 促促	tshoq tshoq
