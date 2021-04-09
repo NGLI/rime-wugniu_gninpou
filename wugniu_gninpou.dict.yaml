@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.04.08"
+version: "2021.04.09"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -38839,6 +38839,7 @@ import_tables:
 作忖	tsoq tshen	55
 作出	tsoq tshyuq
 喌喌	tsoq tsoq
+作作動	tsoq tsoq don
 作作梗梗	tsoq tsoq kan kan
 瘃子斑	tsoq tsy pae
 𧋥蛛	tsoq tsyu	55
