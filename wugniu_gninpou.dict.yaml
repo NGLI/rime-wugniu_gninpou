@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.04.09"
+version: "2021.04.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -23325,8 +23325,8 @@ import_tables:
 借因頭	cia in deu	55
 傢俱	cia jiu
 傢俱簇刮新	cia jiu tshaq kuaq shin
-縩孔	cia khon	55
-縩孔籃	cia khon lae	55
+䶓箜	cia khon	55
+䶓箜籃	cia khon lae	55
 借力使	cia liq sy	55
 借力施	cia liq sy
 借米好落鑊	cia mi hau loq ghoq
@@ -23364,8 +23364,8 @@ import_tables:
 漲潮	cian jiau
 將就	cian jieu
 帳鉤	cian keu
-縩孔	cian khon	55
-縩孔籃	cian khon lae	55
+䶓箜	cian khon	55
+䶓箜籃	cian khon lae	55
 蔣家潭	cian ko dei
 張家峯	cian ko fon
 張家瀛	cian ko yin
@@ -30517,8 +30517,8 @@ import_tables:
 爛腐	lae vu	55
 爛腐勃脹	lae vu baq cian
 爛腐結夾	lae vu ciq kaq
-懶婦掏縩空	lae vu dau cia khon
-懶婦掏縩空	lae vu dau cian khon
+懶婦掏䶓箜	lae vu dau cia khon
+懶婦掏䶓箜	lae vu dau cian khon
 爛腐貨	lae vu hou	55
 懶黃泥鰍	lae waon gni chieu
 藍藥水	lae yaq syu	55
