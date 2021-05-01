@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.04.10"
+version: "2021.05.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -35229,6 +35229,7 @@ import_tables:
 小鴨毨毛	shiau ae seu mau
 小阿伯	shiau aq paq
 小阿爸	shiau aq paq
+小奧魚	shiau au ng
 小排	shiau ba
 小朋友	shiau ban yeu
 小白河頭	shiau baq ghou deu
