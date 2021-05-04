@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.05.03"
+version: "2021.05.04"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -34862,6 +34862,8 @@ import_tables:
 煞清斯爽	saq chin sy saon
 殺雞辦飯	saq ci bae vae
 𥈊記𥈊記	saq ci saq ci
+蝨鬼	saq ciu
+蝨鬼介大	saq ciu ka dou
 塞頭	saq deu	55
 殺頭	saq deu
 塞銅鈿	saq don di	55
@@ -34887,11 +34889,11 @@ import_tables:
 煞辣斯	saq laq sy	55
 煞辣斯清爽	saq laq sy chin saon	55
 蝨末鬼	saq maq ciu	55
+蝨末鬼介大	saq maq ciu ka dou
 蝨末老鬼	saq maq lau ciu	55
 蝨眯鬼	saq mhi ciu
+蝨眯鬼介大	saq mhi ciu ka dou
 蝨眯老鬼	saq mhi lau ciu
-蝨米鬼	saq mi ciu
-蝨米老鬼	saq mi lau ciu
 煞辣	saq naq	55
 煞潑	saq phaq	55
 煞潑言話	saq phaq ghae wo	55
@@ -39309,6 +39311,7 @@ import_tables:
 橫糊裏拉	uan wu li la
 橫糊裏拉	uan wu li lha
 黃蒲蒲	uaon bu bu	55
+尢介大	uaon ka dou
 黃殼蟹	uaon khoq ha
 汪家宅跟	uaon ko dzaq ken
 曂亮	uaon lian	55
