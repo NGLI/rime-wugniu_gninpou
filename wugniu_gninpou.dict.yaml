@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.05.04"
+version: "2021.05.30"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2023,6 +2023,7 @@ import_tables:
 魌	chi
 溪	chi
 谿	chi
+豀	chi
 蹊	chi
 鸂	chi
 嵠	chi
@@ -4649,6 +4650,7 @@ import_tables:
 她	tha
 忕	tha
 埭	da
+𡉑	da
 忕	da
 軑	da
 釱	da
@@ -5621,6 +5623,8 @@ import_tables:
 扷	au
 䯠	au
 岰	au
+垇	au
+乢	au
 袎	au
 靿	au
 巴	po
@@ -7733,6 +7737,8 @@ import_tables:
 豢	wae
 彎	uae
 灣	uae
+壪	uae
+𡿞	uae
 潫	uae
 嬽	uae
 娃	uae
@@ -19862,6 +19868,7 @@ import_tables:
 缳	wae
 弯	uae
 湾	uae
+塆	uae
 绾	uae
 𧹗	uae
 铥	tieu
