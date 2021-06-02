@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.06.01"
+version: "2021.06.02"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2142,6 +2142,7 @@ import_tables:
 摖	chi
 契	chi
 碶	chi
+𬑻	chi
 氣	chi
 炁	chi
 气	chi
