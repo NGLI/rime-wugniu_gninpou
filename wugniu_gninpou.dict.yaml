@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.07.06"
+version: "2021.07.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -28247,8 +28247,8 @@ import_tables:
 盡一頭	jin iq deu
 陳歧	jin ji
 敐敐	jin jin
+敐敐梗梗	jin jin guan guan
 敐敐敲	jin jin khau
-敐敐梗梗	jin jin kuan kuan
 敐敐奔	jin jin pen
 敐敐奔去	jin jin pen chi
 敐敐奔來	jin jin pen le
@@ -28262,7 +28262,7 @@ import_tables:
 城裏頭	jin li deu	418
 城裏頭人	jin li deu gnin	418
 城裏人	jin li gnin
-敐零梗冷	jin lin kuan lan
+敐零梗冷	jin lin guan lan
 勤力	jin liq
 勤力無價之寶	jin liq vu cia tsy pau
 勤力無價之寶	jin liq wu- cia tsy pau
@@ -35878,7 +35878,9 @@ import_tables:
 叔公	soq kon
 速朗	soq laon	55
 縮攏	soq lon	55
+索落	soq loq
 索落動	soq loq don
+索落索落	soq loq soq loq
 索麪	soq mi
 叔伯姆	soq pa m	55
 叔伯姆	soq pan m	55
