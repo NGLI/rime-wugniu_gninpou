@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.07.11"
+version: "2021.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -14780,6 +14780,7 @@ import_tables:
 捌	paq
 䤢	paq
 百	paq
+佰	paq
 柏	paq
 栢	paq
 伯	paq
@@ -14887,7 +14888,7 @@ import_tables:
 貘	maq
 銆	maq
 蛨	maq
-佰	maq
+佰	maq	0%
 帞	maq
 驀	maq
 襪	maq
