@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2021.06.10"
+version: "2021.08.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1161,7 +1161,9 @@ use_preset_vocabulary: true
 核酸檢測報告
 咽拭子
 鼻咽拭子	biq i shiq tsy
+鼻拭子	biq shiq tsy
 口咽拭子
+口拭子
 肛拭子
 方艙醫院
 無症狀感染者	vu cin dzaon ki-ke gni tse
