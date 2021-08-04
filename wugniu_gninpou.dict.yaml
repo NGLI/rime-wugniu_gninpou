@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.07.30"
+version: "2021.08.04"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -24115,7 +24115,7 @@ import_tables:
 大蒜頭	da soe deu	55
 大多數	da tou su
 大菜	da tshe
-大菜臺子	da tshe de tsy	55
+大菜檯子	da tshe de tsy	55
 大菜師父	da tshe sy vu	55
 大菜桌燈	da tshe tsoq ten	55
 𢪂癢	da yan
@@ -34085,7 +34085,7 @@ import_tables:
 碰杯	phan pei
 胓㠮	phan phon	55
 乓剖	phan phou
-碰和臺	phan wu de	55
+碰和檯	phan wu de	55
 胖脯	phaon bu	55
 胖起	phaon chi	55
 胖頭魚	phaon deu ng
@@ -40568,7 +40568,7 @@ import_tables:
 雨壓落來	yu aq loq le	55
 雨棚	yu ban
 圍巾	yu cin
-圓臺面	yu de mi	55
+圓檯面	yu de mi	55
 園地	yu di
 雨暗	yu ei-e	55
 羽絨衫	yu gnion sae

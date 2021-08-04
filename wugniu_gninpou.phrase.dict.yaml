@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2021.08.03"
+version: "2021.08.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1390,8 +1390,8 @@ use_preset_vocabulary: true
 上落班辰光	zaon loq pae zyun kuaon
 上勿了	zaon vaq liau
 上弗了	zaon vaq liau	1
-上勿了臺面	zaon vaq liau de mi
-上弗了臺面	zaon vaq liau de mi	1
+上勿了檯面	zaon vaq liau de mi
+上弗了檯面	zaon vaq liau de mi	1
 上勿去	zaon vaq chi
 上弗去	zaon vaq chi	1
 上個禮拜	zaon goq li pa
