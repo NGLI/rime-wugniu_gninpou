@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.04"
+version: "2021.08.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -24381,7 +24381,7 @@ import_tables:
 袋皮	de bi	55
 抬去	de chi
 袋袋	de de	578
-抬動	de de don	55
+抬抬動	de de don	55
 玳玳花	de de huo	55
 抬頭	de deu
 苔條	de diau	55
@@ -24478,10 +24478,12 @@ import_tables:
 頭抬起	deu de chi	55
 頭頭	deu deu
 投投動	deu deu don	55
+頭頭後年	deu deu gheu gni	55
 頭頭後日	deu deu gheu gniq	55
 斷頭爛腳	deu deu lae ciaq	55
 斷頭落環	deu deu loq guae	55
-頭頭前日	deu deu zhi gniq
+頭頭前年	deu deu zhi gni	55
+頭頭前日	deu deu zhi gniq	55
 頭頭是道	deu deu zy dau
 頭頭順流	deu deu zyun lieu	55
 頭鈿	deu di	55
@@ -24499,6 +24501,7 @@ import_tables:
 頭髮絲	deu faq sy
 頭髮打結	deu faq tan ciq
 頭跔進	deu geu cin
+頭後年	deu gheu gni	55
 頭後日	deu gheu gniq	55
 投人身	deu gnin shin	55
 頭剛	deu kaon	55
@@ -24575,6 +24578,7 @@ import_tables:
 頭暈心慌	deu yun shin huaon
 頭暈惺忪	deu yun shin son
 頭暈暈動	deu yun yun don
+頭前年	deu zhi gni	55
 頭前日	deu zhi gniq	55
 頭繩	deu zhin
 豆豉醬	deu zy cian
