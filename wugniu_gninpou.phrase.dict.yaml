@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2021.08.04"
+version: "2021.08.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1021,7 +1021,7 @@ use_preset_vocabulary: true
 長塗人	jian du gnin
 長塗	jian du
 衢山鎮
-衢山人	ghen sae gnin
+衢山人	jiu sae gnin
 衢山島
 衢山
 秀山鄉
@@ -1180,7 +1180,7 @@ use_preset_vocabulary: true
 遠程辦公
 集中隔離	jiq tson kaq li
 居家隔離	ciu cia kaq li
-居家健康監測	ciu cia ji khaon ci tshaq
+居家健康監測	ciu cia ji khaon kae tshaq
 密切接觸者
 密接
 流行病學調查	lieu yin bin yuq diau dzo
