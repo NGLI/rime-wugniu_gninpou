@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.06"
+version: "2021.08.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -38608,7 +38608,6 @@ import_tables:
 出白鴨	tshyuq baq ae
 出蹩腳	tshyuq biq ciaq
 出氣	tshyuq chi
-出搶花	tshyuq chian huo
 出槍花	tshyuq chian huo	55
 出雞屙	tshyuq ci ou
 出雞涴	tshyuq ci ou	55
