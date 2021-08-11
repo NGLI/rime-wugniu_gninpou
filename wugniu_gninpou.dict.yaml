@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.08"
+version: "2021.08.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -28476,7 +28476,6 @@ import_tables:
 講究	kaon cieu
 鋼針	kaon cin
 講斤頭	kaon cin deu	55
-講正頭	kaon cin deu	55
 鋼精鍋子	kaon cin kou tsy	55
 鋼精面桶	kaon cin mi don	55
 講大道	kaon da dau	578
@@ -29207,7 +29206,6 @@ import_tables:
 空倉水鈿	khon tshaon syu di
 殼貨	khoq hou	55
 殼㝗	khoq laon	55
-殼郎	khoq laon	55
 哭勒環天倒地	khoq laq wae thi tau di
 殼落	khoq loq	55
 哭煞死	khoq saq shi
@@ -37584,7 +37582,6 @@ import_tables:
 短命屈死	toe min chiuq shi
 短命鬼	toe min ciu	55
 短命促死	toe min tshaq shi	55
-短命撮死	toe min tshaq shi	55
 碫磨	toe mou	55
 鍛磨	toe mou	55
 短打	toe tan
@@ -38088,7 +38085,7 @@ import_tables:
 草蓬	tshau bon	55
 草青	tshau chin	55
 草雞	tshau ci
-騲雞	tshau ci	55
+騲雞	tshau ci
 炒雞蛋	tshau ci dae
 耖田	tshau di	55
 炒地皮	tshau di bi
@@ -40280,8 +40277,6 @@ import_tables:
 羊臊氣	yan sau chi	55
 羊臊氣賊臭	yan sau chi zaq chieu
 佯掃地	yan sau di
-癢嗖嗖	yan seu seu	55
-癢搜搜	yan seu seu	55
 癢颼颼	yan seu seu	55
 洋秈米	yan shi mi	55
 煬錫	yan shiq
@@ -40465,9 +40460,8 @@ import_tables:
 有晌	yeu zaon	418
 油炸豆板	yeu zaq deu pae
 油炸檜	yeu zaq kuei	55
-油煠檜	yeu zaq kuei	55
-油煠湯糰	yeu zaq thaon doe
-油煠煠	yeu zaq zaq
+油炸湯糰	yeu zaq thaon doe
+油炸炸	yeu zaq zaq
 有愁嘸愁	yeu zeu mh zeu
 油繩	yeu zhin	55
 有時節	yeu zy ciq
