@@ -6832,10 +6832,10 @@ import_tables:
 跴	tshe
 棌	tshe
 𢶀	tshe
+啐	tshe	1%
 湊	tshe	0%
 凑	tshe	0%
 菜	tshe
-啐	tshe	1%
 嘬	tshe
 才	dze
 纔	dze
@@ -7897,6 +7897,7 @@ import_tables:
 謜	tshoe
 舛	tshoe
 荈	tshoe
+啐	tshoe	1%
 躥	tshoe
 鑹	tshoe
 爨	tshoe
@@ -16879,6 +16880,7 @@ import_tables:
 蜹	gnioq
 恧	gnioq
 沑	gnioq
+唷	yoq
 筆	piq
 潷	piq
 𢴩	piq
@@ -18264,7 +18266,6 @@ import_tables:
 育	yuq
 蜟	yuq
 錥	yuq
-唷	yuq
 淯	yuq
 堉	yuq
 棛	yuq
@@ -21999,7 +22000,7 @@ import_tables:
 阿爺孫子	aq ya sen tsy	55
 阿姨	aq yi
 阿裏	aq yi	578
-啊唷哇	aq yuq ua
+啊唷哇	aq yoq ua
 阿賊揹板凳	aq zaq pei pae ten
 阿壽哥	aq zhieu kou
 鴨舌頭	aq zhiq deu
@@ -26078,6 +26079,7 @@ import_tables:
 壕溝	ghau keu
 豪𢜶	ghau sau	418
 豪𢜶快點	ghau sau khua ti
+噢唷	ghau yoq
 孩兒骨	ghe er kuaq
 嗐嗐	ghe ghe	55
 害連白道場	ghe li baq dau jian	55
@@ -33706,8 +33708,8 @@ import_tables:
 惡嘴眼相	oq tsyu ngae shian	55
 屋檐	oq yi
 惡形惡狀	oq yin oq dzaon
-喔唷	oq yuq
-喔唷哇	oq yuq ua
+喔唷	oq yoq
+喔唷哇	oq yoq ua
 屙背出	ou bei tshyuq
 涴背出	ou bei tshyuq	55
 屙臭	ou chieu
@@ -38207,6 +38209,7 @@ import_tables:
 彩燈懸凌宕	tshe ten yu lin dan
 菜湯淘飯	tshe thaon dau vae
 菜湯滷水	tshe thaon lu syu
+啐啐	tshe tshe
 猜猜看	tshe tshe khe
 菜子	tshe tsy
 菜籽	tshe tsy
@@ -38506,6 +38509,7 @@ import_tables:
 穿頂	tshoe tin	55
 穿罩衫	tshoe tsau sae
 穿襯衫	tshoe tshen sae
+啐啐	tshoe tshoe
 穿穿看	tshoe tshoe khe
 穿棕繃個	tshoe tson pan ghoq	55
 穿棕繃個	tshoe tson pan goq	55
@@ -38514,6 +38518,7 @@ import_tables:
 穿弗及	tshoe vaq ji	1
 穿勿來	tshoe vaq le
 穿弗來	tshoe vaq le	1
+啐活靈	tshoe waq lin
 穿羊絨衫	tshoe yan gnion sae
 穿羊毛衫	tshoe yan mau sae
 穿羽絨衫	tshoe yu gnion sae
