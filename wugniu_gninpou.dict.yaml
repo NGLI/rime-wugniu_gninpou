@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.12"
+version: "2021.08.20"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22425,11 +22425,15 @@ import_tables:
 別采	biq tshe	418
 𧼱出	biq tshyuq	55
 別轉	biq tsoe
-別塢蕩	biq u daon
-別塢頭	biq u deu	55
-別塢湯	biq u thaon	55
-別塢態	biq u the	55
-別塢采	biq u tshe	418
+別烏蕩	biq u daon
+別烏頭	biq u deu
+別烏賽	biq u se
+別烏碎	biq u sei
+別烏湯	biq u thaon
+別烏態	biq u the
+別烏退	biq u thei
+別烏采	biq u tshe	55
+別烏處	biq u tshyu
 𧼱勿着	biq vaq dzoq
 𧼱弗着	biq vaq dzoq	55
 𧼱勿着	biq vaq zoq
@@ -35767,8 +35771,16 @@ import_tables:
 啥體	so thi	578
 啥東西	so ton shi
 紗窗	so tshaon
+啥烏蕩	so u daon
+啥烏頭	so u deu
 沙胡嚨	so u lon
-啥塢采	so u tshe
+啥烏賽	so u se
+啥烏碎	so u sei
+啥烏湯	so u thaon
+啥烏態	so u the
+啥烏退	so u thei
+啥烏采	so u tshe
+啥烏處	so u tshyu
 啥犯着	so vae dzoq	55
 啥犯着	so vae zoq	55
 啥會	so wei	55
@@ -35901,6 +35913,15 @@ import_tables:
 啥體	soq thi	8000
 啥東西	soq ton shi
 束子	soq tsy	55
+啥烏蕩	soq u daon
+啥烏頭	soq u deu
+啥烏賽	soq u se
+啥烏碎	soq u sei
+啥烏湯	soq u thaon
+啥烏態	soq u the
+啥烏退	soq u thei
+啥烏采	soq u tshe
+啥烏處	soq u tshyu
 啥會	soq wei	55
 宿夜	soq ya	418
 啥有	soq yeu	55
@@ -35954,6 +35975,15 @@ import_tables:
 啥體	sou thi	578
 啥東西	sou ton shi
 梭子	sou tsy
+啥烏蕩	sou u daon
+啥烏頭	sou u deu
+啥烏賽	sou u se
+啥烏碎	sou u sei
+啥烏湯	sou u thaon
+啥烏態	sou u the
+啥烏退	sou u thei
+啥烏采	sou u tshe
+啥烏處	sou u tshyu
 啥犯着	sou vae dzoq	55
 啥犯着	sou vae zoq	55
 啥事體啦	sou zy thi la
@@ -39215,7 +39245,7 @@ import_tables:
 烏龜頭蟲	u ciu deu dzon	55
 烏龜強盜坯	u ciu jian dau phei	55
 萵苣筍	u ciu syun	55
-塢蕩	u daon	55
+烏蕩	u daon	55
 烏頭	u deu
 烏肚腸	u du jian
 衣櫥	u dzyu
@@ -39245,8 +39275,8 @@ import_tables:
 胡嚨哮管	u lon hau kun
 烏龍送	u lon son	55
 烏斑	u pae	55
-塢賽	u se	55
-塢碎	u sei
+烏賽	u se	55
+烏碎	u sei
 捂小雞	u shiau ci
 烏稍蛇	u shiau dzo
 烏筱絲	u shiau sy	55
