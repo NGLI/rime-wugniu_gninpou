@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.20"
+version: "2021.08.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22082,7 +22082,6 @@ import_tables:
 彭彭揚	ban ban yan	55
 甏腳	ban ciaq	55
 棚蟲	ban dzon	55
-蟛蟲	ban dzon	55
 碰着	ban dzoq
 蚌殼油	ban khoq yeu	55
 棚梯	ban the	55
@@ -24171,15 +24170,14 @@ import_tables:
 淡沙沙	dae so so	55
 淡水刮搭	dae syu kuaq taq	418
 淡水毛氣	dae syu mau chi	578
-淡水毛帳	dae syu mau cian	55
 淡水毛漿	dae syu mau cian	55
 淡水水	dae syu syu	55
 蛋湯	dae thaon	418
 蛋炒飯	dae tshau vae
 淡菜	dae tshe
 淡竹	dae tsoq	55
-𥲄竹	dae tsoq	55
-𥲄竹液	dae tsoq yiq
+𥲄竹	dae tsoq
+淡竹液	dae tsoq yiq
 彈子	dae tsy
 彈子棋	dae tsy ji	55
 彈嘴	dae tsyu	55
@@ -27575,7 +27573,7 @@ import_tables:
 應家埭	in ko da
 陰㫰布衫	in laon pu sae	55
 陰㫰絲	in laon sy	55
-蔭涼	in lian
+陰涼	in lian
 陰曆	in liq
 𢷍米	in mi
 印板	in pae	55
@@ -28005,7 +28003,7 @@ import_tables:
 噦氣弗轉	iuq chi vaq tsoe	55
 噦噦塞塞	iuq iuq saq saq	55
 郁家墳	iuq ko ven
-纏排頭	ji ba deu
+纏牌頭	ji ba deu
 旗袍	ji bau
 旗袍裙	ji bau jiun	55
 纏笡	ji chia	55
@@ -30570,7 +30568,6 @@ import_tables:
 冷灰豆爆	lan huei deu pau
 冷灰頭爆	lan huei deu pau	55
 冷幽幽	lan ieu ieu	55
-冷蔭	lan in	55
 冷陰	lan in	55
 冷開水	lan khe syu	55
 冷角落頭	lan koq loq deu	55
@@ -34269,7 +34266,6 @@ import_tables:
 邊旁	pi baon
 扁尖	pi ci	55
 篦䇫	pi ci	55
-篦箕	pi ci	55
 變精作怪	pi cin tsoq kua
 扁豆	pi deu
 扁頭	pi deu
@@ -34364,7 +34360,6 @@ import_tables:
 屏勒牢	pin laq lau
 屏牢	pin lau
 冰冰瀴	pin pin in	55
-冰冰陰	pin pin in	55
 冰冰冷	pin pin lan	418
 併併當當	pin pin taon taon
 嬪相	pin shian	55
@@ -35041,7 +35036,6 @@ import_tables:
 死藤飯瓜	shi den vae kuo
 死掉	shi diau
 鮮朵朵	shi do do	55
-細粉	shi fen
 線粉	shi fen
 死後滿身紅	shi gheu mun shin ghon
 仙人	shi gnin
@@ -38407,8 +38401,7 @@ import_tables:
 湊隊夥	tsheu dei hou
 湊隊家	tsheu dei ko	55
 湊頭	tsheu deu	55
-叉牌頭	tsho ba deu	55
-扯排頭	tsho ba deu
+扯牌頭	tsho ba deu	55
 扯平	tsho bin
 扯篷	tsho bon
 扯蓬	tsho bon	55
@@ -40353,7 +40346,6 @@ import_tables:
 藥芹	yaq jin	55
 藥膏	yaq kau
 藥腥氣	yaq shin chi	55
-藥沙罐	yaq so kun	55
 藥砂罐	yaq so kun	55
 藥水肥皂	yaq syu bi zau	55
 藥戥子	yaq ten tsy	55
