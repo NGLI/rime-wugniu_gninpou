@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.08.28"
+version: "2021.09.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -12743,7 +12743,6 @@ import_tables:
 箴	cin
 葴	cin
 鱵	cin
-抌	cin
 貞	cin
 幀	cin
 偵	cin
@@ -23243,7 +23242,6 @@ import_tables:
 計件工	ci ji kon	55
 幾張	ci jian
 見情	ci jin	55
-記情	ci jin	55
 幾梗	ci kan
 機耕路	ci kan lu	55
 肩胛	ci kaq	2815
@@ -23284,14 +23282,10 @@ import_tables:
 牮屋	ci oq	55
 佔擺	ci pa	55
 寄拜	ci pa	55
-繼拜	ci pa	55
-寄拜阿孃	ci pa aq gnian
-繼拜阿孃	ci pa aq gnian	55
-繼拜阿爹	ci pa aq tia	55
-寄拜兒子	ci pa ng tsy
-繼拜兒子	ci pa ng tsy	55
-寄拜囡	ci pa noe
-繼拜囡	ci pa noe	55
+寄拜阿孃	ci pa aq gnian	55
+寄拜阿爹	ci pa aq tia	55
+寄拜兒子	ci pa ng tsy	55
+寄拜囡	ci pa noe	55
 見䏘鬼	ci phiq ciu	55
 雞柵	ci saq
 雞眨覺	ci saq kau	55
@@ -23385,11 +23379,9 @@ import_tables:
 張家瀛	cian ko yin
 僵個	cian kou	55
 僵個佬	cian kou lau	55
-僵果佬	cian kou lau	55
-僵個貓	cian kou mae
-僵個梅	cian kou mei
-僵果梅	cian kou mei	55
-僵果梅梅	cian kou mei mei	55
+僵個貓	cian kou mae	55
+僵個梅	cian kou mei	55
+僵個梅梅	cian kou mei mei	55
 脹鼓鼓	cian ku ku	55
 張郎灣	cian laon uae
 張網	cian maon
@@ -23841,14 +23833,12 @@ import_tables:
 真真心焦煞	cin cin shin ciau saq
 經摺	cin ciq
 金彈	cin dae
-金蛋	cin dae
 正堂房	cin daon vaon	55
 真道話	cin dau wo	55
 井頭	cin dei	55
 井頭跟	cin dei ken	55
 㲀頭	cin deu	55
 井頭	cin deu	55
-抌頭	cin deu	55
 枕頭	cin deu
 金豆	cin deu
 針頭	cin deu
@@ -25621,7 +25611,6 @@ import_tables:
 方巾	faon cin
 紡織娘	faon ciq gnian
 放大鏡	faon da cin
-放筒銃	faon don tshon	55
 放銅銃	faon don tshon	55
 放大銃	faon dou tshon
 放學	faon ghoq
@@ -26647,7 +26636,6 @@ import_tables:
 鈕子鈕枚	gnieu tsy gnieu mei
 韌皮皮	gnin bi bi	55
 韌皮刁氣	gnin bi tiau chi	55
-韌皮刁起	gnin bi tiau chi	55
 人交關長	gnin ciau kuae jian
 認真道話	gnin cin dau wo
 認真話	gnin cin wo	55
@@ -27531,7 +27519,6 @@ import_tables:
 幼稚園	ieu ji yu
 幼兒園	ieu lu yu
 幽貓	ieu mhau	55
-幼秀	ieu shieu	55
 幼羞	ieu shieu	55
 幽頓頓	ieu ten ten	55
 陰靉	in a	55
@@ -27774,7 +27761,6 @@ import_tables:
 一隔週	iq kaq cieu	55
 一格路梯	iq kaq lu thi
 一夠晝	iq keu cieu	55
-一遘晝	iq keu cieu	55
 一夠歲	iq keu syu	55
 一口鐘	iq kheu tson
 一窠地方	iq khou di faon
@@ -30593,7 +30579,6 @@ import_tables:
 朗炕	laon haon	55
 㫰好	laon hau	55
 㫰花	laon huo	55
-蓈花	laon huo	55
 㫰衣	laon i	55
 㫰衣架	laon i ko	55
 㫰衣墩	laon i ten	55
@@ -35185,7 +35170,6 @@ import_tables:
 向拋天	shian phau thi	55
 相拋天	shian phau thi	578
 享先	shian shi	55
-相仙	shian shi	55
 享先湯果	shian shi thaon kou	55
 響箱	shian shian	55
 相相看	shian shian khe
@@ -35621,7 +35605,7 @@ import_tables:
 雪茄菸	shiq ga i
 溼人	shiq gnin	55
 息肉	shiq gnioq
-瘜肉	shiq gnioq	55
+瘜肉	shiq gnioq
 歇一歇	shiq iq shiq	55
 歇過	shiq kou	55
 吸壁走	shiq piq tseu
@@ -35636,7 +35620,6 @@ import_tables:
 溼溚溚	shiq taq taq
 吸鐵石	shiq thiq zaq
 㽺倲倲	shiq ton ton	55
-溼扎扎	shiq tsaq tsaq	55
 溼漬漬	shiq tsaq tsaq	55
 歇作	shiq tsoq	55
 㽺做醋	shiq tsou tshu
@@ -35664,10 +35647,7 @@ import_tables:
 血心	shiuq shin
 血血紅	shiuq shiuq ghon	55
 血得斯紅	shiuq taq sy ghon	55
-血出無賴	shiuq tshyuq vu la
 血出糊剌	shiuq tshyuq wu la	55
-血出糊賴	shiuq tshyuq wu la	55
-血出無賴	shiuq tshyuq wu- la
 砂皮	so bi
 稍微	so bi	55
 沙䥛	so ci	55
@@ -36389,7 +36369,6 @@ import_tables:
 打拼	tan phin
 打撲克	tan phoq khaq
 打把勢	tan po syu
-打霸勢	tan po syu	55
 打煞坯	tan saq phei	55
 打煞黃狗勿離窠	tan saq waon keu vaq li khou
 打煞黃狗弗離窠	tan saq waon keu vaq li khou	1
@@ -36653,7 +36632,6 @@ import_tables:
 燉茶壺	ten dzo wu	55
 凳櫥	ten dzyu	55
 敦枋	ten faon	55
-頓枋	ten faon	55
 撉斧頭柄	ten fu deu pin
 燈茄	ten jie	55
 燈開着	ten khe jiaq
@@ -36935,7 +36913,7 @@ import_tables:
 褪褲阿舅	then khu aq jieu
 褪落	then loq
 偷爬	theu bo
-偷伴	theu bun	55
+偷伴	theu bun
 偷盤	theu bun	55
 偷針	theu cin	55
 透骨鮮	theu kuaq shi	55
@@ -37837,7 +37815,6 @@ import_tables:
 早半晌飯	tsau pun zaon vae	55
 罩衫	tsau sae
 早生貴子做阿孃	tsau san kuei tsy tsou aq gnian
-糟手	tsau shieu	55
 遭手	tsau shieu	55
 找對象	tsau tei zhian
 找湊	tsau tsheu
