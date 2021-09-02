@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.09.01"
+version: "2021.09.02"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -33379,7 +33379,7 @@ import_tables:
 硬到底苦到死	ngan tau ti khu tau shi
 硬的剝落	ngan tiq poq loq	55
 硬扎	ngan tsaq	55
-硬𡇠	ngan tsaq	55
+硬𡇠	ngan tsaq
 硬撐	ngan tshan
 硬襯	ngan tshen	55
 硬做	ngan tsou	55
@@ -35317,7 +35317,7 @@ import_tables:
 小老鼠	shiau lau tsy
 肖老鼠	shiau lau tsy
 小來	shiau le	55
-小羅嗦	shiau lhou sou
+小囉嗦	shiau lhou sou
 蕭梨	shiau li	55
 小鯉花	shiau li huo
 小練練	shiau li li	55
@@ -35326,7 +35326,6 @@ import_tables:
 小籠包子	shiau lon pau tsy	55
 小樂惠	shiau loq wei
 小囉嗦	shiau lou sou	55
-小羅嗦	shiau lou sou	55
 小路	shiau lu
 燒賣	shiau ma
 小麥	shiau maq
@@ -35387,8 +35386,7 @@ import_tables:
 肖兔	shiau thu
 肖兔子	shiau thu tsy
 小店	shiau ti
-小吊碼子	shiau tiau mo tsy	55
-小鳥碼子	shiau tiau mo tsy	55
+小刁碼子	shiau tiau mo tsy	55
 銷釘	shiau tin
 小產	shiau tshae
 小赤佬	shiau tshaq lau	55
@@ -37758,9 +37756,8 @@ import_tables:
 摘帽子	tsaq mau tsy
 扎面子	tsaq mi tsy	55
 扎奶	tsaq na	55
-摘奶	tsaq na
 扎硬	tsaq ngan	55
-𡇠硬	tsaq ngan	55
+𡇠硬	tsaq ngan
 扎扮	tsaq pae	55
 則啥	tsaq soq	55
 則啥	tsaq sou	55
@@ -37768,9 +37765,10 @@ import_tables:
 扎壯	tsaq tsaon	55
 側轉	tsaq tsoe	55
 側轉來	tsaq tsoe le
+扎仔	tsaq tsy	55
 𡇠仔	tsaq tsy
 扎注	tsaq tsyu	55
-𡇠注	tsaq tsyu	55
+𡇠注	tsaq tsyu
 扎肥田粉	tsaq vi di fen
 早晏	tsau ae	55
 早晏晚頭	tsau ae mae deu
@@ -38420,7 +38418,6 @@ import_tables:
 穿針屁眼	tshoe cin phi ngae	55
 穿堂	tshoe daon
 竄頭	tshoe deu	55
-躥頭	tshoe deu	55
 攛風調	tshoe fon diau	55
 穿鞋	tshoe gha
 穿鞋爿	tshoe gha bae
@@ -38651,7 +38648,6 @@ import_tables:
 出天露水	tshyuq thi lu syu
 出天相	tshyuq thi shian	55
 出䠷	tshyuq thiau	418
-出跳	tshyuq thiau
 出𪙞牙	tshyuq tshae ngo
 出瘄子	tshyuq tshu tsy
 出豬泥	tshyuq tsyu gni
@@ -39351,7 +39347,6 @@ import_tables:
 碗盞	un tsae	578
 碗盞敲腐	un tsae khau vu
 碗蔥	un tshon	55
-碗桌底	un tsoq ti	55
 碗足底	un tsoq ti	55
 蛙泳	uo ion
 搲垃圾	uo la shi
@@ -39811,7 +39806,6 @@ import_tables:
 皇曆	waon liq
 黃龍港	waon lon kaon
 黃虻	waon man	55
-黃蜢	waon man	55
 黃猛蛇	waon man dzo	55
 黃梅天	waon mei thi
 黃黴天	waon mei thi	55
