@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.09.02"
+version: "2021.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -25954,6 +25954,9 @@ import_tables:
 還只	gha ciq	55
 鞋口	gha kheu	55
 鞋帽店	gha mau ti	55
+啊呣	gha mh
+啊呣啊呣	gha mh gha mh
+啊呣一口	gha mh iq kheu
 鞋面	gha mi
 鞋幫	gha paon
 合撲	gha phoq
@@ -26597,6 +26600,8 @@ import_tables:
 孃舅	gnian jieu
 孃舅外甥	gnian jieu nga san	55
 孃家	gnian ko
+喵呣	gnian mh
+喵呣喵呣	gnian mh gnian mh
 喵呣貓	gnian mh mae
 孃戲孃倒	gnian shi gnian tau	55
 娘嬉䏘	gnian shi phiq
@@ -29998,6 +30003,8 @@ import_tables:
 黏牙齒	kni ngo tsy	55
 黏呶那呶	kni nhu nha nhu
 黏搭搭	kni taq taq	55
+喵呣	knian mh
+喵呣喵呣	knian mh knian mh
 喵呣貓	knian mh mae	55
 喵嗚貓	knian u mae	55
 扭扭作作	knieu knieu tsoq tsoq
@@ -36821,6 +36828,7 @@ import_tables:
 忒陡	thaq teu
 塌塌𤿏	thaq thaq nei	55
 塔塔響	thaq thaq shian	55
+沓沓腐	thaq thaq vu
 脫套換套	thaq thau wun thau
 忒推扳	thaq thei pae
 忒低	thaq ti
