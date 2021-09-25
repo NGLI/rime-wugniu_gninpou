@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.09.24"
+version: "2021.09.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -25570,7 +25570,7 @@ import_tables:
 泛登	fae ten	55
 泛登陸阿二	fae ten loq aq gni
 翻天山	fae thi sae	55
-翻頂倒	fae tin tau	418
+翻丁倒	fae tin tau	418
 反則	fae tsaq	55
 翻轉做重梅	fae tsoe tsou dzon mei
 翻肚	fae tu	55
@@ -31420,7 +31420,7 @@ import_tables:
 弄好挔好	lon hau i hau
 龍蝦	lon huo
 礱糠	lon khaon
-籠褲	lon khu	55
+籠褲	lon khu
 襱褲	lon khu	55
 礱穀	lon koq	55
 弄過去	lon kou chi
@@ -36529,7 +36529,7 @@ import_tables:
 倒篤筋倒	tau toq cin tau	55
 倒篤大糊	tau toq dou wu
 倒篤和尚	tau toq ghou zaon
-倒篤頂倒	tau toq tin tau	55
+倒篤丁倒	tau toq tin tau	55
 倒扎鉤	tau tsaq keu	55
 倒竈	tau tsau
 倒作	tau tsoq	55
@@ -37291,7 +37291,7 @@ import_tables:
 頂缺個	tin chiuq goq
 頂基本	tin ci pen
 頂簡單	tin ci tae
-頂僵骨粒	tin cian kuaq liq	55
+丁僵骨粒	tin cian kuaq liq	55
 頂真	tin cin
 頂進	tin cin	55
 頂貴	tin ciu
@@ -37346,7 +37346,6 @@ import_tables:
 頂難得	tin nae taq
 頂硬	tin ngan
 丁硬骨粒	tin ngan kuaq liq	55
-頂硬骨粒	tin ngan kuaq liq	55
 頂噁心	tin oq shin
 頂漂亮	tin phiau lian
 頂怕	tin pho
@@ -37358,7 +37357,7 @@ import_tables:
 頂小個	tin shiau goq
 叮心咬肺	tin shin ngau fi
 丁獅子	tin sy tsy	55
-頂倒	tin tau	55
+丁倒	tin tau	55
 頂推扳	tin thei pae
 頂推扳個	tin thei pae ghoq
 頂推扳個	tin thei pae goq
