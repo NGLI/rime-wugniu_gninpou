@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.09.25"
+version: "2021.09.26"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -25655,7 +25655,6 @@ import_tables:
 發情	faq jin
 弗尷弗尬	faq kae faq ka	55
 發嗝	faq kaq	55
-發隔	faq kaq	55
 發酵	faq kau
 發酵粉	faq kau fen
 發棵	faq khou
@@ -26987,10 +26986,8 @@ import_tables:
 黑叉	haq tsho	55
 黑黢黢	haq tshyuq tshyuq	55
 黑子	haq tsy
-黑㿳㿳	haq tsy tsy	55
 黑茲茲	haq tsy tsy	55
 郝鄔安常	haq u ei-e dzaon
-黑烏暗常	haq u ei-e dzaon
 黑飯	haq vae	55
 黑飯樹葉	haq vae zyu yiq
 黑無常	haq vu dzaon	55
@@ -28287,7 +28284,6 @@ import_tables:
 渠拉兩人	jiq laq lian gnin	578
 直利利	jiq li li	55
 直儱侗	jiq lon thon	55
-直籠統	jiq lon thon	55
 直落	jiq loq
 直落三	jiq loq sae
 直落到寧波	jiq loq tau gnin poq
@@ -28748,7 +28744,6 @@ import_tables:
 高靴套鞋	kau shiu thau gha	55
 告訴	kau su
 教書先生	kau syu shi san	55
-絞刀	kau tau
 鉸刀	kau tau
 糕點	kau ti
 高低牀	kau ti zaon	55
@@ -32693,7 +32688,6 @@ import_tables:
 篾青	miq chin	55
 蜜糖	miq daon
 搣特郎	miq daq laon	55
-搣陀螺	miq daq laon	55
 蜜甜	miq di	55
 蜜筒瓜	miq don kuo	55
 蜜蜂	miq fon
