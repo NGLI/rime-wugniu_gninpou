@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.09.26"
+version: "2021.09.30"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -28865,7 +28865,6 @@ import_tables:
 掐算	khaq soe
 磕倒做禮拜	khaq tau tsou li pa
 磕跌	khaq tiq	55
-克嗔	khaq tshen	55
 刻忖	khaq tshen	55
 客車	khaq tsho
 瞌𥅻	khaq tshon	578
@@ -39783,9 +39782,7 @@ import_tables:
 黃胖日頭	waon phaon gniq deu	55
 黃胖虛脹	waon phaon shiu cian
 旺三無程	waon sae vu jin	55
-旺三無陳	waon sae vu jin	55
 旺三無程	waon sae wu- jin	55
-旺三無陳	waon sae wu- jin	55
 黃蜆	waon shi	55
 旺興	waon shin	55
 旺興腳夾	waon shin ciaq kaq
@@ -39945,11 +39942,9 @@ import_tables:
 餛飩皮子	wen den bi tsy	55
 渾濁濁	wen dzoq dzoq	55
 混滾	wen kuen	55
-渾滾	wen kuen
 混滾掏漿	wen kuen dau cian
 混滾加側棱	wen kuen ko tsaq len	55
 混滾帶側棱	wen kuen ta tsaq len	55
-混滾帶側楞	wen kuen ta tsaq len	55
 混滾倒賬	wen kuen tau cian	55
 混裏混沌	wen li wen den
 渾身	wen shin
@@ -40891,7 +40886,6 @@ import_tables:
 前腳後頭	zhi ciaq gheu deu	55
 前腳後跟	zhi ciaq gheu ken	55
 自羯自	zhi ciq zhi
-自掏自撐	zhi dau zhi tshan	55
 自道自撐	zhi dau zhi tshan	55
 前頭	zhi deu
 前駝背	zhi dou pei	55
@@ -40930,7 +40924,6 @@ import_tables:
 自曉得	zhi shiau taq	55
 自做㕶頭	zhi tsou ng deu
 徐洋	zhi yan
-自造廠	zhi zau chian	55
 自造腔	zhi zau chian	55
 斜白眼	zhia baq ngae	55
 斜風斜雨	zhia fon zhia yu
