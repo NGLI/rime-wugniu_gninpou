@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.10.24"
+version: "2021.10.28"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -15106,6 +15106,7 @@ import_tables:
 悳	taq
 惪	taq
 得	taq
+𢔶	taq
 鍀	taq
 嘚	taq
 掇	taq
@@ -22266,9 +22267,7 @@ import_tables:
 白荼荼	baq du du
 白肚裁	baq du ze
 白殕	baq fu	55
-白夫夫	baq fu fu	55
-白殕殕	baq fu fu	55
-白膚膚	baq fu fu	55
+白乎乎	baq fu fu	55
 白殕冬瓜	baq fu ton kuo
 白懈懈	baq ga ga
 白鞋	baq gha	55
@@ -23931,7 +23930,7 @@ import_tables:
 真真忙煞	cin cin maon saq
 真真心焦煞	cin cin shin ciau saq
 經摺	cin ciq
-金彈	cin dae
+金蛋	cin dae
 正堂房	cin daon vaon	55
 真道話	cin dau wo	55
 井頭	cin dei	55
@@ -26818,6 +26817,7 @@ import_tables:
 肉餅子燉蛋	gnioq pin tsy ten dae	55
 肉鬆	gnioq son
 肉絲	gnioq sy
+肉師父	gnioq sy vu
 肉絲糊臘	gnioq sy wu laq	55
 肉搭搭	gnioq taq taq
 肉頓頓	gnioq ten ten
@@ -29520,8 +29520,8 @@ import_tables:
 該𩏷草	kiq ciau tshau
 該幀	kiq cin
 該真	kiq cin
-該結草	kiq ciq tshau
-該結草紙	kiq ciq tshau tsy
+該𢆞草	kiq ciq tshau
+該𢆞草紙	kiq ciq tshau tsy
 該句	kiq ciu
 該捲	kiq ciu
 該句言話	kiq ciu ghae wo	1
@@ -29633,8 +29633,8 @@ import_tables:
 該一張桌凳	kiq iq cian tsoq ten
 該一張紙頭	kiq iq cian tsy deu
 該一𩏷草	kiq iq ciau tshau
-該一結草	kiq iq ciq tshau
-該一結草紙	kiq iq ciq tshau tsy
+該一𢆞草	kiq iq ciq tshau
+該一𢆞草紙	kiq iq ciq tshau tsy
 該一埭	kiq iq da
 該一埭河	kiq iq da ghou
 該一埭路	kiq iq da lu
@@ -30376,7 +30376,6 @@ import_tables:
 骨骨挺	kuaq kuaq thin	55
 刮刮轉	kuaq kuaq tsoe
 骨勒勒	kuaq laq laq	55
-骨辣辣	kuaq laq laq	55
 刮剌斯黃	kuaq laq sy waon
 骨勒斯圓	kuaq laq sy yu	55
 骨裏斯直	kuaq li sy jiq
@@ -30584,7 +30583,6 @@ import_tables:
 懶嘆氣	lae thae chi	55
 懶嘆心頭氣	lae thae shin deu chi
 懶塌塌	lae thaq thaq	55
-懶塔塔	lae thaq thaq	55
 懶拖拖	lae thou thou	55
 爛唾水	lae thu syu	418
 爛草子	lae tshau tsy
@@ -32905,7 +32903,6 @@ import_tables:
 木耳蓮心湯	moq er li shin thaon
 木杮	moq fi	55
 木杮柴	moq fi za
-木乎乎	moq fu fu	55
 木夫夫	moq fu fu	418
 木軋鉗	moq gaq ji
 墨盒	moq ghaq
@@ -33049,7 +33046,6 @@ import_tables:
 嬲話	na wo	55
 嬲話東西	na wo ton shi
 嬲和	na wu	578
-嬲胡	na wu	55
 嬲和嬉頭	na wu shi deu	55
 嬲和東西	na wu ton shi	578
 奶油	na yeu
@@ -34977,9 +34973,8 @@ import_tables:
 掃地垟	sau di yan
 燥大糊	sau dou wu
 燥風水	sau fon syu	55
-燥乎乎	sau fu fu	55
 燥夫夫	sau fu fu	55
-燥乎些色	sau fu shiq saq	55
+燥夫些色	sau fu shiq saq	55
 燥㸆飯	sau khau vae	55
 燥烤飯	sau khau vae	55
 燥𤿩𤿩	sau khoq khoq	55
@@ -37637,7 +37632,7 @@ import_tables:
 董家跳	ton ko thiau
 冬菇	ton ku
 冬瓜	ton kuo
-冬瓜白殕殕	ton kuo baq fu fu
+冬瓜白乎乎	ton kuo baq fu fu
 凍勒刮刮抖	ton laq kuaq kuaq teu
 棟樑	ton lian
 東擄擄	ton lou lou
