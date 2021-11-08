@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.10.28"
+version: "2021.11.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -6754,9 +6754,9 @@ import_tables:
 歹	te
 傣	te
 戴	te
-獃	te	5%
-騃	te	5%
-呆	te	5%
+獃	te	6%
+騃	te	6%
+呆	te	6%
 態	the
 台	the
 苔	the
@@ -33499,6 +33499,7 @@ import_tables:
 呆頓頓	nge ten ten	55
 呆的剝落	nge tiq poq loq	55
 呆忖忖	nge tshen tshen	55
+呆子	nge tsy
 牛軛	ngeu aq	55
 牛皮糖	ngeu bi daon
 牛鼻桊	ngeu biq ciun	55
