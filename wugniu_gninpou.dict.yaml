@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.11.08"
+version: "2021.11.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -26727,7 +26727,6 @@ import_tables:
 人交關長	gnin ciau kuae jian
 認真道話	gnin cin dau wo
 認真話	gnin cin wo	55
-韌接接	gnin ciq ciq	55
 韌結結	gnin ciq ciq	55
 人頭	gnin deu
 人案	gnin e	418
@@ -27800,7 +27799,6 @@ import_tables:
 一個	iq goq
 一個唱紅臉一個唱黑臉	iq goq tshaon ghon li iq goq tshaon haq li
 一一仄仄	iq iq tsaq tsaq	55
-𨉖𨉖側側	iq iq tsaq tsaq	55
 一件棒頭糖	iq ji baon deu daon
 一件頭	iq ji deu
 一件小糖	iq ji shiau daon
@@ -35301,7 +35299,6 @@ import_tables:
 燒晝飯	shiau cieu vae
 燒酒楊梅	shiau cieu yan mei	55
 小襟	shiau cin	55
-小尐尐	shiau ciq ciq
 小結結	shiau ciq ciq	55
 小鬼	shiau ciu
 小鬼頭	shiau ciu deu
