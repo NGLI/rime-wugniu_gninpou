@@ -39,6 +39,10 @@
 - [宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[备用链接](https://ionkaon.gitee.io/phin-in-tutorial/)）
 - [吳語學堂（字音、詞彙查詢）](https://www.wugniu.com/)
 
+## 其他
+
+- [寧波話輸入方案（變體方案）](https://github.com/ionkaon/rime-gninpou-variant)
+
 ## 鳴謝
 
 - [Rime](https://rime.im/)
