@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2021.12.25"
+version: "2022.01.03"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -30038,7 +30038,7 @@ import_tables:
 扭痧氣	knieu so chi	55
 肉肉	knion knion
 原方	kniu faon	55
-家棚精	ko ban cin
+家敗精	ko ba cin
 加氣	ko chi
 加氣煩惱	ko chi vae nau	55
 加氣煩腦	ko chi vae nau
@@ -33707,6 +33707,7 @@ import_tables:
 涴漿頭色	ou cian deu saq	1
 捼腳	ou ciaq	55
 屙精寶	ou cin pau
+捼進寶	ou cin pau
 涴精寶	ou cin pau	1
 屙浸草	ou cin tshau
 涴浸草	ou cin tshau	55
@@ -37973,7 +37974,7 @@ import_tables:
 撮球員	tshaq jieu yu
 拆空	tshaq khon	55
 插科打諢	tshaq khou tan wen
-拆家棚	tshaq ko ban
+拆家敗	tshaq ko ba
 撮過	tshaq kou
 撮過去	tshaq kou chi
 撮過來	tshaq kou le
