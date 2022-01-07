@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.01.03"
+version: "2022.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -33586,11 +33586,13 @@ import_tables:
 暖房	noe vaon
 暖壺	noe wu
 膿線頭	non shi deu	55
+挼記	nou ci
 儂個	nou ghoq	40000
 儂個	nou goq	578
 儂要啥人抱	nou iau so gnin bau
 儂要啥人抱	nou iau soq gnin bau
 儂要啥人抱	nou iau sou gnin bau
+挼一記	nou iq ci
 儂慢慢叫走	nou mae mae ciau tseu
 糯米	nou mi
 糯米絞	nou mi gau
@@ -36293,6 +36295,7 @@ import_tables:
 打箍	tan chieu	55
 打抽豐	tan chieu fon
 打秋風	tan chieu fon
+打記	tan ci
 打家賊	tan cia zaq
 打賬	tan cian
 打腳埭	tan ciaq da
