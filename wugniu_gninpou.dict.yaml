@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.01.07"
+version: "2022.01.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7739,7 +7739,6 @@ import_tables:
 筷	khuae
 環	guae	5%
 𫩙	guae
-甩	guae	0%
 摜	guae
 儇	huae	20000
 嬛	huae
@@ -18455,6 +18454,7 @@ import_tables:
 蕝	dzyuq
 𢴭	dzyuq
 說	syuq
+説	syuq
 涮	syuq
 刷	syuq
 唰	syuq
@@ -33566,11 +33566,11 @@ import_tables:
 噥噥響	nhon nhon shian
 呶筋拔骸	nhu cin baq hae
 嗯克嗯克	nk khaq nk khaq	55
-孲𤘅	nk nga	578
+孲伢	nk nga	578
 㕶㕶	nk nk
 唔唔	nk nk
 嗯嗯吱吱	nk nk tsy tsy
-孲𤘅	nk nka	578
+孲伢	nk nka	578
 扤頭	nkaq deu	55
 啞啞船	nko nko zoe
 拿周	no cieu	55
