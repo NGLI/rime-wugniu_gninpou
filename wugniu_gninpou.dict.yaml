@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.01.08"
+version: "2022.01.14"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2916,7 +2916,6 @@ import_tables:
 眱	yi
 蛦	yi
 遺	yi
-痬	yi
 肄	yi
 蚰	yi	0%
 頤	yi
@@ -40457,9 +40456,7 @@ import_tables:
 現成人	yi jin gnin	55
 沿街	yi ka
 延過	yi kou
-痬過	yi kou
 延來延去撥儂還	yi le yi chi paq nou wae
-痬來痬去撥儂還	yi le yi chi paq nou wae
 蜒螺	yi lou	55
 姨嬤	yi mho	55
 姨嬤頭	yi mho deu	55
