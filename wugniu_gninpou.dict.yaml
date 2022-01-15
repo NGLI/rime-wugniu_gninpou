@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.01.14"
+version: "2022.01.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -27076,7 +27076,6 @@ import_tables:
 黑心	haq shin
 嚇勢勢	haq syu syu	418
 哈答糊塗	haq taq wu du	55
-瞎搭糊塗	haq taq wu du
 瞎𠡒百𠡒	haq tei paq tei	55
 瞎𠡒西𠡒	haq tei shi tei	55
 黑炭	haq thae
@@ -40046,6 +40045,7 @@ import_tables:
 蝴蝶	wu diaq
 蝴蝶結	wu diaq ciq
 梧桐樹	wu don zyu
+糊塗塗	wu du du
 胡䗂	wu fu	55
 湖後	wu gheu
 吳語	wu gniu
