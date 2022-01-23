@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2022.01.18"
+version: "2022.01.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1166,10 +1166,18 @@ use_preset_vocabulary: true
 行程卡	yin jin kha
 行程碼	yin jin mo
 風險區域
+高風險
 高風險地區
+高風險區域
+中風險
 中風險地區
+中風險區域
+低風險
 低風險地區
+低風險區域
+中高風險
 中高風險地區
+中高風險區域
 核酸檢測
 核酸證明
 核酸檢測報告
