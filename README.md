@@ -36,8 +36,9 @@
 
 ## 資源
 
-- [宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[备用链接](https://ionkaon.gitee.io/phin-in-tutorial/)）
-- [吳語學堂（字音、詞彙查詢）](https://www.wugniu.com/)
+- 文字教程：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[备用链接](https://ionkaon.gitee.io/phin-in-tutorial/)）
+- 視頻教程：[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
+- 字音、詞彙查詢：[吳語學堂](https://www.wugniu.com/)
 
 ## 其他
 
