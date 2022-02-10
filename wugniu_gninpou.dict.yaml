@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.02.01"
+version: "2022.02.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22134,7 +22134,7 @@ import_tables:
 懊煞	au saq	55
 拗手	au shieu	55
 拗手勁	au shieu jin	55
-拗鬥	au teu	55
+拗斗	au teu	55
 嶴底	au ti	55
 鏖糟	au tsau	418
 鏖糟氣	au tsau chi	55
