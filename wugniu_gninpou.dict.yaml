@@ -23473,13 +23473,11 @@ import_tables:
 張郎灣	cian laon uae
 張網	cian maon
 張網貨	cian maon hou	55
-張貓	cian mau	55
 醬毛蟹	cian mau ha
 仗毛力	cian mau liq	55
 帳門	cian men	55
 張貓	cian mhau	55
 脹面癗	cian mi lei	55
-借米聾	cian mi lon	55
 將面聾	cian mi lon	55
 僵硬	cian ngan
 僵硬骨粒	cian ngan kuaq liq	55
@@ -23487,7 +23485,6 @@ import_tables:
 漿板蛋	cian pae dae
 漿板湯果	cian pae thaon kou
 漿板圓子	cian pae yu tsy
-醬樸氣	cian phoq chi	55
 醬醭氣	cian phoq chi
 槳柄	cian pin	55
 將補	cian pu	55
@@ -23600,7 +23597,6 @@ import_tables:
 腳屙爛臭	ciaq ou lae chieu
 腳涴爛臭	ciaq ou lae chieu	55
 腳板	ciaq pae
-腳班	ciaq pae	55
 腳板面	ciaq pae mi	55
 腳髈	ciaq phaon
 腳魄	ciaq phaq	55
@@ -23803,7 +23799,6 @@ import_tables:
 叫𧐖	ciau li	55
 膠遼官話	ciau liau kun wo
 照面	ciau mi
-絞面	ciau mi
 照明直談	ciau min jiq dae
 澆馬路	ciau mo lu
 焦芽氣	ciau ngo chi	55
@@ -23865,7 +23860,6 @@ import_tables:
 酒家	cieu ko
 周家寮	cieu ko liau
 晝過	cieu kou	578
-晝過晝過	cieu kou cieu kou
 晝過頭	cieu kou deu	578
 晝過飯	cieu kou vae	578
 九梗	cieu kuan
@@ -23888,7 +23882,6 @@ import_tables:
 韭菜	cieu tshe
 韭菜芽	cieu tshe ngo	55
 酒盅	cieu tson
-周捉	cieu tsoq	55
 糾作	cieu tsoq	55
 糾作煞	cieu tsoq saq
 酒足飯飽	cieu tsoq vae pau
@@ -23998,7 +23991,6 @@ import_tables:
 精瘦刮搭	cin seu kuaq taq	55
 京戲	cin shi
 真鏾雞	cin shi ci
-真騸雞	cin shi ci
 正向	cin shian
 金手鐲	cin shieu jiuq
 正式	cin shiq	40000
