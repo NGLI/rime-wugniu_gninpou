@@ -22605,7 +22605,6 @@ import_tables:
 蒲薺扁窄窄	bu ji pi tsaq tsaq
 步鴣	bu ku	55
 篰籃	bu lae	55
-𥳖籃	bu lae
 蒲帽	bu mau	55
 蒲包	bu pau
 菩薩	bu saq
@@ -22661,7 +22660,6 @@ import_tables:
 欠大	chi dou
 棲蟲	chi dzon	55
 千恩萬謝	chi en vae zhia
-去風	chi fon	55
 起風	chi fon
 氣呼大呼	chi fu da fu	55
 起戇聲	chi gaon shin
@@ -22791,13 +22789,12 @@ import_tables:
 搶毛	chian mau	55
 搶翁	chian on	55
 嗆拍	chian phaq	55
-嗆潑	chian phaq
 羌餅	chian pin	55
 槍笆	chian po	55
 搶三	chian sae	55
 腔勢	chian syu
 搶犯	chian vae	55
-綽號	chiaq ghau
+綽號	chiaq ghau	55
 翹辮子	chiau bi tsy
 趬趬	chiau chiau	55
 翹翹板	chiau chiau pae
@@ -22902,7 +22899,6 @@ import_tables:
 秤花	chin huo	55
 清花理白	chin huo li baq
 青衣	chin i
-青櫻櫻	chin in in	55
 清一色	chin iq saq
 趁高鐵	chin kau thiq
 秤鉤	chin keu
@@ -23050,9 +23046,8 @@ import_tables:
 喫反耙	chioq fae bo
 喫翻桌	chioq fae tsoq	55
 喫髮螳螂	chioq faq daon laon	55
-喫髮頭郎	chioq faq deu laon	55
+喫髮頭螂	chioq faq deu laon	55
 喫髮螂	chioq faq laon	55
-喫髮郎	chioq faq laon	55
 喫軋頭	chioq gaq deu
 喫絞絲	chioq gau sy	55
 喫搞勢	chioq gau syu	55
@@ -23176,7 +23171,6 @@ import_tables:
 趞趞奔來	chiq chiq pen le
 䜉䜉嚓嚓	chiq chiq tshaq tshaq
 䜉䜉觸觸	chiq chiq tshoq tshoq
-切切促促	chiq chiq tshoq tshoq	55
 七張	chiq cian
 七九	chiq cieu
 漆帚	chiq cieu	55
@@ -23196,7 +23190,6 @@ import_tables:
 七搞八搞	chiq gau paq gau	55
 緝鞋底	chiq gha ti	55
 七號	chiq ghau
-切號	chiq ghau	55
 挈後腳	chiq gheu ciaq	55
 挈個	chiq ghoq
 七二	chiq gni
@@ -23288,6 +23281,7 @@ import_tables:
 漆匠肚皮	chiq zhian du bi
 七十	chiq zyuq
 七十一	chiq zyuq iq	55
+去風	chiu fon	55
 虧勒	chiu laq	578
 虧煞	chiu saq	578
 虧煞是	chiu saq zy
@@ -31205,7 +31199,7 @@ import_tables:
 涼帽戴篷	lian mau te bon	55
 兩門題目	lian men di moq
 亮眼	lian ngae
-亮眼𥳖	lian ngae bu	55
+亮眼篰	lian ngae bu	55
 亮眼頭絲	lian ngae deu sy	55
 亮眼瞎	lian ngae haq	55
 亮眼瞎子	lian ngae haq tsy	55
@@ -33471,7 +33465,6 @@ import_tables:
 藕色	ngeu saq
 藕絲糖	ngeu sy daon	55
 牛草篰	ngeu tshau bu
-牛草𥳖	ngeu tshau bu
 牛草籃	ngeu tshau lae	55
 偶湊	ngeu tsheu	55
 牛車盤	ngeu tsho bun	55
@@ -35127,7 +35120,7 @@ import_tables:
 向白籃	shian baq lae	55
 鑲盆	shian ben	55
 香肥皂	shian bi zau	55
-鯗𥳖	shian bu	55
+鯗篰	shian bu	55
 響器	shian chi
 相親	shian chin
 鑲金牙齒	shian cin ngo tshy
@@ -36545,7 +36538,6 @@ import_tables:
 倒掛眉毛	tau kuo mi mau	55
 倒㼑	tau li	55
 刀籠篰	tau lon bu	55
-刀籠𥳖	tau lon bu
 刀絡殼	tau loq khoq
 倒沒	tau maq	55
 到門	tau men	55
