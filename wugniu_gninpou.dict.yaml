@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.02.10"
+version: "2022.02.12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22501,8 +22501,7 @@ import_tables:
 病字頭	bin zy deu	55
 𨂅𨂅	biq biq	55
 別別牢	biq biq lau
-別別跳	biq biq thiau	55
-𨂅𨂅跳	biq biq thiau
+𨂅𨂅跳	biq biq thiau	55
 蹩腳	biq ciaq
 蹩腳貨	biq ciaq hou	55
 別針	biq cin
@@ -22595,12 +22594,12 @@ import_tables:
 埠頭	bu dei
 埠頭	bu deu
 伏豆芽	bu deu ngo	55
-孵豆芽	bu deu ngo	55
+孵豆芽	bu deu ngo
 埠頭黃鱔	bu deu waon yi
 蒲團	bu doe
 蒲鞋	bu gha
 伏秧子	bu ian tsy	55
-孵秧子	bu ian tsy	55
+孵秧子	bu ian tsy
 蒲薺	bu ji	578
 蒲薺甜嫩嫩	bu ji di nen nen
 蒲薺扁窄窄	bu ji pi tsaq tsaq
@@ -22615,11 +22614,11 @@ import_tables:
 莆仙語	bu shi gniu
 莆仙話	bu shi wo
 伏小雞	bu shiau ci	55
-孵小雞	bu shiau ci	55
+孵小雞	bu shiau ci
 蒲墩	bu ten	55
 步梯	bu the
 伏胎蛋	bu the dae	55
-孵胎蛋	bu the dae	55
+孵胎蛋	bu the dae
 步梯	bu thi
 蒲宗殼	bu tson khoq
 簿子	bu tsy
@@ -30412,14 +30411,13 @@ import_tables:
 瓜子臉	kuo tsy li
 賴皮	la bi
 賴伏	la bu	55
-賴孵	la bu	55
+賴孵	la bu
 賴伏雞	la bu ci	55
-賴孵雞	la bu ci	55
+賴孵雞	la bu ci
 賴伏雞娘	la bu ci gnian	55
-賴孵雞娘	la bu ci gnian	55
-賴伏雞變鴨	la bu ci pi aq
+賴孵雞娘	la bu ci gnian
 賴伏草雞	la bu tshau ci	55
-賴孵草雞	la bu tshau ci	55
+賴孵草雞	la bu tshau ci
 賴臭皮	la chieu bi	55
 賴賬	la cian
 癩頭	la dei
@@ -30710,8 +30708,6 @@ import_tables:
 老白酒	lau baq cieu	55
 老白蝨	lau baq saq	55
 癆病	lau bin
-老伏雞	lau boq ci
-老伏卵	lau boq loe
 老伏卵	lau boq lou	55
 老婆	lau bou
 老婆婆	lau bou bou
@@ -32987,7 +32983,7 @@ import_tables:
 嬲和嬉頭	na ngou shi deu	55
 嬲和東西	na ngou ton shi	578
 倷䏘	na phiq
-倷卜	na poq
+倷撥	na poq
 奶香	na shian	55
 奶嬸	na shin	55
 奶水	na syu
@@ -41535,8 +41531,10 @@ import_tables:
 強盜弗進五女門	jian dau vaq cin ng gniu men
 強盜勿進五女門	jian dau vaq cin ng gniu men
 五月弗娶妻	ng yuq vaq tshyu chi
-六月弗孵雞	loq yuq vaq bu ci
+六月弗伏雞	loq yuq vaq bu ci
 五月勿娶妻	ng yuq vaq tshyu chi
+六月勿伏雞	loq yuq vaq bu ci
+六月弗孵雞	loq yuq vaq bu ci
 六月勿孵雞	loq yuq vaq bu ci
 寧波姑娘坐花轎	gnin pou ku gnian zou huo jiau
 寧波姑娘坐花轎	gnin poq ku gnian zou huo jiau
@@ -46972,6 +46970,7 @@ import_tables:
 落雨淋勿着	loq yu lin vaq zoq
 眼睛大隻小	ngae cin dou tsaq shiau
 看張東西樣樣要	khi-khe cian ton shi yan yan iau
+賴伏雞變鴨	la bu ci pi aq
 賴孵雞變鴨	la bu ci pi aq
 眼大嘸光	ngae dou mh kuaon
 蛋大無黃	dae dou vu uaon
