@@ -16,28 +16,28 @@
 
 ## 幫助文檔
 
-[rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
+[rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
 
-### 安裝方法
+### [安裝方法](https://ngli.github.io/安装方法/安装方法.html) （[備用鏈接](https://ngli.gitee.io/安装方法/安装方法.html)）
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html) （[备用链接](https://ngli.gitee.io/安装方法/Windows.html)）
-- [macOS](https://ngli.github.io/安装方法/macOS.html) （[备用链接](https://ngli.gitee.io/安装方法/macOS.html)）
-- [Linux](https://ngli.github.io/安装方法/Linux.html) （[备用链接](https://ngli.gitee.io/安装方法/Linux.html)）
-- [Android](https://ngli.github.io/安装方法/Android.html) （[备用链接](https://ngli.gitee.io/安装方法/Android.html)）
-- [iOS](https://ngli.github.io/安装方法/iOS.html) （[备用链接](https://ngli.gitee.io/安装方法/iOS.html)）
+- [Windows](https://ngli.github.io/安装方法/Windows.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Windows.html)，[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
+- [macOS](https://ngli.github.io/安装方法/macOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/macOS.html)）
+- [Linux](https://ngli.github.io/安装方法/Linux.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Linux.html)）
+- [Android](https://ngli.github.io/安装方法/Android.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Android.html)）
+- [iOS](https://ngli.github.io/安装方法/iOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/iOS.html)）
 
-### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用)）
+### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用)）
 
-- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#新老派)）
-- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#模糊音)）
-- [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#输入提示)）
-- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#反查)）
-- [自定義短語](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#自定义短语)）
+- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#新老派)）
+- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#模糊音)）
+- [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#输入提示)）
+- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#反查)）
+- [自定義短語](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#自定义短语)）
 
 ## 資源
 
-- 文字教程：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[备用链接](https://ionkaon.gitee.io/phin-in-tutorial/)）
-- 視頻教程：[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
+- 吳拼教程（文字）：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[備用鏈接](https://ionkaon.gitee.io/phin-in-tutorial/)）
+- 吳拼教程（視頻）：[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
 - 字音、詞彙查詢：[吳語學堂](https://www.wugniu.com/)
 
 ## 其他
