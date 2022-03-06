@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.02.21"
+version: "2022.03.06"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -32095,7 +32095,6 @@ import_tables:
 嘸響嘸動	mh shian mh don
 嘸手柱	mh shieu dzyu
 嘸心嘸事	mh shin mh zy	55
-嘸心想	mh shin shian
 嘸心相	mh shin shian	55
 嘸心倒事	mh shin tau zy
 嘸心到事	mh shin tau zy	55
@@ -35518,9 +35517,9 @@ import_tables:
 性煞	shin saq	55
 心塞眼閉	shin saq ngae pi	55
 心塞塞	shin saq saq	55
-心想	shin shian
 心相	shin shian	55
 聲響	shin shian
+心相好	shin shian hau
 心相壞	shin shian ua
 伸手	shin shieu
 星宿	shin shieu
