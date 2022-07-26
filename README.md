@@ -56,7 +56,7 @@
 
 ## 聯繫
 
-[Electric Sheep](https://github.com/shinzoqchiuq)：
+[Shin Zoqchiuq](https://github.com/shinzoqchiuq)：
 
 - 郵箱：shinzoqchiuq@outlook.com
 - QQ：1613023143
