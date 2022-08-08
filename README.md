@@ -14,9 +14,9 @@
 - [寧波方言資料整理](https://github.com/ionkaon/data) (CC BY 4.0)
 - [寧波話【八股文】](https://github.com/ionkaon/gninpou-essay) (LGPLv3)
 
-## 幫助文檔
+## [幫助文檔](https://github.com/NGLI/rime-wugniu_gninpou/wiki)（[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
 
-[rime-wugniu_gninpou Wiki](https://github.com/NGLI/rime-wugniu_gninpou/wiki) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
+### [音系及拼音方案](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/音系及拼音方案)）
 
 ### [安裝方法](https://ngli.github.io/安装方法/安装方法.html) （[備用鏈接](https://ngli.gitee.io/安装方法/安装方法.html)）
 
