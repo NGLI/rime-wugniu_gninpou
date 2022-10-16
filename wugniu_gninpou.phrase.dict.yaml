@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2022.08.06"
+version: "2022.10.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
