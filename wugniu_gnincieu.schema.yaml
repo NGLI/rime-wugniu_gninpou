@@ -2,14 +2,14 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wugniu_gninton
-  name: 吳語（鄞東）
+  schema_id: wugniu_gnincieu
+  name: 吳語（鄞州）
   version: "0.7.1"
   author:
     - Shin Zoqchiuq <shinzoqchiuq@outlook.com>
   description: |
     採用學堂式吳語拼音
-    鄞東平原鍾公廟一帶口音
+    鍾公廟、首南附近口音
     https://www.wugniu.com/
     https://github.com/NGLI/rime-wugniu_gninpou/
   dependencies:
@@ -19,13 +19,14 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [🈑, 🄰]
+    states: [ 中文, 西文 ]
   - name: full_shape
-    states: [🌙, 🌕]
+    states: [ 半角, 全角 ]
   - name: simplification
-    states: [漢, 汉]
+    reset: 1
+    states: [ 漢字, 汉字 ]
   - name: ascii_punct
-    states: [。，, ．，]
+    states: [ 。，, ．， ]
 
 engine:
   processors:
@@ -158,7 +159,7 @@ luna_pinyin:
   enable_user_dict: false # 關閉用戶詞典
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
-  tips: 〔拼音倒查〕         # 輸入前提示〔拼音倒查〕
+  tips: 〔反查〕          # 輸入前提示〔反查〕
   closing_tips: 〔吳語（鄞州）〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -172,7 +173,7 @@ stroke:
   enable_user_dict: false # 關閉用戶詞典
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
-  tips: 〔筆畫倒查〕         # 輸入前提示〔筆畫倒查〕
+  tips: 〔反查〕          # 輸入前提示〔反查〕
   closing_tips: 〔吳語（鄞州）〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
@@ -190,7 +191,7 @@ custom_phrase:
 reverse_lookup:
   tags: [luna_pinyin, stroke] # 掛在翻譯器luna_pinyin和stroke上
   overwrite_comment: true     # 覆蓋其他提示
-  dictionary: wugniu_gninpou  # 倒查所得為寧波吳拼
+  dictionary: wugniu_gninpou  # 反查所得爲寧波吳拼
   comment_format:
     __include: translator/comment_format
 
