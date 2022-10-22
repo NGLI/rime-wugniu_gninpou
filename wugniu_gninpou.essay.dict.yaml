@@ -1498,6 +1498,7 @@ use_preset_vocabulary: true
 乾又熱	ki-ke yeu gniq
 乾和	ji ghou
 乾咳	ki-ke khaq
+乾咽	ki-ke iq
 乾哥	ki-ke kou
 乾哥哥	ki-ke kou kou
 乾哭	ki-ke khoq
@@ -1512,7 +1513,6 @@ use_preset_vocabulary: true
 乾噦	ki-ke iuq
 乾嚎	ki-ke ghau
 乾嚥	ki-ke i
-乾嚥	ki-ke iq
 乾圖	ji du
 乾土	ki-ke thu
 乾地	ki-ke di
@@ -7399,7 +7399,6 @@ use_preset_vocabulary: true
 卜日	poq gniq
 卜易	poq yi
 占人	ci gnin
-占卜	ci poq
 占場兒	ci jian er
 占斷	ci toe
 占星學	ci shin yuq
@@ -18146,7 +18145,6 @@ use_preset_vocabulary: true
 揹出來	pei tshyuq le
 揹出去	pei tshyuq chi
 揹到	pei tau
-揹勿動	pei vaq don
 揹包	pei pau
 揹包客	pei pau khaq
 揹包袱	pei pau boq
@@ -28685,8 +28683,8 @@ use_preset_vocabulary: true
 籃架	lae ko
 籃狀	lae dzaon
 籃球架	lae jieu ko
-籌劃	jieu waq
 籌度	jieu doq
+籌畫	jieu waq
 籌集	jieu jiq
 籌集資金	jieu jiq tsy cin
 籍沒	zhiq maq
@@ -30208,8 +30206,6 @@ use_preset_vocabulary: true
 背到	bei tau
 背到	pei tau
 背前背後	pei zhi pei gheu
-背勿動	bei vaq don
-背勿動	pei vaq don
 背包	pei pau
 背包客	pei pau khaq
 背包袱	pei pau boq
