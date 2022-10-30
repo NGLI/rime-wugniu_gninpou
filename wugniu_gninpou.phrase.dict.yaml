@@ -966,6 +966,9 @@ use_preset_vocabulary: true
 干覽鎮
 干覽人	ki-ke lae gnin
 干覽
+干𥗽鎮
+干𥗽人	ki-ke lae gnin
+干𥗽
 普陀區
 普陀人	phu dou gnin
 普陀縣
@@ -4155,6 +4158,10 @@ use_preset_vocabulary: true
 肯落去	khen loq chi
 背弗動	pei vaq don	1
 背勿動	pei vaq don
+背弗動	bei vaq don	1
+背勿動	bei vaq don
+揹弗動	pei vaq don	1
+揹勿動	pei vaq don
 脫弗了	thaq vaq liau	1
 脫勿了	thaq vaq liau
 小膽鬼	shiau tae kuei
