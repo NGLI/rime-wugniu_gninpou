@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2022.10.31"
+version: "2022.11.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -731,6 +731,8 @@ use_preset_vocabulary: true
 不敢自專	paq ki-ke zy tsoe
 不敢越雷池一步	paq ki-ke yuq lei dzy iq bu
 不敢越雷池一步	paq ki-ke yuq lei ji iq bu
+不整不齊	paq cin paq zhi
+不整齊花	paq cin zhi huo
 不斷	paq doe
 不斷創新	paq doe tshaon shin
 不斷加強	paq doe cia jian
@@ -2125,6 +2127,8 @@ use_preset_vocabulary: true
 亞該亞	ia ke ia
 亞軍獎牌	ia ciun cian ba
 亞速爾羣島	ia soq er jiun tau
+亞齊	ia ji
+亞齊省	ia ji san
 亡了	vaon lei
 亡了	vaon liau
 交上	kau zaon
@@ -3261,6 +3265,7 @@ use_preset_vocabulary: true
 休養生息	shieu ian sen shiq
 伯仲之間	paq dzon tsy ci
 伯利茲	paq li tsy
+伯夷叔齊	paq yi soq ji
 伯拉第斯拉瓦	paq lha di sy lha ngo
 伯樂	paq loq
 伯爾	paq er
@@ -3678,6 +3683,7 @@ use_preset_vocabulary: true
 修身齊家	shieu shin ji cia
 修道人	shieu dau gnin
 修長	shieu jian
+修齊	shieu ji
 俯仰之間	fu gnian tsy ci
 俯伏	fu voq
 俯拾皆是	fu zyuq cie zy
@@ -4633,6 +4639,7 @@ use_preset_vocabulary: true
 克爾白	khaq er baq
 克羅埃	khaq lou e
 克羅埃西亞	khaq lou e shi ia
+克羅齊	khaq lou ji
 克耳文	khaq er ven
 克莉奧佩特拉	khaq li au bei daq lha
 克莉絲汀	khaq li sy thin
@@ -5994,6 +6001,7 @@ use_preset_vocabulary: true
 切空間	chiq khon ci
 切腹自殺	chiq foq zy saq
 切莫	chiq moq
+切齊	chiq zhi
 刊行	khae yin
 刎頸之交	ven cin tsy ciau
 刑事處分	yin zy tshyu ven
@@ -6237,6 +6245,7 @@ use_preset_vocabulary: true
 剪去	ci chiu
 剪斷	ci doe
 剪牡丹喂牛	ci meu tae iu ngeu
+剪齊	ci zhi
 副主教	fu tsyu ciau
 副交感神經	fu ciau ki-ke zyun cin
 副團長	fu doe cian
@@ -7001,6 +7010,8 @@ use_preset_vocabulary: true
 北邊兒	poq pi er
 北鎮滿族自治縣	poq tsyun mun dzoq zy dzyu yu
 北非國家	poq fi koq cia
+北齊	poq ji
+北齊書	poq ji syu
 匝加利亞	tsaq cia li ia
 匠人	zhian gnin
 匡時濟世	khuaon zy ci syu
@@ -7370,6 +7381,8 @@ use_preset_vocabulary: true
 南門二	nei-nae men er
 南開大學	nei-nae khe da ghoq
 南非國家	nei-nae fi koq cia
+南齊	nei-nae ji
+南齊書	nei-nae ji syu
 博世	poq syu
 博古兒	poq ku er
 博士生	poq zy san
@@ -7655,6 +7668,7 @@ use_preset_vocabulary: true
 參展團	tshae tsoe doe
 參差	tshen tshy
 參差不齊	tshen tshy paq ji
+參差不齊	tshen tshy paq zhi
 參差錯落	tshen tshy tshou loq
 參度	tshae doq
 參悟	tshae nu
@@ -7864,6 +7878,7 @@ use_preset_vocabulary: true
 叔于田	soq yu di
 叔伯	soq pan
 叔伯	soq paq
+叔齊	soq ji
 取了	tshyu laq
 取信於人	tshyu shin yu gnin
 取值範圍	tshyu jiq vae wei
@@ -8453,8 +8468,8 @@ use_preset_vocabulary: true
 吳市吹簫	wu zy tshyu shiau
 吳自牧	ng zy moq
 吳自牧	wu zy moq
-吳趼人	ng kni zyun
-吳趼人	wu kni zyun
+吳趼人	ng ci zyun
+吳趼人	wu ci zyun
 吳頭楚尾	wu deu tshu vi
 吵了	tshau laq
 吵了	tshau lei
@@ -8631,6 +8646,7 @@ use_preset_vocabulary: true
 周圍神經	cieu wei zyun cin
 周大福	cieu da foq
 周家	cieu ko
+周思齊	cieu sy ji
 周易	cieu yi
 周朝	cieu ciau
 周樹人	cieu zyu zyun
@@ -12202,6 +12218,7 @@ use_preset_vocabulary: true
 大黃	da waon
 大黃蜂	da waon fon
 大黑松	dou haq son
+大齊	da ji
 大齋	da tsa
 大齋期	da tsa ji
 大齋節	da tsa ciq
@@ -12339,6 +12356,7 @@ use_preset_vocabulary: true
 夫妻之間	fu chi tsy ci
 夫妻本是同林鳥	fu chi pen zy don lin gniau
 夫妻生活	fu chi sen waq
+夫婦齊眉	fu vu ji mei
 夫子自道	fu tsy zy dau
 夫家	fu ko
 夫家人	fu ko gnin
@@ -12369,6 +12387,7 @@ use_preset_vocabulary: true
 失風被捕	syuq fon bei bu
 失魂落魄	syuq wen loq phaq
 夷人	yi gnin
+夷齊	yi ji
 夸人	khua gnin
 夸人	khuo gnin
 夸父逐日	khua vu dzoq zyuq
@@ -14069,8 +14088,10 @@ use_preset_vocabulary: true
 對過兒	tei kou er
 對錯不分	tei tshou paq fen
 對面不見人	tei mi paq ci gnin
+對齊	tei zhi
 導尿	dau gniau
 導尿管	dau gniau kun
+導德齊禮	dau taq ji li
 導生制	dau san tsyu
 導磁率	dau dzy liq
 導致死亡	dau tsy sy vaon
@@ -14263,6 +14284,7 @@ use_preset_vocabulary: true
 小鹿兒	shiau loq er
 小鹿兒心頭撞	shiau loq er shin deu dzaon
 小鼓搗油兒	shiau ku tau yeu er
+小齊	shiau ji
 少不了	shiau paq liau
 少不更事	shiau paq ken zy
 少了	shiau laq
@@ -14541,6 +14563,8 @@ use_preset_vocabulary: true
 岔兒	tsho er
 岔劈兒	tsho phiq er
 岔批兒	tsho phi er
+岡仁波齊	kaon zyun pou ji
+岡仁波齊峯	kaon zyun pou ji fon
 岡巒起伏	kaon loe chi voq
 岩石學	ngae zaq yuq
 岫巖滿族自治縣	jieu ngae mun dzoq zy dzyu yu
@@ -14561,6 +14585,7 @@ use_preset_vocabulary: true
 崎嶇難走	chi chiu nae tseu
 崎嶇難走	ji chiu nae tseu
 崑山科技大學	khuen sae khou ji da ghoq
+崗仁波齊	kaon zyun pou ji
 崗位責任	kaon wei tsaq zyun
 崗位責任制	kaon wei tsaq zyun tsyu
 崙背	len pei
@@ -14568,6 +14593,7 @@ use_preset_vocabulary: true
 崢嶸歲月	tsen yon sei yuq
 崩壞	pon wa
 崩壞作用	pon wa tsoq yon
+嶄齊	tsae zhi
 嶽得爾歌	ngoq taq er kou
 巍山彝族回族自治縣	wei sae yi dzoq wei dzoq zy dzyu yu
 巔峯狀態	ti fon dzaon the
@@ -14975,6 +15001,7 @@ use_preset_vocabulary: true
 帕米爾	phaq mi er
 帕米爾山脈	phaq mi er sae maq
 帕米爾高原	phaq mi er kau gniu
+帕絲齊克	phaq sy ji khaq
 帕蒂爾	phaq ti er
 帕麗斯希爾頓	phaq li sy shi er ten
 帖兒	thiaq er
@@ -15490,6 +15517,7 @@ use_preset_vocabulary: true
 弟子孩兒	di tsy ghe er
 弦長	yi jian
 弦鳴樂器	yi min yuq chi
+弧帨齊輝	wu sei ji huei
 弧線長	wu shi jian
 弧長	wu jian
 弧長參數	wu jian tshae su
@@ -15645,6 +15673,7 @@ use_preset_vocabulary: true
 待嫁女兒心	de ko gniu er shin
 待會兒	de wei er
 待機時間	de ci zy ci
+徇齊	syun ji
 很久了	hen cieu lei
 很久沒有	hen cieu maq yeu
 很久沒有	hen cieu mhaq yeu
@@ -16632,6 +16661,8 @@ use_preset_vocabulary: true
 截止時間	jiq tsy zy ci
 截止頻率	jiq tsy bin liq
 截長補短	jiq jian pu toe
+截齊	jiq zhi
+戮力齊心	loq liq ji shin
 戰了	ci laq
 戰了	tsoe laq
 戰個	ci ghoq
@@ -16717,6 +16748,7 @@ use_preset_vocabulary: true
 戴錶	ta piau
 戴震	te tsyun
 戴高樂	te kau loq
+戴齊	te zhi
 戶長	wu cian
 房交會	vaon ciau wei
 房謀杜斷	vaon meu du toe
@@ -17559,6 +17591,7 @@ use_preset_vocabulary: true
 拉魯	lha lu
 拉麪	lha mi
 拉麪店	lha mi ti
+拉齊	lha zhi
 拉齊奧	lha ji au
 拋出去	phau tshyuq chi
 拋去	phau chi
@@ -18498,6 +18531,7 @@ use_preset_vocabulary: true
 擺錘	pa zei
 擺長	pa jian
 擺雲鑼兒	pa yun lou er
+擺齊	pa zhi
 擾人	zhiau zyun
 擾人清夢	zhiau zyun chin mon
 攀登架	phae ten ko
@@ -19113,7 +19147,10 @@ use_preset_vocabulary: true
 整行字	cin ghaon zy
 整間	cin kae
 整集	cin jiq
-整齊乾淨	cin ji ki-ke zhin
+整齊乾淨	cin zhi ki-ke zhin
+整齊劃一	cin zhi waq iq
+整齊清潔	cin zhi chin ciq
+整齊花	cin zhi huo
 敵人	diq gnin
 敵友不分	diq yeu paq fen
 敵對行爲	diq tei yin wei
@@ -19228,6 +19265,7 @@ use_preset_vocabulary: true
 文身斷髮	ven shin doe faq
 文選集	ven soe jiq
 文集	ven jiq
+文齊福不齊	ven ji foq paq ji
 斑頭雁	pae deu yi
 斗南一人	teu nei-nae iq gnin
 斗大	teu dou
@@ -19243,6 +19281,7 @@ use_preset_vocabulary: true
 斗羅大陸	teu lou da loq
 斗轉參橫	teu tsoe sen wan
 斗酒學士	teu cieu yuq zy
+斗重山齊	teu dzon sae ji
 料度	liau doq
 料豆兒	liau deu er
 料頭兒	liau deu er
@@ -20331,6 +20370,7 @@ use_preset_vocabulary: true
 普拉提	phu lha di
 普拉斯尼克	phu lha sy gni khaq
 普拉瑪娜蘇達	phu lha ma na su daq
+普拉齊克	phu lha ji khaq
 普林斯頓大學	phu lin sy ten da ghoq
 普渡大學	phu du da ghoq
 普照大地	phu ciau da di
@@ -21370,6 +21410,7 @@ use_preset_vocabulary: true
 李乾德	li ji taq
 李乾龍	li ji lon
 李先生	li shi san
+李克齊	li khaq ji
 李劼人	li chiq zyun
 李千娜	li chi na
 李大同	li da don
@@ -21736,6 +21777,7 @@ use_preset_vocabulary: true
 格瓦拉	kaq ngo lha
 格磴兒	kaq ten er
 格致中學	kaq tsy tson ghoq
+格致誠正修齊	kaq tsy jin cin shieu ji
 格雷氏解剖學	kaq lei zy ka phou yuq
 格魯吉亞人	kaq lu ciq ia gnin
 栽進去	tse cin chi
@@ -22100,6 +22142,7 @@ use_preset_vocabulary: true
 標語牌	piau gniu ba
 標間	piau kae
 標題音樂	piau di in yuq
+標齊	piau zhi
 樞機主教	syu ci tsyu ciau
 模擬放大器	mou gni faon da chi
 模特兒	mou daq er
@@ -22776,6 +22819,7 @@ use_preset_vocabulary: true
 比率	pi liq
 比畫	pi waq
 比翼鳥	pi yiq gniau
+比翼齊飛	pi yiq ji fi
 比色分析	pi saq fen shiq
 比較分析	pi ciau fen shiq
 比較圖書館學	pi ciau du syu kun yuq
@@ -22783,6 +22827,7 @@ use_preset_vocabulary: true
 比較容易	pi ciau yon yi
 比較文學	pi ciau ven yuq
 比過去	pi kou chi
+比量齊觀	pi lian ji kun
 毛了	mau laq
 毛了手腳	mau laq shieu ciaq
 毛利率	mau li liq
@@ -23017,6 +23062,7 @@ use_preset_vocabulary: true
 汗褂兒	ghei-ghe kuo er
 汗褟兒	ghei-ghe taq er
 汗顏	ghei-ghe yi
+汞齊	kon ji
 江南四大才子	kaon nei-nae sy da dze tsy
 江南大學	kaon nei-nae da ghoq
 江參	kaon tshae
@@ -23780,6 +23826,7 @@ use_preset_vocabulary: true
 津津樂道	cin cin loq dau
 洪大	ghon da
 洪家	ghon ko
+洪福齊天	ghon foq ji thi
 洪荒世界	ghon huaon syu ka
 洪都拉斯	ghon tu lha sy
 洪都百鍊生	ghon tu paq li sen
@@ -24228,6 +24275,7 @@ use_preset_vocabulary: true
 湊了	tsheu laq
 湊趣兒	tsheu tshyu er
 湊集	tsheu jiq
+湊齊	tsheu zhi
 湖人	wu zyun
 湖人隊	wu zyun dei
 湖北人	wu poq gnin
@@ -24567,6 +24615,7 @@ use_preset_vocabulary: true
 火耕水種	hou kan syu tson
 火蟲兒	hou dzon er
 火鳥	hou gniau
+火齊	hou ji
 灰不溜丟	huei paq lhieu tieu
 灰分	huei ven
 灰櫬兒	huei tshen er
@@ -24679,9 +24728,13 @@ use_preset_vocabulary: true
 烏菲茲美術館	u fi tsy mei zyuq kun
 烏蘇拉	u su lha
 烏雲蔽日	u yun bi zyuq
+烏魯木齊	u lu moq ji
+烏魯木齊市	u lu moq ji zy
+烏魯木齊縣	u lu moq ji yu
 烏鴉	u ia
 烏鴉嘴	u ia tsyu
 烏鴉座	u ia zou
+烏齊雅	u ji ia
 烏龜殼	u ciu khoq
 烘乾	hon ki-ke
 烘乾機	hon ki-ke ci
@@ -25760,6 +25813,7 @@ use_preset_vocabulary: true
 班珠爾	pae tsyu er
 班禪額爾德尼	pae zoe ngaq er taq gni
 班輩兒	pae pei er
+班達亞齊	pae daq ia ji
 班集體	pae jiq thi
 現世	yi syu
 現代人	yi de gnin
@@ -26482,6 +26536,7 @@ use_preset_vocabulary: true
 田長霖	di jian lin
 田間	di ci
 田間管理	di ci kun li
+田齊	di ji
 由不得你	yeu paq taq gni
 由人	yeu gnin
 由他去	yeu tha chi
@@ -26979,6 +27034,7 @@ use_preset_vocabulary: true
 百家樂	paq cia loq
 百家爭鳴	paq cia tsen min
 百家講壇	paq cia kaon dae
+百家齊鳴	paq cia ji min
 百帕	paq phaq
 百年大計	paq gni da ci
 百年戰爭	paq gni ci tsen
@@ -27006,6 +27062,7 @@ use_preset_vocabulary: true
 百眼巨人	paq ngae jiu gnin
 百舸爭流	paq khou tsen lieu
 百花爭豔	paq huo tsen yi
+百花齊放	paq huo ji faon
 百萬分之一	paq vae fen tsy iq
 百萬赫茲	paq vae haq tsy
 百藥之長	paq yaq tsy jian
@@ -27943,7 +28000,9 @@ use_preset_vocabulary: true
 禁治產人	cin dzyu tshae gnin
 禁節兒	cin ciq er
 禍不單行	ghou paq tae yin
+福壽天齊	foq zhieu thi ji
 福壽綿長	foq zhieu mi jian
+福壽齊天	foq zhieu ji thi
 福娃	foq ua
 福州人	foq cieu gnin
 福建人	foq ci gnin
@@ -27958,6 +28017,8 @@ use_preset_vocabulary: true
 福爾馬林	foq er mo lin
 福生于微	foq san yu vi
 福祿貝爾	foq loq pei er
+福與天齊	foq yu thi ji
+福齊南山	foq ji nei-nae sae
 禪學	zoe yuq
 禪家	zoe cia
 禮壞樂崩	li wa yuq pon
@@ -28170,6 +28231,7 @@ use_preset_vocabulary: true
 積極分子	ciq jiq ven tsy
 積極參加	ciq jiq tshae ko
 積極參與	ciq jiq tshae yu
+積甲山齊	ciq ciaq sae ji
 穎慧過人	yin wei kou gnin
 穗兒	zei er
 穗狀	zei dzaon
@@ -28231,6 +28293,7 @@ use_preset_vocabulary: true
 穿山甲	tshoe sae ciaq
 穿戴	tshoe ta
 穿戴整齊	tshoe ta cin ji
+穿戴整齊	tshoe te cin zhi
 穿梭外交	tshoe sou nga ciau
 穿梭轟炸	tshoe sou hon tso
 穿甲彈	tshoe ciaq dae
@@ -28521,6 +28584,7 @@ use_preset_vocabulary: true
 等的	ten tiq
 等着你	ten dzoq gni
 等着你	ten zoq gni
+等量齊觀	ten lian ji kun
 等閒人物	ten ghae zyun vaq
 筋節兒	cin ciq er
 筒狀	don dzaon
@@ -29385,6 +29449,7 @@ use_preset_vocabulary: true
 續傳	dzoq dzoe
 續斷	dzoq doe
 續集	dzoq jiq
+續齊諧記	dzoq ji ye ci
 纏夾二先生	ji kaq gni shi san
 纏髻兒	ji ci er
 纔乾透	dze ki-ke theu
@@ -31483,6 +31548,7 @@ use_preset_vocabulary: true
 良家子	lian cia tsy
 良日	lian zyuq
 良率	lian liq
+良莠不齊	lian yeu paq ji
 良藥苦口利於病	lian yaq khu kheu li yu bin
 良藥苦口忠言逆耳	lian yaq khu kheu tson yi gniq er
 良辰吉日	lian zyun ciq zyuq
@@ -31573,6 +31639,7 @@ use_preset_vocabulary: true
 花秧兒	huo ian er
 花簇	huo tshoq
 花籽兒	huo tsy er
+花色齊全	huo saq ji dzoe
 花花世界	huo huo syu ka
 花芽分化	huo ngo fen huo
 花莛兒	huo din er
@@ -31894,6 +31961,7 @@ use_preset_vocabulary: true
 華南師範大學	wo nei-nae sy vae da ghoq
 華南理工大學	wo nei-nae li kon da ghoq
 華南銀行	wo nei-nae gnin ghaon
+華嚴一乘教義分齊章	wo gni iq jin ciau gni fen ji tsaon
 華夏銀行	wo gho gnin ghaon
 華威大學	wo uei da ghoq
 華岡藝術學校	wo kaon gni zyuq ghoq yau
@@ -32005,7 +32073,10 @@ use_preset_vocabulary: true
 萬里長江	vae li jian kaon
 萬里長空	vae li jian khon
 萬餘人	vae yu gnin
+萬馬齊喑	vae mo ji in
+萬馬齊瘖	vae mo ji in
 萬點大關	vae ti da kuae
+萬齊融	vae ji yon
 萵苣	u ciu
 萵苣	u jiu
 落了	loq laq
@@ -32198,8 +32269,10 @@ use_preset_vocabulary: true
 薩爾科齊	saq er khou ji
 薩爾茨堡	saq er dzy pau
 薩珊王朝	saq sae waon jiau
+薩科齊	saq khou ji
 薩米人	saq mi gnin
 薩非王朝	saq fi waon jiau
+薩齊瑪	saq ji mo
 薪傳	shin dzoe
 薪水階級	shin syu cie ciq
 薪火相傳	shin hou shian dzoe
@@ -32326,6 +32399,7 @@ use_preset_vocabulary: true
 蘭坪白族普米族自治縣	lae bin baq dzoq phu mi dzoq zy dzyu yu
 蘭學	lae yuq
 蘭州大學	lae cieu da ghoq
+蘭桂齊芳	lae kuei ji faon
 蘭花末兒	lae huo maq er
 蘭鄭長成品油管道	lae jin jian jin phin yeu kun dau
 蘭鄭長管道	lae jin jian kun dau
@@ -32934,6 +33008,7 @@ use_preset_vocabulary: true
 衝盹兒	tshon ten er
 衝自己	tshon zy ci
 衣不解帶	i paq ka ta
+衣冠齊楚	i kun ji tshu
 衣分	i ven
 衣帽間	i mau kae
 衣櫃	i guei
@@ -33146,6 +33221,7 @@ use_preset_vocabulary: true
 補考分數	pu khau fen su
 補考時間	pu khau zy ci
 補集	pu jiq
+裝備齊全	tsaon bei ji dzoe
 裝憨打呆	tsaon he tan te
 裝死	tsaon shi
 裝甲	tsaon ciaq
@@ -33291,6 +33367,7 @@ use_preset_vocabulary: true
 見報率	ci pau liq
 見天日	ci thi zyuq
 見得多了	ci taq tou lei
+見德思齊	ci taq sy ji
 見教	ci ciau
 見景生情	ci cin san jin
 見機行事	ci ci yin zy
@@ -33302,6 +33379,7 @@ use_preset_vocabulary: true
 見習醫生	ci zyuq i san
 見背	ci pei
 見證人	ci cin gnin
+見賢思齊	ci yi sy ji
 見過世面	ci kou syu mi
 見長	ci jian
 見面三分情	ci mi sae fen jin
@@ -33687,6 +33765,7 @@ use_preset_vocabulary: true
 設伏	shiq voq
 設備利用率	shiq bei li yon liq
 設備組長	shiq bei tsu cian
+設備齊全	shiq bei ji dzoe
 設櫃	shiq guei
 設計人員	shiq ci zyun yu
 設計大賽	shiq ci da se
@@ -34499,6 +34578,7 @@ use_preset_vocabulary: true
 貨櫃輪	hou guei len
 貨比三家	hou pi sae cia
 貨物櫃	hou vaq guei
+貨色齊全	hou saq ji dzoe
 貨運行	hou yun ghaon
 貨郎兒	hou laon er
 貨郎擔兒	hou laon tae er
@@ -35951,6 +36031,7 @@ use_preset_vocabulary: true
 達味	daq vi
 達味王	daq vi waon
 達喀爾	daq khaq er
+達嚕噶齊	daq lu kaq ji
 達姆達姆	daq m daq m
 達姆達姆	daq meu daq meu
 達官貴人	daq kun kuei zyun
@@ -36737,6 +36818,7 @@ use_preset_vocabulary: true
 都還不	tu wa paq
 都還沒	tu wa mhaq
 都鐸王朝	tu doq waon jiau
+都齊	tu ji
 鄂倫春自治旗	ngoq len tshyun zy dzyu ji
 鄂溫克族自治旗	ngoq uen khaq dzoq zy dzyu ji
 鄂爾多斯	ngoq er tou sy
@@ -36752,6 +36834,7 @@ use_preset_vocabulary: true
 鄉間	shian ci
 鄉間別墅	shian ci biq zyu
 鄉音未改鬢毛衰	shian in vi ke pin mau tshei
+鄒纓齊紫	tseu in ji tsy
 鄧世昌	den syu tshaon
 鄧加	den cia
 鄧鄧呆呆	den den te te
@@ -36776,9 +36859,12 @@ use_preset_vocabulary: true
 配樂師	phei yuq sy
 配的	phei tiq
 配送範圍	phei son vae wei
+配齊	phei zhi
 酒乾了	cieu ki-ke lei
 酒乾掉	cieu ki-ke diau
 酒乾盡	cieu ki-ke jin
+酒介齊眉	cieu cia ji mei
+酒介齊眉	cieu ka ji mei
 酒令兒	cieu lin er
 酒吧	cieu pa
 酒吧女	cieu pa gniu
@@ -37028,6 +37114,7 @@ use_preset_vocabulary: true
 金釵十二	cin tsho zyuq gni
 金鐘兒	cin tson er
 金陵大學	cin lin da ghoq
+金鼓齊鳴	cin ku ji min
 釕銱兒	liau tiau er
 釘了	tin laq
 釘人	tin gnin
@@ -37117,6 +37204,7 @@ use_preset_vocabulary: true
 銷售人員	shiau jieu zyun yu
 銷售渠道	shiau jieu jiu dau
 銷行	shiau yin
+鋁鎂齊	li mei ji
 鋤奸	dzu kae
 鋤強扶弱	dzu jian vu zhiaq
 鋤犁	dzu li
@@ -37265,6 +37353,7 @@ use_preset_vocabulary: true
 鐘錶行	tson piau ghaon
 鐘鼎之家	tson tin tsy cia
 鐘鼎人家	tson tin zyun cia
+鐘鼓齊鳴	tson ku ji min
 鐮刀狀	li tau dzaon
 鐮狀	li dzaon
 鐮狀細胞血症	li dzaon shi pau shiuq cin
@@ -37296,6 +37385,7 @@ use_preset_vocabulary: true
 鑑定人	ci din gnin
 鑑賞家	ci saon cia
 鑲了	shian laq
+鑼齊鼓不齊	lou ji ku paq ji
 鑽個	tsoe ghoq
 鑽個	tsoe goq
 鑽個洞	tsoe ghoq don
@@ -37562,6 +37652,7 @@ use_preset_vocabulary: true
 長短	jian toe
 長短不一	jian toe paq iq
 長短不齊	jian toe paq ji
+長短不齊	jian toe paq zhi
 長短句	jian toe ciu
 長短詩	jian toe sy
 長石	jian zaq
@@ -38852,6 +38943,7 @@ use_preset_vocabulary: true
 雙立人	saon liq zyun
 雙立人兒	saon liq gnin er
 雙筒望遠鏡	saon don vaon yu cin
+雙管齊下	saon kun ji gho
 雙耳瓶	saon er bin
 雙行	saon ghaon
 雙邊貿易	saon pi meu yiq
@@ -39494,6 +39586,7 @@ use_preset_vocabulary: true
 頭面人物	deu mi zyun vaq
 頭頭兒	deu deu er
 頭髮鬍子一把抓	deu faq wu tsy iq po tsa
+頭齊腳不齊	deu ji ciaq paq ji
 頸長	cin jian
 頹垣斷壁	dei yu doe piq
 頹壞	dei ua
@@ -39551,6 +39644,8 @@ use_preset_vocabulary: true
 類似於	lei zy yu
 類地行星	lei di yin shin
 類木行星	lei moq yin shin
+類烏齊	lei u ji
+類烏齊縣	lei u ji yu
 類鼻疽	lei biq tsyu
 顧不了	ku paq liau
 顧全大局	ku dzoe da jiuq
@@ -40469,6 +40564,7 @@ use_preset_vocabulary: true
 鴻圖大展	ghon du da ci
 鴻圖大展	ghon du da tsoe
 鴻圖大計	ghon du da ci
+鴻福齊天	ghon foq ji thi
 鴻雁	ghon yi
 鴻雁傳書	ghon yi dzoe syu
 鴻雁哀鳴	ghon yi e min
@@ -40763,23 +40859,140 @@ use_preset_vocabulary: true
 鼻黏膜	biq kni mou
 鼻黏膜炎	biq kni mou yi
 齆鼻兒	nhon biq er
+齊一	ji iq
+齊人	ji gnin
+齊人之福	ji gnin tsy foq
+齊人攫金	ji gnin ciuq cin
+齊伯林	ji paq lin
+齊傅楚咻	ji fu tshu shieu
+齊備	ji bei
+齊克果	ji khaq kou
+齊克隆	ji khaq lon
+齊內丁齊達內	ji nei tin ji daq nei
+齊全	ji dzoe
+齊出	ji tshyuq
+齊列	ji liq
+齊力	ji liq
+齊名	ji min
+齊名並價	ji min bin ko
+齊后破環	ji gheu phou wae
+齊唱	ji tshaon
+齊國	ji koq
 齊國人	ji koq gnin
+齊墩果	ji ten kou
+齊大非偶	ji dou fi ngeu
+齊大非耦	ji dou fi ngeu
+齊天	ji thi
 齊天大聖	ji thi da shin
+齊天大聖	ji thi dou shin
+齊天洪福	ji thi ghon foq
+齊奏	ji tseu
+齊女	ji gniu
+齊姜	ji cian
+齊威王	ji uei waon
+齊宣王	ji soe waon
 齊家	ji cia
 齊家治國	ji cia dzyu koq
+齊宿	ji soq
+齊射	ji zhiq
+齊年	ji gni
+齊心	ji shin
+齊心一力	ji shin iq liq
+齊心併力	ji shin pin liq
+齊心協力	ji shin yaq liq
+齊心合力	ji shin ghaq liq
+齊心同力	ji shin don liq
+齊心戮力	ji shin loq liq
+齊心滌慮	ji shin diq li
+齊截	ji jiq
+齊手	ji shieu
 齊打夥兒	zhi tan hou er
 齊打夯兒地	zhi tan han er di
 齊抓共管	ji tsa gon kun
+齊抓共管	ji tso gon kun
+齊攢	ji tsae
+齊放	ji faon
+齊文宣帝	ji ven soe ti
+齊明	ji min
+齊書	ji syu
+齊東	ji ton
+齊東野語	ji ton ya gniu
+齊柏林	ji paq lin
+齊柏林飛艇	ji paq lin fi thin
+齊格飛防線	ji kaq fi baon shi
+齊桓公	ji wun kon
+齊梁世界	ji lian syu ka
+齊梁體	ji lian thi
+齊楚	ji tshu
+齊民	ji min
+齊民要術	ji min iau zyuq
+齊河	ji ghou
+齊河縣	ji ghou yu
+齊湣王	ji min waon
+齊煙九點	ji i cieu ti
+齊物論	ji vaq len
+齊王	ji waon
+齊王捨牛	ji waon so ngeu
+齊瓦哥醫生	ji ngo kou i san
+齊白石	ji baq zaq
+齊盛	ji zhin
+齊盟	ji men
 齊眉	ji mei
 齊眉棍	ji mei kuen
+齊眉舉案	ji mei ciu ei-e
+齊秦	ji jin
+齊紈魯縞	ji wun lu kau
+齊給	ji ciq
 齊耳	ji er
+齊聚	ji zyu
+齊聚一堂	ji zyu iq daon
+齊聲	ji shin
+齊聲歡唱	ji shin hun tshaon
+齊肅	ji soq
+齊肩	ji ci
+齊腰	ji iau
+齊臻臻	ji tsen tsen
+齊莊	ji tsaon
+齊行	ji ghan
 齊行	ji yin
+齊衰	ji se
+齊詩	ji sy
+齊論	ji len
+齊諧	ji ye
+齊諾	ji noq
+齊豫	ji yu
+齊足並馳	ji tsoq bin dzy
+齊足並馳	ji tsoq bin ji
+齊足並驅	ji tsoq bin chiu
+齊進	ji cin
+齊達內	ji daq nei
+齊鐵恨	ji thiq ghen
 齊集	ji jiq
+齊頭	ji deu
+齊頭並進	ji deu bin cin
+齊頭式	ji deu shiq
+齊飛	ji fi
+齊首	ji shieu
+齊驅	ji chiu
+齊驅並駕	ji chiu bin cia
+齊驅並驟	ji chiu bin zeu
+齊魯	ji lu
+齊魯晚報	ji lu vae pau
+齊魯熱線	ji lu gniq shi
+齊鳴	ji min
+齊齊	ji ji
 齊齊哈爾	ji ji ha er
 齊齊哈爾市	ji ji ha er zy
+齊齊地	ji ji di
+齊齊整整	ji ji cin cin
+齊齊整整	zhi zhi cin cin
+齊齊的	ji ji tiq
 齊齊結結兒	zhi zhi ciq ciq er
+齊齒	ji tshy
+齊齒呼	ji tshy fu
 齋教	tsa ciau
 齎志沒地	ci tsy maq di
+齒如齊貝	tshy zyu ji pei
 齒更	tshy ken
 齒狀	tshy dzaon
 齒狀物	tshy dzaon vaq

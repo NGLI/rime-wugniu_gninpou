@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.11.06"
+version: "2022.11.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2198,8 +2198,8 @@ import_tables:
 芡	chi
 涀	chi
 菣	chi
-齊	ji	5%
-斉	ji	5%
+齊	ji	20%
+斉	ji	20%
 臍	ji
 薺	ji
 鱭	ji
@@ -24481,7 +24481,7 @@ import_tables:
 檯鐘	de tson
 待筵	de yi	55
 臺型	de yin
-隊排斬齊	dei ba tsae ji
+隊排斬齊	dei ba tsae zhi
 兌糖	dei daon	578
 兌糖個	dei daon ghoq	55
 兌糖人	dei daon gnin
