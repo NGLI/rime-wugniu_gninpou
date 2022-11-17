@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.11.15"
+version: "2022.11.17"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22872,7 +22872,6 @@ import_tables:
 青金糰	chin cin doe	55
 清蒸鰻筒	chin cin mun don
 親眷	chin ciu
-趁大巴	chin da pa
 清道夫	chin dau fu
 清頭	chin deu	55
 趁電梯	chin di thi
@@ -22884,6 +22883,7 @@ import_tables:
 秤砣	chin dou
 青大頭	chin dou dei
 青大頭	chin dou deu	55
+趁大巴	chin dou pa
 青大腫	chin dou tson	55
 清茶	chin dzo
 秤錘	chin dzyu
