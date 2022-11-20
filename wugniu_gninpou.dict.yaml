@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2022.11.18"
+version: "2022.11.20"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -33270,7 +33270,6 @@ import_tables:
 硬襞紙箱	ngan paq tsy shian
 硬碰硬	ngan phan ngan
 硬剝剝	ngan poq poq	55
-硬卜卜	ngan poq poq
 硬傷	ngan saon
 硬燥燥	ngan sau sau	55
 硬到底苦到死	ngan tau ti khu tau shi
@@ -39601,6 +39600,7 @@ import_tables:
 還魂酒	wae wen cieu	55
 還魂塑料	wae wen soq liau
 橫嶴	wan au
+橫道線	wan dau shi
 橫頭	wan deu	418
 橫頭多	wan deu tou
 橫愛司頭	wan e sy deu	55
