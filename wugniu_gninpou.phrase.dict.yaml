@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2022.12.11"
+version: "2022.12.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1274,6 +1274,8 @@ use_preset_vocabulary: true
 貓搭老鼠	mae taq lau tsy
 米老鼠	mi lau tsy
 米奇老鼠	mi ji lau tsy
+胭脂蟲	i ci dzon
+胭脂蟲紅	i ci dzon ghon
 學霸
 正能量
 負能量
