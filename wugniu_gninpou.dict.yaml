@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.01.27"
+version: "2023.02.12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -24758,6 +24758,7 @@ import_tables:
 地坋	di ven
 地袱蹵勩	di voq tshoq yi
 田橫頭	di wan deu	55
+電話號頭	di wo ghau deu
 電話擱掉	di wo koq diau
 電話擱落	di wo koq loq
 地垟	di yan	578
@@ -35319,6 +35320,7 @@ import_tables:
 手部絡頭	shieu bu loq deu	55
 手部路頭	shieu bu lu deu	55
 手氣	shieu chi
+手機號頭	shieu ci ghau deu
 收賬	shieu cian
 手腳	shieu ciaq
 手腳做忌	shieu ciaq tsou ji
