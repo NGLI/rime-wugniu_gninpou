@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.02.12"
+version: "2023.02.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -37698,7 +37698,7 @@ import_tables:
 早米	tsau mi	55
 遭眼	tsau ngae	55
 竈屋洞	tsau oq don	55
-竈偏間	tsau phi kae	55
+竈披間	tsau phi kae	55
 早半晌	tsau pun zaon	55
 早半晌飯	tsau pun zaon vae	55
 罩衫	tsau sae
