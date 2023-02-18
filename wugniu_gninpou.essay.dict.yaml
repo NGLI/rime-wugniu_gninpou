@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2023.02.12"
+version: "2023.02.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4584,6 +4584,7 @@ use_preset_vocabulary: true
 光功率	kuaon kon liq
 光化學	kuaon huo yuq
 光化學煙霧	kuaon huo yuq i vu
+光化學煙霧	kuaon huo yuq i wu-
 光圈範圍	kuaon chiu vae wei
 光大	kuaon da
 光大起來	kuaon da chi le

@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.02.15"
+version: "2023.02.18"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -25745,6 +25745,7 @@ import_tables:
 發癡	faq tshyu
 發出	faq tshyuq
 發橫財	faq wan dze
+發霧露	faq vu lu	55
 發霧露	faq wu- lu	55
 發洋財	faq yan dze
 弗上弗落	faq zaon faq loq	418
@@ -26323,6 +26324,7 @@ import_tables:
 下橫頭	gho wan deu	55
 下回	gho wei
 下圍	gho wei	55
+下霧露	gho vu lu	55
 下霧露	gho wu- lu	55
 紅鼻頭管	ghon baq deu kun	55
 紅皮老鼠	ghon bi lau tsy	55
