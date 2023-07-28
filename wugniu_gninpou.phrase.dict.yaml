@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2023.07.27"
+version: "2023.07.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1684,7 +1684,7 @@ use_preset_vocabulary: true
 尼格
 # 珊珊
 # 玲玲
-# 白海豚
+白海豚
 # 獅子山
 # 榕樹
 # 摩羯
@@ -1765,7 +1765,7 @@ use_preset_vocabulary: true
 # 欣欣
 莎莉嘉
 # 龍王
-# 天鴿
+天鴿
 麥莎
 # 啓德
 # 彩蝶
@@ -1775,7 +1775,7 @@ use_preset_vocabulary: true
 # 珍珠
 溫比亞
 # 榴蓮
-法茜
+法茜	faq shi
 桑美
 海貝思
 象神
