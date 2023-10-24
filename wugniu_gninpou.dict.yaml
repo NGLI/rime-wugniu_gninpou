@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.10.19"
+version: "2023.10.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -23881,8 +23881,8 @@ import_tables:
 韭菜	cieu tshe
 韭菜芽	cieu tshe ngo	55
 酒盅	cieu tson
-糾作	cieu tsoq	55
-糾作煞	cieu tsoq saq
+周捉	cieu tsoq	55
+周捉煞	cieu tsoq saq
 酒足飯飽	cieu tsoq vae pau
 九彎涼牀	cieu uae lian zaon
 晝飯	cieu vae	578
@@ -23961,7 +23961,7 @@ import_tables:
 金窠銀窠勿如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou
 金窠銀窠弗如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou	1
 金柑	cin ki-ke
-井乾刷淨	cin ki-ke syuq zhin
+鏡乾雪淨	cin ki-ke syuq zhin
 整個	cin kou
 真個	cin kou
 整梗	cin kuan
