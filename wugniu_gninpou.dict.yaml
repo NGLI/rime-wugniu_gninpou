@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.10.24"
+version: "2023.10.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7431,6 +7431,7 @@ import_tables:
 覧	lae
 纜	lae
 攬	lae
+𥗽	lae
 蘫	lae
 幱	lae
 燣	lae
@@ -19872,6 +19873,7 @@ import_tables:
 览	lae
 缆	lae
 揽	lae
+𬒗	lae
 榄	lae
 懒	lae
 滥	lae
