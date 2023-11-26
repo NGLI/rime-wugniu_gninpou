@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2023.11.25"
+version: "2023.11.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5441,6 +5441,8 @@ use_preset_vocabulary: true
 出口貿易	tshyuq kheu meu yiq
 出品人	tshyuq phin gnin
 出問題	tshyuq ven di
+出圈	tshyuq chiu
+出圈	tshyuq ji
 出圈兒	tshyuq chiu er
 出國留學	tshyuq koq lieu ghoq
 出埃及記	tshyuq a jiq ci
@@ -9734,7 +9736,9 @@ use_preset_vocabulary: true
 圈外人	chiu nga gnin
 圈椅	chiu i
 圈狀物	chiu dzaon vaq
+圈肥	ji vi
 圈裏人	chiu li gnin
+圈養	ji ian
 圉人	gniu gnin
 國一生	koq iq san
 國三生	koq sae san
