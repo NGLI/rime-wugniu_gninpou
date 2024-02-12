@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2024.02.11"
+version: "2024.02.12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -17730,6 +17730,7 @@ import_tables:
 熱	gniq
 業	gniq
 鄴	gniq
+䲜	gniq
 逆	gniq
 𠸺	gniq
 聶	gniq
