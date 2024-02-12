@@ -16,7 +16,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2024.02.11"
+version: "2024.02.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1854,6 +1854,9 @@ use_preset_vocabulary: true
 鍵盤俠
 僞娘
 頂流
+龍行龘龘	lon yin daq daq
+前程朤朤
+生活䲜䲜	sen waq gniq gniq
 
 # 西北太平洋和南中國海熱帶氣旋命名表
 達維
