@@ -49,6 +49,7 @@
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
 - [iRime](https://github.com/jimmy54/iRime)
+- [「仓」输入法](https://github.com/imfuxiao/Hamster)
 - [字海网，叶典网](http://yedict.com/)
 - [汉典](http://www.zdic.net/)
 - [古音小鏡](http://www.kaom.net/)
