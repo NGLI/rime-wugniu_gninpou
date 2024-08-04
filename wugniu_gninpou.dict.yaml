@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2024.07.30"
+version: "2024.08.04"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -16099,6 +16099,7 @@ import_tables:
 螖	waq
 秳	waq
 活	waq
+𱮏	waq
 抇	waq
 囫	waq
 砉	waq
