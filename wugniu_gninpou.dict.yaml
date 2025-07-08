@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2025.06.14"
+version: "2025.07.08"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -22811,6 +22811,7 @@ import_tables:
 笡面聳	chia mi son	55
 笡擺	chia pa	55
 笡擺笡	chia pa chia	418
+笡擺裏拉	chia pa li la
 笡對頭	chia tei deu	55
 笡對過	chia tei kou	418
 笡對面	chia tei mi	418
