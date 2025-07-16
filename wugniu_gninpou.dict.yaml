@@ -23543,9 +23543,9 @@ import_tables:
 槳柄	cian pin	55
 將補	cian pu	55
 將煞了	cian saq lei	55
-將煞𡀂	cian saq lei	55
+將煞𡀂	cian saq lei
 脹煞了	cian saq lei	55
-脹煞𡀂	cian saq lei	55
+脹煞𡀂	cian saq lei
 漲息	cian shiq	55
 漿水	cian syu	55
 脹膯	cian ten	55
@@ -24151,7 +24151,7 @@ import_tables:
 接生老孃	ciq san lau gnian	55
 漬煞	ciq saq	55
 漬煞孤老	ciq saq ku lau
-急煞了	ciq saq lei
+急煞了	ciq saq lei	1
 急煞𡀂	ciq saq lei
 急煞死	ciq saq shi
 摺扇	ciq shi
@@ -39378,9 +39378,9 @@ import_tables:
 煩煞一樣	vae saq iq yan	55
 煩煞介	vae saq ka	55
 煩煞可憐	vae saq khou li
-煩煞了	vae saq shi	1
+煩煞了	vae saq lei	1
+煩煞𡀂	vae saq lei
 煩煞死	vae saq shi
-煩煞𡀂	vae saq shi
 飯筲箕	vae sau ci	55
 飯筲箕籃	vae sau ci lae	55
 飯糝	vae sei	55
