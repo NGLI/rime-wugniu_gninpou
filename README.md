@@ -1,14 +1,16 @@
-# 寧波話吳語拼音輸入方案
+# 寧波閒話吳語拼音輸入方案
+
+[宁波闲话（简化字）](./README.wuu-Hans-CN.md) [普通话（简体字）](./README.cmn-Hans-CN.md) [普通話（繁體字）](./README.cmn-Hant-CN.md) [English](./README.en.md)
 
 配方：℞ **NGLI/rime-wugniu_gninpou**
 
-基於 [Rime](https://rime.im/) 的寧波話吳語拼音輸入方案。
+寧波閒話吳語拼音輸入方案，用 [Rime](https://rime.im/) 輸入法引擎做的個。
 
-含寧波（老三區）及鄞州（鍾公廟、首南街道附近）兩種口音的輸入方案。
+輸入方案包括兩種口音：寧波（老三區）搭鄞州（鍾公廟、首南街道該面邊）。
 
-拼音方案爲 [吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案)，同時兼容 [吳語協會式拼音](http://wu-chinese.com/romanization/)。
+拼音方案用個是 [吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系搭拼音方案)，也兼容 [吳語協會式拼音](http://wu-chinese.com/romanization/)。
 
-使用以下項目：
+做個辰光用了下底該幾隻項目：
 
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[甬江話字詞表](https://github.com/ionkaon/dictionary)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[寧波方言資料整理](https://github.com/ionkaon/data)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
@@ -16,23 +18,22 @@
 
 ## [幫助文檔](https://github.com/NGLI/rime-wugniu_gninpou/wiki)（[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
 
-### [音系及拼音方案](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/音系及拼音方案)）
+### [音系搭拼音方案](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系搭拼音方案) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/音系搭拼音方案)）
 
-### [安裝方法](https://ngli.github.io/安装方法/安装方法.html) （[備用鏈接](https://ngli.gitee.io/安装方法/安装方法.html)）
+### [安裝方法](https://github.com/NGLI/rime-wugniu_gninpou/wiki/安装-甬) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/安装-甬)）
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Windows.html)，[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
-- [macOS](https://ngli.github.io/安装方法/macOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/macOS.html)）
-- [Linux](https://ngli.github.io/安装方法/Linux.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Linux.html)）
-- [Android](https://ngli.github.io/安装方法/Android.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Android.html)）
-- [iOS](https://ngli.github.io/安装方法/iOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/iOS.html)）
+- [Windows](https://github.com/NGLI/rime-wugniu_gninpou/wiki/安装-甬#windows) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/安装-甬#windows)，[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
+- [Linux、macOS](https://github.com/NGLI/rime-wugniu_gninpou/wiki/安装-甬#linuxmacos) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/安装-甬#linuxmacos)）
+- [Android](https://github.com/NGLI/rime-wugniu_gninpou/wiki/安装-甬#android) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/安装-甬#android)）
+- [iOS](https://github.com/NGLI/rime-wugniu_gninpou/wiki/安装-甬#ios) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/安装-甬#ios)）
 
-### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用)）
+### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬)）
 
-- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#新老派)）
-- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#模糊音)）
-- [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#输入提示)）
-- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#反查)）
-- [自定義短語](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#自定义短语)）
+- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬#新老派) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬#新老派)）
+- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬#模糊音) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬#模糊音)）
+- [輸入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬#输入提示) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬#输入提示)）
+- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬#反查) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬#反查)）
+- [自定義短語](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-甬#自定义短语) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-甬#自定义短语)）
 
 ## 資源
 
@@ -44,7 +45,7 @@
 
 - [寧波話輸入方案（變體方案）](https://github.com/ionkaon/rime-gninpou-variant)
 
-## 鳴謝
+## 感謝
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
