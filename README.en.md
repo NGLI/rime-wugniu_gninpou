@@ -1,6 +1,6 @@
 # A Rime input schema for Ningbo Dialect
 
-[宁波闲话（简化字）](./README.wuu-Hans-CN.md) [寧波閒話（繁體字）](./README.md) [普通话（简体字）](./README.cmn-Hans-CN.md) [普通話（繁體字）](./README.cmn-Hant-CN.md)
+[宁波闲话（简）](./README.wuu-Hans-CN.md) [寧波閒話（繁）](./README.md) [普通话（简）](./README.cmn-Hans-CN.md) [普通話（繁）](./README.cmn-Hant-CN.md)
 
 Recipe: ℞ **NGLI/rime-wugniu_gninpou**
 

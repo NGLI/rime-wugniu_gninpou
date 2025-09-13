@@ -1,6 +1,6 @@
 # 宁波话吴语拼音输入方案
 
-[宁波闲话（简化字）](./README.wuu-Hans-CN.md) [寧波閒話（繁體字）](./README.md) [普通話（繁體字）](./README.cmn-Hant-CN.md) [English](./README.en.md)
+[宁波闲话（简）](./README.wuu-Hans-CN.md) [寧波閒話（繁）](./README.md) [普通話（繁）](./README.cmn-Hant-CN.md) [English](./README.en.md)
 
 配方：℞ **NGLI/rime-wugniu_gninpou**
 
