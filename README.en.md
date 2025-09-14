@@ -44,7 +44,7 @@ The following repositories are used to create this repository:
 
 ## Others
 
-- [Ningbo Dialect Input Schema (Variant Schema)](https://github.com/ionkaon/rime-gninpou-variant)
+- [Variant Input Schemas for Ningbo Dialect](https://github.com/ionkaon/rime-gninpou-variant)
 
 ## Acknowledgments
 

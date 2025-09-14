@@ -43,7 +43,7 @@
 
 ## 其他
 
-- [宁波话输入方案（变体方案）](https://github.com/ionkaon/rime-gninpou-variant)
+- [宁波话输入方案变体](https://github.com/ionkaon/rime-gninpou-variant)
 
 ## 感谢
 

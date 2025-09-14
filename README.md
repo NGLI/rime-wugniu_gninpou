@@ -43,7 +43,7 @@
 
 ## 其他
 
-- [寧波話輸入方案（變體方案）](https://github.com/ionkaon/rime-gninpou-variant)
+- [寧波話輸入方案變體](https://github.com/ionkaon/rime-gninpou-variant)
 
 ## 感謝
 
