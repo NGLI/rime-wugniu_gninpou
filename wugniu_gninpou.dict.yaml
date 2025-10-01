@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2025.09.22"
+version: "2025.10.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -29464,7 +29464,7 @@ import_tables:
 睏晝覺	khuen cieu kau
 睏彈簧	khuen dae waon
 睏彈簧眠牀	khuen dae waon mi zaon
-睏着	khuen dzoq	418
+睏着	khuen dzoq
 睏着了	khuen dzoq lei
 睏法	khuen faq
 睏個	khuen ghoq
@@ -29540,8 +29540,8 @@ import_tables:
 睏上去	khuen zaon chi
 睏上來	khuen zaon le
 睏前	khuen zhi
-睏着	khuen zoq	418
-睏着了	khuen zoq lei
+睏熟	khuen zoq	418
+睏熟了	khuen zoq lei
 寬賬	khun cian
 寬緊帶	khun cin ta	55
 窾空	khun khon
@@ -31086,7 +31086,7 @@ import_tables:
 𨀤倒	lei tau	55
 𨀤倒牌子	lei tau ba tsy	55
 𨀤倒就睏着	lei tau jieu khuen dzoq
-𨀤倒就睏着	lei tau jieu khuen zoq
+𨀤倒就睏熟	lei tau jieu khuen zoq
 礌鐵環	lei thiq guae	55
 擂釘板	lei tin pae
 洡碗刮盞	lei un kuaq tsae
@@ -31966,7 +31966,8 @@ import_tables:
 末腳名	maq ciaq min	55
 麥頭	maq deu
 襪筒	maq don
-密弗通風	maq faq don fon	1
+密弗洞風	maq faq don fon
+密弗洞風	miq faq don fon
 麥根頭	maq ken deu	55
 麥克風	maq khaq fon
 沒揢籮	maq khaq lou
@@ -46375,9 +46376,8 @@ import_tables:
 看人挑擔弗着力	khi-khe gnin thiau tae vaq jiaq liq
 看人挑擔勿着力	khi-khe gnin thiau tae vaq jiaq liq
 買來帽子等頭大	ma le mau tsy ten deu dou
-裝睏着	tsaon khuen dzoq
+裝睏熟	tsaon khuen zoq
 等忘記	ten maon ci
-裝睏着	tsaon khuen zoq
 三兩蝤蛑四兩縛	sae lian jieu meu sy lian bou
 撮隻櫓烏珠想打船	tshaq tsaq lu u tsyu shian tan zoe
 蘿蔔賣完	lou boq ma wun
