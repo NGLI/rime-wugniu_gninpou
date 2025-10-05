@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2025.10.01"
+version: "2025.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5842,7 +5842,6 @@ import_tables:
 查	tso	5%
 査	tso	5%
 渣	tso
-揸	tso
 齇	tso
 齄	tso
 皻	tso
@@ -5855,12 +5854,13 @@ import_tables:
 蚱	tso
 𨰵	tso
 蔗	tso
-吒	tso
 鷓	tso
 抯	tso
 奓	tso
 觰	tso
 簻	tso
+揸	tso
+吒	tso
 喌	tso	5%
 厏	tso
 謯	tso
@@ -5876,10 +5876,10 @@ import_tables:
 蟅	tso
 膪	tso
 柘	tso
-奼	tso
-灹	tso
 笮	tso
 喳	tso	5%
+奼	tso
+灹	tso
 車	tsho
 叉	tsho
 杈	tsho
