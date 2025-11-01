@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2025.10.27"
+version: "2025.11.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16891,6 +16891,7 @@ use_preset_vocabulary: true
 應用程式介面	in yon jin shiq cia mi
 應用程式介面	in yon jin shiq ka mi
 應考生	in khau san
+應許	in shiu
 應試教育	in sy ciau yuq
 應該	in ke
 應該做	in ke tsou
