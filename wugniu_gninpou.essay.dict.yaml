@@ -12,7 +12,7 @@
 
 ---
 name: wugniu_gninpou.essay
-version: "2025.11.11"
+version: "2025.11.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -22400,7 +22400,7 @@ use_preset_vocabulary: true
 棄短取長	chi toe tshyu jian
 棄短就長	chi toe jieu jian
 棄耕	chi kan
-棄背	chi pei
+棄背	chi bei
 棉猴兒	mi gheu er
 棉被套	mi bi thau
 棋格狀	ji kaq dzaon
@@ -27952,7 +27952,7 @@ use_preset_vocabulary: true
 相生相剋	shian sen shian khaq
 相空間	shian khon ci
 相習	shian zhiq
-相背	shian pei
+相背	shian bei
 相認	shian gnin
 相輔而行	shian fu er yin
 相逢自是有緣	shian von zy zy yeu yu
@@ -30625,7 +30625,7 @@ use_preset_vocabulary: true
 耳聽八方	er thin paq faon
 耳聽爲虛	er thin wei shiu
 耳聾	er lon
-耳背	er pei
+耳背	er bei
 耳膜	er mou
 耳蝸	er uo
 耳蠟	er laq
@@ -30894,11 +30894,11 @@ use_preset_vocabulary: true
 背上去	pei zaon chi
 背不動	bei paq don
 背不動	pei paq don
-背了時	pei laq zy
+背了時	bei laq zy
 背井離鄉	pei cin li shian
 背人	pei gnin
-背信	pei shin
-背信棄義	pei shin chi gni
+背信	bei shin
+背信棄義	bei shin chi gni
 背側	pei tshaq
 背債	pei tsa
 背傷	pei saon
@@ -30916,8 +30916,8 @@ use_preset_vocabulary: true
 背包客	pei pau khaq
 背包袱	pei pau boq
 背包遊	pei pau yeu
-背叛	pei bun
-背叛者	pei bun tse
+背叛	bei bun
+背叛者	bei bun tse
 背向	pei shian
 背向着	pei shian dzoq
 背囊	pei naon
@@ -30951,7 +30951,7 @@ use_preset_vocabulary: true
 背會	bei wei
 背板	bei pae
 背梁骨	pei lian kuaq
-背棄	pei chi
+背棄	bei chi
 背椅	pei i
 背榜	pei paon
 背氣	pei chi
@@ -30963,7 +30963,7 @@ use_preset_vocabulary: true
 背痛	pei thon
 背痠	pei soe
 背的	pei tiq
-背盟	pei men
+背盟	bei men
 背眼	bei ngae
 背眼	pei ngae
 背着	pei dzoq
@@ -30973,14 +30973,14 @@ use_preset_vocabulary: true
 背筐	pei khuaon
 背篼	pei teu
 背簍	pei leu
-背約	pei iaq
+背約	bei iaq
 背背	bei bei
 背背	pei pei
 背興	pei shin
 背袋	pei de
 背誦	bei dzon
 背誦着	bei dzon dzoq
-背謬	pei miau
+背謬	bei miau
 背負	pei veu
 背負着	pei veu dzoq
 背負着	pei veu zoq
@@ -30988,13 +30988,11 @@ use_preset_vocabulary: true
 背起	pei chi
 背起來	bei chi le
 背起來	pei chi le
-背逆	pei gniq
-背運	pei yun
-背道而馳	pei dau er dzy
-背道而馳	pei dau er ji
+背逆	bei gniq
+背運	bei yun
 背部	pei bu
 背闊肌	pei khuaq ci
-背離	pei li
+背離	bei li
 背靠	pei khau
 背靠背	pei khau pei
 背面	pei mi
@@ -36733,7 +36731,7 @@ use_preset_vocabulary: true
 違法行爲	wei faq yin wei
 違紀參選	wei ci tshae soe
 違約責任	wei iaq tsaq zyun
-違背	wei pei
+違背	wei bei
 違規人	wei kuei gnin
 違規行爲	wei kuei yin wei
 遙望	yau vaon
