@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2025.11.25"
+version: "2025.11.29"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -37077,10 +37077,10 @@ import_tables:
 天家忒熱	thi ko thou gniq
 天藍	thi lae
 天裏	thi li	55
-添裏	thi li	55
+替裏	thi li	55
 天裏菩薩	thi li bu saq
-添裏褲	thi li khu	55
-添裏布衫	thi li pu sae	55
+替裏褲	thi li khu	55
+替裏布衫	thi li pu sae	55
 體裏汰剌	thi li tha la	55
 天亮紅霞靉愁愁	thi lian ghon ya a zeu zeu
 天落水	thi loq syu	55
@@ -38365,7 +38365,7 @@ import_tables:
 忖變	tshen pi
 襯布	tshen pu
 襯衫	tshen sae
-襯衫添裏	tshen sae thi li
+襯衫替裏	tshen sae thi li
 忖煞介	tshen saq ka	55
 忖寫	tshen shia
 忖相	tshen shian	55
