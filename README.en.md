@@ -1,6 +1,10 @@
 # A Rime input schema for Ningbo Dialect
 
-[宁波闲话（简）](./README.wuu-Hans-CN.md) [寧波閒話（繁）](./README.md) [普通话（简）](./README.cmn-Hans-CN.md) [普通話（繁）](./README.cmn-Hant-CN.md)
+[![寧波閒話（繁）](https://img.shields.io/badge/寧波閒話-繁體-brightgreen?logo=immersivetranslate&logoColor=white&style=for-the-badge)](./README.md)
+[![宁波闲话（简）](https://img.shields.io/badge/宁波闲话-简体-yellowgreen?logo=immersivetranslate&logoColor=white&style=for-the-badge)](./README.wuu-Hans-CN.md)
+[![普通話（繁）](https://img.shields.io/badge/普通話-繁體-red?logo=immersivetranslate&logoColor=white&style=for-the-badge)](./README.cmn-Hant-CN.md)
+[![普通话（简）](https://img.shields.io/badge/普通话-简体-orange?logo=immersivetranslate&logoColor=white&style=for-the-badge)](./README.cmn-Hans-CN.md)
+[![English](https://img.shields.io/badge/Engilsh-blue?logo=immersivetranslate&logoColor=white&style=for-the-badge)](./README.en.md)
 
 Recipe: ℞ **NGLI/rime-wugniu_gninpou**
 
