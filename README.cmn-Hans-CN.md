@@ -32,13 +32,13 @@
 - [Android](https://ngli.github.io/安装方法/Android.html) （[备用链接](https://ngli.gitee.io/安装方法/Android.html)）
 - [iOS](https://ngli.github.io/安装方法/iOS.html) （[备用链接](https://ngli.gitee.io/安装方法/iOS.html)）
 
-### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用)）
+### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普)）
 
-- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#新老派)）
-- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#模糊音)）
-- [输入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#输入提示)）
-- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#反查)）
-- [自定义短语](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#自定义短语)）
+- [新老派](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#新老派) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#新老派)）
+- [模糊音](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#模糊音) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#模糊音)）
+- [输入提示](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#输入提示) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#输入提示)）
+- [反查](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#反查) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#反查)）
+- [自定义短语](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#自定义短语) （[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#自定义短语)）
 
 ## 资源
 

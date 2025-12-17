@@ -32,13 +32,13 @@ The following repositories are used to create this repository:
 - [Android](https://ngli.github.io/安装方法/Android.html) ([spare link](https://ngli.gitee.io/安装方法/Android.html))
 - [iOS](https://ngli.github.io/安装方法/iOS.html) ([spare link](https://ngli.gitee.io/安装方法/iOS.html))
 
-### [Usage](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用))
+### [Usage](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普))
 
-- [Junior and senior accents](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#新老派) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#新老派))
-- [Fuzzy settings](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#模糊音) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#模糊音))
-- [Hint](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#输入提示) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#输入提示))
-- [Reverse search](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#反查) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#反查))
-- [Custom phrases](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用#自定义短语) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用#自定义短语))
+- [Junior and senior accents](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#新老派) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#新老派))
+- [Fuzzy settings](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#模糊音) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#模糊音))
+- [Hint](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#输入提示) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#输入提示))
+- [Reverse search](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#反查) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#反查))
+- [Custom phrases](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普#自定义短语) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普#自定义短语))
 
 ## Resources
 
