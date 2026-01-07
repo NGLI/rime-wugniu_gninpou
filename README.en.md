@@ -24,13 +24,13 @@ The following repositories are used to create this repository:
 
 ### [Phonetic system and romanization scheme](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/音系及拼音方案))
 
-### [Installation](https://ngli.github.io/安装方法/安装方法.html) ([spare link](https://ngli.gitee.io/安装方法/安装方法.html))
+### [Installation](https://ngli.github.io/安装方法/安装方法.html)
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html) ([spare link](https://ngli.gitee.io/安装方法/Windows.html)，[video](https://www.bilibili.com/video/BV1db411S7gf))
-- [macOS](https://ngli.github.io/安装方法/macOS.html) ([spare link](https://ngli.gitee.io/安装方法/macOS.html))
-- [Linux](https://ngli.github.io/安装方法/Linux.html) ([spare link](https://ngli.gitee.io/安装方法/Linux.html))
-- [Android](https://ngli.github.io/安装方法/Android.html) ([spare link](https://ngli.gitee.io/安装方法/Android.html))
-- [iOS](https://ngli.github.io/安装方法/iOS.html) ([spare link](https://ngli.gitee.io/安装方法/iOS.html))
+- [Windows](https://ngli.github.io/安装方法/Windows.html) ([video](https://www.bilibili.com/video/BV1db411S7gf))
+- [macOS](https://ngli.github.io/安装方法/macOS.html)
+- [Linux](https://ngli.github.io/安装方法/Linux.html)
+- [Android](https://ngli.github.io/安装方法/Android.html)
+- [iOS](https://ngli.github.io/安装方法/iOS.html)
 
 ### [Usage](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普))
 
@@ -42,7 +42,7 @@ The following repositories are used to create this repository:
 
 ## Resources
 
-- Tutorial for Wu romanzation scheme (text): [宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) ([spare link](https://ionkaon.gitee.io/phin-in-tutorial/))
+- Tutorial for Wu romanzation scheme (text): [宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/)
 - Tutorial for Wu romanzation scheme (video): [宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
 - Search in characters and phrases: [吳語學堂](https://www.wugniu.com/)
 

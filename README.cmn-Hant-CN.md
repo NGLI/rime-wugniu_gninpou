@@ -24,13 +24,13 @@
 
 ### [音系及拼音方案](https://github.com/NGLI/rime-wugniu_gninpou/wiki/音系及拼音方案) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/音系及拼音方案)）
 
-### [安裝方法](https://ngli.github.io/安装方法/安装方法.html) （[備用鏈接](https://ngli.gitee.io/安装方法/安装方法.html)）
+### [安裝方法](https://ngli.github.io/安装方法/安装方法.html)
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Windows.html)，[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
-- [macOS](https://ngli.github.io/安装方法/macOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/macOS.html)）
-- [Linux](https://ngli.github.io/安装方法/Linux.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Linux.html)）
-- [Android](https://ngli.github.io/安装方法/Android.html) （[備用鏈接](https://ngli.gitee.io/安装方法/Android.html)）
-- [iOS](https://ngli.github.io/安装方法/iOS.html) （[備用鏈接](https://ngli.gitee.io/安装方法/iOS.html)）
+- [Windows](https://ngli.github.io/安装方法/Windows.html)（[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
+- [macOS](https://ngli.github.io/安装方法/macOS.html)
+- [Linux](https://ngli.github.io/安装方法/Linux.html)
+- [Android](https://ngli.github.io/安装方法/Android.html)
+- [iOS](https://ngli.github.io/安装方法/iOS.html)
 
 ### [使用](https://github.com/NGLI/rime-wugniu_gninpou/wiki/使用-普) （[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis/使用-普)）
 
@@ -42,7 +42,7 @@
 
 ## 資源
 
-- 吳拼教程（文字）：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[備用鏈接](https://ionkaon.gitee.io/phin-in-tutorial/)）
+- 吳拼教程（文字）：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/)
 - 吳拼教程（視頻）：[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
 - 字音、詞彙查詢：[吳語學堂](https://www.wugniu.com/)
 

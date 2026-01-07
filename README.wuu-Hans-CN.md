@@ -41,7 +41,7 @@
 
 ## 资源
 
-- 吴拼教程（文字）：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/) （[备用链接](https://ionkaon.gitee.io/phin-in-tutorial/)）
+- 吴拼教程（文字）：[宁波话吴拼教程](https://ionkaon.github.io/phin-in-tutorial/)
 - 吴拼教程（视频）：[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)
 - 字音、词汇查询：[吴语学堂](https://www.wugniu.com/)
 
