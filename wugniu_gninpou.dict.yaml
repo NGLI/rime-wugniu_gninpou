@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2025.12.14"
+version: "2026.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1321,7 +1321,6 @@ import_tables:
 墊	ti	5%
 琠	ti
 錪	ti
-踮	ti
 帝	ti
 締	ti
 渧	ti
@@ -1342,6 +1341,7 @@ import_tables:
 坫	ti
 痁	ti
 惦	ti
+踮	ti
 殿	ti	0%
 埝	ti
 梯	thi
@@ -24251,7 +24251,7 @@ import_tables:
 只勒	ciq laq	55
 灼辣辣	ciq laq laq	55
 接翎子	ciq lin tsy	55
-唧力刮剌	ciq liq kuaq laq
+咭咧骨勒	ciq liq kuaq laq
 接龍	ciq lon
 積落	ciq loq	55
 今末	ciq maq	50000
