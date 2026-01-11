@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.01.10"
+version: "2026.01.11"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -19782,7 +19782,6 @@ import_tables:
 缭	liau
 辽	liau
 鹩	liau
-了	liau
 钌	liau
 镣	liau
 诏	ciau
@@ -21440,7 +21439,6 @@ import_tables:
 𫢒	lon
 𨀁	lon
 𫎦	lon
-弄	lon
 综	tson
 𫎆	tson
 钟	tson
@@ -21739,7 +21737,6 @@ import_tables:
 𫐗	poq
 钋	phoq
 泺	phoq
-卜	boq	0%
 铂	boq
 仆	boq	0%
 镤	boq
@@ -21877,7 +21874,6 @@ import_tables:
 𪪼	piq
 筚	piq
 荜	piq
-别	piq	0%
 铋	piq
 𫚑	piq
 鳖	piq
