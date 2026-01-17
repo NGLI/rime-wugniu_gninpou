@@ -49,6 +49,7 @@ The following repositories are used to create this repository:
 ## Others
 
 - [Variant Input Schemas for Ningbo Dialect](https://github.com/ionkaon/rime-gninpou-variant)
+- [Saonphin (Double Pinyin) Input Schemas for Ningbo Dialect](https://github.com/ionkaon/rime-gninpou-saonphin)
 
 ## Acknowledgments
 

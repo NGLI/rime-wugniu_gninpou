@@ -49,6 +49,7 @@
 ## 其他
 
 - [寧波話輸入方案變體](https://github.com/ionkaon/rime-gninpou-variant)
+- [寧波話雙拼輸入方案](https://github.com/ionkaon/rime-gninpou-saonphin)
 
 ## 鳴謝
 
