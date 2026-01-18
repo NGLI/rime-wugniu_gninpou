@@ -51,6 +51,7 @@
 
 - [寧波話輸入方案變體](https://github.com/ionkaon/rime-gninpou-variant)
 - [寧波話雙拼輸入方案](https://github.com/ionkaon/rime-gninpou-saonphin)
+- [字海兩分輸入方案寧波話版](https://github.com/ionkaon/rime-gninpou-lianfen)
 
 ## 鳴謝
 
