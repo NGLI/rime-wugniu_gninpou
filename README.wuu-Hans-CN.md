@@ -19,6 +19,7 @@
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[甬江话字词表](https://github.com/ionkaon/dictionary)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[宁波方言资料整理](https://github.com/ionkaon/data)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[宁波话【八股文】](https://github.com/ionkaon/gninpou-essay)（LGPLv3）
+- [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[罗马字宁波话文献整理转写](https://github.com/shinzoqchiuq/books-in-wu-romanization)（[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)）
 
 ## [帮助文档](https://github.com/NGLI/rime-wugniu_gninpou/wiki)（[备用链接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
 

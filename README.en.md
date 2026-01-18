@@ -19,6 +19,7 @@ The following repositories are used to create this repository:
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq): [Ionkaon Dictionary](https://github.com/ionkaon/dictionary) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq): [Ionkaon Data](https://github.com/ionkaon/data) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq): [Gninpou essay](https://github.com/ionkaon/gninpou-essay) (LGPLv3)
+- [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[Books in Wu romanization](https://github.com/shinzoqchiuq/books-in-wu-romanization)（[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)）
 
 ## [Wiki (in Mandarin or Ningbo dialect)](https://github.com/NGLI/rime-wugniu_gninpou/wiki) ([spare link](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis))
 

@@ -19,6 +19,7 @@
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[甬江話字詞表](https://github.com/ionkaon/dictionary)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[寧波方言資料整理](https://github.com/ionkaon/data)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)）
 - [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[寧波話【八股文】](https://github.com/ionkaon/gninpou-essay)（LGPLv3）
+- [Shin Zoqchiuq](https://github.com/shinzoqchiuq)：[羅馬字寧波話文獻整理轉寫](https://github.com/shinzoqchiuq/books-in-wu-romanization)（[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)）
 
 ## [幫助文檔](https://github.com/NGLI/rime-wugniu_gninpou/wiki)（[備用鏈接](https://gitee.com/ionkaon/rime-wugniu_gninpou/wikis)）
 
