@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_gnincieu
   name: 吳語（鄞州）
-  version: "0.8.0"
+  version: "0.8.1"
   author:
     - Shin Zoqchiuq <shinzoqchiuq@outlook.com>
   description: |
@@ -53,7 +53,7 @@ engine:
     - script_translator                  # 主翻譯器
     - script_translator@luna_pinyin      # 用於反查的luna_pinyin翻譯器
     - table_translator@stroke            # 用於反查的stroke翻譯器
-    - script_translator@gnincieu_lianfen # 用於反查的gnincieu_lianfen翻譯器
+    - table_translator@gnincieu_lianfen  # 用於反查的gnincieu_lianfen翻譯器
     - table_translator@custom_phrase     # 用戶短語
   filters:
     - simplifier
