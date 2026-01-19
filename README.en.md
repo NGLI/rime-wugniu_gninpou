@@ -59,10 +59,13 @@ The following repositories are used to create this repository:
 - [Trime](https://github.com/osfans/trime)
 - [iRime](https://github.com/jimmy54/iRime)
 - [「仓」输入法](https://github.com/imfuxiao/Hamster)
+- [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)
+- [fcitx5-android](https://github.com/fcitx5-android)
 - [字海网，叶典网](http://yedict.com/)
 - [字統网](https://zi.tools/)
 - [汉典](http://www.zdic.net/)
 - [古音小鏡](http://www.kaom.net/)
+- [漢字音典](https://github.com/osfans/MCPDict)
 - [OpenCC](https://opencc.byvoid.com/)
 
 ## Contact
