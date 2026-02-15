@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2026.01.26"
+version: "2026.02.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2181,6 +2181,10 @@ use_preset_vocabulary: true
 小象超市
 淘票票
 貓眼電影
+喪彪
+薅羊毛
+羊毛黨
+贏學
 
 # 西北太平洋和南中國海熱帶氣旋命名表
 
