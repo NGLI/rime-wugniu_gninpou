@@ -78,5 +78,5 @@ The following repositories are used to create this repository:
 [Ng Language Institute](https://www.wugniu.com/):
 
 - QQ group: 955201855
-- WeChat Official Accounts: wugniu_com
+- WeChat Official Account / Douyin Account / Xiaohongshu Account: wugniu_com
 - Weibo: [吴语学堂微博](https://weibo.com/u/6541762299)

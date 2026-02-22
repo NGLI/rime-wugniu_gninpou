@@ -78,5 +78,5 @@
 [吴语学堂](https://www.wugniu.com/)：
 
 - QQ群：955201855
-- 微信公众号：wugniu_com
+- 微信公众号 / 抖音号 / 小红书号：wugniu_com
 - 微博：[吴语学堂微博](https://weibo.com/u/6541762299)
