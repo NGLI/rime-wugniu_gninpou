@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2026.05.17"
+version: "2026.05.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16393,8 +16393,8 @@ NBA	e n bi ei
 倍個	bei ghoq
 備好	bei hau
 備好該	bei hau ke
-備好間個	bei hau kae goq
-備好間個	bei hau kae ghoq
+備好該個	bei hau ke goq
+備好該個	bei hau ke ghoq
 備好了個	bei hau liau goq
 備好了個	bei hau liau ghoq
 備好了	bei hau liau
@@ -16617,8 +16617,8 @@ NBA	e n bi ei
 總管個	tson kun ghoq
 腫起來	tson chi le
 種該	tson ke
-種間個	tson kae goq
-種間個	tson kae ghoq
+種該個	tson ke goq
+種該個	tson ke ghoq
 種勒	tson laq
 種來	tson le
 總名	tson min
@@ -16913,8 +16913,8 @@ NBA	e n bi ei
 庉個	den ghoq
 庉過	den kou
 庉該	den ke
-庉間個	den kae goq
-庉間個	den kae ghoq
+庉該個	den ke goq
+庉該個	den ke ghoq
 庉牢	den lau
 庉了	den laq
 庉勒過	den laq kou
@@ -17125,8 +17125,8 @@ NBA	e n bi ei
 停腳個	din ciaq ghoq
 停腳	din ciaq
 定見	din ci
-定間個	din kae goq
-定間個	din kae ghoq
+定該個	din ke goq
+定該個	din ke ghoq
 定該	din ke
 定落	din loq
 定撥	din paq
@@ -17169,8 +17169,8 @@ NBA	e n bi ei
 除掉個	dzyu diau goq
 除掉個	dzyu diau ghoq
 住居	dzyu ciu
-住間個	dzyu kae goq
-住間個	dzyu kae ghoq
+住該個	dzyu ke goq
+住該個	dzyu ke ghoq
 住該	dzyu ke
 除勒	dzyu laq
 住來	dzyu le
@@ -17529,8 +17529,8 @@ NBA	e n bi ei
 剩落東個	jin loq ton ghoq
 沉落	jin loq
 沉落去了	jin loq chi lei
-剩落間個	jin loq kae goq
-剩落間個	jin loq kae ghoq
+剩落該個	jin loq ke goq
+剩落該個	jin loq ke ghoq
 剩落該	jin loq ke
 城門個	jin men goq
 城門個	jin men ghoq
@@ -17709,8 +17709,8 @@ NBA	e n bi ei
 安好仔	ei-e hau tsy
 暗如	ei-e zyu
 安該	ei-e ke
-安間個	ei-e kae goq
-安間個	ei-e kae ghoq
+安該個	ei-e ke goq
+安該個	ei-e ke ghoq
 安勒	ei-e laq
 按勒	ei-e laq
 暗路	ei-e lu
@@ -18067,10 +18067,10 @@ NBA	e n bi ei
 放好	faon hau
 放火	faon hou
 方船	faon zoe
-放間個	faon kae goq
-放間個	faon kae ghoq
+放該個	faon ke goq
+放該個	faon ke ghoq
 放該	faon ke
-放間仔	faon kae tsy
+放該仔	faon ke tsy
 放開	faon khe
 放開去	faon khe chi
 放落	faon loq
@@ -18230,8 +18230,8 @@ NBA	e n bi ei
 掘出個	jiuq tshyuq ghoq
 掘出	jiuq tshyuq
 掘出來	jiuq tshyuq le
-掘間個	jiuq kae goq
-掘間個	jiuq kae ghoq
+掘該個	jiuq ke goq
+掘該個	jiuq ke ghoq
 掘該	jiuq ke
 掘勒	jiuq laq
 掘井個	jiuq cin goq
@@ -19050,8 +19050,8 @@ NBA	e n bi ei
 聚攏個	zyu lon goq
 聚攏個	zyu lon ghoq
 聚攏該	zyu lon ke
-聚攏間個	zyu lon kae goq
-聚攏間個	zyu lon kae ghoq
+聚攏該個	zyu lon ke goq
+聚攏該個	zyu lon ke ghoq
 聚攏來	zyu lon le
 聚攏東	zyu lon ton
 聚攏東個	zyu lon ton goq
@@ -19282,8 +19282,8 @@ NBA	e n bi ei
 更改勿來個	ken ke vaq le ghoq
 更改勿來個	ken ke vaq le goq
 跟該	ken ke
-跟間個	ken kae goq
-跟間個	ken kae ghoq
+跟該個	ken ke goq
+跟該個	ken ke ghoq
 跟勒去	ken laq chi
 跟勒來個	ken laq le goq
 跟勒來個	ken laq le ghoq
@@ -19480,8 +19480,8 @@ NBA	e n bi ei
 管治	kun dzyu
 官府	kun fu
 管該	kun ke
-管間個	kun kae goq
-管間個	kun kae ghoq
+管該個	kun ke goq
+管該個	kun ke ghoq
 管理	kun li
 管門個	kun men goq
 管門個	kun men ghoq
@@ -19505,8 +19505,8 @@ NBA	e n bi ei
 關一關	kuae iq kuae
 關關好	kuae kuae hau
 關該	kuae ke
-關間個	kuae kae goq
-關間個	kuae kae ghoq
+關該個	kuae ke goq
+關該個	kuae ke ghoq
 關了個	kuae liau goq
 關了個	kuae liau ghoq
 關來	kuae le
@@ -19518,8 +19518,8 @@ NBA	e n bi ei
 關仔	kuae tsy
 關係	kuae shi
 關於	kuae yu
-掛間個	kuo kae goq
-掛間個	kuo kae ghoq
+掛該個	kuo ke goq
+掛該個	kuo ke ghoq
 掛該	kuo ke
 掛來	kuo le
 掛念	kuo ne-gnie
@@ -19580,8 +19580,8 @@ NBA	e n bi ei
 睏熟東	khuen zoq ton
 困苦	khuen khu
 睏該	khuen ke
-睏間個	khuen kae goq
-睏間個	khuen kae ghoq
+睏該個	khuen ke goq
+睏該個	khuen ke ghoq
 睏的個	khuen tiq goq
 睏的個	khuen tiq ghoq
 睏東	khuen ton
@@ -19775,8 +19775,8 @@ NBA	e n bi ei
 堅決個	ci ciuq goq
 堅決個	ci ciuq ghoq
 堅決	ci ciuq
-建間個	ci kae goq
-建間個	ci kae ghoq
+建該個	ci ke goq
+建該個	ci ke ghoq
 建該	ci ke
 建立	ci liq
 建來	ci le
@@ -20160,7 +20160,6 @@ NBA	e n bi ei
 蓋上	ke zaon
 改惡	ke oq
 改惡從善	ke oq dzon zoe
-間了	kae lei
 間頭	kae deu
 揀着	kae dzoq
 揀着個	kae dzoq goq
@@ -20466,8 +20465,8 @@ NBA	e n bi ei
 開花	khe huo
 開船	khe zoe
 開國	khe koq
-開間個	khe kae goq
-開間個	khe kae ghoq
+開該個	khe ke goq
+開該個	khe ke ghoq
 開墾個	khe khen goq
 開墾個	khe khen ghoq
 開墾	khe khen
@@ -20723,8 +20722,8 @@ NBA	e n bi ei
 立腳之	liq ciaq tsy
 力氣	liq chi
 立該	liq ke
-立間個	liq kae goq
-立間個	liq kae ghoq
+立該個	liq ke goq
+立該個	liq ke ghoq
 立刻	liq khaq
 裂開	liq khe
 立牢東	liq lau ton
@@ -20930,8 +20929,8 @@ NBA	e n bi ei
 來過	le kou
 來去個	le chi goq
 來去個	le chi ghoq
-來間個	le kae goq
-來間個	le kae ghoq
+來該個	le ke goq
+來該個	le ke ghoq
 來歷	le liq
 來來	le le
 來來去去個	le le chi chi goq
@@ -21732,8 +21731,8 @@ NBA	e n bi ei
 擺過來	pa kou le
 擺起來	pa chi le
 擺該	pa ke
-擺間個	pa kae goq
-擺間個	pa kae ghoq
+擺該個	pa ke goq
+擺該個	pa ke ghoq
 擺開	pa khe
 擺開的	pa khe tiq
 擺勒	pa laq
@@ -22375,8 +22374,8 @@ NBA	e n bi ei
 刷出	syuq tshyuq
 失掉	syuq diau
 失掉該	syuq diau ke
-失掉間個	syuq diau kae goq
-失掉間個	syuq diau kae ghoq
+失掉該個	syuq diau ke goq
+失掉該個	syuq diau ke ghoq
 設法	shiq faq
 設個	shiq goq
 設個	shiq ghoq
@@ -22882,8 +22881,8 @@ NBA	e n bi ei
 鎖住	sou dzyu
 鎖住個	sou dzyu goq
 鎖住個	sou dzyu ghoq
-鎖住間個	sou dzyu kae goq
-鎖住間個	sou dzyu kae ghoq
+鎖住該個	sou dzyu ke goq
+鎖住該個	sou dzyu ke ghoq
 鎖住該	sou dzyu ke
 鎖住東	sou dzyu ton
 鎖好	sou hau
@@ -22957,8 +22956,8 @@ NBA	e n bi ei
 三刻	sae khaq
 散開	sae khe
 散開該	sae khe ke
-散開間個	sae khe kae goq
-散開間個	sae khe kae ghoq
+散開該個	sae khe ke goq
+散開該個	sae khe ke ghoq
 散開了	sae khe laq
 散開仔	sae khe tsy
 山裏了	sae li lei
@@ -23376,8 +23375,8 @@ NBA	e n bi ei
 頂苦個	tin khu ghoq
 頂苦	tin khu
 釘該	tin ke
-釘間個	tin kae goq
-釘間個	tin kae ghoq
+釘該個	tin ke goq
+釘該個	tin ke ghoq
 頂勒去	tin laq chi
 頂勒去個	tin laq chi goq
 頂勒去個	tin laq chi ghoq
@@ -23488,8 +23487,8 @@ NBA	e n bi ei
 扎血個	tsaq shiuq ghoq
 扎血	tsaq shiuq
 扎該	tsaq ke
-扎間個	tsaq kae goq
-扎間個	tsaq kae ghoq
+扎該個	tsaq ke goq
+扎該個	tsaq ke ghoq
 扎開	tsaq khe
 扎開去	tsaq khe chi
 扎牢仔	tsaq lau tsy
@@ -24104,8 +24103,8 @@ NBA	e n bi ei
 裝好仔	tsaon hau tsy
 葬過	tsaon kou
 葬該	tsaon ke
-葬間個	tsaon kae goq
-葬間個	tsaon kae ghoq
+葬該個	tsaon ke goq
+葬該個	tsaon ke ghoq
 葬勒	tsaon laq
 裝勒	tsaon laq
 章裏	tsaon li
@@ -24145,8 +24144,8 @@ NBA	e n bi ei
 差來個	tsha le goq
 差來個	tsha le ghoq
 拆掉	tshaq diau
-拆掉間個	tshaq diau kae goq
-拆掉間個	tshaq diau kae ghoq
+拆掉該個	tshaq diau ke goq
+拆掉該個	tshaq diau ke ghoq
 拆掉該	tshaq diau ke
 拆掉仔	tshaq diau tsy
 拆弗掉個	tshaq vaq diau goq	1
@@ -24303,8 +24302,8 @@ NBA	e n bi ei
 請去個	chin chi ghoq
 請去	chin chi
 請去該	chin chi ke
-請間個	chin kae goq
-請間個	chin kae ghoq
+請該個	chin ke goq
+請該個	chin ke ghoq
 請該	chin ke
 親口	chin kheu
 請攏	chin lon
@@ -25476,8 +25475,8 @@ NBA	e n bi ei
 有限個	yeu ghae ghoq
 懈怠	ye de
 預備	yu bei
-預備好間個	yu bei hau kae goq
-預備好間個	yu bei hau kae ghoq
+預備好該個	yu bei hau ke goq
+預備好該個	yu bei hau ke ghoq
 預備好該	yu bei hau ke
 預備日	yu bei gniq
 預備日個	yu bei gniq goq
@@ -25824,8 +25823,8 @@ NBA	e n bi ei
 坐起	zou chi
 坐起來	zou chi le
 坐該	zou ke
-坐間個	zou kae goq
-坐間個	zou kae ghoq
+坐該個	zou ke goq
+坐該個	zou ke ghoq
 坐客	zou khaq
 坐勒	zou laq
 坐落	zou loq
