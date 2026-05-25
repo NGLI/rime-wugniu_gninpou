@@ -52,7 +52,7 @@
 - [宁波话双拼输入方案](https://github.com/ionkaon/rime-gninpou-saonphin)
 - [宁波话两分输入方案](https://github.com/ionkaon/rime-gninpou-lianfen)
 
-## 感谢
+## 鸣谢
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)

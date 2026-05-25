@@ -52,7 +52,7 @@
 - [寧波話雙拼輸入方案](https://github.com/ionkaon/rime-gninpou-saonphin)
 - [寧波話兩分輸入方案](https://github.com/ionkaon/rime-gninpou-lianfen)
 
-## 感謝
+## 鳴謝
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
