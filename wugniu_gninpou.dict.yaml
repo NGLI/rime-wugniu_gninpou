@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.04.23"
+version: "2026.06.09"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -23386,8 +23386,7 @@ import_tables:
 挈頭	chiq deu	55
 皵頭	chiq deu	55
 赤豆棒冰	chiq deu baon pin
-七頭清	chiq deu chin	55
-挈頭靈	chiq deu lin
+挈頭靈	chiq deu chin	55
 七搞八搞	chiq gau paq gau	55
 緝鞋底	chiq gha ti	55
 七號	chiq ghau
@@ -23590,8 +23589,7 @@ import_tables:
 記得	ci taq
 剪刀	ci tau
 剪刀破絹帕	ci tau phou ciu phae	55
-雞瞪鼓	ci ten ku	55
-雞膯鼓	ci ten ku
+雞膯鼓	ci ten ku	55
 𣥼的	ci tiq
 嚌糟	ci tsau	55
 雞罩	ci tsau	55
@@ -39246,6 +39244,7 @@ import_tables:
 豬羊架	tsyu yan ko
 豬油	tsyu yeu
 豬油餡	tsyu yeu ghae	55
+豬油塊	tsyu yeu khuei
 豬油𲷓	tsyu yeu khuei
 豬油芋艿	tsyu yeu n na
 豬油湯糰	tsyu yeu thaon doe	418
