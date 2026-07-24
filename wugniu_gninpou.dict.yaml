@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.06.09"
+version: "2026.07.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -11041,8 +11041,6 @@ import_tables:
 挭	kuan
 梗	kuan	5%
 光	kuan	0%
-怪	kuan	0%
-恠	kuan	0%
 寡	kuan	0%
 梗	guan	0%
 趪	guan
@@ -16875,14 +16873,6 @@ import_tables:
 泎	zoq
 齚	zoq
 齰	zoq
-辱	zoq
-蓐	zoq
-溽	zoq
-褥	zoq
-縟	zoq
-嗕	zoq
-媷	zoq
-鄏	zoq
 鑿	zoq
 𧮙	zoq	10000
 熟	zoq
@@ -16897,6 +16887,14 @@ import_tables:
 杓	zoq
 芍	zoq
 仢	zoq
+辱	zoq
+蓐	zoq
+溽	zoq
+褥	zoq
+縟	zoq
+嗕	zoq
+媷	zoq
+鄏	zoq
 著	zoq	0%
 着	zoq	6%
 璹	zoq
@@ -21825,9 +21823,9 @@ import_tables:
 缩	soq
 数	soq
 𫜬	zoq
-缛	zoq
 凿	zoq
 硕	zoq
+缛	zoq
 帼	koq
 腘	koq
 蝈	koq
@@ -24744,7 +24742,7 @@ import_tables:
 投鬼	deu ciu
 頭埭	deu da	55
 頭𢪂𢪂	deu da da
-頭埭怪青	deu da kuan chin
+頭埭梗青	deu da kuan chin
 頭抬起	deu de chi	55
 頭頭	deu deu
 投投動	deu deu don	55
@@ -26717,7 +26715,7 @@ import_tables:
 河屍鬼	ghou sy ciu	55
 河水鬼	ghou syu ciu	55
 河水氾漲	ghou syu fae cian
-河水怪清	ghou syu kuan chin
+河水梗清	ghou syu kuan chin
 和擔判	ghou tae phun
 河對頭	ghou tei deu
 河對過	ghou tei kou	55
@@ -30426,18 +30424,18 @@ import_tables:
 關帝菩薩	kuae ti bu saq	55
 關熓	kuae u
 關夜學	kuae ya ghoq	55
-怪清	kuan chin	55
-怪青	kuan chin	55
+梗清	kuan chin	55
+梗青	kuan chin	55
 挭漿糊	kuan cian wu
 光火	kuan hou
-怪怪青	kuan kuan chin
-怪怪酸	kuan kuan soe
-怪怪斯酸	kuan kuan sy soe
-怪酸	kuan soe	55
+梗梗青	kuan kuan chin
+梗梗酸	kuan kuan soe
+梗梗斯酸	kuan kuan sy soe
+梗酸	kuan soe	55
 挭水泥	kuan syu gni
-怪得頭酸	kuan taq deu soe	55
-怪得斯青	kuan taq sy chin
-怪得斯酸	kuan taq sy soe	55
+梗得頭酸	kuan taq deu soe	55
+梗得斯青	kuan taq sy chin
+梗得斯酸	kuan taq sy soe	55
 梗子	kuan tsy	55
 廣橘	kuaon ciuq	55
 廣橘青㿮㿮	kuaon ciuq chin an an
@@ -32744,7 +32742,7 @@ import_tables:
 面頰巴肉宕落	mi kaq po gnioq dan loq
 麪疙瘩	mi kaq taq
 面孔	mi khon
-面孔氣勒怪青	mi khon chi laq kua chin
+面孔氣勒梗青	mi khon chi laq kuan chin
 面孔𢪂開	mi khon da khe
 面孔重	mi khon dzon	55
 面孔下大臉	mi khon gho dou li
@@ -41452,7 +41450,7 @@ import_tables:
 純靠	zyun khau	418
 純靠孃	zyun khau gnian
 任家橫	zyun ko wan
-神怪綻	zyun kuan dzae
+神梗綻	zyun kuan dzae
 純光	zyun kuaon	55
 辰光	zyun kuaon	100000
 純光無之	zyun kuaon vu tsy	55
@@ -46489,7 +46487,7 @@ import_tables:
 百病好醫	paq bin hau i
 賤骨難醫	zhi kuaq nae i
 褲襠𤖼碎	khu taon phaq sei
-頭埭怪清	deu da kuan chin
+頭埭梗清	deu da kuan chin
 船到丈亭	zoe tau jian din
 混堂取當	wen daon tshyu taon
 完全外行	wun dzoe nga ghaon
