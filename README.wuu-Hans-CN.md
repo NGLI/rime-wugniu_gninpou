@@ -51,6 +51,8 @@
 - [宁波话输入方案变体](https://github.com/ionkaon/rime-gninpou-variant)
 - [宁波话双拼输入方案](https://github.com/ionkaon/rime-gninpou-saonphin)
 - [宁波话两分输入方案](https://github.com/ionkaon/rime-gninpou-lianfen)
+- [晚清宁波话输入方案](https://github.com/ionkaon/rime-old-nyingpo)
+- [推导的晚清宁波话吴语拼音输入方案](https://github.com/shinzoqchiuq/rime-wugniu_gninpou_old)
 
 ## 鸣谢
 

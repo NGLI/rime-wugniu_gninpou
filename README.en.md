@@ -52,6 +52,8 @@ The following repositories are used to create this repository:
 - [Variant Input Schemas for Ningbo Dialect](https://github.com/ionkaon/rime-gninpou-variant)
 - [Saonphin (Double Pinyin) Input Schemas for Ningbo Dialect](https://github.com/ionkaon/rime-gninpou-saonphin)
 - [Ningbo Dialect Version of Zisea Liang Fen Input Method](https://github.com/ionkaon/rime-gninpou-lianfen)
+- [Input Schema for Old Ningbo Dialect (Late Qing Dynasty)](https://github.com/ionkaon/rime-old-nyingpo)
+- [Derived Input Schema for Old Ningbo Dialect (Late Qing Dynasty) Using Wu Romanization](https://github.com/shinzoqchiuq/rime-wugniu_gninpou_old)
 
 ## Acknowledgments
 
