@@ -20,7 +20,7 @@
 
 ---
 name: wugniu_gninpou.phrase
-version: "2026.10.01"
+version: "2026.10.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2199,6 +2199,13 @@ use_preset_vocabulary: true
 短劇
 美伊以衝突
 美伊以戰爭
+開智
+閃身步
+浪子踢球
+狗熊哆嗦毛
+燒心
+弗燒心	vaq shiau shin
+勿燒心
 
 # 西北太平洋和南中國海熱帶氣旋命名表
 
