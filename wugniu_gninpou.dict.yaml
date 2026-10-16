@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2026.08.30"
+version: "2026.10.16"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -15597,7 +15597,7 @@ import_tables:
 𫬒	saq
 𥈊	saq
 眨	saq	5%
-睫	saq
+睫	saq	0%
 萐	saq
 躠	saq
 帹	saq
@@ -17554,6 +17554,7 @@ import_tables:
 踖	ciq
 㘍	ciq
 婕	ciq
+睫	ciq
 摭	ciq
 灼	ciq
 𢆞	ciq
@@ -23997,6 +23998,7 @@ import_tables:
 交關熟	ciau kuae zoq
 交關自然	ciau kuae zy zoe
 交關辰光	ciau kuae zyun kuaon
+交關	ciau kuaq
 叫𧐖	ciau li	55
 照面	ciau mi
 照明直談	ciau min jiq dae
@@ -24426,6 +24428,7 @@ import_tables:
 淡刮刮	dae kuaq kuaq	55
 淡刮裏漿	dae kuaq li cian	55
 燂老酒	dae lau cieu
+蛋籮	dae lou
 彈路	dae lu	55
 彈門	dae men
 彈門蟹	dae men ha	55
@@ -25882,7 +25885,7 @@ import_tables:
 番薯癟	fae zyu piq	55
 番薯屑	fae zyu shiq	55
 番薯湯果	fae zyu thaon kou
-番薯糊剌	fae zyu wu la	55
+番薯糊臘	fae zyu wu laq	55
 番薯糊辣	fae zyu wu laq	55
 方矮凳	faon a ten	55
 放鵓鴿	faon baq kaq	55
@@ -26998,6 +27001,7 @@ import_tables:
 肉絲	gnioq sy
 肉師父	gnioq sy vu
 肉絲糊臘	gnioq sy wu laq	55
+肉絲糊辣	gnioq sy wu laq
 肉搭搭	gnioq taq taq
 肉頓頓	gnioq ten ten
 鰙鰨	gnioq thaq	55
@@ -27013,6 +27017,8 @@ import_tables:
 掿豬油餡	gnioq tsyu yeu ghae
 肉勿腩	gnioq vaq nei-nae
 肉弗腩	gnioq vaq nei-nae	55
+肉糊臘	gnioq wu laq
+肉糊辣	gnioq wu laq
 肉油	gnioq yeu	55
 肉圓	gnioq yu
 肉圓子	gnioq yu tsy
@@ -27338,6 +27344,7 @@ import_tables:
 許願心	he gniu shin	55
 咍咍	he he
 咍咍笑	he he shiau
+海蛤蚆	he kaq po
 海瓜子	he kuo tsy	55
 漢郎頭	he laon deu	55
 海老鷹	he lau in	55
@@ -28810,6 +28817,7 @@ import_tables:
 格勒格	kaq laq kaq	55
 格勒話	kaq laq wo	55
 㾸𤶁	kaq lau	55
+虼老	kaq lau
 格楞敦	kaq len ten	55
 夾裏	kaq li	55
 疙裏疙瘩	kaq li kaq taq	55
@@ -28873,6 +28881,7 @@ import_tables:
 隔壁鄰舍	kaq piq lin so	578
 隔壁叔婆	kaq piq soq bou	55
 蛤蚆	kaq po	55
+蛤蚆魚	kaq po ng
 夾衫	kaq sae	55
 夾生	kaq san
 夾生米飯	kaq san mi vae	55
@@ -30327,6 +30336,7 @@ import_tables:
 過堂	kou daon
 過道	kou dau
 過頭	kou deu
+過頭毛筍	kou deu mau syun
 過頭勢	kou deu syu	55
 過頭話	kou deu wo
 果桶	kou don	55
@@ -30928,6 +30938,7 @@ import_tables:
 牢監	lau kae	418
 牢監犯	lau kae vae	418
 老酵	lau kau	55
+老K	lau khe
 老K牌	lau khe ba	55
 老K牌	lau khe bae	55
 老肯肯	lau khen khen	55
@@ -32257,7 +32268,7 @@ import_tables:
 嘸佬	mh lau	55
 嘸亮頭話	mh lian deu wo
 嘸良心碗	mh lian shin un
-嘸力伸指甲	mh liq shin tsy khaq
+嘸力興指甲	mh liq shin tsy khaq
 嘸弄頭	mh lon deu	55
 嘸落頭	mh loq deu	55
 嘸沒	mh maq
@@ -33590,6 +33601,8 @@ import_tables:
 牛圈	ngeu ji	55
 牛圈間	ngeu ji kae	55
 牛圈格柵	ngeu ji kaq saq
+牛皋	ngeu kau
+牛皋裏氣	ngeu kau li chi
 牛控䩉	ngeu khon bu	55
 牛趕水	ngeu ki-ke syu
 牛虻	ngeu maon
@@ -35697,6 +35710,7 @@ import_tables:
 伸手	shin shieu
 星宿	shin shieu
 性性	shin shin	55
+興興海海	shin shin he he
 姓數	shin su	55
 心思鬼	shin sy ciu
 薪炭店	shin thae ti	55
@@ -39144,7 +39158,7 @@ import_tables:
 紫殼蟹	tsy khaon ha	55
 指甲	tsy khaq	55
 指甲鉗	tsy khaq ji	522
-指甲伸	tsy khaq shin	55
+指甲興	tsy khaq shin	55
 指甲烏	tsy khaq u
 指甲縫道	tsy khaq von dau	55
 子孔	tsy khon	55
@@ -40179,6 +40193,8 @@ import_tables:
 黃狗游河	wu ki-ke yeu ghou
 胡家墳	wu ko ven
 胡家牆門	wu ko zhian men
+糊臘	wu laq
+糊辣	wu laq
 狐狸	wu li
 狐狸精	wu li cin
 糊裏糊塗	wu li wu du	55
@@ -40455,7 +40471,7 @@ import_tables:
 有兩	yeu lian
 有兩遭	yeu lian tsau	55
 有力	yeu liq
-有力伸頭髮	yeu liq shin deu faq
+有力興頭髮	yeu liq shin deu faq
 遊六門	yeu loq men	55
 有嘸	yeu m
 有猛	yeu man	55
@@ -46736,14 +46752,14 @@ import_tables:
 撒屙胡嚨癢	dza ou wu lon yan
 𱚼涴胡嚨癢	dza ou wu lon yan
 𱚼屙胡嚨癢	dza ou wu lon yan
-射涴壅伸草	dza ou ion shin tshau
-射屙壅伸草	dza ou ion shin tshau
-𠑞涴壅伸草	dza ou ion shin tshau
-𠑞屙壅伸草	dza ou ion shin tshau
-撒涴壅伸草	dza ou ion shin tshau
-撒屙壅伸草	dza ou ion shin tshau
-𱚼涴壅伸草	dza ou ion shin tshau
-𱚼屙壅伸草	dza ou ion shin tshau
+射涴壅興草	dza ou ion shin tshau
+射屙壅興草	dza ou ion shin tshau
+𠑞涴壅興草	dza ou ion shin tshau
+𠑞屙壅興草	dza ou ion shin tshau
+撒涴壅興草	dza ou ion shin tshau
+撒屙壅興草	dza ou ion shin tshau
+𱚼涴壅興草	dza ou ion shin tshau
+𱚼屙壅興草	dza ou ion shin tshau
 射涴估堆頭	dza ou ku tei deu
 射屙估堆頭	dza ou ku tei deu
 𠑞涴估堆頭	dza ou ku tei deu
